@@ -1,8 +1,11 @@
+import { t } from './i18n.js';
+
 interface Prompt {
   id: number;
   title: string;
   description: string;
   content: string;
+  translatedContent?: string; // Translated content for current locale
   sourceLink: string;
   sourcePublishedAt: string;
   sourceMedia: string[];
@@ -25,30 +28,56 @@ interface SortedPrompts {
   };
 }
 
+export interface LanguageConfig {
+  code: string;
+  name: string; // Display name
+  readmeFileName: string;
+}
+
+export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
+  { code: 'en', name: 'English', readmeFileName: 'README.md' },
+  { code: 'zh', name: '简体中文', readmeFileName: 'README_zh.md' },
+  { code: 'zh-TW', name: '繁體中文', readmeFileName: 'README_zh-TW.md' },
+  { code: 'ja-JP', name: '日本語', readmeFileName: 'README_ja-JP.md' },
+  { code: 'ko-KR', name: '한국어', readmeFileName: 'README_ko-KR.md' },
+  { code: 'th-TH', name: 'ไทย', readmeFileName: 'README_th-TH.md' },
+  { code: 'vi-VN', name: 'Tiếng Việt', readmeFileName: 'README_vi-VN.md' },
+  { code: 'hi-IN', name: 'हिन्दी', readmeFileName: 'README_hi-IN.md' },
+  { code: 'es-ES', name: 'Español', readmeFileName: 'README_es-ES.md' },
+  { code: 'es-419', name: 'Español (Latinoamérica)', readmeFileName: 'README_es-419.md' },
+  { code: 'de-DE', name: 'Deutsch', readmeFileName: 'README_de-DE.md' },
+  { code: 'fr-FR', name: 'Français', readmeFileName: 'README_fr-FR.md' },
+  { code: 'it-IT', name: 'Italiano', readmeFileName: 'README_it-IT.md' },
+  { code: 'pt-BR', name: 'Português (Brasil)', readmeFileName: 'README_pt-BR.md' },
+  { code: 'pt-PT', name: 'Português', readmeFileName: 'README_pt-PT.md' },
+  { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
+];
+
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 200;
 
-export function generateMarkdown(data: SortedPrompts): string {
+export function generateMarkdown(data: SortedPrompts, locale: string = 'en'): string {
   const { featured, regular, stats } = data;
 
   // Featured 全部展示，Regular 最多 200 条
   const displayedRegular = regular.slice(0, MAX_REGULAR_PROMPTS_TO_DISPLAY);
   const hiddenCount = regular.length - displayedRegular.length;
 
-  let md = generateHeader();
-  md += generateGalleryCTA();
-  md += generateTOC();
-  md += generateWhatIs();
-  md += generateStats(stats);
-  md += generateFeaturedSection(featured);
-  md += generateAllPromptsSection(displayedRegular, hiddenCount);
-  md += generateContribute();
-  md += generateFooter();
+  let md = generateHeader(locale);
+  md += generateLanguageNavigation(locale);
+  md += generateGalleryCTA(locale);
+  md += generateTOC(locale);
+  md += generateWhatIs(locale);
+  md += generateStats(stats, locale);
+  md += generateFeaturedSection(featured, locale);
+  md += generateAllPromptsSection(displayedRegular, hiddenCount, locale);
+  md += generateContribute(locale);
+  md += generateFooter(locale);
 
   return md;
 }
 
-function generateHeader(): string {
-  return `# 🍌 Awesome Nano Banana Pro Prompts
+function generateHeader(locale: string): string {
+  return `# 🍌 ${t('title', locale)}
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
@@ -56,44 +85,73 @@ function generateHeader(): string {
 [![Update README](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
-> 🎨 A curated collection of creative prompts for Google's Nano Banana Pro
+> 🎨 ${t('subtitle', locale)}
 
-> ⚠️ **Copyright Notice**: All prompts are collected from the community for educational purposes. If you believe any content infringes on your rights, please [open an issue](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=bug-report.yml) and we will remove it promptly.
+> ⚠️ ${t('copyright', locale)}
 
 ---
 
 `;
 }
 
-function generateGalleryCTA(): string {
-  return `## 🌐 View in Web Gallery
+function generateLanguageNavigation(currentLocale: string): string {
+  let md = '';
+  
+  // Sort languages so current one is first or en is first? 
+  // Keeping the array order is usually best, but we want a clean list.
+  
+  const badges = SUPPORTED_LANGUAGES.map(lang => {
+    const isCurrent = lang.code === currentLocale || (currentLocale.startsWith(lang.code) && !SUPPORTED_LANGUAGES.some(l => l.code === currentLocale && l.code !== lang.code));
+    // Color logic: green for current, blue for others, or grey?
+    // Using the style from the image: "Click to View"
+    
+    const color = isCurrent ? 'brightgreen' : 'lightgrey';
+    const text = isCurrent ? 'Current' : 'Click%20to%20View';
+    const link = lang.readmeFileName;
+    
+    // If current, maybe no link or link to self?
+    // Using shields.io badge format: label-message-color
+    // Label = Native Name, Message = Click to View (or Ver Traducción etc)
+    
+    const safeName = encodeURIComponent(lang.name);
+    
+    return `[![${lang.name}](https://img.shields.io/badge/${safeName}-${text}-${color})](${link})`;
+  });
 
-**[👉 Browse on YouMind Nano Banana Pro Prompts Gallery](https://youmind.com/nano-banana-pro-prompts)**
+  md += badges.join(' ') + '\n\n---\n\n';
+  return md;
+}
 
-Why use our gallery?
+function generateGalleryCTA(locale: string): string {
+  return `## 🌐 ${t('viewInGallery', locale)}
 
-| Feature | GitHub README | youmind.com Gallery |
+**[${t('browseGallery', locale)}](https://youmind.com/nano-banana-pro-prompts)**
+
+${t('galleryFeatures', locale)}
+
+| Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
 |---------|--------------|---------------------|
-| 🎨 Visual Layout | Linear list | Beautiful Masonry Grid |
-| 🔍 Search | Ctrl+F only | Full-text search with filters |
-| 🌍 Languages | English only | 16+ languages (auto-translated) |
-| 📱 Mobile | Basic | Fully responsive |
+| 🎨 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
+| 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
+| 🤖 ${t('aiGenerate', locale)} | - | ${t('aiOneClickGen', locale)} |
+| 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
 
 ---
 
 `;
 }
 
-function generatePromptSection(prompt: Prompt, index: number): string {
+function generatePromptSection(prompt: Prompt, index: number, locale: string): string {
   const authorLink = prompt.author.link || '#';
-  const publishedDate = new Date(prompt.sourcePublishedAt).toLocaleDateString('en-US', {
+  const publishedDate = new Date(prompt.sourcePublishedAt).toLocaleDateString(locale, {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
   });
 
-  // 检测是否包含 Raycast 参数
-  const hasArguments = prompt.content.includes('{argument');
+  // Use translatedContent if available, otherwise fallback to content
+  const promptContent = prompt.translatedContent || prompt.content;
+  const hasArguments = promptContent.includes('{argument');
 
   let md = `### No. ${index + 1}: ${prompt.title}\n\n`;
 
@@ -104,22 +162,15 @@ function generatePromptSection(prompt: Prompt, index: number): string {
     md += `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n`;
   }
 
-  // Raycast friendly badge
   if (hasArguments) {
     md += `![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)\n`;
   }
 
-  md += `\n#### 📖 Description\n\n${prompt.description}\n\n`;
-  md += `#### 📝 Prompt\n\n\`\`\`\n${prompt.content}\n\`\`\`\n\n`;
+  md += `\n#### 📖 ${t('description', locale)}\n\n${prompt.description}\n\n`;
+  md += `#### 📝 ${t('prompt', locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
 
-  // 如果有参数，添加说明
-  if (hasArguments) {
-    // md += `> 💡 **Raycast Friendly**: This prompt supports dynamic arguments using Raycast Snippets syntax: \`{argument name="..." default="..."}\`\n\n`;
-  }
-
-  // 渲染所有图片，有几张渲染几张
   if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
-    md += `#### 🖼️ Generated Images\n\n`;
+    md += `#### 🖼️ ${t('generatedImages', locale)}\n\n`;
 
     prompt.sourceMedia.forEach((imageUrl, imgIndex) => {
       md += `##### Image ${imgIndex + 1}\n\n`;
@@ -129,57 +180,55 @@ function generatePromptSection(prompt: Prompt, index: number): string {
     });
   }
 
-  md += `#### 📌 Details\n\n`;
-  md += `- **Author:** [${prompt.author.name}](${authorLink})\n`;
-  md += `- **Source:** [Twitter Post](${prompt.sourceLink})\n`;
-  md += `- **Published:** ${publishedDate}\n`;
-  md += `- **Language:** ${prompt.language}\n\n`;
+  md += `#### 📌 ${t('details', locale)}\n\n`;
+  md += `- **${t('author', locale)}:** [${prompt.author.name}](${authorLink})\n`;
+  md += `- **${t('source', locale)}:** [Twitter Post](${prompt.sourceLink})\n`;
+  md += `- **${t('published', locale)}:** ${publishedDate}\n`;
+  md += `- **${t('languages', locale)}:** ${prompt.language}\n\n`;
 
-  // CTA 按钮：跳转到 Web Gallery 并预填充 prompt
-  const encodedPrompt = encodeURIComponent(prompt.content);
-  md += `**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=${encodedPrompt})**\n\n`;
+  const encodedPrompt = encodeURIComponent(promptContent);
+  md += `**[${t('tryItNow', locale)}](https://youmind.com/nano-banana-pro-prompts?prompt=${encodedPrompt})**\n\n`;
 
   md += `---\n\n`;
 
   return md;
 }
 
-function generateFeaturedSection(featured: Prompt[]): string {
+function generateFeaturedSection(featured: Prompt[], locale: string): string {
   if (featured.length === 0) return '';
 
-  let md = `## 🔥 Featured Prompts\n\n`;
-  md += `> ⭐ Hand-picked by our team for exceptional quality and creativity\n\n`;
+  let md = `## 🔥 ${t('featuredPrompts', locale)}\n\n`;
+  md += `> ⭐ ${t('handPicked', locale)}\n\n`;
 
   featured.forEach((prompt, index) => {
-    md += generatePromptSection(prompt, index);
+    md += generatePromptSection(prompt, index, locale);
   });
 
   return md;
 }
 
-function generateAllPromptsSection(regular: Prompt[], hiddenCount: number): string {
+function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, locale: string): string {
   if (regular.length === 0 && hiddenCount === 0) return '';
 
-  let md = `## 📋 All Prompts\n\n`;
-  md += `> 📝 Sorted by publish date (newest first)\n\n`;
+  let md = `## 📋 ${t('allPrompts', locale)}\n\n`;
+  md += `> 📝 ${t('sortedByDate', locale)}\n\n`;
 
   regular.forEach((prompt, index) => {
-    md += generatePromptSection(prompt, index);
+    md += generatePromptSection(prompt, index, locale);
   });
 
-  // 如果有隐藏的内容，添加提示
   if (hiddenCount > 0) {
     md += `---\n\n`;
-    md += `## 📚 More Prompts Available\n\n`;
+    md += `## 📚 ${t('morePrompts', locale)}\n\n`;
     md += `<div align="center">\n\n`;
-    md += `### 🎯 ${hiddenCount} more prompts not shown here\n\n`;
+    md += `### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}\n\n`;
     md += `Due to GitHub's content length limitations, we can only display the first ${MAX_REGULAR_PROMPTS_TO_DISPLAY} regular prompts in this README.\n\n`;
-    md += `**👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
+    md += `**[${t('viewAll', locale)}](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
     md += `The gallery features:\n\n`;
-    md += `✨ Beautiful masonry grid layout\n\n`;
-    md += `🔍 Full-text search and filters\n\n`;
-    md += `🌍 16+ languages support\n\n`;
-    md += `📱 Mobile-optimized experience\n\n`;
+    md += `${t('galleryFeature1', locale)}\n\n`;
+    md += `${t('galleryFeature2', locale)}\n\n`;
+    md += `${t('galleryFeature3', locale)}\n\n`;
+    md += `${t('galleryFeature4', locale)}\n\n`;
     md += `</div>\n\n`;
     md += `---\n\n`;
   }
@@ -187,22 +236,22 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number): stri
   return md;
 }
 
-function generateStats(stats: { total: number; featured: number }): string {
-  const now = new Date().toLocaleString('en-US', {
+function generateStats(stats: { total: number; featured: number }, locale: string): string {
+  const now = new Date().toLocaleString(locale, {
     timeZone: 'UTC',
     dateStyle: 'full',
     timeStyle: 'long',
   });
 
-  return `## 📊 Statistics
+  return `## 📊 ${t('stats', locale)}
 
 <div align="center">
 
-| Metric | Count |
+| ${t('metric', locale)} | ${t('count', locale)} |
 |--------|-------|
-| 📝 Total Prompts | **${stats.total}** |
-| ⭐ Featured | **${stats.featured}** |
-| 🔄 Last Updated | **${now}** |
+| 📝 ${t('totalPrompts', locale)} | **${stats.total}** |
+| ⭐ ${t('featured', locale)} | **${stats.featured}** |
+| 🔄 ${t('lastUpdated', locale)} | **${now}** |
 
 </div>
 
@@ -211,94 +260,98 @@ function generateStats(stats: { total: number; featured: number }): string {
 `;
 }
 
-function generateTOC(): string {
-  return `## 📖 Table of Contents
+function generateTOC(locale: string): string {
+  // Generating anchors is tricky with i18n, but GitHub usually slugifies the headers.
+  // For now we assume English anchors or standard GitHub behavior.
+  // Ideally we should use the exact translation for the link text, and the slugified translation for the href.
+  // But simple manual mapping for now.
+  
+  return `## 📖 ${t('toc', locale)}
 
-- [🌐 View in Web Gallery](#-view-in-web-gallery)
-- [🤔 What is Nano Banana Pro?](#-what-is-nano-banana-pro)
-- [📊 Statistics](#-statistics)
-- [🔥 Featured Prompts](#-featured-prompts)
-- [📋 All Prompts](#-all-prompts)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [📄 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
-- [⭐ Star History](#-star-history)
+- [🌐 ${t('viewInGallery', locale)}](#-view-in-web-gallery)
+- [🤔 ${t('whatIs', locale)}](#-what-is-nano-banana-pro)
+- [📊 ${t('stats', locale)}](#-statistics)
+- [🔥 ${t('featuredPrompts', locale)}](#-featured-prompts)
+- [📋 ${t('allPrompts', locale)}](#-all-prompts)
+- [🤝 ${t('howToContribute', locale)}](#-how-to-contribute)
+- [📄 ${t('license', locale)}](#-license)
+- [🙏 ${t('acknowledgements', locale)}](#-acknowledgements)
+- [⭐ ${t('starHistory', locale)}](#-star-history)
 
 ---
 
 `;
 }
 
-function generateWhatIs(): string {
-  return `## 🤔 What is Nano Banana Pro?
+function generateWhatIs(locale: string): string {
+  return `## 🤔 ${t('whatIs', locale)}
 
-**Nano Banana Pro** is Google's latest multimodal AI model featuring:
+${t('whatIsIntro', locale)}
 
-- 🎯 **Multimodal Understanding** - Process text, images, and video
-- 🎨 **High-Quality Generation** - Photorealistic to artistic styles
-- ⚡ **Fast Iteration** - Quick edits and variations
-- 🌈 **Diverse Styles** - From pixel art to oil paintings
-- 🔧 **Precise Control** - Detailed composition and lighting
-- 📐 **Complex Scenes** - Multi-object, multi-character rendering
+- 🎯 ${t('multimodalUnderstanding', locale)}
+- 🎨 ${t('highQualityGeneration', locale)}
+- ⚡ ${t('fastIteration', locale)}
+- 🌈 ${t('diverseStyles', locale)}
+- 🔧 ${t('preciseControl', locale)}
+- 📐 ${t('complexScenes', locale)}
 
-📚 **Learn More:** [Nano Banana Pro: 10 Real Cases](https://youmind.com/blog/nano-banana-pro-10-real-cases)
+📚 ${t('learnMore', locale)}
 
-### 🚀 Raycast Integration
+### 🚀 ${t('raycastIntegration', locale)}
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+${t('raycastDescription', locale)}
 
-**Example:**
+**${t('example', locale)}**
 \`\`\`
-A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
-by {argument name="author" default="Steve Jobs"}
+${t('raycastExample', locale)}
 \`\`\`
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+${t('raycastUsage', locale)}
 
 ---
 
 `;
 }
 
-function generateContribute(): string {
-  return `## 🤝 How to Contribute
+function generateContribute(locale: string): string {
+  return `## 🤝 ${t('howToContribute', locale)}
 
-We welcome contributions! You can submit prompts via:
+${t('welcomeContributions', locale)}
 
-### 🐛 GitHub Issue
+### 🐛 ${t('githubIssue', locale)}
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add \`approved\` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**${t('submitNewPrompt', locale)}**](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)
+2. ${t('fillForm', locale)}
+3. ${t('submitWait', locale)}
+4. ${t('approvedSync', locale)}
+5. ${t('appearInReadme', locale)}
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**${t('note', locale)}** ${t('noteContent', locale)}
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+${t('seeContributing', locale)}
 
 ---
 
 `;
 }
 
-function generateFooter(): string {
+function generateFooter(locale: string): string {
   const timestamp = new Date().toISOString();
 
-  return `## 📄 License
+  return `## 📄 ${t('license', locale)}
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+${t('licensedUnder', locale)}
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 ${t('acknowledgements', locale)}
 
 - [Payload CMS](https://payloadcms.com/)
 - [youmind.com](https://youmind.com)
 
 ---
 
-## ⭐ Star History
+## ⭐ ${t('starHistory', locale)}
 
 [![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-nano-banana-pro-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-nano-banana-pro-prompts&Date)
 
@@ -306,11 +359,11 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[🌐 View in Web Gallery](https://youmind.com/nano-banana-pro-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
+**[🌐 ${t('viewInGallery', locale)}](https://youmind.com/nano-banana-pro-prompts)** •
+**[📝 ${t('submitPrompt', locale)}](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ ${t('starRepo', locale)}](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: ${timestamp}</sub>
+<sub>🤖 ${t('autoGenerated', locale)} ${timestamp}</sub>
 
 </div>
 `;

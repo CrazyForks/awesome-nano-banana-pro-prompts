@@ -12,6 +12,10 @@
 
 ---
 
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Click%20to%20View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Click%20to%20View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Click%20to%20View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Click%20to%20View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Click%20to%20View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README_tr-TR.md)
+
+---
+
 ## 🌐 View in Web Gallery
 
 **[👉 Browse on YouMind Nano Banana Pro Prompts Gallery](https://youmind.com/nano-banana-pro-prompts)**
@@ -22,7 +26,7 @@ Why use our gallery?
 |---------|--------------|---------------------|
 | 🎨 Visual Layout | Linear list | Beautiful Masonry Grid |
 | 🔍 Search | Ctrl+F only | Full-text search with filters |
-| 🌍 Languages | English only | 16+ languages (auto-translated) |
+| 🤖 AI One-Click Generation | - | AI one-click generation |
 | 📱 Mobile | Basic | Fully responsive |
 
 ---
@@ -76,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **496** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 8:16:02 AM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 8:58:16 AM UTC** |
 
 </div>
 
@@ -99,7 +103,7 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 #### 📝 Prompt
 
 ```
-一张宽幅的名人金句卡，棕色背景，衬线体浅金色“{argument name="金句" default="保持饥饿，保持愚蠢"}”，小字“——{argument name="作者" default="Steve Jobs"}”，文字前面带一个大的淡淡的引号。人物头像在左边，文字在右边，文字占画面比例 2/3，人物占 1/3，人物有一点渐变过渡的感觉。
+A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: “{argument name="famous_quote" default="Stay Hungry, Stay Foolish"}” and smaller text: “—{argument name="author" default="Steve Jobs"}.” There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.
 ```
 
 #### 🖼️ Generated Images
@@ -133,9 +137,9 @@ A prompt for generating a wide quote card featuring a famous person’s portrait
 - **Author:** [Nicolechan](https://x.com/stark_nico99)
 - **Source:** [Twitter Post](https://x.com/stark_nico99/status/1991718646570426763)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E5%BC%A0%E5%AE%BD%E5%B9%85%E7%9A%84%E5%90%8D%E4%BA%BA%E9%87%91%E5%8F%A5%E5%8D%A1%EF%BC%8C%E6%A3%95%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E8%A1%AC%E7%BA%BF%E4%BD%93%E6%B5%85%E9%87%91%E8%89%B2%E2%80%9C%7Bargument%20name%3D%22%E9%87%91%E5%8F%A5%22%20default%3D%22%E4%BF%9D%E6%8C%81%E9%A5%A5%E9%A5%BF%EF%BC%8C%E4%BF%9D%E6%8C%81%E6%84%9A%E8%A0%A2%22%7D%E2%80%9D%EF%BC%8C%E5%B0%8F%E5%AD%97%E2%80%9C%E2%80%94%E2%80%94%7Bargument%20name%3D%22%E4%BD%9C%E8%80%85%22%20default%3D%22Steve%20Jobs%22%7D%E2%80%9D%EF%BC%8C%E6%96%87%E5%AD%97%E5%89%8D%E9%9D%A2%E5%B8%A6%E4%B8%80%E4%B8%AA%E5%A4%A7%E7%9A%84%E6%B7%A1%E6%B7%A1%E7%9A%84%E5%BC%95%E5%8F%B7%E3%80%82%E4%BA%BA%E7%89%A9%E5%A4%B4%E5%83%8F%E5%9C%A8%E5%B7%A6%E8%BE%B9%EF%BC%8C%E6%96%87%E5%AD%97%E5%9C%A8%E5%8F%B3%E8%BE%B9%EF%BC%8C%E6%96%87%E5%AD%97%E5%8D%A0%E7%94%BB%E9%9D%A2%E6%AF%94%E4%BE%8B%202%2F3%EF%BC%8C%E4%BA%BA%E7%89%A9%E5%8D%A0%201%2F3%EF%BC%8C%E4%BA%BA%E7%89%A9%E6%9C%89%E4%B8%80%E7%82%B9%E6%B8%90%E5%8F%98%E8%BF%87%E6%B8%A1%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20wide%20quote%20card%20featuring%20a%20famous%20person%2C%20with%20a%20brown%20background%20and%20a%20light-gold%20serif%20font%20for%20the%20quote%3A%20%E2%80%9C%7Bargument%20name%3D%22famous_quote%22%20default%3D%22Stay%20Hungry%2C%20Stay%20Foolish%22%7D%E2%80%9D%20and%20smaller%20text%3A%20%E2%80%9C%E2%80%94%7Bargument%20name%3D%22author%22%20default%3D%22Steve%20Jobs%22%7D.%E2%80%9D%20There%20is%20a%20large%2C%20subtle%20quotation%20mark%20before%20the%20text.%20The%20portrait%20of%20the%20person%20is%20on%20the%20left%2C%20the%20text%20on%20the%20right.%20The%20text%20occupies%20two-thirds%20of%20the%20image%20and%20the%20portrait%20one-third%2C%20with%20a%20slight%20gradient%20transition%20effect%20on%20the%20portrait.)**
 
 ---
 
@@ -151,7 +155,7 @@ A German prompt to generate a watercolor-style map of Germany where all federal 
 #### 📝 Prompt
 
 ```
-Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundesländer mit Kugelschreiber benannt sind.
+Generate a map of Germany in watercolor style, on which all federal states are labeled in ballpoint pen.
 ```
 
 #### 🖼️ Generated Images
@@ -167,9 +171,9 @@ Erzeuge eine Karte von Deutschland im Wasserfarben-Stil, auf der alle Bundeslän
 - **Author:** [Florian Gallwitz](https://x.com/FlorianGallwitz)
 - **Source:** [Twitter Post](https://x.com/FlorianGallwitz/status/1991796624646091091)
 - **Published:** November 21, 2025
-- **Language:** de
+- **Languages:** de
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Erzeuge%20eine%20Karte%20von%20Deutschland%20im%20Wasserfarben-Stil%2C%20auf%20der%20alle%20Bundesl%C3%A4nder%20mit%20Kugelschreiber%20benannt%20sind.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20map%20of%20Germany%20in%20watercolor%20style%2C%20on%20which%20all%20federal%20states%20are%20labeled%20in%20ballpoint%20pen.)**
 
 ---
 
@@ -186,22 +190,22 @@ A detailed Japanese prompt for generating a 16:9 business-book-style advertiseme
 #### 📝 Prompt
 
 ```
-広告画像を生成してください
+Please generate an advertisement image.
 
-==== 広告の仕様 ===
-- アスペクト比: 16:9（横長）
-- 広告したい商品: 添付画像1枚目の本
-- アイキャッチ: 添付画像1枚目の本を立体的に配置
-- 使用言語: 日本語
-- テイスト: ビジネス書の広告
+==== Ad specifications ===
+- Aspect ratio: 16:9 (horizontal)
+- Product to advertise: the book in the first attached image
+- Main eye-catcher: place the book from the first attached image in a three-dimensional way
+- Language: Japanese
+- Taste: advertisement for a business book
 
-# 掲載文字:
-- プリデッドコピー: | 【 発売1週間ほどで重版決定 】
+# Text to include:
+- Pre-head copy: 【New print run decided about one week after release】
 
-書籍「{argument name="書籍名" default="AIでゼロからデザイン"}」好評発売中
+Book “{argument name="book_title_en" default="Designing from Zero with AI"}” now on sale and doing well.
 
-Amazon 売れ筋ランキング
-商業デザイン売上 1位 を記録（10/15 調べ）
+Amazon Best Seller Ranking
+Ranked No.1 in commercial design sales (as of 10/15)
 https://t.co/QxbYpfFVj6
 ```
 
@@ -218,9 +222,9 @@ https://t.co/QxbYpfFVj6
 - **Author:** [KAWAI](https://x.com/kawai_design)
 - **Source:** [Twitter Post](https://x.com/kawai_design/status/1992142466255114727)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%BA%83%E5%91%8A%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%0A%0A%3D%3D%3D%3D%20%E5%BA%83%E5%91%8A%E3%81%AE%E4%BB%95%E6%A7%98%20%3D%3D%3D%0A-%20%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%3A%2016%3A9%EF%BC%88%E6%A8%AA%E9%95%B7%EF%BC%89%0A-%20%E5%BA%83%E5%91%8A%E3%81%97%E3%81%9F%E3%81%84%E5%95%86%E5%93%81%3A%20%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%9C%AC%0A-%20%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%3A%20%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%9C%AC%E3%82%92%E7%AB%8B%E4%BD%93%E7%9A%84%E3%81%AB%E9%85%8D%E7%BD%AE%0A-%20%E4%BD%BF%E7%94%A8%E8%A8%80%E8%AA%9E%3A%20%E6%97%A5%E6%9C%AC%E8%AA%9E%0A-%20%E3%83%86%E3%82%A4%E3%82%B9%E3%83%88%3A%20%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%9B%B8%E3%81%AE%E5%BA%83%E5%91%8A%0A%0A%23%20%E6%8E%B2%E8%BC%89%E6%96%87%E5%AD%97%3A%0A-%20%E3%83%97%E3%83%AA%E3%83%87%E3%83%83%E3%83%89%E3%82%B3%E3%83%94%E3%83%BC%3A%20%7C%20%E3%80%90%20%E7%99%BA%E5%A3%B21%E9%80%B1%E9%96%93%E3%81%BB%E3%81%A9%E3%81%A7%E9%87%8D%E7%89%88%E6%B1%BA%E5%AE%9A%20%E3%80%91%0A%0A%E6%9B%B8%E7%B1%8D%E3%80%8C%7Bargument%20name%3D%22%E6%9B%B8%E7%B1%8D%E5%90%8D%22%20default%3D%22AI%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%22%7D%E3%80%8D%E5%A5%BD%E8%A9%95%E7%99%BA%E5%A3%B2%E4%B8%AD%0A%0AAmazon%20%E5%A3%B2%E3%82%8C%E7%AD%8B%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%0A%E5%95%86%E6%A5%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%A3%B2%E4%B8%8A%201%E4%BD%8D%20%E3%82%92%E8%A8%98%E9%8C%B2%EF%BC%8810%2F15%20%E8%AA%BF%E3%81%B9%EF%BC%89%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20generate%20an%20advertisement%20image.%0A%0A%3D%3D%3D%3D%20Ad%20specifications%20%3D%3D%3D%0A-%20Aspect%20ratio%3A%2016%3A9%20(horizontal)%0A-%20Product%20to%20advertise%3A%20the%20book%20in%20the%20first%20attached%20image%0A-%20Main%20eye-catcher%3A%20place%20the%20book%20from%20the%20first%20attached%20image%20in%20a%20three-dimensional%20way%0A-%20Language%3A%20Japanese%0A-%20Taste%3A%20advertisement%20for%20a%20business%20book%0A%0A%23%20Text%20to%20include%3A%0A-%20Pre-head%20copy%3A%20%E3%80%90New%20print%20run%20decided%20about%20one%20week%20after%20release%E3%80%91%0A%0ABook%20%E2%80%9C%7Bargument%20name%3D%22book_title_en%22%20default%3D%22Designing%20from%20Zero%20with%20AI%22%7D%E2%80%9D%20now%20on%20sale%20and%20doing%20well.%0A%0AAmazon%20Best%20Seller%20Ranking%0ARanked%20No.1%20in%20commercial%20design%20sales%20(as%20of%2010%2F15)%0Ahttps%3A%2F%2Ft.co%2FQxbYpfFVj6)**
 
 ---
 
@@ -236,7 +240,7 @@ A cute prompt for a dreamy diary-style illustration of a pink Kirby sleeping on 
 #### 📝 Prompt
 
 ```
-梦境日记。粉红色的星之卡比睡在一颗星星上，嘴里吐出彩虹色的气泡。柔和的马卡龙色系，云朵和糖果的贴纸，闪粉笔画的细节，梦幻且甜美。
+Dream diary. A pink Kirby lying asleep on a star, blowing rainbow-colored bubbles from its mouth. Soft macaron color palette, cloud and candy stickers, glittery crayon-like details, dreamy and sweet.
 ```
 
 #### 🖼️ Generated Images
@@ -252,9 +256,9 @@ A cute prompt for a dreamy diary-style illustration of a pink Kirby sleeping on 
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991795708308189668)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A2%A6%E5%A2%83%E6%97%A5%E8%AE%B0%E3%80%82%E7%B2%89%E7%BA%A2%E8%89%B2%E7%9A%84%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94%E7%9D%A1%E5%9C%A8%E4%B8%80%E9%A2%97%E6%98%9F%E6%98%9F%E4%B8%8A%EF%BC%8C%E5%98%B4%E9%87%8C%E5%90%90%E5%87%BA%E5%BD%A9%E8%99%B9%E8%89%B2%E7%9A%84%E6%B0%94%E6%B3%A1%E3%80%82%E6%9F%94%E5%92%8C%E7%9A%84%E9%A9%AC%E5%8D%A1%E9%BE%99%E8%89%B2%E7%B3%BB%EF%BC%8C%E4%BA%91%E6%9C%B5%E5%92%8C%E7%B3%96%E6%9E%9C%E7%9A%84%E8%B4%B4%E7%BA%B8%EF%BC%8C%E9%97%AA%E7%B2%89%E7%AC%94%E7%94%BB%E7%9A%84%E7%BB%86%E8%8A%82%EF%BC%8C%E6%A2%A6%E5%B9%BB%E4%B8%94%E7%94%9C%E7%BE%8E%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Dream%20diary.%20A%20pink%20Kirby%20lying%20asleep%20on%20a%20star%2C%20blowing%20rainbow-colored%20bubbles%20from%20its%20mouth.%20Soft%20macaron%20color%20palette%2C%20cloud%20and%20candy%20stickers%2C%20glittery%20crayon-like%20details%2C%20dreamy%20and%20sweet.)**
 
 ---
 
@@ -270,86 +274,76 @@ A very detailed Nano Banana prompt describing a female mirror selfie in a blue-t
 #### 📝 Prompt
 
 ```
-### **场景**
-镜子自拍，御宅族电脑角落，蓝色调
+### Scene
+Mirror selfie in an otaku-style computer corner, blue color tone.
 
----
+### Subject
+* Gender expression: female
+* Age: around 25
+* Ethnicity: East Asian
+* Body type: slim, with a defined waist; natural body proportions
+* Skin tone: light neutral tone
+* Hairstyle:
+    * Length: waist-length hair
+    * Style: straight with slightly curled ends
+    * Color: medium brown
+* Pose:
+    * Stance: standing in a slight contrapposto pose
+    * Right hand: holding a smartphone in front of her face (identity hidden)
+    * Left arm: naturally hanging down alongside the torso
+    * Torso: body leaning slightly back; waist and abdomen exposed
+* Clothing:
+    * Top: light blue cropped knit cardigan, top two buttons fastened; a blue French-style bra faintly visible
+    * Bottom: denim ultra-short shorts, with a blue satin ribbon bow on each side of the hips
+    * Socks: blue and white horizontal striped over-the-knee socks
+    * Accessory: a blue cute mascot phone case
 
-### **主体**
-* **性别表现**: 女性
-* **年龄段**: 25岁左右
-* **种族**: 东亚
-* **身材**: 苗条，腰线分明；身材比例自然
-* **肤色**: 浅中性色调
-* **发型**:
-    * **长度**: 及腰长发
-    * **样式**: 直发，发尾微卷
-    * **颜色**: 中等棕色
-* **姿势**:
-    * **站姿**: 站立，轻微的对立式平衡站姿（contrapposto）
-    * **右手**: 手持手机挡住脸（身份被遮挡）
-    * **左臂**: 在躯干旁自然下垂
-    * **躯干**: 身体轻微后仰；露出腰腹
-* **着装**:
-    * **上衣**: 浅蓝色短款针织开衫，扣上前两颗纽扣；隐约可见蓝色法式内衣
-    * **下装**: 牛仔超短裤，两侧臀部各有一个蓝色缎带蝴蝶结
-    * **袜子**: 蓝白横条纹过膝长袜
-    * **配饰**: 蓝色可爱吉祥物手机壳
+### Environment
+* Description: bedroom computer corner seen through a wall-mounted mirror
+* Furnishings:
+    * White desk
+    * Single monitor showing a soft blue wallpaper (no readable text)
+    * Mechanical keyboard with white keycaps on a blue desk mat
+    * Mouse on a small blue mouse pad
+    * PC tower on the right side with blue case lighting
+    * Three anime figures on or near the PC tower
+    * A poster of a pagoda on the wall
+    * Cat-shaped desk lamp with blue accents
+    * A transparent glass of water
+    * A tall green leafy plant by the window (on the left side of the frame)
+* Color replacement: replace all originally pink elements (clothes and room decor) with blue tones (baby blue to sky blue/periwinkle blue).
 
----
+### Lighting
+* Light source: daylight coming from a large window on the left side of the camera, through sheer curtains
+* Light quality: soft, diffused light
+* White balance (K): 5200
 
-### **环境**
-* **描述**: 从挂墙镜中看到的卧室电脑角落
-* **陈设**:
-    * 白色书桌
-    * 单显示器，显示着柔和的蓝色壁纸（没有可读的文字）
-    * 机械键盘，白色键帽，放在蓝色桌垫上
-    * 鼠标，放在小号蓝色鼠标垫上
-    * PC主机在右侧，带有蓝色机箱灯效
-    * PC主机上或附近有三个动漫手办
-    * 墙上贴着一张佛塔海报
-    * 猫形台灯，带有蓝色点缀
-    * 一杯透明的玻璃水杯
-    * 窗边（镜头左侧）有一株高大的绿叶植物
-* **颜色替换**: 将所有原先的粉色元素（衣物和房间）替换为蓝色（婴儿蓝 -> 天空蓝/长春花蓝）。
+### Camera
+* Mode: smartphone rear camera shooting via the mirror (no portrait/bokeh mode)
+* Equivalent focal length (mm): 26
+* Distances (m):
+    * Subject to mirror: 0.6
+    * Camera to mirror: 0.5
+* Exposure:
+    * Aperture (f): 1.8
+    * ISO: 100
+    * Shutter speed (s): 0.01
+    * Exposure compensation (EV): -0.3
+* Focus: focus on the torso and shorts in the mirror image
+* Depth of field: natural smartphone deep depth of field; background clearly visible with no artificial blur
+* Composition:
+    * Aspect ratio: 1:1
+    * Crop: from the top of the head to mid-thigh; include the desk, monitor, PC tower, and plant in the frame
+    * Angle: slightly high angle from the mirror’s point of view
+    * Composition note: keep the subject centered; to avoid wide-angle edge distortion, have her stand a bit further away and crop to a square later.
 
----
-
-### **灯光**
-* **光源**: 来自镜头左侧大窗户的日光，透过薄纱窗帘
-* **光线质感**: 柔和的漫射光
-* **白平衡 (K)**: 5200
-
----
-
-### **相机**
-* **模式**: 智能手机后置摄像头通过镜子拍摄（无肖像/虚化模式）
-* **等效焦距 (mm)**: 26
-* **距离 (米)**:
-    * 主体到镜子: 0.6
-    * 相机到镜子: 0.5
-* **曝光**:
-    * 光圈 (f): 1.8
-    * 感光度 (ISO): 100
-    * 快门速度 (秒): 0.01
-    * 曝光补偿 (EV): -0.3
-* **对焦**: 对焦于镜中影像的躯干和短裤
-* **景深**: 自然的智能手机景深（深景深）；背景清晰可辨，无人为模糊
-* **构图**:
-    * **宽高比**: 1:1
-    * **裁剪**: 从头顶到大腿中部；画面包含书桌、显示器、PC主机和植物
-    * **角度**: 从镜子的视角轻微俯拍
-    * **构图备注**: 保持主体居中；为避免广角边缘拉伸，可以站远一些再进行方形裁剪
-
----
-
-### **负面提示词**
-* 任何地方出现粉色/品红色
-* 美颜滤镜/磨皮皮肤；没有毛孔的外观
-* 夸张或扭曲的人体结构
-* NSFW，透视面料，走光
-* 商标，品牌名，可读的用户界面文本
-* 虚假的人像模式模糊，CGI/插画感
+### Negative prompts
+* Any appearance of pink/magenta anywhere
+* Beauty filters/over-smoothed skin; poreless skin look
+* Exaggerated or distorted anatomy
+* NSFW, see-through fabrics, wardrobe malfunctions
+* Logos, brand names, or readable user interface text
+* Fake portrait-mode blur, CGI/illustration feel
 ```
 
 #### 🖼️ Generated Images
@@ -365,9 +359,9 @@ A very detailed Nano Banana prompt describing a female mirror selfie in a blue-t
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1976485558319722711)
 - **Published:** October 10, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%23%23%23%20**%E5%9C%BA%E6%99%AF**%0A%E9%95%9C%E5%AD%90%E8%87%AA%E6%8B%8D%EF%BC%8C%E5%BE%A1%E5%AE%85%E6%97%8F%E7%94%B5%E8%84%91%E8%A7%92%E8%90%BD%EF%BC%8C%E8%93%9D%E8%89%B2%E8%B0%83%0A%0A---%0A%0A%23%23%23%20**%E4%B8%BB%E4%BD%93**%0A*%20**%E6%80%A7%E5%88%AB%E8%A1%A8%E7%8E%B0**%3A%20%E5%A5%B3%E6%80%A7%0A*%20**%E5%B9%B4%E9%BE%84%E6%AE%B5**%3A%2025%E5%B2%81%E5%B7%A6%E5%8F%B3%0A*%20**%E7%A7%8D%E6%97%8F**%3A%20%E4%B8%9C%E4%BA%9A%0A*%20**%E8%BA%AB%E6%9D%90**%3A%20%E8%8B%97%E6%9D%A1%EF%BC%8C%E8%85%B0%E7%BA%BF%E5%88%86%E6%98%8E%EF%BC%9B%E8%BA%AB%E6%9D%90%E6%AF%94%E4%BE%8B%E8%87%AA%E7%84%B6%0A*%20**%E8%82%A4%E8%89%B2**%3A%20%E6%B5%85%E4%B8%AD%E6%80%A7%E8%89%B2%E8%B0%83%0A*%20**%E5%8F%91%E5%9E%8B**%3A%0A%20%20%20%20*%20**%E9%95%BF%E5%BA%A6**%3A%20%E5%8F%8A%E8%85%B0%E9%95%BF%E5%8F%91%0A%20%20%20%20*%20**%E6%A0%B7%E5%BC%8F**%3A%20%E7%9B%B4%E5%8F%91%EF%BC%8C%E5%8F%91%E5%B0%BE%E5%BE%AE%E5%8D%B7%0A%20%20%20%20*%20**%E9%A2%9C%E8%89%B2**%3A%20%E4%B8%AD%E7%AD%89%E6%A3%95%E8%89%B2%0A*%20**%E5%A7%BF%E5%8A%BF**%3A%0A%20%20%20%20*%20**%E7%AB%99%E5%A7%BF**%3A%20%E7%AB%99%E7%AB%8B%EF%BC%8C%E8%BD%BB%E5%BE%AE%E7%9A%84%E5%AF%B9%E7%AB%8B%E5%BC%8F%E5%B9%B3%E8%A1%A1%E7%AB%99%E5%A7%BF%EF%BC%88contrapposto%EF%BC%89%0A%20%20%20%20*%20**%E5%8F%B3%E6%89%8B**%3A%20%E6%89%8B%E6%8C%81%E6%89%8B%E6%9C%BA%E6%8C%A1%E4%BD%8F%E8%84%B8%EF%BC%88%E8%BA%AB%E4%BB%BD%E8%A2%AB%E9%81%AE%E6%8C%A1%EF%BC%89%0A%20%20%20%20*%20**%E5%B7%A6%E8%87%82**%3A%20%E5%9C%A8%E8%BA%AF%E5%B9%B2%E6%97%81%E8%87%AA%E7%84%B6%E4%B8%8B%E5%9E%82%0A%20%20%20%20*%20**%E8%BA%AF%E5%B9%B2**%3A%20%E8%BA%AB%E4%BD%93%E8%BD%BB%E5%BE%AE%E5%90%8E%E4%BB%B0%EF%BC%9B%E9%9C%B2%E5%87%BA%E8%85%B0%E8%85%B9%0A*%20**%E7%9D%80%E8%A3%85**%3A%0A%20%20%20%20*%20**%E4%B8%8A%E8%A1%A3**%3A%20%E6%B5%85%E8%93%9D%E8%89%B2%E7%9F%AD%E6%AC%BE%E9%92%88%E7%BB%87%E5%BC%80%E8%A1%AB%EF%BC%8C%E6%89%A3%E4%B8%8A%E5%89%8D%E4%B8%A4%E9%A2%97%E7%BA%BD%E6%89%A3%EF%BC%9B%E9%9A%90%E7%BA%A6%E5%8F%AF%E8%A7%81%E8%93%9D%E8%89%B2%E6%B3%95%E5%BC%8F%E5%86%85%E8%A1%A3%0A%20%20%20%20*%20**%E4%B8%8B%E8%A3%85**%3A%20%E7%89%9B%E4%BB%94%E8%B6%85%E7%9F%AD%E8%A3%A4%EF%BC%8C%E4%B8%A4%E4%BE%A7%E8%87%80%E9%83%A8%E5%90%84%E6%9C%89%E4%B8%80%E4%B8%AA%E8%93%9D%E8%89%B2%E7%BC%8E%E5%B8%A6%E8%9D%B4%E8%9D%B6%E7%BB%93%0A%20%20%20%20*%20**%E8%A2%9C%E5%AD%90**%3A%20%E8%93%9D%E7%99%BD%E6%A8%AA%E6%9D%A1%E7%BA%B9%E8%BF%87%E8%86%9D%E9%95%BF%E8%A2%9C%0A%20%20%20%20*%20**%E9%85%8D%E9%A5%B0**%3A%20%E8%93%9D%E8%89%B2%E5%8F%AF%E7%88%B1%E5%90%89%E7%A5%A5%E7%89%A9%E6%89%8B%E6%9C%BA%E5%A3%B3%0A%0A---%0A%0A%23%23%23%20**%E7%8E%AF%E5%A2%83**%0A*%20**%E6%8F%8F%E8%BF%B0**%3A%20%E4%BB%8E%E6%8C%82%E5%A2%99%E9%95%9C%E4%B8%AD%E7%9C%8B%E5%88%B0%E7%9A%84%E5%8D%A7%E5%AE%A4%E7%94%B5%E8%84%91%E8%A7%92%E8%90%BD%0A*%20**%E9%99%88%E8%AE%BE**%3A%0A%20%20%20%20*%20%E7%99%BD%E8%89%B2%E4%B9%A6%E6%A1%8C%0A%20%20%20%20*%20%E5%8D%95%E6%98%BE%E7%A4%BA%E5%99%A8%EF%BC%8C%E6%98%BE%E7%A4%BA%E7%9D%80%E6%9F%94%E5%92%8C%E7%9A%84%E8%93%9D%E8%89%B2%E5%A3%81%E7%BA%B8%EF%BC%88%E6%B2%A1%E6%9C%89%E5%8F%AF%E8%AF%BB%E7%9A%84%E6%96%87%E5%AD%97%EF%BC%89%0A%20%20%20%20*%20%E6%9C%BA%E6%A2%B0%E9%94%AE%E7%9B%98%EF%BC%8C%E7%99%BD%E8%89%B2%E9%94%AE%E5%B8%BD%EF%BC%8C%E6%94%BE%E5%9C%A8%E8%93%9D%E8%89%B2%E6%A1%8C%E5%9E%AB%E4%B8%8A%0A%20%20%20%20*%20%E9%BC%A0%E6%A0%87%EF%BC%8C%E6%94%BE%E5%9C%A8%E5%B0%8F%E5%8F%B7%E8%93%9D%E8%89%B2%E9%BC%A0%E6%A0%87%E5%9E%AB%E4%B8%8A%0A%20%20%20%20*%20PC%E4%B8%BB%E6%9C%BA%E5%9C%A8%E5%8F%B3%E4%BE%A7%EF%BC%8C%E5%B8%A6%E6%9C%89%E8%93%9D%E8%89%B2%E6%9C%BA%E7%AE%B1%E7%81%AF%E6%95%88%0A%20%20%20%20*%20PC%E4%B8%BB%E6%9C%BA%E4%B8%8A%E6%88%96%E9%99%84%E8%BF%91%E6%9C%89%E4%B8%89%E4%B8%AA%E5%8A%A8%E6%BC%AB%E6%89%8B%E5%8A%9E%0A%20%20%20%20*%20%E5%A2%99%E4%B8%8A%E8%B4%B4%E7%9D%80%E4%B8%80%E5%BC%A0%E4%BD%9B%E5%A1%94%E6%B5%B7%E6%8A%A5%0A%20%20%20%20*%20%E7%8C%AB%E5%BD%A2%E5%8F%B0%E7%81%AF%EF%BC%8C%E5%B8%A6%E6%9C%89%E8%93%9D%E8%89%B2%E7%82%B9%E7%BC%80%0A%20%20%20%20*%20%E4%B8%80%E6%9D%AF%E9%80%8F%E6%98%8E%E7%9A%84%E7%8E%BB%E7%92%83%E6%B0%B4%E6%9D%AF%0A%20%20%20%20*%20%E7%AA%97%E8%BE%B9%EF%BC%88%E9%95%9C%E5%A4%B4%E5%B7%A6%E4%BE%A7%EF%BC%89%E6%9C%89%E4%B8%80%E6%A0%AA%E9%AB%98%E5%A4%A7%E7%9A%84%E7%BB%BF%E5%8F%B6%E6%A4%8D%E7%89%A9%0A*%20**%E9%A2%9C%E8%89%B2%E6%9B%BF%E6%8D%A2**%3A%20%E5%B0%86%E6%89%80%E6%9C%89%E5%8E%9F%E5%85%88%E7%9A%84%E7%B2%89%E8%89%B2%E5%85%83%E7%B4%A0%EF%BC%88%E8%A1%A3%E7%89%A9%E5%92%8C%E6%88%BF%E9%97%B4%EF%BC%89%E6%9B%BF%E6%8D%A2%E4%B8%BA%E8%93%9D%E8%89%B2%EF%BC%88%E5%A9%B4%E5%84%BF%E8%93%9D%20-%3E%20%E5%A4%A9%E7%A9%BA%E8%93%9D%2F%E9%95%BF%E6%98%A5%E8%8A%B1%E8%93%9D%EF%BC%89%E3%80%82%0A%0A---%0A%0A%23%23%23%20**%E7%81%AF%E5%85%89**%0A*%20**%E5%85%89%E6%BA%90**%3A%20%E6%9D%A5%E8%87%AA%E9%95%9C%E5%A4%B4%E5%B7%A6%E4%BE%A7%E5%A4%A7%E7%AA%97%E6%88%B7%E7%9A%84%E6%97%A5%E5%85%89%EF%BC%8C%E9%80%8F%E8%BF%87%E8%96%84%E7%BA%B1%E7%AA%97%E5%B8%98%0A*%20**%E5%85%89%E7%BA%BF%E8%B4%A8%E6%84%9F**%3A%20%E6%9F%94%E5%92%8C%E7%9A%84%E6%BC%AB%E5%B0%84%E5%85%89%0A*%20**%E7%99%BD%E5%B9%B3%E8%A1%A1%20(K)**%3A%205200%0A%0A---%0A%0A%23%23%23%20**%E7%9B%B8%E6%9C%BA**%0A*%20**%E6%A8%A1%E5%BC%8F**%3A%20%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%90%8E%E7%BD%AE%E6%91%84%E5%83%8F%E5%A4%B4%E9%80%9A%E8%BF%87%E9%95%9C%E5%AD%90%E6%8B%8D%E6%91%84%EF%BC%88%E6%97%A0%E8%82%96%E5%83%8F%2F%E8%99%9A%E5%8C%96%E6%A8%A1%E5%BC%8F%EF%BC%89%0A*%20**%E7%AD%89%E6%95%88%E7%84%A6%E8%B7%9D%20(mm)**%3A%2026%0A*%20**%E8%B7%9D%E7%A6%BB%20(%E7%B1%B3)**%3A%0A%20%20%20%20*%20%E4%B8%BB%E4%BD%93%E5%88%B0%E9%95%9C%E5%AD%90%3A%200.6%0A%20%20%20%20*%20%E7%9B%B8%E6%9C%BA%E5%88%B0%E9%95%9C%E5%AD%90%3A%200.5%0A*%20**%E6%9B%9D%E5%85%89**%3A%0A%20%20%20%20*%20%E5%85%89%E5%9C%88%20(f)%3A%201.8%0A%20%20%20%20*%20%E6%84%9F%E5%85%89%E5%BA%A6%20(ISO)%3A%20100%0A%20%20%20%20*%20%E5%BF%AB%E9%97%A8%E9%80%9F%E5%BA%A6%20(%E7%A7%92)%3A%200.01%0A%20%20%20%20*%20%E6%9B%9D%E5%85%89%E8%A1%A5%E5%81%BF%20(EV)%3A%20-0.3%0A*%20**%E5%AF%B9%E7%84%A6**%3A%20%E5%AF%B9%E7%84%A6%E4%BA%8E%E9%95%9C%E4%B8%AD%E5%BD%B1%E5%83%8F%E7%9A%84%E8%BA%AF%E5%B9%B2%E5%92%8C%E7%9F%AD%E8%A3%A4%0A*%20**%E6%99%AF%E6%B7%B1**%3A%20%E8%87%AA%E7%84%B6%E7%9A%84%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%99%AF%E6%B7%B1%EF%BC%88%E6%B7%B1%E6%99%AF%E6%B7%B1%EF%BC%89%EF%BC%9B%E8%83%8C%E6%99%AF%E6%B8%85%E6%99%B0%E5%8F%AF%E8%BE%A8%EF%BC%8C%E6%97%A0%E4%BA%BA%E4%B8%BA%E6%A8%A1%E7%B3%8A%0A*%20**%E6%9E%84%E5%9B%BE**%3A%0A%20%20%20%20*%20**%E5%AE%BD%E9%AB%98%E6%AF%94**%3A%201%3A1%0A%20%20%20%20*%20**%E8%A3%81%E5%89%AA**%3A%20%E4%BB%8E%E5%A4%B4%E9%A1%B6%E5%88%B0%E5%A4%A7%E8%85%BF%E4%B8%AD%E9%83%A8%EF%BC%9B%E7%94%BB%E9%9D%A2%E5%8C%85%E5%90%AB%E4%B9%A6%E6%A1%8C%E3%80%81%E6%98%BE%E7%A4%BA%E5%99%A8%E3%80%81PC%E4%B8%BB%E6%9C%BA%E5%92%8C%E6%A4%8D%E7%89%A9%0A%20%20%20%20*%20**%E8%A7%92%E5%BA%A6**%3A%20%E4%BB%8E%E9%95%9C%E5%AD%90%E7%9A%84%E8%A7%86%E8%A7%92%E8%BD%BB%E5%BE%AE%E4%BF%AF%E6%8B%8D%0A%20%20%20%20*%20**%E6%9E%84%E5%9B%BE%E5%A4%87%E6%B3%A8**%3A%20%E4%BF%9D%E6%8C%81%E4%B8%BB%E4%BD%93%E5%B1%85%E4%B8%AD%EF%BC%9B%E4%B8%BA%E9%81%BF%E5%85%8D%E5%B9%BF%E8%A7%92%E8%BE%B9%E7%BC%98%E6%8B%89%E4%BC%B8%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%AB%99%E8%BF%9C%E4%B8%80%E4%BA%9B%E5%86%8D%E8%BF%9B%E8%A1%8C%E6%96%B9%E5%BD%A2%E8%A3%81%E5%89%AA%0A%0A---%0A%0A%23%23%23%20**%E8%B4%9F%E9%9D%A2%E6%8F%90%E7%A4%BA%E8%AF%8D**%0A*%20%E4%BB%BB%E4%BD%95%E5%9C%B0%E6%96%B9%E5%87%BA%E7%8E%B0%E7%B2%89%E8%89%B2%2F%E5%93%81%E7%BA%A2%E8%89%B2%0A*%20%E7%BE%8E%E9%A2%9C%E6%BB%A4%E9%95%9C%2F%E7%A3%A8%E7%9A%AE%E7%9A%AE%E8%82%A4%EF%BC%9B%E6%B2%A1%E6%9C%89%E6%AF%9B%E5%AD%94%E7%9A%84%E5%A4%96%E8%A7%82%0A*%20%E5%A4%B8%E5%BC%A0%E6%88%96%E6%89%AD%E6%9B%B2%E7%9A%84%E4%BA%BA%E4%BD%93%E7%BB%93%E6%9E%84%0A*%20NSFW%EF%BC%8C%E9%80%8F%E8%A7%86%E9%9D%A2%E6%96%99%EF%BC%8C%E8%B5%B0%E5%85%89%0A*%20%E5%95%86%E6%A0%87%EF%BC%8C%E5%93%81%E7%89%8C%E5%90%8D%EF%BC%8C%E5%8F%AF%E8%AF%BB%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E6%96%87%E6%9C%AC%0A*%20%E8%99%9A%E5%81%87%E7%9A%84%E4%BA%BA%E5%83%8F%E6%A8%A1%E5%BC%8F%E6%A8%A1%E7%B3%8A%EF%BC%8CCGI%2F%E6%8F%92%E7%94%BB%E6%84%9F)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%23%23%23%20Scene%0AMirror%20selfie%20in%20an%20otaku-style%20computer%20corner%2C%20blue%20color%20tone.%0A%0A%23%23%23%20Subject%0A*%20Gender%20expression%3A%20female%0A*%20Age%3A%20around%2025%0A*%20Ethnicity%3A%20East%20Asian%0A*%20Body%20type%3A%20slim%2C%20with%20a%20defined%20waist%3B%20natural%20body%20proportions%0A*%20Skin%20tone%3A%20light%20neutral%20tone%0A*%20Hairstyle%3A%0A%20%20%20%20*%20Length%3A%20waist-length%20hair%0A%20%20%20%20*%20Style%3A%20straight%20with%20slightly%20curled%20ends%0A%20%20%20%20*%20Color%3A%20medium%20brown%0A*%20Pose%3A%0A%20%20%20%20*%20Stance%3A%20standing%20in%20a%20slight%20contrapposto%20pose%0A%20%20%20%20*%20Right%20hand%3A%20holding%20a%20smartphone%20in%20front%20of%20her%20face%20(identity%20hidden)%0A%20%20%20%20*%20Left%20arm%3A%20naturally%20hanging%20down%20alongside%20the%20torso%0A%20%20%20%20*%20Torso%3A%20body%20leaning%20slightly%20back%3B%20waist%20and%20abdomen%20exposed%0A*%20Clothing%3A%0A%20%20%20%20*%20Top%3A%20light%20blue%20cropped%20knit%20cardigan%2C%20top%20two%20buttons%20fastened%3B%20a%20blue%20French-style%20bra%20faintly%20visible%0A%20%20%20%20*%20Bottom%3A%20denim%20ultra-short%20shorts%2C%20with%20a%20blue%20satin%20ribbon%20bow%20on%20each%20side%20of%20the%20hips%0A%20%20%20%20*%20Socks%3A%20blue%20and%20white%20horizontal%20striped%20over-the-knee%20socks%0A%20%20%20%20*%20Accessory%3A%20a%20blue%20cute%20mascot%20phone%20case%0A%0A%23%23%23%20Environment%0A*%20Description%3A%20bedroom%20computer%20corner%20seen%20through%20a%20wall-mounted%20mirror%0A*%20Furnishings%3A%0A%20%20%20%20*%20White%20desk%0A%20%20%20%20*%20Single%20monitor%20showing%20a%20soft%20blue%20wallpaper%20(no%20readable%20text)%0A%20%20%20%20*%20Mechanical%20keyboard%20with%20white%20keycaps%20on%20a%20blue%20desk%20mat%0A%20%20%20%20*%20Mouse%20on%20a%20small%20blue%20mouse%20pad%0A%20%20%20%20*%20PC%20tower%20on%20the%20right%20side%20with%20blue%20case%20lighting%0A%20%20%20%20*%20Three%20anime%20figures%20on%20or%20near%20the%20PC%20tower%0A%20%20%20%20*%20A%20poster%20of%20a%20pagoda%20on%20the%20wall%0A%20%20%20%20*%20Cat-shaped%20desk%20lamp%20with%20blue%20accents%0A%20%20%20%20*%20A%20transparent%20glass%20of%20water%0A%20%20%20%20*%20A%20tall%20green%20leafy%20plant%20by%20the%20window%20(on%20the%20left%20side%20of%20the%20frame)%0A*%20Color%20replacement%3A%20replace%20all%20originally%20pink%20elements%20(clothes%20and%20room%20decor)%20with%20blue%20tones%20(baby%20blue%20to%20sky%20blue%2Fperiwinkle%20blue).%0A%0A%23%23%23%20Lighting%0A*%20Light%20source%3A%20daylight%20coming%20from%20a%20large%20window%20on%20the%20left%20side%20of%20the%20camera%2C%20through%20sheer%20curtains%0A*%20Light%20quality%3A%20soft%2C%20diffused%20light%0A*%20White%20balance%20(K)%3A%205200%0A%0A%23%23%23%20Camera%0A*%20Mode%3A%20smartphone%20rear%20camera%20shooting%20via%20the%20mirror%20(no%20portrait%2Fbokeh%20mode)%0A*%20Equivalent%20focal%20length%20(mm)%3A%2026%0A*%20Distances%20(m)%3A%0A%20%20%20%20*%20Subject%20to%20mirror%3A%200.6%0A%20%20%20%20*%20Camera%20to%20mirror%3A%200.5%0A*%20Exposure%3A%0A%20%20%20%20*%20Aperture%20(f)%3A%201.8%0A%20%20%20%20*%20ISO%3A%20100%0A%20%20%20%20*%20Shutter%20speed%20(s)%3A%200.01%0A%20%20%20%20*%20Exposure%20compensation%20(EV)%3A%20-0.3%0A*%20Focus%3A%20focus%20on%20the%20torso%20and%20shorts%20in%20the%20mirror%20image%0A*%20Depth%20of%20field%3A%20natural%20smartphone%20deep%20depth%20of%20field%3B%20background%20clearly%20visible%20with%20no%20artificial%20blur%0A*%20Composition%3A%0A%20%20%20%20*%20Aspect%20ratio%3A%201%3A1%0A%20%20%20%20*%20Crop%3A%20from%20the%20top%20of%20the%20head%20to%20mid-thigh%3B%20include%20the%20desk%2C%20monitor%2C%20PC%20tower%2C%20and%20plant%20in%20the%20frame%0A%20%20%20%20*%20Angle%3A%20slightly%20high%20angle%20from%20the%20mirror%E2%80%99s%20point%20of%20view%0A%20%20%20%20*%20Composition%20note%3A%20keep%20the%20subject%20centered%3B%20to%20avoid%20wide-angle%20edge%20distortion%2C%20have%20her%20stand%20a%20bit%20further%20away%20and%20crop%20to%20a%20square%20later.%0A%0A%23%23%23%20Negative%20prompts%0A*%20Any%20appearance%20of%20pink%2Fmagenta%20anywhere%0A*%20Beauty%20filters%2Fover-smoothed%20skin%3B%20poreless%20skin%20look%0A*%20Exaggerated%20or%20distorted%20anatomy%0A*%20NSFW%2C%20see-through%20fabrics%2C%20wardrobe%20malfunctions%0A*%20Logos%2C%20brand%20names%2C%20or%20readable%20user%20interface%20text%0A*%20Fake%20portrait-mode%20blur%2C%20CGI%2Fillustration%20feel)**
 
 ---
 
@@ -387,7 +381,7 @@ A prompt to create an image of a specific place and time using latitude, longitu
 #### 📝 Prompt
 
 ```
-Crea una imagen en {argument name="coordenadas" default="34°36’07’’S 58°23’58’’O"} el {argument name="fecha" default="18 de julio de 1994"} a las {argument name="hora" default="9:53 a.m. (UTC-3)"}
+Create an image at {argument name="coordinates_en" default="34°36’07’’S 58°23’58’’W"} on {argument name="date_en" default="July 18, 1994"} at {argument name="time_en" default="9:53 a.m. (UTC-3)"}
 ```
 
 #### 🖼️ Generated Images
@@ -402,10 +396,10 @@ Crea una imagen en {argument name="coordenadas" default="34°36’07’’S 58°
 
 - **Author:** [N≡H](https://x.com/nehuenmk)
 - **Source:** [Twitter Post](https://x.com/nehuenmk/status/1993088764948668880)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20en%20%7Bargument%20name%3D%22coordenadas%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99O%22%7D%20el%20%7Bargument%20name%3D%22fecha%22%20default%3D%2218%20de%20julio%20de%201994%22%7D%20a%20las%20%7Bargument%20name%3D%22hora%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20at%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2234%C2%B036%E2%80%9907%E2%80%99%E2%80%99S%2058%C2%B023%E2%80%9958%E2%80%99%E2%80%99W%22%7D%20on%20%7Bargument%20name%3D%22date_en%22%20default%3D%22July%2018%2C%201994%22%7D%20at%20%7Bargument%20name%3D%22time_en%22%20default%3D%229%3A53%20a.m.%20(UTC-3)%22%7D)**
 
 ---
 
@@ -421,28 +415,28 @@ An extensive prompt for transforming a user’s selfie into an 8K hyper-realisti
 #### 📝 Prompt
 
 ```
-Create a hyper-realistic image in 8K resolution, keeping exactly my real face, features, skin color, eyes, and hair as per the reference image.
-I am the {argument name="subject_gender_role" default="woman"} in the photo; preserve my confident, charming, and elegant expression, with a slight smile and relaxed posture.
-I am at an outdoor automotive event, in a grandstand or VIP box, with a wide view of the track and the crowd in the background. The weather is sunny, with an intense blue sky and natural sunlight, enhancing the colors and creating a vibrant racing atmosphere.
-The framing is a medium shot, capturing the upper body and the busy background with a slight depth-of-field blur.
-The look is sporty fashion with a sophisticated touch, composed of:
- * {argument name="cap_brand" default="Red Ferrari"} cap, with the yellow prancing horse (cavallino rampante) logo on the front and the number "{argument name="driver_number" default="16"}" in white on the brim;
- * Strapless top in structured denim, tight and with visible stitching, enhancing the décolletage and silhouette;
- * {argument name="sunglasses_brand" default="Miu Miu"} sunglasses with brown gradient lenses and a rectangular metallic frame, partially covering the eyes;
- * Double necklace – one with large golden links and another with delicate diamonds close to the neck;
-   * Geometric gold earrings;
-   * Silver bracelet on the right wrist;
-   * Discreet red bag hanging on the shoulder, partially visible beside the arm.
-Hair: natural, loose.
-The makeup is impeccable and glamorous, with illuminated skin, defined eyes, pink lipstick, and warm blush.
-The nails are long and decorated with nail art in shades of pink and red with white details, visible while holding the glass.
-The pose conveys attitude and sophistication:
+Create a hyper-realistic 8K image that keeps my real face, features, skin color, eyes, and hair exactly as in the reference image.
+I am the {argument name="subject_gender_role_en" default="woman"} in the photo; preserve my confident, charming, and elegant expression, with a slight smile and relaxed posture.
+Place me at an outdoor automotive event, in a grandstand or VIP box, with a wide view of the track and the crowd in the background. The weather is sunny, with an intense blue sky and natural sunlight that enhances the colors and creates a vibrant racing atmosphere.
+Use a medium-shot framing, capturing the upper body and the busy background with a slight depth-of-field blur.
+The outfit is sporty yet sophisticated, consisting of:
+ * A {argument name="cap_brand_en" default="Red Ferrari"} cap, with the yellow prancing horse (cavallino rampante) logo on the front and the number "{argument name="driver_number_en" default="16"}" in white on the brim;
+ * A strapless structured denim top, tight with visible stitching, emphasizing the neckline and silhouette;
+ * {argument name="sunglasses_brand_en" default="Miu Miu"} sunglasses with brown gradient lenses and a rectangular metallic frame, partially covering the eyes;
+ * A double necklace – one with large golden links and another with delicate diamonds close to the neck;
+ * Geometric gold earrings;
+ * A silver bracelet on the right wrist;
+ * A discreet red bag hanging on the shoulder, partially visible beside the arm.
+Hair is natural and loose.
+Makeup is impeccable and glamorous, with glowy skin, defined eyes, pink lipstick, and warm blush.
+Nails are long and decorated with nail art in shades of pink and red with white details, visible while holding the glass.
+The pose should convey attitude and sophistication:
  * Right hand holding the brim of the cap, adjusting it slightly;
- * Left hand holding a glass of {argument name="drink_type" default="white wine"}, with the arm relaxed;
- * Body slightly leaned, face turned towards the camera.
-The lighting is natural and intense, with subtle solar reflections on the face and hair.
-The color palette is vibrant – shades of red, denim blue, gold, and caramel, contrasting with the sunny background.
-The general atmosphere is modern, luxurious, and relaxed – transmitting the style of someone who lives exclusive experiences, with elegance and a striking presence at a premium automotive event.
+ * Left hand holding a glass of {argument name="drink_type_en" default="white wine"}, with the arm relaxed;
+ * Body slightly leaned, face turned toward the camera.
+Lighting is natural and intense, with subtle sun reflections on the face and hair.
+Use a vibrant color palette – shades of red, denim blue, gold, and caramel, contrasted with the sunny background.
+The overall atmosphere is modern, luxurious, and relaxed, expressing the lifestyle of someone who enjoys exclusive experiences, with elegance and a strong presence at a premium automotive event.
 Quality: 8K hyper-realistic photo, sharp focus on the face and outfit, background slightly blurred with a colorful crowd and the track in the sun.
 Important:
  * Keep my face, hair, and skin color original.
@@ -473,10 +467,10 @@ Important:
 
 - **Author:** [Nano Banana Labs](https://x.com/NanoBanana_labs)
 - **Source:** [Twitter Post](https://x.com/NanoBanana_labs/status/1993072987898106320)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%20image%20in%208K%20resolution%2C%20keeping%20exactly%20my%20real%20face%2C%20features%2C%20skin%20color%2C%20eyes%2C%20and%20hair%20as%20per%20the%20reference%20image.%0AI%20am%20the%20%7Bargument%20name%3D%22subject_gender_role%22%20default%3D%22woman%22%7D%20in%20the%20photo%3B%20preserve%20my%20confident%2C%20charming%2C%20and%20elegant%20expression%2C%20with%20a%20slight%20smile%20and%20relaxed%20posture.%0AI%20am%20at%20an%20outdoor%20automotive%20event%2C%20in%20a%20grandstand%20or%20VIP%20box%2C%20with%20a%20wide%20view%20of%20the%20track%20and%20the%20crowd%20in%20the%20background.%20The%20weather%20is%20sunny%2C%20with%20an%20intense%20blue%20sky%20and%20natural%20sunlight%2C%20enhancing%20the%20colors%20and%20creating%20a%20vibrant%20racing%20atmosphere.%0AThe%20framing%20is%20a%20medium%20shot%2C%20capturing%20the%20upper%20body%20and%20the%20busy%20background%20with%20a%20slight%20depth-of-field%20blur.%0AThe%20look%20is%20sporty%20fashion%20with%20a%20sophisticated%20touch%2C%20composed%20of%3A%0A%20*%20%7Bargument%20name%3D%22cap_brand%22%20default%3D%22Red%20Ferrari%22%7D%20cap%2C%20with%20the%20yellow%20prancing%20horse%20(cavallino%20rampante)%20logo%20on%20the%20front%20and%20the%20number%20%22%7Bargument%20name%3D%22driver_number%22%20default%3D%2216%22%7D%22%20in%20white%20on%20the%20brim%3B%0A%20*%20Strapless%20top%20in%20structured%20denim%2C%20tight%20and%20with%20visible%20stitching%2C%20enhancing%20the%20d%C3%A9colletage%20and%20silhouette%3B%0A%20*%20%7Bargument%20name%3D%22sunglasses_brand%22%20default%3D%22Miu%20Miu%22%7D%20sunglasses%20with%20brown%20gradient%20lenses%20and%20a%20rectangular%20metallic%20frame%2C%20partially%20covering%20the%20eyes%3B%0A%20*%20Double%20necklace%20%E2%80%93%20one%20with%20large%20golden%20links%20and%20another%20with%20delicate%20diamonds%20close%20to%20the%20neck%3B%0A%20%20%20*%20Geometric%20gold%20earrings%3B%0A%20%20%20*%20Silver%20bracelet%20on%20the%20right%20wrist%3B%0A%20%20%20*%20Discreet%20red%20bag%20hanging%20on%20the%20shoulder%2C%20partially%20visible%20beside%20the%20arm.%0AHair%3A%20natural%2C%20loose.%0AThe%20makeup%20is%20impeccable%20and%20glamorous%2C%20with%20illuminated%20skin%2C%20defined%20eyes%2C%20pink%20lipstick%2C%20and%20warm%20blush.%0AThe%20nails%20are%20long%20and%20decorated%20with%20nail%20art%20in%20shades%20of%20pink%20and%20red%20with%20white%20details%2C%20visible%20while%20holding%20the%20glass.%0AThe%20pose%20conveys%20attitude%20and%20sophistication%3A%0A%20*%20Right%20hand%20holding%20the%20brim%20of%20the%20cap%2C%20adjusting%20it%20slightly%3B%0A%20*%20Left%20hand%20holding%20a%20glass%20of%20%7Bargument%20name%3D%22drink_type%22%20default%3D%22white%20wine%22%7D%2C%20with%20the%20arm%20relaxed%3B%0A%20*%20Body%20slightly%20leaned%2C%20face%20turned%20towards%20the%20camera.%0AThe%20lighting%20is%20natural%20and%20intense%2C%20with%20subtle%20solar%20reflections%20on%20the%20face%20and%20hair.%0AThe%20color%20palette%20is%20vibrant%20%E2%80%93%20shades%20of%20red%2C%20denim%20blue%2C%20gold%2C%20and%20caramel%2C%20contrasting%20with%20the%20sunny%20background.%0AThe%20general%20atmosphere%20is%20modern%2C%20luxurious%2C%20and%20relaxed%20%E2%80%93%20transmitting%20the%20style%20of%20someone%20who%20lives%20exclusive%20experiences%2C%20with%20elegance%20and%20a%20striking%20presence%20at%20a%20premium%20automotive%20event.%0AQuality%3A%208K%20hyper-realistic%20photo%2C%20sharp%20focus%20on%20the%20face%20and%20outfit%2C%20background%20slightly%20blurred%20with%20a%20colorful%20crowd%20and%20the%20track%20in%20the%20sun.%0AImportant%3A%0A%20*%20Keep%20my%20face%2C%20hair%2C%20and%20skin%20color%20original.%0A%20*%20Preserve%20the%20authentic%20p)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper-realistic%208K%20image%20that%20keeps%20my%20real%20face%2C%20features%2C%20skin%20color%2C%20eyes%2C%20and%20hair%20exactly%20as%20in%20the%20reference%20image.%0AI%20am%20the%20%7Bargument%20name%3D%22subject_gender_role_en%22%20default%3D%22woman%22%7D%20in%20the%20photo%3B%20preserve%20my%20confident%2C%20charming%2C%20and%20elegant%20expression%2C%20with%20a%20slight%20smile%20and%20relaxed%20posture.%0APlace%20me%20at%20an%20outdoor%20automotive%20event%2C%20in%20a%20grandstand%20or%20VIP%20box%2C%20with%20a%20wide%20view%20of%20the%20track%20and%20the%20crowd%20in%20the%20background.%20The%20weather%20is%20sunny%2C%20with%20an%20intense%20blue%20sky%20and%20natural%20sunlight%20that%20enhances%20the%20colors%20and%20creates%20a%20vibrant%20racing%20atmosphere.%0AUse%20a%20medium-shot%20framing%2C%20capturing%20the%20upper%20body%20and%20the%20busy%20background%20with%20a%20slight%20depth-of-field%20blur.%0AThe%20outfit%20is%20sporty%20yet%20sophisticated%2C%20consisting%20of%3A%0A%20*%20A%20%7Bargument%20name%3D%22cap_brand_en%22%20default%3D%22Red%20Ferrari%22%7D%20cap%2C%20with%20the%20yellow%20prancing%20horse%20(cavallino%20rampante)%20logo%20on%20the%20front%20and%20the%20number%20%22%7Bargument%20name%3D%22driver_number_en%22%20default%3D%2216%22%7D%22%20in%20white%20on%20the%20brim%3B%0A%20*%20A%20strapless%20structured%20denim%20top%2C%20tight%20with%20visible%20stitching%2C%20emphasizing%20the%20neckline%20and%20silhouette%3B%0A%20*%20%7Bargument%20name%3D%22sunglasses_brand_en%22%20default%3D%22Miu%20Miu%22%7D%20sunglasses%20with%20brown%20gradient%20lenses%20and%20a%20rectangular%20metallic%20frame%2C%20partially%20covering%20the%20eyes%3B%0A%20*%20A%20double%20necklace%20%E2%80%93%20one%20with%20large%20golden%20links%20and%20another%20with%20delicate%20diamonds%20close%20to%20the%20neck%3B%0A%20*%20Geometric%20gold%20earrings%3B%0A%20*%20A%20silver%20bracelet%20on%20the%20right%20wrist%3B%0A%20*%20A%20discreet%20red%20bag%20hanging%20on%20the%20shoulder%2C%20partially%20visible%20beside%20the%20arm.%0AHair%20is%20natural%20and%20loose.%0AMakeup%20is%20impeccable%20and%20glamorous%2C%20with%20glowy%20skin%2C%20defined%20eyes%2C%20pink%20lipstick%2C%20and%20warm%20blush.%0ANails%20are%20long%20and%20decorated%20with%20nail%20art%20in%20shades%20of%20pink%20and%20red%20with%20white%20details%2C%20visible%20while%20holding%20the%20glass.%0AThe%20pose%20should%20convey%20attitude%20and%20sophistication%3A%0A%20*%20Right%20hand%20holding%20the%20brim%20of%20the%20cap%2C%20adjusting%20it%20slightly%3B%0A%20*%20Left%20hand%20holding%20a%20glass%20of%20%7Bargument%20name%3D%22drink_type_en%22%20default%3D%22white%20wine%22%7D%2C%20with%20the%20arm%20relaxed%3B%0A%20*%20Body%20slightly%20leaned%2C%20face%20turned%20toward%20the%20camera.%0ALighting%20is%20natural%20and%20intense%2C%20with%20subtle%20sun%20reflections%20on%20the%20face%20and%20hair.%0AUse%20a%20vibrant%20color%20palette%20%E2%80%93%20shades%20of%20red%2C%20denim%20blue%2C%20gold%2C%20and%20caramel%2C%20contrasted%20with%20the%20sunny%20background.%0AThe%20overall%20atmosphere%20is%20modern%2C%20luxurious%2C%20and%20relaxed%2C%20expressing%20the%20lifestyle%20of%20someone%20who%20enjoys%20exclusive%20experiences%2C%20with%20elegance%20and%20a%20strong%20presence%20at%20a%20premium%20automotive%20event.%0AQuality%3A%208K%20hyper-realistic%20photo%2C%20sharp%20focus%20on%20the%20face%20and%20outfit%2C%20background%20slightly%20blurred%20with%20a%20colorful%20crowd%20and%20the%20track%20in%20the%20sun.%0AImportant%3A%0A%20*%20Keep%20my%20face%2C%20hair%2C%20and%20skin%20color%20original.%0A%20*%20Preserve%20the%20authentic%20p)**
 
 ---
 
@@ -492,12 +486,12 @@ A prompt for generating colorful hand-drawn LINE-style chibi emoji portraits arr
 #### 📝 Prompt
 
 ```
-Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the {argument name="reference_characters" default="characters shown in the reference image"}, ensuring accurate depiction of their head accessories.
+Create a set of colorful, hand-drawn LINE-style half-body chibi emoji portraits based on the {argument name="reference_characters_en" default="characters shown in the reference image"}, making sure their head accessories are depicted accurately.
 
-Arrange the images in a {argument name="grid_layout" default="4x6"} layout, featuring common chat phrases or relevant humorous memes.
-Use handwritten-style fonts for text.
-Output must be original—avoid direct copying of the reference image.
-Final image should be in 4K resolution, {argument name="aspect_ratio" default="16:9"} aspect ratio.
+Arrange the portraits in a {argument name="grid_layout_en" default="4x6"} grid, featuring common chat phrases or relevant humorous memes.
+Use handwritten-style fonts for the text.
+The output must be original—do not directly copy the reference image.
+The final image should be 4K resolution with a {argument name="aspect_ratio_en" default="16:9"} aspect ratio.
 ```
 
 #### 🖼️ Generated Images
@@ -524,10 +518,10 @@ Final image should be in 4K resolution, {argument name="aspect_ratio" default="1
 
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1993042754008686712)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20set%20of%20colorful%2C%20hand-drawn%20LINE-style%20half-body%20Q-version%20emoji%20portraits%20based%20on%20the%20%7Bargument%20name%3D%22reference_characters%22%20default%3D%22characters%20shown%20in%20the%20reference%20image%22%7D%2C%20ensuring%20accurate%20depiction%20of%20their%20head%20accessories.%0A%0AArrange%20the%20images%20in%20a%20%7Bargument%20name%3D%22grid_layout%22%20default%3D%224x6%22%7D%20layout%2C%20featuring%20common%20chat%20phrases%20or%20relevant%20humorous%20memes.%0AUse%20handwritten-style%20fonts%20for%20text.%0AOutput%20must%20be%20original%E2%80%94avoid%20direct%20copying%20of%20the%20reference%20image.%0AFinal%20image%20should%20be%20in%204K%20resolution%2C%20%7Bargument%20name%3D%22aspect_ratio%22%20default%3D%2216%3A9%22%7D%20aspect%20ratio.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20set%20of%20colorful%2C%20hand-drawn%20LINE-style%20half-body%20chibi%20emoji%20portraits%20based%20on%20the%20%7Bargument%20name%3D%22reference_characters_en%22%20default%3D%22characters%20shown%20in%20the%20reference%20image%22%7D%2C%20making%20sure%20their%20head%20accessories%20are%20depicted%20accurately.%0A%0AArrange%20the%20portraits%20in%20a%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%224x6%22%7D%20grid%2C%20featuring%20common%20chat%20phrases%20or%20relevant%20humorous%20memes.%0AUse%20handwritten-style%20fonts%20for%20the%20text.%0AThe%20output%20must%20be%20original%E2%80%94do%20not%20directly%20copy%20the%20reference%20image.%0AThe%20final%20image%20should%20be%204K%20resolution%20with%20a%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%2216%3A9%22%7D%20aspect%20ratio.)**
 
 ---
 
@@ -543,7 +537,7 @@ A simple template prompt for creating hand-drawn isometric diagrams of landmarks
 #### 📝 Prompt
 
 ```
-Create a hand drawn isometric schematic diagram of {argument name="landmark" default="[LANDMARK]"}. {argument name="dimension" default="1080x1080"} dimension
+Create a hand-drawn isometric schematic diagram of {argument name="landmark_en" default="[LANDMARK]"} in {argument name="dimension_en" default="1080x1080"} dimensions.
 ```
 
 #### 🖼️ Generated Images
@@ -558,10 +552,10 @@ Create a hand drawn isometric schematic diagram of {argument name="landmark" def
 
 - **Author:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1993026620274131247)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand%20drawn%20isometric%20schematic%20diagram%20of%20%7Bargument%20name%3D%22landmark%22%20default%3D%22%5BLANDMARK%5D%22%7D.%20%7Bargument%20name%3D%22dimension%22%20default%3D%221080x1080%22%7D%20dimension)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand-drawn%20isometric%20schematic%20diagram%20of%20%7Bargument%20name%3D%22landmark_en%22%20default%3D%22%5BLANDMARK%5D%22%7D%20in%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D%20dimensions.)**
 
 ---
 
@@ -576,12 +570,7 @@ A structured prompt for creating a dramatic black-and-white, photorealistic port
 #### 📝 Prompt
 
 ```
-A realistic black and white photograph of a young woman with long, dark hair, closely resembling the facial features, structure, and expression of the subject in the reference image. She has an imposing or serious expression, looking directly at the camera. She is wearing a black suit jacket, a white collared shirt, and a slim black tie. The lighting is dramatic, and the background is dark and uniform.
-photorealistic, cinematic, high-contrast, black and white
-female
-black suit, white shirt, slim black tie
-imposing, serious, confident
-medium close-up, straight-on
+A realistic black-and-white photograph of a young woman with long, dark hair, closely matching the facial features, structure, and expression of the subject in the reference image. She has an imposing or serious expression, looking directly at the camera. She is wearing a black suit jacket, a white collared shirt, and a slim black tie. The lighting is dramatic, and the background is dark and uniform. Style: photorealistic, cinematic, high-contrast, black and white. Subject: female, in a black suit, white shirt, slim black tie, with an imposing, serious, confident expression, framed as a medium close-up, straight-on.
 ```
 
 #### 🖼️ Generated Images
@@ -602,10 +591,10 @@ medium close-up, straight-on
 
 - **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1993023736417837470)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20realistic%20black%20and%20white%20photograph%20of%20a%20young%20woman%20with%20long%2C%20dark%20hair%2C%20closely%20resembling%20the%20facial%20features%2C%20structure%2C%20and%20expression%20of%20the%20subject%20in%20the%20reference%20image.%20She%20has%20an%20imposing%20or%20serious%20expression%2C%20looking%20directly%20at%20the%20camera.%20She%20is%20wearing%20a%20black%20suit%20jacket%2C%20a%20white%20collared%20shirt%2C%20and%20a%20slim%20black%20tie.%20The%20lighting%20is%20dramatic%2C%20and%20the%20background%20is%20dark%20and%20uniform.%0Aphotorealistic%2C%20cinematic%2C%20high-contrast%2C%20black%20and%20white%0Afemale%0Ablack%20suit%2C%20white%20shirt%2C%20slim%20black%20tie%0Aimposing%2C%20serious%2C%20confident%0Amedium%20close-up%2C%20straight-on)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20realistic%20black-and-white%20photograph%20of%20a%20young%20woman%20with%20long%2C%20dark%20hair%2C%20closely%20matching%20the%20facial%20features%2C%20structure%2C%20and%20expression%20of%20the%20subject%20in%20the%20reference%20image.%20She%20has%20an%20imposing%20or%20serious%20expression%2C%20looking%20directly%20at%20the%20camera.%20She%20is%20wearing%20a%20black%20suit%20jacket%2C%20a%20white%20collared%20shirt%2C%20and%20a%20slim%20black%20tie.%20The%20lighting%20is%20dramatic%2C%20and%20the%20background%20is%20dark%20and%20uniform.%20Style%3A%20photorealistic%2C%20cinematic%2C%20high-contrast%2C%20black%20and%20white.%20Subject%3A%20female%2C%20in%20a%20black%20suit%2C%20white%20shirt%2C%20slim%20black%20tie%2C%20with%20an%20imposing%2C%20serious%2C%20confident%20expression%2C%20framed%20as%20a%20medium%20close-up%2C%20straight-on.)**
 
 ---
 
@@ -621,7 +610,7 @@ A conceptual prompt for turning the contents of a fridge into a simple step-by-s
 #### 📝 Prompt
 
 ```
-Scan what’s inside of the {argument name="location" default="fridge"} and offer me an idea what can be cooked with the ingredients available with a detailed step by step recipe in a form of a simple infographic
+Scan what’s inside the {argument name="container_en" default="fridge"} and suggest what can be cooked with the available ingredients, providing a detailed step-by-step recipe presented as a simple infographic.
 ```
 
 #### 🖼️ Generated Images
@@ -642,10 +631,10 @@ Scan what’s inside of the {argument name="location" default="fridge"} and offe
 
 - **Author:** [AmirMušić](https://x.com/AmirMushich)
 - **Source:** [Twitter Post](https://x.com/AmirMushich/status/1993003026119114928)
-- **Published:** November 24, 2025
-- **Language:** en
+- **Published:** November 25, 2025
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Scan%20what%E2%80%99s%20inside%20of%20the%20%7Bargument%20name%3D%22location%22%20default%3D%22fridge%22%7D%20and%20offer%20me%20an%20idea%20what%20can%20be%20cooked%20with%20the%20ingredients%20available%20with%20a%20detailed%20step%20by%20step%20recipe%20in%20a%20form%20of%20a%20simple%20infographic)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Scan%20what%E2%80%99s%20inside%20the%20%7Bargument%20name%3D%22container_en%22%20default%3D%22fridge%22%7D%20and%20suggest%20what%20can%20be%20cooked%20with%20the%20available%20ingredients%2C%20providing%20a%20detailed%20step-by-step%20recipe%20presented%20as%20a%20simple%20infographic.)**
 
 ---
 
@@ -661,7 +650,7 @@ A detailed prompt for turning any object into an ultra-realistic knolling-style 
 #### 📝 Prompt
 
 ```
-Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot of the object from the attached image, fully disassembled into {argument name="min_parts" default="8"}–{argument name="max_parts" default="12"} key parts and arranged in a clean grid or radial pattern on a minimalist {argument name="surface_material" default="wooden or matte gray"} table. Even spacing, perfect alignment, no overlaps, no extra objects. Soft, diffused multi-source lighting with subtle shadows, neutral color balance and crisp focus across the whole frame. Highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed beside the component without covering it; annotations must be legible but unobtrusive.
+Ultra-realistic 8K flat-lay photo in strict knolling style. A top-down 90º shot of the object from the attached image, fully disassembled into {argument name="min_parts_en" default="8"}–{argument name="max_parts_en" default="12"} key parts and arranged in a clean grid or radial pattern on a minimalist {argument name="surface_material_en" default="wooden or matte gray"} table. Use even spacing, perfect alignment, no overlaps, and no extra objects. Light the scene with soft, diffused multi-source lighting, creating subtle shadows, neutral color balance, and crisp focus across the entire frame. Show highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed next to the component without covering it; annotations must be legible but unobtrusive.
 ```
 
 #### 🖼️ Generated Images
@@ -677,9 +666,9 @@ Ultra-realistic 8K flat-lay photo in strict knolling style. Top-down 90º shot o
 - **Author:** [TechHalla](https://x.com/techhalla)
 - **Source:** [Twitter Post](https://x.com/techhalla/status/1992986275192685021)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Ultra-realistic%208K%20flat-lay%20photo%20in%20strict%20knolling%20style.%20Top-down%2090%C2%BA%20shot%20of%20the%20object%20from%20the%20attached%20image%2C%20fully%20disassembled%20into%20%7Bargument%20name%3D%22min_parts%22%20default%3D%228%22%7D%E2%80%93%7Bargument%20name%3D%22max_parts%22%20default%3D%2212%22%7D%20key%20parts%20and%20arranged%20in%20a%20clean%20grid%20or%20radial%20pattern%20on%20a%20minimalist%20%7Bargument%20name%3D%22surface_material%22%20default%3D%22wooden%20or%20matte%20gray%22%7D%20table.%20Even%20spacing%2C%20perfect%20alignment%2C%20no%20overlaps%2C%20no%20extra%20objects.%20Soft%2C%20diffused%20multi-source%20lighting%20with%20subtle%20shadows%2C%20neutral%20color%20balance%20and%20crisp%20focus%20across%20the%20whole%20frame.%20Highly%20detailed%20real-world%20materials%20(metal%2C%20plastic%2C%20rubber%20grips%2C%20circuit%20boards%2C%20screws).%20For%20every%20part%2C%20add%20a%20thin%20white%20rectangular%20frame%20and%20a%20short%2C%20sharp%20English%20label%20in%20clean%20sans-serif%20text%2C%20placed%20beside%20the%20component%20without%20covering%20it%3B%20annotations%20must%20be%20legible%20but%20unobtrusive.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Ultra-realistic%208K%20flat-lay%20photo%20in%20strict%20knolling%20style.%20A%20top-down%2090%C2%BA%20shot%20of%20the%20object%20from%20the%20attached%20image%2C%20fully%20disassembled%20into%20%7Bargument%20name%3D%22min_parts_en%22%20default%3D%228%22%7D%E2%80%93%7Bargument%20name%3D%22max_parts_en%22%20default%3D%2212%22%7D%20key%20parts%20and%20arranged%20in%20a%20clean%20grid%20or%20radial%20pattern%20on%20a%20minimalist%20%7Bargument%20name%3D%22surface_material_en%22%20default%3D%22wooden%20or%20matte%20gray%22%7D%20table.%20Use%20even%20spacing%2C%20perfect%20alignment%2C%20no%20overlaps%2C%20and%20no%20extra%20objects.%20Light%20the%20scene%20with%20soft%2C%20diffused%20multi-source%20lighting%2C%20creating%20subtle%20shadows%2C%20neutral%20color%20balance%2C%20and%20crisp%20focus%20across%20the%20entire%20frame.%20Show%20highly%20detailed%20real-world%20materials%20(metal%2C%20plastic%2C%20rubber%20grips%2C%20circuit%20boards%2C%20screws).%20For%20every%20part%2C%20add%20a%20thin%20white%20rectangular%20frame%20and%20a%20short%2C%20sharp%20English%20label%20in%20clean%20sans-serif%20text%2C%20placed%20next%20to%20the%20component%20without%20covering%20it%3B%20annotations%20must%20be%20legible%20but%20unobtrusive.)**
 
 ---
 
@@ -695,16 +684,16 @@ A rich prompt for an ultra-detailed DSLR-style portrait of a young man in a snow
 #### 📝 Prompt
 
 ```
-Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as reference) standing outdoors in a {argument name="location" default="Swiss alpine village"} during a winter evening. Soft snow falling. Visible frosty breath in the cold air. Hands in pockets, relaxed natural stance.
+Hyper-realistic, ultra-detailed DSLR cinematic portrait of a young man (same facial identity as the reference) standing outdoors in a {argument name="location_en" default="Swiss alpine village"} during a winter evening. Soft snow is falling, with visible frosty breath in the cold air. His hands are in his pockets in a relaxed, natural stance.
 
-He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf. Subtle accessory: silver ring.
+He wears a thick wool winter coat, a textured knit sweater, and a loosely wrapped scarf, with a subtle accessory: a silver ring.
 
-Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, warm village street lamps. Soft golden bokeh reflecting on fresh snow.
+Background: snow-covered rooftops, blurred alpine mountains, glowing chalet windows, and warm village street lamps, with soft golden bokeh reflecting on the fresh snow.
 
-Lighting: cinematic winter lighting blend cool blue shadows + warm golden highlights. Rosy winter skin tones. Sharp facial detail. Shallow depth of field. Atmospheric haze.
+Lighting: cinematic winter lighting that blends cool blue shadows with warm golden highlights. Rosy winter skin tones, sharp facial detail, shallow depth of field, and a touch of atmospheric haze.
 
-Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s
-Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, natural skin texture
+Camera: 8K, full-frame DSLR, 85mm lens, f/1.8, ISO 100, 1/200s.
+Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus, and natural skin texture.
 ```
 
 #### 🖼️ Generated Images
@@ -720,9 +709,9 @@ Style: editorial travel portrait, hyper-realism, high dynamic range, crisp focus
 - **Author:** [ATROPINE](https://x.com/Drshadow56)
 - **Source:** [Twitter Post](https://x.com/Drshadow56/status/1992968450172424470)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Hyper-realistic%2C%20ultra-detailed%20DSLR%20cinematic%20portrait%20of%20a%20young%20man%20(same%20facial%20identity%20as%20reference)%20standing%20outdoors%20in%20a%20%7Bargument%20name%3D%22location%22%20default%3D%22Swiss%20alpine%20village%22%7D%20during%20a%20winter%20evening.%20Soft%20snow%20falling.%20Visible%20frosty%20breath%20in%20the%20cold%20air.%20Hands%20in%20pockets%2C%20relaxed%20natural%20stance.%0A%0AHe%20wears%20a%20thick%20wool%20winter%20coat%2C%20a%20textured%20knit%20sweater%2C%20and%20a%20loosely%20wrapped%20scarf.%20Subtle%20accessory%3A%20silver%20ring.%0A%0ABackground%3A%20snow-covered%20rooftops%2C%20blurred%20alpine%20mountains%2C%20glowing%20chalet%20windows%2C%20warm%20village%20street%20lamps.%20Soft%20golden%20bokeh%20reflecting%20on%20fresh%20snow.%0A%0ALighting%3A%20cinematic%20winter%20lighting%20blend%20cool%20blue%20shadows%20%2B%20warm%20golden%20highlights.%20Rosy%20winter%20skin%20tones.%20Sharp%20facial%20detail.%20Shallow%20depth%20of%20field.%20Atmospheric%20haze.%0A%0ACamera%3A%208K%2C%20full-frame%20DSLR%2C%2085mm%20lens%2C%20f%2F1.8%2C%20ISO%20100%2C%201%2F200s%0AStyle%3A%20editorial%20travel%20portrait%2C%20hyper-realism%2C%20high%20dynamic%20range%2C%20crisp%20focus%2C%20natural%20skin%20texture)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Hyper-realistic%2C%20ultra-detailed%20DSLR%20cinematic%20portrait%20of%20a%20young%20man%20(same%20facial%20identity%20as%20the%20reference)%20standing%20outdoors%20in%20a%20%7Bargument%20name%3D%22location_en%22%20default%3D%22Swiss%20alpine%20village%22%7D%20during%20a%20winter%20evening.%20Soft%20snow%20is%20falling%2C%20with%20visible%20frosty%20breath%20in%20the%20cold%20air.%20His%20hands%20are%20in%20his%20pockets%20in%20a%20relaxed%2C%20natural%20stance.%0A%0AHe%20wears%20a%20thick%20wool%20winter%20coat%2C%20a%20textured%20knit%20sweater%2C%20and%20a%20loosely%20wrapped%20scarf%2C%20with%20a%20subtle%20accessory%3A%20a%20silver%20ring.%0A%0ABackground%3A%20snow-covered%20rooftops%2C%20blurred%20alpine%20mountains%2C%20glowing%20chalet%20windows%2C%20and%20warm%20village%20street%20lamps%2C%20with%20soft%20golden%20bokeh%20reflecting%20on%20the%20fresh%20snow.%0A%0ALighting%3A%20cinematic%20winter%20lighting%20that%20blends%20cool%20blue%20shadows%20with%20warm%20golden%20highlights.%20Rosy%20winter%20skin%20tones%2C%20sharp%20facial%20detail%2C%20shallow%20depth%20of%20field%2C%20and%20a%20touch%20of%20atmospheric%20haze.%0A%0ACamera%3A%208K%2C%20full-frame%20DSLR%2C%2085mm%20lens%2C%20f%2F1.8%2C%20ISO%20100%2C%201%2F200s.%0AStyle%3A%20editorial%20travel%20portrait%2C%20hyper-realism%2C%20high%20dynamic%20range%2C%20crisp%20focus%2C%20and%20natural%20skin%20texture.)**
 
 ---
 
@@ -737,7 +726,7 @@ A prompt for generating vertical-format comic storyboards in vibrant Marvel styl
 #### 📝 Prompt
 
 ```
-Varias viñetas de cómic estilo Marvel en colores vibrantes. Una heroína con capa roja. En el fondo, la ciudad futurista brilla con neones. La heroina está salvando a gente que está en problemas. Caja de texto: Nano Banana Pro en OpenArt es una LOCURA. Formato vertical
+Several comic panels in Marvel style with vibrant colors. A heroine with a red cape. In the background, the futuristic city shines with neon lights. The heroine is saving people who are in trouble. Text box: Nano Banana Pro on OpenArt is CRAZY. Vertical format
 ```
 
 #### 🖼️ Generated Images
@@ -759,9 +748,9 @@ Varias viñetas de cómic estilo Marvel en colores vibrantes. Una heroína con c
 - **Author:** [Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
 - **Source:** [Twitter Post](https://x.com/MiguelMaestroIA/status/1992956550592274643)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Varias%20vi%C3%B1etas%20de%20c%C3%B3mic%20estilo%20Marvel%20en%20colores%20vibrantes.%20Una%20hero%C3%ADna%20con%20capa%20roja.%20En%20el%20fondo%2C%20la%20ciudad%20futurista%20brilla%20con%20neones.%20La%20heroina%20est%C3%A1%20salvando%20a%20gente%20que%20est%C3%A1%20en%20problemas.%20Caja%20de%20texto%3A%20Nano%20Banana%20Pro%20en%20OpenArt%20es%20una%20LOCURA.%20Formato%20vertical)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Several%20comic%20panels%20in%20Marvel%20style%20with%20vibrant%20colors.%20A%20heroine%20with%20a%20red%20cape.%20In%20the%20background%2C%20the%20futuristic%20city%20shines%20with%20neon%20lights.%20The%20heroine%20is%20saving%20people%20who%20are%20in%20trouble.%20Text%20box%3A%20Nano%20Banana%20Pro%20on%20OpenArt%20is%20CRAZY.%20Vertical%20format)**
 
 ---
 
@@ -776,7 +765,7 @@ A detailed prompt to generate a hyperrealistic vertical 8K cinematic shot of the
 #### 📝 Prompt
 
 ```
-Toma cenital hiperrealista de 9:16 del hombre de la imagen adjunta (subo 2 fotos mías), sentado en el borde de un rascacielos durante la hora dorada, con las piernas colgando y las manos entrelazadas. Lleva la ropa que aparece en la imagen, mirando hacia atrás por encima del hombro, con el horizonte de la ciudad suavemente desenfocado. Iluminación natural, gradación de color cinematográfica, bokeh intenso, poca profundidad de campo, toma cinematográfica 8K con gran detalle.
+Hyper-realistic 9:16 overhead shot of the man from the attached image (I upload 2 photos of myself), sitting on the edge of a skyscraper during golden hour, with his legs hanging and his hands interlocked. He is wearing the clothes that appear in the image, looking back over his shoulder, with the city skyline softly blurred. Natural lighting, cinematic color grading, intense bokeh, shallow depth of field, 8K cinematic shot with great detail.
 ```
 
 #### 🖼️ Generated Images
@@ -792,9 +781,9 @@ Toma cenital hiperrealista de 9:16 del hombre de la imagen adjunta (subo 2 fotos
 - **Author:** [Miguel Ángel | Educador en IA](https://x.com/MiguelMaestroIA)
 - **Source:** [Twitter Post](https://x.com/MiguelMaestroIA/status/1992956484024488260)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Toma%20cenital%20hiperrealista%20de%209%3A16%20del%20hombre%20de%20la%20imagen%20adjunta%20(subo%202%20fotos%20m%C3%ADas)%2C%20sentado%20en%20el%20borde%20de%20un%20rascacielos%20durante%20la%20hora%20dorada%2C%20con%20las%20piernas%20colgando%20y%20las%20manos%20entrelazadas.%20Lleva%20la%20ropa%20que%20aparece%20en%20la%20imagen%2C%20mirando%20hacia%20atr%C3%A1s%20por%20encima%20del%20hombro%2C%20con%20el%20horizonte%20de%20la%20ciudad%20suavemente%20desenfocado.%20Iluminaci%C3%B3n%20natural%2C%20gradaci%C3%B3n%20de%20color%20cinematogr%C3%A1fica%2C%20bokeh%20intenso%2C%20poca%20profundidad%20de%20campo%2C%20toma%20cinematogr%C3%A1fica%208K%20con%20gran%20detalle.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Hyper-realistic%209%3A16%20overhead%20shot%20of%20the%20man%20from%20the%20attached%20image%20(I%20upload%202%20photos%20of%20myself)%2C%20sitting%20on%20the%20edge%20of%20a%20skyscraper%20during%20golden%20hour%2C%20with%20his%20legs%20hanging%20and%20his%20hands%20interlocked.%20He%20is%20wearing%20the%20clothes%20that%20appear%20in%20the%20image%2C%20looking%20back%20over%20his%20shoulder%2C%20with%20the%20city%20skyline%20softly%20blurred.%20Natural%20lighting%2C%20cinematic%20color%20grading%2C%20intense%20bokeh%2C%20shallow%20depth%20of%20field%2C%208K%20cinematic%20shot%20with%20great%20detail.)**
 
 ---
 
@@ -810,7 +799,7 @@ A reusable prompt template for creating labeled exploded view diagrams of any su
 #### 📝 Prompt
 
 ```
-Create a technical exploded view diagram of a {argument name="subject" default="[SUBJECT]"} in {argument name="dimension" default="1080x1080"} dimension. The device is deconstructed showing all individual components floating in space, separated from each other to reveal internal parts. Each major component is labeled
+Create a technical exploded view diagram of a {argument name="subject_en" default="[SUBJECT]"} in {argument name="dimension_en" default="1080x1080"} dimensions. The device should be deconstructed, showing all individual components floating in space, separated to reveal the internal parts. Each major component is labeled.
 ```
 
 #### 🖼️ Generated Images
@@ -826,9 +815,9 @@ Create a technical exploded view diagram of a {argument name="subject" default="
 - **Author:** [TechieSA](https://x.com/TechieBySA)
 - **Source:** [Twitter Post](https://x.com/TechieBySA/status/1992907338697892301)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20technical%20exploded%20view%20diagram%20of%20a%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5BSUBJECT%5D%22%7D%20in%20%7Bargument%20name%3D%22dimension%22%20default%3D%221080x1080%22%7D%20dimension.%20The%20device%20is%20deconstructed%20showing%20all%20individual%20components%20floating%20in%20space%2C%20separated%20from%20each%20other%20to%20reveal%20internal%20parts.%20Each%20major%20component%20is%20labeled)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20technical%20exploded%20view%20diagram%20of%20a%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22%5BSUBJECT%5D%22%7D%20in%20%7Bargument%20name%3D%22dimension_en%22%20default%3D%221080x1080%22%7D%20dimensions.%20The%20device%20should%20be%20deconstructed%2C%20showing%20all%20individual%20components%20floating%20in%20space%2C%20separated%20to%20reveal%20the%20internal%20parts.%20Each%20major%20component%20is%20labeled.)**
 
 ---
 
@@ -844,7 +833,26 @@ A long, detailed prompt for creating a hyper-realistic portrait infographic that
 #### 📝 Prompt
 
 ```
-A hyper-realistic, high-resolution portrait infographic based on ({argument name="reference_photo" default="your photo"}). Keep the same person, identity, hairstyle, clothing and natural skin tone from ({argument name="reference_photo_short" default="your photo"}), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
+A hyper-realistic, high-resolution portrait infographic based on ({argument name="reference_photo_en" default="your photo"}). Keep the same person, identity, hairstyle, clothing, and natural skin tone from ({argument name="reference_photo_short_en" default="your photo"}), with a neutral studio background. Overlay a subtle, semi-transparent facial analysis grid over the entire face, similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal, and elegant, exactly like a cosmetic-tech advertisement.
+
+Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:
+1. Fine lines and wrinkles
+2. Skin texture and elasticity
+3. Facial volume and sagging
+4. Eye area aging signs
+5. Skin tone and pigmentation
+
+For each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:
+“Fine lines & wrinkles – 18%”
+“Skin texture & elasticity – 72%”
+“Facial volume & sagging – 35%”
+“Eye area aging signs – 41%”
+“Skin tone & pigmentation – 63%”
+
+Use clean, modern sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:
+“ESTIMATED AGE: (random number based on face analysis)”
+
+Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender specified, suitable for any human face.
 ```
 
 #### 🖼️ Generated Images
@@ -866,9 +874,9 @@ A hyper-realistic, high-resolution portrait infographic based on ({argument name
 - **Author:** [Saman | AI](https://x.com/Samann_ai)
 - **Source:** [Twitter Post](https://x.com/Samann_ai/status/1992901987805835279)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20hyper-realistic%2C%20high-resolution%20portrait%20infographic%20based%20on%20(%7Bargument%20name%3D%22reference_photo%22%20default%3D%22your%20photo%22%7D).%20Keep%20the%20same%20person%2C%20identity%2C%20hairstyle%2C%20clothing%20and%20natural%20skin%20tone%20from%20(%7Bargument%20name%3D%22reference_photo_short%22%20default%3D%22your%20photo%22%7D)%2C%20with%20a%20neutral%20studio%20background.Overlay%20a%20subtle%2C%20semi-transparent%20facial%20analysis%20grid%20on%20the%20entire%20face%2C%20very%20similar%20to%20a%203D%20face-scanning%20mesh%3A%20thin%2C%20soft%20white%20lines%20following%20the%20facial%20contours%2C%20slightly%20glowing%20but%20not%20hiding%20the%20skin%20details.%20Add%20one%20clean%20vertical%20red%20laser%20line%20running%20down%20one%20side%20of%20the%20face%2C%20like%20a%20futuristic%20scan.%20All%20analysis%20lines%20must%20be%20soft%2C%20minimal%20and%20elegant%2C%20exactly%20like%20a%20cosmetic-tech%20advertisement.Create%20a%20clean%20medical%E2%80%93aesthetic%20infographic%20that%20evaluates%205%20aging%20factors%20using%20global%20data%20percentages%3A1.%20Fine%20lines%20and%20wrinkles2.%20Skin%20texture%20and%20elasticity3.%20Facial%20volume%20and%20sagging4.%20Eye%20area%20aging%20signs5.%20Skin%20tone%20and%20pigmentationFor%20each%20factor%2C%20place%20a%20small%20label%20with%20a%20thin%20line%20pointing%20to%20the%20relevant%20facial%20area%2C%20and%20next%20to%20it%20write%20a%20short%20title%20and%20a%20realistic%20percentage%20score%20from%200%E2%80%93100%25%20(based%20on%20global%20data)%2C%20for%20example%3A%E2%80%9CFine%20lines%20%26%20wrinkles%20%E2%80%93%2018%25%E2%80%9D%E2%80%9CSkin%20texture%20%26%20elasticity%20%E2%80%93%2072%25%E2%80%9D%E2%80%9CFacial%20volume%20%26%20sagging%20%E2%80%93%2035%25%E2%80%9D%E2%80%9CEye%20area%20aging%20signs%20%E2%80%93%2041%25%E2%80%9D%E2%80%9CSkin%20tone%20%26%20pigmentation%20%E2%80%93%2063%25%E2%80%9DUse%20clean%2C%20modern%2C%20sans-serif%20typography%20and%20small%20technical-style%20text%2C%20like%20a%20scientific%20facial%20analysis%20UI.%20At%20the%20bottom%20of%20the%20image%2C%20in%20the%20center%2C%20write%20a%20large%20bold%20text%20showing%20the%20final%20estimated%20real%20age%20based%20on%20the%20analysis%2C%20for%20example%3A%E2%80%9CESTIMATED%20AGE%3A%20(random%20number%20based%20on%20face%20analysis%20)%20%E2%80%9DOverall%20style%3A%20futuristic%20AI-guided%20skincare%20analysis%2C%20minimalistic%2C%20premium%20editorial%20lighting%2C%20no%20gender%20mentioned%2C%20suitable%20for%20any%20human%20face.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20hyper-realistic%2C%20high-resolution%20portrait%20infographic%20based%20on%20(%7Bargument%20name%3D%22reference_photo_en%22%20default%3D%22your%20photo%22%7D).%20Keep%20the%20same%20person%2C%20identity%2C%20hairstyle%2C%20clothing%2C%20and%20natural%20skin%20tone%20from%20(%7Bargument%20name%3D%22reference_photo_short_en%22%20default%3D%22your%20photo%22%7D)%2C%20with%20a%20neutral%20studio%20background.%20Overlay%20a%20subtle%2C%20semi-transparent%20facial%20analysis%20grid%20over%20the%20entire%20face%2C%20similar%20to%20a%203D%20face-scanning%20mesh%3A%20thin%2C%20soft%20white%20lines%20following%20the%20facial%20contours%2C%20slightly%20glowing%20but%20not%20hiding%20the%20skin%20details.%20Add%20one%20clean%20vertical%20red%20laser%20line%20running%20down%20one%20side%20of%20the%20face%2C%20like%20a%20futuristic%20scan.%20All%20analysis%20lines%20must%20be%20soft%2C%20minimal%2C%20and%20elegant%2C%20exactly%20like%20a%20cosmetic-tech%20advertisement.%0A%0ACreate%20a%20clean%20medical%E2%80%93aesthetic%20infographic%20that%20evaluates%205%20aging%20factors%20using%20global%20data%20percentages%3A%0A1.%20Fine%20lines%20and%20wrinkles%0A2.%20Skin%20texture%20and%20elasticity%0A3.%20Facial%20volume%20and%20sagging%0A4.%20Eye%20area%20aging%20signs%0A5.%20Skin%20tone%20and%20pigmentation%0A%0AFor%20each%20factor%2C%20place%20a%20small%20label%20with%20a%20thin%20line%20pointing%20to%20the%20relevant%20facial%20area%2C%20and%20next%20to%20it%20write%20a%20short%20title%20and%20a%20realistic%20percentage%20score%20from%200%E2%80%93100%25%20(based%20on%20global%20data)%2C%20for%20example%3A%0A%E2%80%9CFine%20lines%20%26%20wrinkles%20%E2%80%93%2018%25%E2%80%9D%0A%E2%80%9CSkin%20texture%20%26%20elasticity%20%E2%80%93%2072%25%E2%80%9D%0A%E2%80%9CFacial%20volume%20%26%20sagging%20%E2%80%93%2035%25%E2%80%9D%0A%E2%80%9CEye%20area%20aging%20signs%20%E2%80%93%2041%25%E2%80%9D%0A%E2%80%9CSkin%20tone%20%26%20pigmentation%20%E2%80%93%2063%25%E2%80%9D%0A%0AUse%20clean%2C%20modern%20sans-serif%20typography%20and%20small%20technical-style%20text%2C%20like%20a%20scientific%20facial%20analysis%20UI.%20At%20the%20bottom%20of%20the%20image%2C%20in%20the%20center%2C%20write%20a%20large%20bold%20text%20showing%20the%20final%20estimated%20real%20age%20based%20on%20the%20analysis%2C%20for%20example%3A%0A%E2%80%9CESTIMATED%20AGE%3A%20(random%20number%20based%20on%20face%20analysis)%E2%80%9D%0A%0AOverall%20style%3A%20futuristic%20AI-guided%20skincare%20analysis%2C%20minimalistic%2C%20premium%20editorial%20lighting%2C%20no%20gender%20specified%2C%20suitable%20for%20any%20human%20face.)**
 
 ---
 
@@ -884,14 +892,14 @@ A prompt that tells Nano Banana Pro to act like a Japanese manga artist with a D
 #### 📝 Prompt
 
 ```
-你是一个擅长中文的日本漫画家，有着强烈的个人手绘风格。《鬼灭之刃》的原始草稿手绘图，你是作者之一。
+You are a Japanese manga artist who is very good at Chinese and has a strong personal hand‑drawn style. You were one of the authors of the original draft hand‑drawn illustrations for "Demon Slayer".
 
-请使用你擅长的个人漫画线稿图风格, 调用Nano Banana Pro 将如下内容，基于你的理解，生成你的分格漫画手稿图！
+Use your signature manga line‑art style and call Nano Banana Pro to take the following content and, based on your understanding, generate paneled manga storyboard pages!
 
-不要输出分析内容，直接输出分格漫画图片，图中使用中文表达。
+Do not output analysis, directly output the paneled manga images, and use Chinese text in the panels.
 ────────────────
 
-{argument name="你提供的待分析内容" default="在这里填入你想改编成漫画的文字内容"}
+{argument name="your_input_content" default="Fill in the text you want to adapt into a manga here"}
 ```
 
 #### 🖼️ Generated Images
@@ -907,15 +915,16 @@ A prompt that tells Nano Banana Pro to act like a Japanese manga artist with a D
 - **Author:** [李继刚](https://x.com/lijigang_com)
 - **Source:** [Twitter Post](https://x.com/lijigang_com/status/1992900099484320208)
 - **Published:** November 24, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BD%A0%E6%98%AF%E4%B8%80%E4%B8%AA%E6%93%85%E9%95%BF%E4%B8%AD%E6%96%87%E7%9A%84%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%EF%BC%8C%E6%9C%89%E7%9D%80%E5%BC%BA%E7%83%88%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E3%80%82%E3%80%8A%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E3%80%8B%E7%9A%84%E5%8E%9F%E5%A7%8B%E8%8D%89%E7%A8%BF%E6%89%8B%E7%BB%98%E5%9B%BE%EF%BC%8C%E4%BD%A0%E6%98%AF%E4%BD%9C%E8%80%85%E4%B9%8B%E4%B8%80%E3%80%82%0A%0A%E8%AF%B7%E4%BD%BF%E7%94%A8%E4%BD%A0%E6%93%85%E9%95%BF%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%BC%AB%E7%94%BB%E7%BA%BF%E7%A8%BF%E5%9B%BE%E9%A3%8E%E6%A0%BC%2C%20%E8%B0%83%E7%94%A8Nano%20Banana%20Pro%20%E5%B0%86%E5%A6%82%E4%B8%8B%E5%86%85%E5%AE%B9%EF%BC%8C%E5%9F%BA%E4%BA%8E%E4%BD%A0%E7%9A%84%E7%90%86%E8%A7%A3%EF%BC%8C%E7%94%9F%E6%88%90%E4%BD%A0%E7%9A%84%E5%88%86%E6%A0%BC%E6%BC%AB%E7%94%BB%E6%89%8B%E7%A8%BF%E5%9B%BE%EF%BC%81%0A%0A%E4%B8%8D%E8%A6%81%E8%BE%93%E5%87%BA%E5%88%86%E6%9E%90%E5%86%85%E5%AE%B9%EF%BC%8C%E7%9B%B4%E6%8E%A5%E8%BE%93%E5%87%BA%E5%88%86%E6%A0%BC%E6%BC%AB%E7%94%BB%E5%9B%BE%E7%89%87%EF%BC%8C%E5%9B%BE%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E8%A1%A8%E8%BE%BE%E3%80%82%0A%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%0A%0A%7Bargument%20name%3D%22%E4%BD%A0%E6%8F%90%E4%BE%9B%E7%9A%84%E5%BE%85%E5%88%86%E6%9E%90%E5%86%85%E5%AE%B9%22%20default%3D%22%E5%9C%A8%E8%BF%99%E9%87%8C%E5%A1%AB%E5%85%A5%E4%BD%A0%E6%83%B3%E6%94%B9%E7%BC%96%E6%88%90%E6%BC%AB%E7%94%BB%E7%9A%84%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=You%20are%20a%20Japanese%20manga%20artist%20who%20is%20very%20good%20at%20Chinese%20and%20has%20a%20strong%20personal%20hand%E2%80%91drawn%20style.%20You%20were%20one%20of%20the%20authors%20of%20the%20original%20draft%20hand%E2%80%91drawn%20illustrations%20for%20%22Demon%20Slayer%22.%0A%0AUse%20your%20signature%20manga%20line%E2%80%91art%20style%20and%20call%20Nano%20Banana%20Pro%20to%20take%20the%20following%20content%20and%2C%20based%20on%20your%20understanding%2C%20generate%20paneled%20manga%20storyboard%20pages!%0A%0ADo%20not%20output%20analysis%2C%20directly%20output%20the%20paneled%20manga%20images%2C%20and%20use%20Chinese%20text%20in%20the%20panels.%0A%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%0A%0A%7Bargument%20name%3D%22your_input_content%22%20default%3D%22Fill%20in%20the%20text%20you%20want%20to%20adapt%20into%20a%20manga%20here%22%7D)**
 
 ---
 
 ### No. 14: Vintage engineering exploded view of Zhuge repeating crossbow
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -924,7 +933,7 @@ A concise Chinese prompt instructing Nano Banana Pro to create a retro-style eng
 #### 📝 Prompt
 
 ```
-请创建诸葛连弩的复古风格工程爆炸图，里面的文字是中文
+Please create a vintage-style engineering exploded view diagram of the {argument name="weapon_name" default="Zhuge repeating crossbow"}, with all labels and text in Chinese.
 ```
 
 #### 🖼️ Generated Images
@@ -940,9 +949,9 @@ A concise Chinese prompt instructing Nano Banana Pro to create a retro-style eng
 - **Author:** [铁锤人](https://x.com/lxfater)
 - **Source:** [Twitter Post](https://x.com/lxfater/status/1992869294569324715)
 - **Published:** November 24, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AF%B7%E5%88%9B%E5%BB%BA%E8%AF%B8%E8%91%9B%E8%BF%9E%E5%BC%A9%E7%9A%84%E5%A4%8D%E5%8F%A4%E9%A3%8E%E6%A0%BC%E5%B7%A5%E7%A8%8B%E7%88%86%E7%82%B8%E5%9B%BE%EF%BC%8C%E9%87%8C%E9%9D%A2%E7%9A%84%E6%96%87%E5%AD%97%E6%98%AF%E4%B8%AD%E6%96%87)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20a%20vintage-style%20engineering%20exploded%20view%20diagram%20of%20the%20%7Bargument%20name%3D%22weapon_name%22%20default%3D%22Zhuge%20repeating%20crossbow%22%7D%2C%20with%20all%20labels%20and%20text%20in%20Chinese.)**
 
 ---
 
@@ -958,7 +967,7 @@ A prompt for transforming a food photo into a hand-drawn vintage cookbook recipe
 #### 📝 Prompt
 
 ```
-Turn this {argument name="dish" default="ramen"} into a cute recipe page with illustrations in the style of a vintage cookbook that was hand-drawn.  A carefully drawn ingredients with labels, measures, and implements like bowls, whisks, or spoons should surround the composition's focal point.  To create a homey, nostalgic vibe, use textured shading, warm pastel colors, and fine, ink-like outlines.  Add recipe writing in the handwritten manner, including the ingredients and directions organically into the layout.  Make sure the page has an artistic and educational tone, combining the beauty of colorful illustrations with a cookbook aesthetic
+Turn this {argument name="dish_en" default="ramen"} into a cute recipe page with illustrations in the style of a hand-drawn vintage cookbook. Surround the main dish with carefully drawn ingredients, including labels, measurements, and utensils like bowls, whisks, or spoons. To create a homey, nostalgic feeling, use textured shading, warm pastel colors, and fine, ink-like outlines. Add handwritten-style recipe text, integrating the ingredients and directions organically into the layout. Make sure the page feels both artistic and educational, combining colorful illustrations with a classic cookbook aesthetic.
 ```
 
 #### 🖼️ Generated Images
@@ -980,9 +989,9 @@ Turn this {argument name="dish" default="ramen"} into a cute recipe page with il
 - **Author:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992866272413982922)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20%7Bargument%20name%3D%22dish%22%20default%3D%22ramen%22%7D%20into%20a%20cute%20recipe%20page%20with%20illustrations%20in%20the%20style%20of%20a%20vintage%20cookbook%20that%20was%20hand-drawn.%20%20A%20carefully%20drawn%20ingredients%20with%20labels%2C%20measures%2C%20and%20implements%20like%20bowls%2C%20whisks%2C%20or%20spoons%20should%20surround%20the%20composition's%20focal%20point.%20%20To%20create%20a%20homey%2C%20nostalgic%20vibe%2C%20use%20textured%20shading%2C%20warm%20pastel%20colors%2C%20and%20fine%2C%20ink-like%20outlines.%20%20Add%20recipe%20writing%20in%20the%20handwritten%20manner%2C%20including%20the%20ingredients%20and%20directions%20organically%20into%20the%20layout.%20%20Make%20sure%20the%20page%20has%20an%20artistic%20and%20educational%20tone%2C%20combining%20the%20beauty%20of%20colorful%20illustrations%20with%20a%20cookbook%20aesthetic)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20%7Bargument%20name%3D%22dish_en%22%20default%3D%22ramen%22%7D%20into%20a%20cute%20recipe%20page%20with%20illustrations%20in%20the%20style%20of%20a%20hand-drawn%20vintage%20cookbook.%20Surround%20the%20main%20dish%20with%20carefully%20drawn%20ingredients%2C%20including%20labels%2C%20measurements%2C%20and%20utensils%20like%20bowls%2C%20whisks%2C%20or%20spoons.%20To%20create%20a%20homey%2C%20nostalgic%20feeling%2C%20use%20textured%20shading%2C%20warm%20pastel%20colors%2C%20and%20fine%2C%20ink-like%20outlines.%20Add%20handwritten-style%20recipe%20text%2C%20integrating%20the%20ingredients%20and%20directions%20organically%20into%20the%20layout.%20Make%20sure%20the%20page%20feels%20both%20artistic%20and%20educational%2C%20combining%20colorful%20illustrations%20with%20a%20classic%20cookbook%20aesthetic.)**
 
 ---
 
@@ -998,7 +1007,7 @@ A short prompt for generating a cinematic multi-panel widescreen sequence illust
 #### 📝 Prompt
 
 ```
-create a cinematic sequence using multiple widescreen panels grids to tell the story of the imaginative script from the book "{argument name="book_title" default="IT"}"
+Create a cinematic sequence using multiple widescreen panel grids to tell the story of an imaginative script from the book "{argument name="book_title_en" default="IT"}."
 ```
 
 #### 🖼️ Generated Images
@@ -1020,9 +1029,9 @@ create a cinematic sequence using multiple widescreen panels grids to tell the s
 - **Author:** [James Yeung](https://x.com/jamesyeung18)
 - **Source:** [Twitter Post](https://x.com/jamesyeung18/status/1992842224934191182)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20cinematic%20sequence%20using%20multiple%20widescreen%20panels%20grids%20to%20tell%20the%20story%20of%20the%20imaginative%20script%20from%20the%20book%20%22%7Bargument%20name%3D%22book_title%22%20default%3D%22IT%22%7D%22)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20cinematic%20sequence%20using%20multiple%20widescreen%20panel%20grids%20to%20tell%20the%20story%20of%20an%20imaginative%20script%20from%20the%20book%20%22%7Bargument%20name%3D%22book_title_en%22%20default%3D%22IT%22%7D.%22)**
 
 ---
 
@@ -1119,7 +1128,7 @@ A JSON-style prompt for creating an 8K editorial fashion portrait of a person in
 - **Author:** [Zara](https://x.com/ZaraIrahh)
 - **Source:** [Twitter Post](https://x.com/ZaraIrahh/status/1992806778632085844)
 - **Published:** November 24, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22photo%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22editorial_fashion_photo%22%2C%0A%20%20%20%20%22quality%22%3A%20%228k%20photorealistic%22%2C%0A%20%20%20%20%22lens%22%3A%20%2250mm%20shallow%20depth%20of%20field%22%2C%0A%20%20%20%20%22composition%22%3A%20%22medium%20portrait%2C%20editorial%20framing%2C%20no%20text%2C%20no%20watermark%22%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22The%20model's%20face%20must%20remain%20100%25%20identical%20to%20the%20provided%20reference%20picture%20in%20all%20facial%20features%2C%20proportions%2C%20makeup%20style%2C%20and%20expression.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22model_pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22seated%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22relaxed%20pose%20with%20one%20leg%20bent%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22one%20hand%20supporting%20the%20head%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22calm%2C%20minimalist%20mood%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22jacket%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22cream%20shearling%20jacket%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22shaggy%2C%20fluffy%2C%20tactile%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shirt%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22denim%20shirt%22%2C%0A%20%20%20%20%20%20%20%20%22layered%22%3A%20true%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pants%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22light%20blue%20jeans%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22boots%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22black%20leather%20Chelsea%20boots%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22smooth%20polished%20leather%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22beige%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22textures%22%3A%20%7B%0A%20%20%20%20%20%20%22emphasis%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22fluffy%20shearling%20fibers%22%2C%0A%20%20%20%20%20%20%20%20%22rugged%20denim%20fabric%22%2C%0A%20%20%20%20%20%20%20%20%22smooth%20leather%20boots%22%2C%0A%20%20%20%20%20%20%20%20%22visible%20seams%22%2C%0A%20%20%20%20%20%20%20%20%22visible%20stitches%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22backdrop%22%3A%20%22clean%20light%20gray%20studio%20backdrop%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22soft%20natural%20studio%20lighting%22%2C%0A%20%20%20%20%20%20%20%20%22key_light%22%3A%20%22gentle%20side%20key%20light%22%2C%0A%20%20%20%20%20%20%20%20%22fill_light%22%3A%20%22subtle%20fill%22%2C%0A%20%20%20%20%20%20%20%20%22shadows%22%3A%20%22soft%20shadows%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22color_grade%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22cinematic%22%2C%0A%20%20%20%20%20%20%22balance%22%3A%20%22neutral%20warm-cool%20tone%20balance%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
@@ -1137,11 +1146,11 @@ A Korean prompt for turning only the drawing on a sheet of paper into a childlik
 #### 📝 Prompt
 
 ```
-이미지 속 나머지 구성은 그대로 유지하고, 도화지 속 그림만 스타일을 바꾸고 싶어.
+Keep all other elements in the image exactly as they are, and change only the drawing on the sheet of paper to a different style.
 
-그림의 내용은 {argument name="탈것" default="카라반"}을 타고 간 캠핑을 그린거고, 왼쪽의 두 명은 테이블에 앉아 있는 {argument name="인물_왼쪽_둘" default="엄마와 아이"}이고, 오른쪽은 {argument name="요리도구" default="바베큐기"}로 고기를 굽고 있는 {argument name="인물_오른쪽" default="아빠"}의 모습이야.
+The content of the drawing is a camping trip taken with a {argument name="vehicle_en" default="caravan"}. On the left, the two people are {argument name="left_characters_en" default="a mother and child"} sitting at a table, and on the right is {argument name="right_character_en" default="the father"} grilling meat using a {argument name="cooking_tool_en" default="barbecue grill"}.
 
-초등학생이 크래파스로 그린 그림체로 그림을 바꿔줘.
+Change the drawing into a style like an elementary school student’s crayon drawing.
 ```
 
 #### 🖼️ Generated Images
@@ -1157,9 +1166,9 @@ A Korean prompt for turning only the drawing on a sheet of paper into a childlik
 - **Author:** [SETI Park](https://x.com/seti_park)
 - **Source:** [Twitter Post](https://x.com/seti_park/status/1992441954744115286)
 - **Published:** November 23, 2025
-- **Language:** ko
+- **Languages:** ko
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EB%82%98%EB%A8%B8%EC%A7%80%20%EA%B5%AC%EC%84%B1%EC%9D%80%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B3%A0%2C%20%EB%8F%84%ED%99%94%EC%A7%80%20%EC%86%8D%20%EA%B7%B8%EB%A6%BC%EB%A7%8C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84%20%EB%B0%94%EA%BE%B8%EA%B3%A0%20%EC%8B%B6%EC%96%B4.%0A%0A%EA%B7%B8%EB%A6%BC%EC%9D%98%20%EB%82%B4%EC%9A%A9%EC%9D%80%20%7Bargument%20name%3D%22%ED%83%88%EA%B2%83%22%20default%3D%22%EC%B9%B4%EB%9D%BC%EB%B0%98%22%7D%EC%9D%84%20%ED%83%80%EA%B3%A0%20%EA%B0%84%20%EC%BA%A0%ED%95%91%EC%9D%84%20%EA%B7%B8%EB%A6%B0%EA%B1%B0%EA%B3%A0%2C%20%EC%99%BC%EC%AA%BD%EC%9D%98%20%EB%91%90%20%EB%AA%85%EC%9D%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%7Bargument%20name%3D%22%EC%9D%B8%EB%AC%BC_%EC%99%BC%EC%AA%BD_%EB%91%98%22%20default%3D%22%EC%97%84%EB%A7%88%EC%99%80%20%EC%95%84%EC%9D%B4%22%7D%EC%9D%B4%EA%B3%A0%2C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%9D%80%20%7Bargument%20name%3D%22%EC%9A%94%EB%A6%AC%EB%8F%84%EA%B5%AC%22%20default%3D%22%EB%B0%94%EB%B2%A0%ED%81%90%EA%B8%B0%22%7D%EB%A1%9C%20%EA%B3%A0%EA%B8%B0%EB%A5%BC%20%EA%B5%BD%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%7Bargument%20name%3D%22%EC%9D%B8%EB%AC%BC_%EC%98%A4%EB%A5%B8%EC%AA%BD%22%20default%3D%22%EC%95%84%EB%B9%A0%22%7D%EC%9D%98%20%EB%AA%A8%EC%8A%B5%EC%9D%B4%EC%95%BC.%0A%0A%EC%B4%88%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%B4%20%ED%81%AC%EB%9E%98%ED%8C%8C%EC%8A%A4%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EA%B7%B8%EB%A6%BC%EC%B2%B4%EB%A1%9C%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EB%B0%94%EA%BF%94%EC%A4%98.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20all%20other%20elements%20in%20the%20image%20exactly%20as%20they%20are%2C%20and%20change%20only%20the%20drawing%20on%20the%20sheet%20of%20paper%20to%20a%20different%20style.%0A%0AThe%20content%20of%20the%20drawing%20is%20a%20camping%20trip%20taken%20with%20a%20%7Bargument%20name%3D%22vehicle_en%22%20default%3D%22caravan%22%7D.%20On%20the%20left%2C%20the%20two%20people%20are%20%7Bargument%20name%3D%22left_characters_en%22%20default%3D%22a%20mother%20and%20child%22%7D%20sitting%20at%20a%20table%2C%20and%20on%20the%20right%20is%20%7Bargument%20name%3D%22right_character_en%22%20default%3D%22the%20father%22%7D%20grilling%20meat%20using%20a%20%7Bargument%20name%3D%22cooking_tool_en%22%20default%3D%22barbecue%20grill%22%7D.%0A%0AChange%20the%20drawing%20into%20a%20style%20like%20an%20elementary%20school%20student%E2%80%99s%20crayon%20drawing.)**
 
 ---
 
@@ -1175,7 +1184,7 @@ A prompt to create a grid of four different camera angles of a reference image, 
 #### 📝 Prompt
 
 ```
-Create a grid of 4 different camera angles of {argument name="reference" default="[@]img1"}, {argument name="camera_angle" default="[CAMERA ANGLE]"}, that follow the same style and colour palette as {argument name="reference_repeat" default="[@]img1"}. Make the new shots unique.
+Create a grid of four different camera angles of {argument name="reference_en" default="your reference image"}, with {argument name="camera_angle_en" default="your chosen camera angles"}, that follow the same style and color palette as {argument name="reference_repeat_en" default="the reference image"}. Make the new shots unique.
 ```
 
 #### 🖼️ Generated Images
@@ -1197,9 +1206,9 @@ Create a grid of 4 different camera angles of {argument name="reference" default
 - **Author:** [Yonslay_base_eth](https://x.com/Yonslay_eth)
 - **Source:** [Twitter Post](https://x.com/Yonslay_eth/status/1992217632553246911)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20grid%20of%204%20different%20camera%20angles%20of%20%7Bargument%20name%3D%22reference%22%20default%3D%22%5B%40%5Dimg1%22%7D%2C%20%7Bargument%20name%3D%22camera_angle%22%20default%3D%22%5BCAMERA%20ANGLE%5D%22%7D%2C%20that%20follow%20the%20same%20style%20and%20colour%20palette%20as%20%7Bargument%20name%3D%22reference_repeat%22%20default%3D%22%5B%40%5Dimg1%22%7D.%20Make%20the%20new%20shots%20unique.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20grid%20of%20four%20different%20camera%20angles%20of%20%7Bargument%20name%3D%22reference_en%22%20default%3D%22your%20reference%20image%22%7D%2C%20with%20%7Bargument%20name%3D%22camera_angle_en%22%20default%3D%22your%20chosen%20camera%20angles%22%7D%2C%20that%20follow%20the%20same%20style%20and%20color%20palette%20as%20%7Bargument%20name%3D%22reference_repeat_en%22%20default%3D%22the%20reference%20image%22%7D.%20Make%20the%20new%20shots%20unique.)**
 
 ---
 
@@ -1214,7 +1223,7 @@ An editing prompt that moves the painted moon to the left of a woman and switche
 #### 📝 Prompt
 
 ```
-女性の背景に描いている月を向かって左に移動させてください。絵のタッチを透明水彩に変えて。
+Move the moon that is painted in the background of the woman to the left side from the viewer’s perspective. Change the painting style to transparent watercolor.
 ```
 
 #### 🖼️ Generated Images
@@ -1236,9 +1245,9 @@ An editing prompt that moves the painted moon to the left of a woman and switche
 - **Author:** [marshmallowy](https://x.com/marshmallowy)
 - **Source:** [Twitter Post](https://x.com/marshmallowy/status/1992213195298406774)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A5%B3%E6%80%A7%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E6%8F%8F%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E6%9C%88%E3%82%92%E5%90%91%E3%81%8B%E3%81%A3%E3%81%A6%E5%B7%A6%E3%81%AB%E7%A7%BB%E5%8B%95%E3%81%95%E3%81%9B%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%B5%B5%E3%81%AE%E3%82%BF%E3%83%83%E3%83%81%E3%82%92%E9%80%8F%E6%98%8E%E6%B0%B4%E5%BD%A9%E3%81%AB%E5%A4%89%E3%81%88%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Move%20the%20moon%20that%20is%20painted%20in%20the%20background%20of%20the%20woman%20to%20the%20left%20side%20from%20the%20viewer%E2%80%99s%20perspective.%20Change%20the%20painting%20style%20to%20transparent%20watercolor.)**
 
 ---
 
@@ -1254,7 +1263,7 @@ A reasoning-heavy prompt that asks the AI to create an image of a major event th
 #### 📝 Prompt
 
 ```
-Create an image of the major event that happened at these coordinates: {argument name="coordinates" default="41°43′32″N 49°56′49″W"}.
+Create an image of the major event that happened at these coordinates: {argument name="coordinates_en" default="41°43′32″N 49°56′49″W"}.
 ```
 
 #### 🖼️ Generated Images
@@ -1270,9 +1279,9 @@ Create an image of the major event that happened at these coordinates: {argument
 - **Author:** [AshutoshShrivastava](https://x.com/ai_for_success)
 - **Source:** [Twitter Post](https://x.com/ai_for_success/status/1992212586746769736)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20the%20major%20event%20that%20happened%20at%20these%20coordinates%3A%20%7Bargument%20name%3D%22coordinates%22%20default%3D%2241%C2%B043%E2%80%B232%E2%80%B3N%2049%C2%B056%E2%80%B249%E2%80%B3W%22%7D.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20the%20major%20event%20that%20happened%20at%20these%20coordinates%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2241%C2%B043%E2%80%B232%E2%80%B3N%2049%C2%B056%E2%80%B249%E2%80%B3W%22%7D.)**
 
 ---
 
@@ -1288,7 +1297,7 @@ A simple prompt to generate an infographic summarizing information about the Jac
 #### 📝 Prompt
 
 ```
-Infographic about {argument name="topic" default="the Jackson Laboratory"}
+Infographic about {argument name="topic_en" default="the Jackson Laboratory"}.
 ```
 
 #### 🖼️ Generated Images
@@ -1304,9 +1313,9 @@ Infographic about {argument name="topic" default="the Jackson Laboratory"}
 - **Author:** [Derya Unutmaz, MD](https://x.com/DeryaTR_)
 - **Source:** [Twitter Post](https://x.com/DeryaTR_/status/1992210130050363839)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Infographic%20about%20%7Bargument%20name%3D%22topic%22%20default%3D%22the%20Jackson%20Laboratory%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Infographic%20about%20%7Bargument%20name%3D%22topic_en%22%20default%3D%22the%20Jackson%20Laboratory%22%7D.)**
 
 ---
 
@@ -1321,7 +1330,7 @@ A Japanese prompt that asks Nano Banana Pro to design a clean, flowing layout ba
 #### 📝 Prompt
 
 ```
-参照画像にある文章をもとにデザイン制作してください。レイアウトは無視してください。プロデザイナーのように。綺麗で整った美しく流れるデザインを作ってください。
+Please create a design based on the text in the reference image. Ignore the layout. Design it like a professional designer would. Create a clean, well‑organized design with a beautiful flow.
 ```
 
 #### 🖼️ Generated Images
@@ -1337,9 +1346,9 @@ A Japanese prompt that asks Nano Banana Pro to design a clean, flowing layout ba
 - **Author:** [Webデザイナーのふじわら｜Elementorでホームページ制作](https://x.com/fujiwara_web)
 - **Source:** [Twitter Post](https://x.com/fujiwara_web/status/1992205534918008910)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%82%E3%82%8B%E6%96%87%E7%AB%A0%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%81%AF%E7%84%A1%E8%A6%96%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%97%E3%83%AD%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E7%B6%BA%E9%BA%97%E3%81%A7%E6%95%B4%E3%81%A3%E3%81%9F%E7%BE%8E%E3%81%97%E3%81%8F%E6%B5%81%E3%82%8C%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20a%20design%20based%20on%20the%20text%20in%20the%20reference%20image.%20Ignore%20the%20layout.%20Design%20it%20like%20a%20professional%20designer%20would.%20Create%20a%20clean%2C%20well%E2%80%91organized%20design%20with%20a%20beautiful%20flow.)**
 
 ---
 
@@ -1354,7 +1363,7 @@ A Japanese prompt to generate 12 LINE stickers themed around a deformed cute Shi
 #### 📝 Prompt
 
 ```
-デフォルメした可愛いシマエナガをテーマにした12種類のLINEスタンプをデザイン。バリエーション豊富になるようにポーズや文字配置を工夫して個性的なデザインに仕上げる。台詞は日本語。背景は白。スタンプのターゲットユーザーは「女子高生」
+Design 12 LINE stickers themed around a deformed, cute Shima-enaga bird. Vary the poses and text layout so the designs are unique and diverse. The dialogue should be in Japanese. The background is white. The target users for the stickers are "high school girls."
 ```
 
 #### 🖼️ Generated Images
@@ -1370,9 +1379,9 @@ A Japanese prompt to generate 12 LINE stickers themed around a deformed cute Shi
 - **Author:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
 - **Source:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1992198283738087579)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%A1%E3%81%97%E3%81%9F%E5%8F%AF%E6%84%9B%E3%81%84%E3%82%B7%E3%83%9E%E3%82%A8%E3%83%8A%E3%82%AC%E3%82%92%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AB%E3%81%97%E3%81%9F12%E7%A8%AE%E9%A1%9E%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%83%90%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B1%8A%E5%AF%8C%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%84%E6%96%87%E5%AD%97%E9%85%8D%E7%BD%AE%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E5%80%8B%E6%80%A7%E7%9A%84%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E4%BB%95%E4%B8%8A%E3%81%92%E3%82%8B%E3%80%82%E5%8F%B0%E8%A9%9E%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E7%99%BD%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AF%E3%80%8C%E5%A5%B3%E5%AD%90%E9%AB%98%E7%94%9F%E3%80%8D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Design%2012%20LINE%20stickers%20themed%20around%20a%20deformed%2C%20cute%20Shima-enaga%20bird.%20Vary%20the%20poses%20and%20text%20layout%20so%20the%20designs%20are%20unique%20and%20diverse.%20The%20dialogue%20should%20be%20in%20Japanese.%20The%20background%20is%20white.%20The%20target%20users%20for%20the%20stickers%20are%20%22high%20school%20girls.%22)**
 
 ---
 
@@ -1387,7 +1396,7 @@ A simple English prompt to create an infographic summarizing Google’s early ye
 #### 📝 Prompt
 
 ```
-please create an info graphic about google's early years and its major milestones
+Please create an infographic about Google’s early years and its major milestones.
 ```
 
 #### 🖼️ Generated Images
@@ -1403,9 +1412,9 @@ please create an info graphic about google's early years and its major milestone
 - **Author:** [Vik](https://x.com/onlinedopamine)
 - **Source:** [Twitter Post](https://x.com/onlinedopamine/status/1992192837446693024)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=please%20create%20an%20info%20graphic%20about%20google's%20early%20years%20and%20its%20major%20milestones)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20an%20infographic%20about%20Google%E2%80%99s%20early%20years%20and%20its%20major%20milestones.)**
 
 ---
 
@@ -1420,7 +1429,7 @@ A prompt for generating a sprite sheet for a 2D NES-style platformer game, inclu
 #### 📝 Prompt
 
 ```
-create a sprite sheet for a 2D NES platforming game, include enemies and NPCs
+Create a sprite sheet for a 2D NES platforming game, including enemies and NPCs.
 ```
 
 #### 🖼️ Generated Images
@@ -1436,9 +1445,9 @@ create a sprite sheet for a 2D NES platforming game, include enemies and NPCs
 - **Author:** [Glenn Williams](https://x.com/GlennHasABeard)
 - **Source:** [Twitter Post](https://x.com/GlennHasABeard/status/1992192409086636300)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20sprite%20sheet%20for%20a%202D%20NES%20platforming%20game%2C%20include%20enemies%20and%20NPCs)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20sprite%20sheet%20for%20a%202D%20NES%20platforming%20game%2C%20including%20enemies%20and%20NPCs.)**
 
 ---
 
@@ -1453,7 +1462,7 @@ A Japanese prompt that asks Nano Banana Pro to generate a single image containin
 #### 📝 Prompt
 
 ```
-塗装シミュレーションができるよう、何パターンかを見比べられる1枚の画像にしてください
+So that I can do a paint simulation, make a single image that lets me compare several different patterns.
 ```
 
 #### 🖼️ Generated Images
@@ -1469,9 +1478,9 @@ A Japanese prompt that asks Nano Banana Pro to generate a single image containin
 - **Author:** [ひで@卒サラ生活 / 不動産×民泊](https://x.com/pippi_os)
 - **Source:** [Twitter Post](https://x.com/pippi_os/status/1992192307895157014)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A1%97%E8%A3%85%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%80%81%E4%BD%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%8B%E3%82%92%E8%A6%8B%E6%AF%94%E3%81%B9%E3%82%89%E3%82%8C%E3%82%8B1%E6%9E%9A%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=So%20that%20I%20can%20do%20a%20paint%20simulation%2C%20make%20a%20single%20image%20that%20lets%20me%20compare%20several%20different%20patterns.)**
 
 ---
 
@@ -1487,7 +1496,7 @@ Uses uploaded photos and a sketch to compose a 1990s-style NYC action shot of a 
 #### 📝 Prompt
 
 ```
-Use man photo as slipping off the building edge, woman is reaching out, match sketch pose and composition precisely, {argument name="city_style" default="nyc"} (style reference) for the scene. High quality action shot from the 90’s
+Use the man photo as if he is slipping off the building edge, the woman is reaching out, match the sketch pose and composition precisely, use {argument name="city_style_en" default="NYC"} as the style reference for the scene. High-quality action shot from the 1990s.
 ```
 
 #### 🖼️ Generated Images
@@ -1521,9 +1530,9 @@ Use man photo as slipping off the building edge, woman is reaching out, match sk
 - **Author:** [Marcus Byrne](https://x.com/Marcus_Byrne)
 - **Source:** [Twitter Post](https://x.com/Marcus_Byrne/status/1992191090259325344)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20man%20photo%20as%20slipping%20off%20the%20building%20edge%2C%20woman%20is%20reaching%20out%2C%20match%20sketch%20pose%20and%20composition%20precisely%2C%20%7Bargument%20name%3D%22city_style%22%20default%3D%22nyc%22%7D%20(style%20reference)%20for%20the%20scene.%20High%20quality%20action%20shot%20from%20the%2090%E2%80%99s)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20the%20man%20photo%20as%20if%20he%20is%20slipping%20off%20the%20building%20edge%2C%20the%20woman%20is%20reaching%20out%2C%20match%20the%20sketch%20pose%20and%20composition%20precisely%2C%20use%20%7Bargument%20name%3D%22city_style_en%22%20default%3D%22NYC%22%7D%20as%20the%20style%20reference%20for%20the%20scene.%20High-quality%20action%20shot%20from%20the%201990s.)**
 
 ---
 
@@ -1539,7 +1548,7 @@ A Japanese prompt to generate an Edo-period style woodblock print of a character
 #### 📝 Prompt
 
 ```
-キャラクターが見栄を切ってカッコいいポーズを取っている、タイトル「{argument name="タイトル" default="からくり忍者　朧"}」の版画の画像、江戸時代の作風
+An image of a woodblock print, in the style of the Edo period, showing a character striking a bold, cool pose, with the title "{argument name="title_en" default="Karakuri Ninja Oboro"}."
 ```
 
 #### 🖼️ Generated Images
@@ -1555,9 +1564,9 @@ A Japanese prompt to generate an Edo-period style woodblock print of a character
 - **Author:** [FANTAN GLITCHBOX](https://x.com/fantanglitchbox)
 - **Source:** [Twitter Post](https://x.com/fantanglitchbox/status/1992190942577840519)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E8%A6%8B%E6%A0%84%E3%82%92%E5%88%87%E3%81%A3%E3%81%A6%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E5%8F%96%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%80%8C%7Bargument%20name%3D%22%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%22%20default%3D%22%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%BF%8D%E8%80%85%E3%80%80%E6%9C%A7%22%7D%E3%80%8D%E3%81%AE%E7%89%88%E7%94%BB%E3%81%AE%E7%94%BB%E5%83%8F%E3%80%81%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%81%AE%E4%BD%9C%E9%A2%A8)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=An%20image%20of%20a%20woodblock%20print%2C%20in%20the%20style%20of%20the%20Edo%20period%2C%20showing%20a%20character%20striking%20a%20bold%2C%20cool%20pose%2C%20with%20the%20title%20%22%7Bargument%20name%3D%22title_en%22%20default%3D%22Karakuri%20Ninja%20Oboro%22%7D.%22)**
 
 ---
 
@@ -1573,7 +1582,7 @@ A prompt for generating a six-image documentary-style series of an Indonesian pr
 #### 📝 Prompt
 
 ```
-Generate a series of six candid, documentary-style photos of {argument name="person" default="this Indonesian president"} in office, in the rice fields, and partying with other presidents.
+Generate a series of six candid, documentary-style photos of {argument name="person_en" default="this Indonesian president"} in office, in the rice fields, and partying with other presidents.
 ```
 
 #### 🖼️ Generated Images
@@ -1595,9 +1604,9 @@ Generate a series of six candid, documentary-style photos of {argument name="per
 - **Author:** [DΞV](https://x.com/junwatu)
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992189756051279884)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20series%20of%20six%20candid%2C%20documentary-style%20photos%20of%20%7Bargument%20name%3D%22person%22%20default%3D%22this%20Indonesian%20president%22%7D%20in%20office%2C%20in%20the%20rice%20fields%2C%20and%20partying%20with%20other%20presidents.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20series%20of%20six%20candid%2C%20documentary-style%20photos%20of%20%7Bargument%20name%3D%22person_en%22%20default%3D%22this%20Indonesian%20president%22%7D%20in%20office%2C%20in%20the%20rice%20fields%2C%20and%20partying%20with%20other%20presidents.)**
 
 ---
 
@@ -1612,7 +1621,7 @@ A style-transfer prompt that turns the user’s website into a full 1990s-themed
 #### 📝 Prompt
 
 ```
-Create a 90s version of my website
+Create a 90s version of my website.
 ```
 
 #### 🖼️ Generated Images
@@ -1640,9 +1649,9 @@ Create a 90s version of my website
 - **Author:** [DΞV](https://x.com/junwatu)
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992189119917895819)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%2090s%20version%20of%20my%20website)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%2090s%20version%20of%20my%20website.)**
 
 ---
 
@@ -1657,7 +1666,7 @@ A creative style prompt that transforms the entire Netflix screen into a western
 #### 📝 Prompt
 
 ```
-Turning the whole Netflix screen into a western version
+Turn the whole Netflix screen into a western version.
 ```
 
 #### 🖼️ Generated Images
@@ -1673,9 +1682,9 @@ Turning the whole Netflix screen into a western version
 - **Author:** [Dolcefoto](https://x.com/FOTOAGUADO)
 - **Source:** [Twitter Post](https://x.com/FOTOAGUADO/status/1992186306768630102)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turning%20the%20whole%20Netflix%20screen%20into%20a%20western%20version)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20the%20whole%20Netflix%20screen%20into%20a%20western%20version.)**
 
 ---
 
@@ -1691,13 +1700,13 @@ A reusable prompt template that assigns the model the role of a graphic designer
 #### 📝 Prompt
 
 ```
-目的：（例）{argument name="目的" default="Note記事で使用するサムネイル作成"}
-テーマ：（例）{argument name="テーマ" default="「副業」で見極めた、30歳会社員の私が「独立」を決めた理由"}
-※あなたの目的とテーマを入れてください！
+Purpose: (example) {argument name="purpose_en" default="Create a thumbnail to use for a Note article"}
+Theme: (example) {argument name="theme_en" default="Why I, a 30-year-old office worker, decided to go independent after evaluating my side job"}
+*Please insert your own purpose and theme!*
 
-あなたの役割は「グラフィックデザイナー兼マーケター」です。
-読者が思わずクリックしたくなるデザインを作成してください。
-まずはデザイン案3つ画像を出力してください。
+Your role is “graphic designer and marketer.”
+Create designs that make readers want to click instinctively.
+First, output three design option images.
 ```
 
 #### 🖼️ Generated Images
@@ -1725,9 +1734,9 @@ A reusable prompt template that assigns the model the role of a graphic designer
 - **Author:** [加藤駿平｜トップセールス営業マン](https://x.com/K_PLAN37)
 - **Source:** [Twitter Post](https://x.com/K_PLAN37/status/1992186301601431764)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%9B%AE%E7%9A%84%EF%BC%9A%EF%BC%88%E4%BE%8B%EF%BC%89%7Bargument%20name%3D%22%E7%9B%AE%E7%9A%84%22%20default%3D%22Note%E8%A8%98%E4%BA%8B%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E4%BD%9C%E6%88%90%22%7D%0A%E3%83%86%E3%83%BC%E3%83%9E%EF%BC%9A%EF%BC%88%E4%BE%8B%EF%BC%89%7Bargument%20name%3D%22%E3%83%86%E3%83%BC%E3%83%9E%22%20default%3D%22%E3%80%8C%E5%89%AF%E6%A5%AD%E3%80%8D%E3%81%A7%E8%A6%8B%E6%A5%B5%E3%82%81%E3%81%9F%E3%80%8130%E6%AD%B3%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%81%AE%E7%A7%81%E3%81%8C%E3%80%8C%E7%8B%AC%E7%AB%8B%E3%80%8D%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E7%90%86%E7%94%B1%22%7D%0A%E2%80%BB%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E7%9B%AE%E7%9A%84%E3%81%A8%E3%83%86%E3%83%BC%E3%83%9E%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%EF%BC%81%0A%0A%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%BD%B9%E5%89%B2%E3%81%AF%E3%80%8C%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E5%85%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%82%BF%E3%83%BC%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E8%AA%AD%E8%80%85%E3%81%8C%E6%80%9D%E3%82%8F%E3%81%9A%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%9F%E3%81%8F%E3%81%AA%E3%82%8B%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%81%BE%E3%81%9A%E3%81%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%A1%883%E3%81%A4%E7%94%BB%E5%83%8F%E3%82%92%E5%87%BA%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Purpose%3A%20(example)%20%7Bargument%20name%3D%22purpose_en%22%20default%3D%22Create%20a%20thumbnail%20to%20use%20for%20a%20Note%20article%22%7D%0ATheme%3A%20(example)%20%7Bargument%20name%3D%22theme_en%22%20default%3D%22Why%20I%2C%20a%2030-year-old%20office%20worker%2C%20decided%20to%20go%20independent%20after%20evaluating%20my%20side%20job%22%7D%0A*Please%20insert%20your%20own%20purpose%20and%20theme!*%0A%0AYour%20role%20is%20%E2%80%9Cgraphic%20designer%20and%20marketer.%E2%80%9D%0ACreate%20designs%20that%20make%20readers%20want%20to%20click%20instinctively.%0AFirst%2C%20output%20three%20design%20option%20images.)**
 
 ---
 
@@ -1742,7 +1751,7 @@ An edit-style prompt that takes a reference person and lays out each piece of he
 #### 📝 Prompt
 
 ```
-Give each piece of her clothing separately on the bed
+Lay out each piece of her clothing separately on the bed.
 ```
 
 #### 🖼️ Generated Images
@@ -1764,9 +1773,9 @@ Give each piece of her clothing separately on the bed
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992182441403183489)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Lay%20out%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed.)**
 
 ---
 
@@ -1782,7 +1791,7 @@ A concise English prompt to generate doodle-style illustrations with naive lines
 #### 📝 Prompt
 
 ```
-A doodle-style {argument name="subject" default="[subject]"}, naive lines, humorous shape exaggeration
+A doodle‑style illustration of {argument name="subject_en" default="[subject]"}, with naive lines and humorous exaggeration of shapes.
 ```
 
 #### 🖼️ Generated Images
@@ -1798,9 +1807,9 @@ A doodle-style {argument name="subject" default="[subject]"}, naive lines, humor
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Source:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1992181199473938774)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20doodle-style%20%7Bargument%20name%3D%22subject%22%20default%3D%22%5Bsubject%5D%22%7D%2C%20naive%20lines%2C%20humorous%20shape%20exaggeration)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20doodle%E2%80%91style%20illustration%20of%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22%5Bsubject%5D%22%7D%2C%20with%20naive%20lines%20and%20humorous%20exaggeration%20of%20shapes.)**
 
 ---
 
@@ -1815,7 +1824,7 @@ An extremely short prompt instructing the model to generate an action movie scen
 #### 📝 Prompt
 
 ```
-Make an action movie scene
+Make an action movie scene.
 ```
 
 #### 🖼️ Generated Images
@@ -1831,9 +1840,9 @@ Make an action movie scene
 - **Author:** [K](https://x.com/ChillaiKalan__)
 - **Source:** [Twitter Post](https://x.com/ChillaiKalan__/status/1992178232465248491)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20action%20movie%20scene)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20action%20movie%20scene.)**
 
 ---
 
@@ -1848,9 +1857,9 @@ A Japanese prompt for turning AI news content into a hand-drawn, teacher-style c
 #### 📝 Prompt
 
 ```
-以下を内容で黒板風の手書きみたいな感じでニュースをまとめて、先生が書いたみたいに図解や分かりやすい表現に噛み砕いてよろしく。
+Using the following content, summarize the news in a chalkboard-style, hand‑written look, and break it down with diagrams and easy‑to‑understand expressions as if a teacher had written it.
 —-
-Grokの検索結果
+Search results from Grok
 ```
 
 #### 🖼️ Generated Images
@@ -1866,9 +1875,9 @@ Grokの検索結果
 - **Author:** [ひでもん | AI開発@ニュース発信](https://x.com/okknews)
 - **Source:** [Twitter Post](https://x.com/okknews/status/1992173611520868372)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E4%B8%8B%E3%82%92%E5%86%85%E5%AE%B9%E3%81%A7%E9%BB%92%E6%9D%BF%E9%A2%A8%E3%81%AE%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AA%E6%84%9F%E3%81%98%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%80%81%E5%85%88%E7%94%9F%E3%81%8C%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AB%E5%9B%B3%E8%A7%A3%E3%82%84%E5%88%86%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E8%A1%A8%E7%8F%BE%E3%81%AB%E5%99%9B%E3%81%BF%E7%A0%95%E3%81%84%E3%81%A6%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%80%82%0A%E2%80%94-%0AGrok%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Using%20the%20following%20content%2C%20summarize%20the%20news%20in%20a%20chalkboard-style%2C%20hand%E2%80%91written%20look%2C%20and%20break%20it%20down%20with%20diagrams%20and%20easy%E2%80%91to%E2%80%91understand%20expressions%20as%20if%20a%20teacher%20had%20written%20it.%0A%E2%80%94-%0ASearch%20results%20from%20Grok)**
 
 ---
 
@@ -1884,7 +1893,7 @@ A Japanese prompt that generates a 1:1 photorealistic close-up of freshly baked 
 #### 📝 Prompt
 
 ```
-焼きたてのナンをクローズアップしたアスペクト比1:1のフォトリアリスティックな画像。ふっくら膨らんだナンの表面に、焦げ目で「{argument name="メッセージ" default="ナンでもできる"}」という文字が浮かび上がっている。カレーの入った器が横に添えられている。
+A 1:1 aspect ratio photorealistic close‑up image of freshly baked naan. On the surface of the fluffy, puffed‑up naan, the words "{argument name="message_en" default="You can do naan-thing"}" appear in char marks. A bowl of curry is placed beside it.
 ```
 
 #### 🖼️ Generated Images
@@ -1918,9 +1927,9 @@ A Japanese prompt that generates a 1:1 photorealistic close-up of freshly baked 
 - **Author:** [ケンイチ | AIスキルアカデミー『仕事に使えるAI活用術』](https://x.com/ChatgptAIskill)
 - **Source:** [Twitter Post](https://x.com/ChatgptAIskill/status/1992171222545957241)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%84%BC%E3%81%8D%E3%81%9F%E3%81%A6%E3%81%AE%E3%83%8A%E3%83%B3%E3%82%92%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%9F%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%941%3A1%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AA%E7%94%BB%E5%83%8F%E3%80%82%E3%81%B5%E3%81%A3%E3%81%8F%E3%82%89%E8%86%A8%E3%82%89%E3%82%93%E3%81%A0%E3%83%8A%E3%83%B3%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%81%AB%E3%80%81%E7%84%A6%E3%81%92%E7%9B%AE%E3%81%A7%E3%80%8C%7Bargument%20name%3D%22%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%22%20default%3D%22%E3%83%8A%E3%83%B3%E3%81%A7%E3%82%82%E3%81%A7%E3%81%8D%E3%82%8B%22%7D%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%8C%E6%B5%AE%E3%81%8B%E3%81%B3%E4%B8%8A%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E5%85%A5%E3%81%A3%E3%81%9F%E5%99%A8%E3%81%8C%E6%A8%AA%E3%81%AB%E6%B7%BB%E3%81%88%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%201%3A1%20aspect%20ratio%20photorealistic%20close%E2%80%91up%20image%20of%20freshly%20baked%20naan.%20On%20the%20surface%20of%20the%20fluffy%2C%20puffed%E2%80%91up%20naan%2C%20the%20words%20%22%7Bargument%20name%3D%22message_en%22%20default%3D%22You%20can%20do%20naan-thing%22%7D%22%20appear%20in%20char%20marks.%20A%20bowl%20of%20curry%20is%20placed%20beside%20it.)**
 
 ---
 
@@ -1935,7 +1944,7 @@ A hybrid prompt that takes a food photo as reference and turns each ingredient i
 #### 📝 Prompt
 
 ```
-参考画像の食材を、生物の姿に再構成。同じ並び順で配置し、名前・カロリー・栄養指数をそれぞれ明記。科学的な豆知識を添えた“食材紹介ポスター”風に仕上げ
+Reconstruct the ingredients from the reference image as living creatures. Arrange them in the same order, and clearly label each with its name, calories, and nutrition index. Finish it as a “ingredient introduction poster” style image with scientific fun facts added.
 ```
 
 #### 🖼️ Generated Images
@@ -1957,9 +1966,9 @@ A hybrid prompt that takes a food photo as reference and turns each ingredient i
 - **Author:** [KANA](https://x.com/KanaWorks_AI)
 - **Source:** [Twitter Post](https://x.com/KanaWorks_AI/status/1992169264166424825)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AE%E9%A3%9F%E6%9D%90%E3%82%92%E3%80%81%E7%94%9F%E7%89%A9%E3%81%AE%E5%A7%BF%E3%81%AB%E5%86%8D%E6%A7%8B%E6%88%90%E3%80%82%E5%90%8C%E3%81%98%E4%B8%A6%E3%81%B3%E9%A0%86%E3%81%A7%E9%85%8D%E7%BD%AE%E3%81%97%E3%80%81%E5%90%8D%E5%89%8D%E3%83%BB%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC%E3%83%BB%E6%A0%84%E9%A4%8A%E6%8C%87%E6%95%B0%E3%82%92%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E6%98%8E%E8%A8%98%E3%80%82%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AA%E8%B1%86%E7%9F%A5%E8%AD%98%E3%82%92%E6%B7%BB%E3%81%88%E3%81%9F%E2%80%9C%E9%A3%9F%E6%9D%90%E7%B4%B9%E4%BB%8B%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E2%80%9D%E9%A2%A8%E3%81%AB%E4%BB%95%E4%B8%8A%E3%81%92)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Reconstruct%20the%20ingredients%20from%20the%20reference%20image%20as%20living%20creatures.%20Arrange%20them%20in%20the%20same%20order%2C%20and%20clearly%20label%20each%20with%20its%20name%2C%20calories%2C%20and%20nutrition%20index.%20Finish%20it%20as%20a%20%E2%80%9Cingredient%20introduction%20poster%E2%80%9D%20style%20image%20with%20scientific%20fun%20facts%20added.)**
 
 ---
 
@@ -1974,7 +1983,7 @@ A prompt to generate a Japanese gyaru-style magazine feature page focusing on sc
 #### 📝 Prompt
 
 ```
-日本のギャル雑誌。制服の着こなし特集ページ。
+A Japanese gyaru magazine feature page about styling school uniforms.
 ```
 
 #### 🖼️ Generated Images
@@ -1990,9 +1999,9 @@ A prompt to generate a Japanese gyaru-style magazine feature page focusing on sc
 - **Author:** [cppp](https://x.com/mmm53096445)
 - **Source:** [Twitter Post](https://x.com/mmm53096445/status/1992165736387919986)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%AE%E3%83%A3%E3%83%AB%E9%9B%91%E8%AA%8C%E3%80%82%E5%88%B6%E6%9C%8D%E3%81%AE%E7%9D%80%E3%81%93%E3%81%AA%E3%81%97%E7%89%B9%E9%9B%86%E3%83%9A%E3%83%BC%E3%82%B8%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20Japanese%20gyaru%20magazine%20feature%20page%20about%20styling%20school%20uniforms.)**
 
 ---
 
@@ -2008,7 +2017,7 @@ A Japanese text-only prompt that creates a Yu-Gi-Oh magic card themed around a s
 #### 📝 Prompt
 
 ```
-遊戯王カードの魔法カードをデザイン。イラストは遊戯王の公式イラストのスタイルで魅力的に描いて。カードのテーマは「{argument name="カードテーマ" default="ビットコイン大暴落"}」。説明は日本語で表記し、ふりがな・ルビは使用禁止。カードの外側の背景は白。
+Design a Yu‑Gi‑Oh! magic card. Draw the illustration in the style of official Yu‑Gi‑Oh! artwork, making it appealing. The theme of the card is "{argument name="card_theme_en" default="Bitcoin crash"}." Write the description in Japanese, and do not use furigana or ruby text. The outer background of the card should be white.
 ```
 
 #### 🖼️ Generated Images
@@ -2030,9 +2039,9 @@ A Japanese text-only prompt that creates a Yu-Gi-Oh magic card themed around a s
 - **Author:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
 - **Source:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1992160819002671403)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%81%8A%E6%88%AF%E7%8E%8B%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E9%AD%94%E6%B3%95%E3%82%AB%E3%83%BC%E3%83%89%E3%82%92%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%80%82%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AF%E9%81%8A%E6%88%AF%E7%8E%8B%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AE%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%A7%E9%AD%85%E5%8A%9B%E7%9A%84%E3%81%AB%E6%8F%8F%E3%81%84%E3%81%A6%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E3%80%8C%7Bargument%20name%3D%22%E3%82%AB%E3%83%BC%E3%83%89%E3%83%86%E3%83%BC%E3%83%9E%22%20default%3D%22%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E5%A4%A7%E6%9A%B4%E8%90%BD%22%7D%E3%80%8D%E3%80%82%E8%AA%AC%E6%98%8E%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E8%A1%A8%E8%A8%98%E3%81%97%E3%80%81%E3%81%B5%E3%82%8A%E3%81%8C%E3%81%AA%E3%83%BB%E3%83%AB%E3%83%93%E3%81%AF%E4%BD%BF%E7%94%A8%E7%A6%81%E6%AD%A2%E3%80%82%E3%82%AB%E3%83%BC%E3%83%89%E3%81%AE%E5%A4%96%E5%81%B4%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AF%E7%99%BD%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Design%20a%20Yu%E2%80%91Gi%E2%80%91Oh!%20magic%20card.%20Draw%20the%20illustration%20in%20the%20style%20of%20official%20Yu%E2%80%91Gi%E2%80%91Oh!%20artwork%2C%20making%20it%20appealing.%20The%20theme%20of%20the%20card%20is%20%22%7Bargument%20name%3D%22card_theme_en%22%20default%3D%22Bitcoin%20crash%22%7D.%22%20Write%20the%20description%20in%20Japanese%2C%20and%20do%20not%20use%20furigana%20or%20ruby%20text.%20The%20outer%20background%20of%20the%20card%20should%20be%20white.)**
 
 ---
 
@@ -2047,7 +2056,7 @@ A prompt that composites two images so the second character hugs the first perso
 #### 📝 Prompt
 
 ```
-画像一枚目の写真の人物の後ろから、画像二枚目のキャラクターが抱きついて前に手を回して一緒に写っているシーンを生成
+Generate a scene where the character from the second image is hugging the person in the first photo from behind, wrapping their arms around to the front, and they are shown together in the shot.
 ```
 
 #### 🖼️ Generated Images
@@ -2063,9 +2072,9 @@ A prompt that composites two images so the second character hugs the first perso
 - **Author:** [ヒカヲ／GPT愛](https://x.com/hikawoai)
 - **Source:** [Twitter Post](https://x.com/hikawoai/status/1992160199705280640)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E4%B8%80%E6%9E%9A%E7%9B%AE%E3%81%AE%E5%86%99%E7%9C%9F%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%AE%E5%BE%8C%E3%82%8D%E3%81%8B%E3%82%89%E3%80%81%E7%94%BB%E5%83%8F%E4%BA%8C%E6%9E%9A%E7%9B%AE%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E6%8A%B1%E3%81%8D%E3%81%A4%E3%81%84%E3%81%A6%E5%89%8D%E3%81%AB%E6%89%8B%E3%82%92%E5%9B%9E%E3%81%97%E3%81%A6%E4%B8%80%E7%B7%92%E3%81%AB%E5%86%99%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92%E7%94%9F%E6%88%90)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20scene%20where%20the%20character%20from%20the%20second%20image%20is%20hugging%20the%20person%20in%20the%20first%20photo%20from%20behind%2C%20wrapping%20their%20arms%20around%20to%20the%20front%2C%20and%20they%20are%20shown%20together%20in%20the%20shot.)**
 
 ---
 
@@ -2080,7 +2089,7 @@ A concise Japanese prompt that asks Nano Banana Pro to generate a four-panel man
 #### 📝 Prompt
 
 ```
-4コマ漫画　組み込みエンジニアの苦労　を生成して
+Generate a 4‑panel comic about the hardships of an embedded engineer.
 ```
 
 #### 🖼️ Generated Images
@@ -2102,9 +2111,9 @@ A concise Japanese prompt that asks Nano Banana Pro to generate a four-panel man
 - **Author:** [Naitsuku](https://x.com/nainara_tsukuru)
 - **Source:** [Twitter Post](https://x.com/nainara_tsukuru/status/1992159016383082719)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%80%80%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E8%8B%A6%E5%8A%B4%E3%80%80%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%204%E2%80%91panel%20comic%20about%20the%20hardships%20of%20an%20embedded%20engineer.)**
 
 ---
 
@@ -2120,7 +2129,7 @@ Generates a busy Where’s Waldo-style illustration featuring all Lord of the Ri
 #### 📝 Prompt
 
 ```
-A where is waldo image showing all {argument name="franchise" default="Lord of the Rings"} characters in {argument name="location" default="Shire"}
+A Where’s Waldo-style image showing all {argument name="franchise_en" default="Lord of the Rings"} characters in the {argument name="location_en" default="Shire"}.
 ```
 
 #### 🖼️ Generated Images
@@ -2136,9 +2145,9 @@ A where is waldo image showing all {argument name="franchise" default="Lord of t
 - **Author:** [Stevan Bogosavljević](https://x.com/stevyhacker)
 - **Source:** [Twitter Post](https://x.com/stevyhacker/status/1992157485088858542)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20where%20is%20waldo%20image%20showing%20all%20%7Bargument%20name%3D%22franchise%22%20default%3D%22Lord%20of%20the%20Rings%22%7D%20characters%20in%20%7Bargument%20name%3D%22location%22%20default%3D%22Shire%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20Where%E2%80%99s%20Waldo-style%20image%20showing%20all%20%7Bargument%20name%3D%22franchise_en%22%20default%3D%22Lord%20of%20the%20Rings%22%7D%20characters%20in%20the%20%7Bargument%20name%3D%22location_en%22%20default%3D%22Shire%22%7D.)**
 
 ---
 
@@ -2154,7 +2163,7 @@ An English prompt to generate a rock band poster using several reference people,
 #### 📝 Prompt
 
 ```
-make a rock band poster with these people. Keep faces consistent. Add "{argument name="band_name" default="The AI Syndicate"}" name of the band.
+Make a rock band poster with these people. Keep the faces consistent. Add "{argument name="band_name_en" default="The AI Syndicate"}" as the name of the band.
 ```
 
 #### 🖼️ Generated Images
@@ -2170,9 +2179,9 @@ make a rock band poster with these people. Keep faces consistent. Add "{argument
 - **Author:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992155729126711450)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20a%20rock%20band%20poster%20with%20these%20people.%20Keep%20faces%20consistent.%20Add%20%22%7Bargument%20name%3D%22band_name%22%20default%3D%22The%20AI%20Syndicate%22%7D%22%20name%20of%20the%20band.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20a%20rock%20band%20poster%20with%20these%20people.%20Keep%20the%20faces%20consistent.%20Add%20%22%7Bargument%20name%3D%22band_name_en%22%20default%3D%22The%20AI%20Syndicate%22%7D%22%20as%20the%20name%20of%20the%20band.)**
 
 ---
 
@@ -2187,7 +2196,7 @@ A Japanese prompt to create 16 black-and-white LINE stickers from an attached ch
 #### 📝 Prompt
 
 ```
-添付画像のキャラクターを使い、白黒のLINEスタンプを１６種類作成してください。スタンプの種類はバリエーション豊富で、硬派な男どもが使えそうなカッコいいセリフを入れてください。
+Using the character in the attached image, create 16 black‑and‑white LINE stickers. The stickers should have a wide variety of types and include cool phrases that tough guys would want to use.
 ```
 
 #### 🖼️ Generated Images
@@ -2203,9 +2212,9 @@ A Japanese prompt to create 16 black-and-white LINE stickers from an attached ch
 - **Author:** [てぃなの＠GPTs好きすぎる人](https://x.com/mikochanmonyu)
 - **Source:** [Twitter Post](https://x.com/mikochanmonyu/status/1992154734413926487)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%84%E3%80%81%E7%99%BD%E9%BB%92%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%EF%BC%91%EF%BC%96%E7%A8%AE%E9%A1%9E%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AF%E3%83%90%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B1%8A%E5%AF%8C%E3%81%A7%E3%80%81%E7%A1%AC%E6%B4%BE%E3%81%AA%E7%94%B7%E3%81%A9%E3%82%82%E3%81%8C%E4%BD%BF%E3%81%88%E3%81%9D%E3%81%86%E3%81%AA%E3%82%AB%E3%83%83%E3%82%B3%E3%81%84%E3%81%84%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Using%20the%20character%20in%20the%20attached%20image%2C%20create%2016%20black%E2%80%91and%E2%80%91white%20LINE%20stickers.%20The%20stickers%20should%20have%20a%20wide%20variety%20of%20types%20and%20include%20cool%20phrases%20that%20tough%20guys%20would%20want%20to%20use.)**
 
 ---
 
@@ -2221,7 +2230,7 @@ A flexible prompt that asks the AI to create a single cinematic illustration rep
 #### 📝 Prompt
 
 ```
-Create a single cinematic illustration that visually represents the following poem, capturing its emotions, metaphors, and atmosphere: {argument name="poem" default="[poem here]"}
+Create a single cinematic illustration that visually represents the following poem, capturing its emotions, metaphors, and atmosphere: {argument name="poem_en" default="[your poem here]"}.
 ```
 
 #### 🖼️ Generated Images
@@ -2237,9 +2246,9 @@ Create a single cinematic illustration that visually represents the following po
 - **Author:** [Palak Bansal](https://x.com/PalakBansal_)
 - **Source:** [Twitter Post](https://x.com/PalakBansal_/status/1992152004899246327)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20single%20cinematic%20illustration%20that%20visually%20represents%20the%20following%20poem%2C%20capturing%20its%20emotions%2C%20metaphors%2C%20and%20atmosphere%3A%20%7Bargument%20name%3D%22poem%22%20default%3D%22%5Bpoem%20here%5D%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20single%20cinematic%20illustration%20that%20visually%20represents%20the%20following%20poem%2C%20capturing%20its%20emotions%2C%20metaphors%2C%20and%20atmosphere%3A%20%7Bargument%20name%3D%22poem_en%22%20default%3D%22%5Byour%20poem%20here%5D%22%7D.)**
 
 ---
 
@@ -2254,7 +2263,7 @@ Asks Nano Banana Pro to overlay lots of cute handwritten annotations onto a phot
 #### 📝 Prompt
 
 ```
-写真に手書きで可愛いポイントをできるだけたくさん書いて！
+Write as many cute handwritten notes and highlights as possible on the photo!
 ```
 
 #### 🖼️ Generated Images
@@ -2270,9 +2279,9 @@ Asks Nano Banana Pro to overlay lots of cute handwritten annotations onto a phot
 - **Author:** [tahi](https://x.com/ai_tahi)
 - **Source:** [Twitter Post](https://x.com/ai_tahi/status/1992149797340615149)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%86%99%E7%9C%9F%E3%81%AB%E6%89%8B%E6%9B%B8%E3%81%8D%E3%81%A7%E5%8F%AF%E6%84%9B%E3%81%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%92%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%A0%E3%81%91%E3%81%9F%E3%81%8F%E3%81%95%E3%82%93%E6%9B%B8%E3%81%84%E3%81%A6%EF%BC%81)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Write%20as%20many%20cute%20handwritten%20notes%20and%20highlights%20as%20possible%20on%20the%20photo!)**
 
 ---
 
@@ -2287,7 +2296,7 @@ A short English prompt for generating an image where each piece of a girl’s cl
 #### 📝 Prompt
 
 ```
-Give each piece of her clothing separately on the bed
+Give each piece of her clothing separately on the bed.
 ```
 
 #### 🖼️ Generated Images
@@ -2315,9 +2324,9 @@ Give each piece of her clothing separately on the bed
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992143720171643086)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20each%20piece%20of%20her%20clothing%20separately%20on%20the%20bed.)**
 
 ---
 
@@ -2332,7 +2341,7 @@ An English prompt for converting an illustration into a highly detailed, cinemat
 #### 📝 Prompt
 
 ```
-Raw photo based on image, photorealistic, highly detailed, 8k uhd, realistic textures, sharp focus, natural lighting, cinematic look, high resolution photography
+Raw photo based on image, photorealistic, highly detailed, 8K UHD, realistic textures, sharp focus, natural lighting, cinematic look, high‑resolution photography.
 ```
 
 #### 🖼️ Generated Images
@@ -2354,9 +2363,9 @@ Raw photo based on image, photorealistic, highly detailed, 8k uhd, realistic tex
 - **Author:** [直人 【コンシェルジュ民泊】](https://x.com/mosva_0)
 - **Source:** [Twitter Post](https://x.com/mosva_0/status/1992142442464948346)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Raw%20photo%20based%20on%20image%2C%20photorealistic%2C%20highly%20detailed%2C%208k%20uhd%2C%20realistic%20textures%2C%20sharp%20focus%2C%20natural%20lighting%2C%20cinematic%20look%2C%20high%20resolution%20photography)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Raw%20photo%20based%20on%20image%2C%20photorealistic%2C%20highly%20detailed%2C%208K%20UHD%2C%20realistic%20textures%2C%20sharp%20focus%2C%20natural%20lighting%2C%20cinematic%20look%2C%20high%E2%80%91resolution%20photography.)**
 
 ---
 
@@ -2372,7 +2381,7 @@ A prompt for generating a cinematic 3D logo where the AI chooses a realistic tex
 #### 📝 Prompt
 
 ```
-Create a cinematic 3D logo for {argument name="brand" default="[BRAND]"}
+Create a cinematic 3D logo for {argument name="brand_en" default="[BRAND]"}.
 Automatically assign a realistic texture (glass, fire, neon, chrome, liquid, ice, lava, wood, or cloud) based on the brand style.
 Use dramatic lighting, depth of field, and a soft glowing background.
 Style: product ad / reveal shot, cinematic tone, ultra HD.
@@ -2409,9 +2418,9 @@ Style: product ad / reveal shot, cinematic tone, ultra HD.
 - **Author:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992142040600117715)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20cinematic%203D%20logo%20for%20%7Bargument%20name%3D%22brand%22%20default%3D%22%5BBRAND%5D%22%7D%0AAutomatically%20assign%20a%20realistic%20texture%20(glass%2C%20fire%2C%20neon%2C%20chrome%2C%20liquid%2C%20ice%2C%20lava%2C%20wood%2C%20or%20cloud)%20based%20on%20the%20brand%20style.%0AUse%20dramatic%20lighting%2C%20depth%20of%20field%2C%20and%20a%20soft%20glowing%20background.%0AStyle%3A%20product%20ad%20%2F%20reveal%20shot%2C%20cinematic%20tone%2C%20ultra%20HD.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20cinematic%203D%20logo%20for%20%7Bargument%20name%3D%22brand_en%22%20default%3D%22%5BBRAND%5D%22%7D.%0AAutomatically%20assign%20a%20realistic%20texture%20(glass%2C%20fire%2C%20neon%2C%20chrome%2C%20liquid%2C%20ice%2C%20lava%2C%20wood%2C%20or%20cloud)%20based%20on%20the%20brand%20style.%0AUse%20dramatic%20lighting%2C%20depth%20of%20field%2C%20and%20a%20soft%20glowing%20background.%0AStyle%3A%20product%20ad%20%2F%20reveal%20shot%2C%20cinematic%20tone%2C%20ultra%20HD.)**
 
 ---
 
@@ -2448,7 +2457,7 @@ Create an image showing the individual pattern pieces of this shoe, each separat
 - **Author:** [X-Design](https://x.com/xdesign_global)
 - **Source:** [Twitter Post](https://x.com/xdesign_global/status/1992141051872923980)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20showing%20the%20individual%20pattern%20pieces%20of%20this%20shoe%2C%20each%20separated%20and%20placed%20on%20a%20neutral%20background.)**
 
@@ -2466,7 +2475,7 @@ A Japanese prompt that uses an uploaded character image to explain the game Silk
 #### 📝 Prompt
 
 ```
-アップロードした画像のキャラクターを使って、{argument name="ゲーム名" default="Silksong"}というゲームを４コマ漫画で説明して。アスペクト比は9:16
+Using the character from the uploaded image, explain the game {argument name="game_title" default="Silksong"} in a 4‑panel comic. The aspect ratio should be 9:16.
 ```
 
 #### 🖼️ Generated Images
@@ -2482,9 +2491,9 @@ A Japanese prompt that uses an uploaded character image to explain the game Silk
 - **Author:** [ユズ🍊💙](https://x.com/yuzu_games1225)
 - **Source:** [Twitter Post](https://x.com/yuzu_games1225/status/1992140781696798901)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%80%81%7Bargument%20name%3D%22%E3%82%B2%E3%83%BC%E3%83%A0%E5%90%8D%22%20default%3D%22Silksong%22%7D%E3%81%A8%E3%81%84%E3%81%86%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%81%A7%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%A6%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF9%3A16)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Using%20the%20character%20from%20the%20uploaded%20image%2C%20explain%20the%20game%20%7Bargument%20name%3D%22game_title%22%20default%3D%22Silksong%22%7D%20in%20a%204%E2%80%91panel%20comic.%20The%20aspect%20ratio%20should%20be%209%3A16.)**
 
 ---
 
@@ -2499,7 +2508,7 @@ A prompt that analyzes your social media bio and turns it into a NES game cartri
 #### 📝 Prompt
 
 ```
-Analyze my bio and come up with a video game that would be me if I was a video game. Make a NES cartridge closeup with a blurred background. A room of a teenager on the background. Make it look like a product photo. Make sure to include my name.
+Analyze my bio and come up with a video game that would represent me if I were a video game. Create a NES cartridge close-up with a blurred background, showing a teenager's room behind it. Make it look like a product photo, and make sure to include my name.
 ```
 
 #### 🖼️ Generated Images
@@ -2515,9 +2524,9 @@ Analyze my bio and come up with a video game that would be me if I was a video g
 - **Author:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992140035672485935)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Analyze%20my%20bio%20and%20come%20up%20with%20a%20video%20game%20that%20would%20be%20me%20if%20I%20was%20a%20video%20game.%20Make%20a%20NES%20cartridge%20closeup%20with%20a%20blurred%20background.%20A%20room%20of%20a%20teenager%20on%20the%20background.%20Make%20it%20look%20like%20a%20product%20photo.%20Make%20sure%20to%20include%20my%20name.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Analyze%20my%20bio%20and%20come%20up%20with%20a%20video%20game%20that%20would%20represent%20me%20if%20I%20were%20a%20video%20game.%20Create%20a%20NES%20cartridge%20close-up%20with%20a%20blurred%20background%2C%20showing%20a%20teenager's%20room%20behind%20it.%20Make%20it%20look%20like%20a%20product%20photo%2C%20and%20make%20sure%20to%20include%20my%20name.)**
 
 ---
 
@@ -2532,7 +2541,7 @@ A Japanese prompt that takes a face image and generates an anime-leaning digital
 #### 📝 Prompt
 
 ```
-この画像をもとに、この人物が、美しいドレスを着て、ビロードの台座の上に脚を折って正座している姿を、アニメ寄りのデジタルイラスト画像で生成できますか？
+Based on this image, can you generate a digital illustration, leaning toward anime style, of this person wearing a beautiful dress, sitting with legs folded in seiza on a velvet pedestal?
 ```
 
 #### 🖼️ Generated Images
@@ -2554,9 +2563,9 @@ A Japanese prompt that takes a face image and generates an anime-leaning digital
 - **Author:** [Kitten Kiki](https://x.com/KittenKiki15)
 - **Source:** [Twitter Post](https://x.com/KittenKiki15/status/1992138766660845668)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E3%82%82%E3%81%A8%E3%81%AB%E3%80%81%E3%81%93%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%81%E7%BE%8E%E3%81%97%E3%81%84%E3%83%89%E3%83%AC%E3%82%B9%E3%82%92%E7%9D%80%E3%81%A6%E3%80%81%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AE%E5%8F%B0%E5%BA%A7%E3%81%AE%E4%B8%8A%E3%81%AB%E8%84%9A%E3%82%92%E6%8A%98%E3%81%A3%E3%81%A6%E6%AD%A3%E5%BA%A7%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E5%A7%BF%E3%82%92%E3%80%81%E3%82%A2%E3%83%8B%E3%83%A1%E5%AF%84%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E7%94%BB%E5%83%8F%E3%81%A7%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Based%20on%20this%20image%2C%20can%20you%20generate%20a%20digital%20illustration%2C%20leaning%20toward%20anime%20style%2C%20of%20this%20person%20wearing%20a%20beautiful%20dress%2C%20sitting%20with%20legs%20folded%20in%20seiza%20on%20a%20velvet%20pedestal%3F)**
 
 ---
 
@@ -2587,7 +2596,7 @@ put all of them into one basket
 - **Author:** [Kris Kashtanova](https://x.com/icreatelife)
 - **Source:** [Twitter Post](https://x.com/icreatelife/status/1992134378093514863)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=put%20all%20of%20them%20into%20one%20basket)**
 
@@ -2604,7 +2613,7 @@ A prompt written partly in Thai and English asking for a very high-detail infogr
 #### 📝 Prompt
 
 ```
-create a very high-detail infographic image that describe about IT career or IT jobs that relate to Software Development Life Cycle
+Create a very high-detail infographic image that describes IT careers or IT jobs related to the Software Development Life Cycle.
 ```
 
 #### 🖼️ Generated Images
@@ -2638,9 +2647,9 @@ create a very high-detail infographic image that describe about IT career or IT 
 - **Author:** [Thanunchai.Tpk](https://x.com/ThanunchaiTpk)
 - **Source:** [Twitter Post](https://x.com/ThanunchaiTpk/status/1992132373832700345)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20very%20high-detail%20infographic%20image%20that%20describe%20about%20IT%20career%20or%20IT%20jobs%20that%20relate%20to%20Software%20Development%20Life%20Cycle)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20very%20high-detail%20infographic%20image%20that%20describes%20IT%20careers%20or%20IT%20jobs%20related%20to%20the%20Software%20Development%20Life%20Cycle.)**
 
 ---
 
@@ -2655,7 +2664,7 @@ A very short Japanese prompt asking Nano Banana Pro to summarize a text-heavy cl
 #### 📝 Prompt
 
 ```
-1枚の図解画像にまとめて
+Summarize it into a single diagram image.
 ```
 
 #### 🖼️ Generated Images
@@ -2671,9 +2680,9 @@ A very short Japanese prompt asking Nano Banana Pro to summarize a text-heavy cl
 - **Author:** [やま先生＠AIで授業と校務をよりラクに](https://x.com/Yama_AI_Coach)
 - **Source:** [Twitter Post](https://x.com/Yama_AI_Coach/status/1992132059423453397)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=1%E6%9E%9A%E3%81%AE%E5%9B%B3%E8%A7%A3%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Summarize%20it%20into%20a%20single%20diagram%20image.)**
 
 ---
 
@@ -2689,7 +2698,7 @@ A prompt for generating a 3:4 minimal illustration infographic about a simple th
 #### 📝 Prompt
 
 ```
-「{argument name="テーマ" default="3分でできる！肩こりストレッチ"}」についての図解を作成してください。ミニマルなイラスト、モデルは女性。3:4サイズ
+Please create an illustration-style diagram about “{argument name="topic_en" default="A shoulder-stretch routine you can do in 3 minutes"}.” Use minimal illustrations, with a female model. The size should be 3:4.
 ```
 
 #### 🖼️ Generated Images
@@ -2705,9 +2714,9 @@ A prompt for generating a 3:4 minimal illustration infographic about a simple th
 - **Author:** [みなと｜AI副業](https://x.com/minato_aihkg_x)
 - **Source:** [Twitter Post](https://x.com/minato_aihkg_x/status/1992131939000881219)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%80%8C%7Bargument%20name%3D%22%E3%83%86%E3%83%BC%E3%83%9E%22%20default%3D%223%E5%88%86%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%EF%BC%81%E8%82%A9%E3%81%93%E3%82%8A%E3%82%B9%E3%83%88%E3%83%AC%E3%83%83%E3%83%81%22%7D%E3%80%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E5%9B%B3%E8%A7%A3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%AB%E3%81%AA%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%80%81%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AF%E5%A5%B3%E6%80%A7%E3%80%823%3A4%E3%82%B5%E3%82%A4%E3%82%BA)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20an%20illustration-style%20diagram%20about%20%E2%80%9C%7Bargument%20name%3D%22topic_en%22%20default%3D%22A%20shoulder-stretch%20routine%20you%20can%20do%20in%203%20minutes%22%7D.%E2%80%9D%20Use%20minimal%20illustrations%2C%20with%20a%20female%20model.%20The%20size%20should%20be%203%3A4.)**
 
 ---
 
@@ -2722,7 +2731,7 @@ A Korean prompt for a hyperrealistic photo-style image of glass-made samgyeopsal
 #### 📝 Prompt
 
 ```
-유리로 만든 삼겹살을 불판에 올리고 있는 사진. 하이퍼리얼리스틱.
+A hyperrealistic photo of glass-made samgyeopsal placed on a grill.
 ```
 
 #### 🖼️ Generated Images
@@ -2744,9 +2753,9 @@ A Korean prompt for a hyperrealistic photo-style image of glass-made samgyeopsal
 - **Author:** [릴리안.D](https://x.com/lillianndad)
 - **Source:** [Twitter Post](https://x.com/lillianndad/status/1992127585120289047)
 - **Published:** November 22, 2025
-- **Language:** ko
+- **Languages:** ko
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9C%A0%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A0%20%EC%82%BC%EA%B2%B9%EC%82%B4%EC%9D%84%20%EB%B6%88%ED%8C%90%EC%97%90%20%EC%98%AC%EB%A6%AC%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EC%A7%84.%20%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20hyperrealistic%20photo%20of%20glass-made%20samgyeopsal%20placed%20on%20a%20grill.)**
 
 ---
 
@@ -2761,7 +2770,7 @@ A short English prompt to generate a humorous, innovative mix between a rocket a
 #### 📝 Prompt
 
 ```
-A very innovative and funny mix between a rocket and a banana in the style of The Simpsons
+A very innovative and funny mix between a rocket and a banana in the style of The Simpsons.
 ```
 
 #### 🖼️ Generated Images
@@ -2777,9 +2786,9 @@ A very innovative and funny mix between a rocket and a banana in the style of Th
 - **Author:** [Adrien](https://x.com/adrienv1520)
 - **Source:** [Twitter Post](https://x.com/adrienv1520/status/1992127280337056160)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20very%20innovative%20and%20funny%20mix%20between%20a%20rocket%20and%20a%20banana%20in%20the%20style%20of%20The%20Simpsons)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20very%20innovative%20and%20funny%20mix%20between%20a%20rocket%20and%20a%20banana%20in%20the%20style%20of%20The%20Simpsons.)**
 
 ---
 
@@ -2794,7 +2803,7 @@ An English prompt that analyzes a dish image to produce a detailed recipe with i
 #### 📝 Prompt
 
 ```
-Make a detailed recipe on this dish with all the ingredients names and it's raw ingredients. Make it look like a real photo shoot.
+Make a detailed recipe for this dish with all the ingredient names and their raw ingredients. Make it look like a real photo shoot.
 ```
 
 #### 🖼️ Generated Images
@@ -2816,9 +2825,9 @@ Make a detailed recipe on this dish with all the ingredients names and it's raw 
 - **Author:** [DΞV](https://x.com/junwatu)
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992127245817917657)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20a%20detailed%20recipe%20on%20this%20dish%20with%20all%20the%20ingredients%20names%20and%20it's%20raw%20ingredients.%20Make%20it%20look%20like%20a%20real%20photo%20shoot.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20a%20detailed%20recipe%20for%20this%20dish%20with%20all%20the%20ingredient%20names%20and%20their%20raw%20ingredients.%20Make%20it%20look%20like%20a%20real%20photo%20shoot.)**
 
 ---
 
@@ -2833,16 +2842,16 @@ A Japanese prompt that turns given text into an organic, color-coded mindmap wit
 #### 📝 Prompt
 
 ```
-このテキストを、中心から広がるマップにして。
+Turn this text into a map that expands outward from the center.
 
-ポイント↓
-・真ん中にメインテーマ
-・枝分かれで関連要素を配置
-・色分けでカテゴリ分け
-・シンプルなアイコンを添える
-・有機的な配置
+Key points:
+- Put the main theme in the middle
+- Arrange related elements as branching nodes
+- Use color coding to separate categories
+- Add simple icons
+- Use an organic layout
 
-頭の中が整理される感じで。
+Make it feel like my thoughts are being organized.
 ```
 
 #### 🖼️ Generated Images
@@ -2858,9 +2867,9 @@ A Japanese prompt that turns given text into an organic, color-coded mindmap wit
 - **Author:** [かずりりぃ｜ChatGPT,AI 活用×SNS発信の裏技](https://x.com/chatgpt_kazlily)
 - **Source:** [Twitter Post](https://x.com/chatgpt_kazlily/status/1992125113337274857)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%80%81%E4%B8%AD%E5%BF%83%E3%81%8B%E3%82%89%E5%BA%83%E3%81%8C%E3%82%8B%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%0A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E2%86%93%0A%E3%83%BB%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%AB%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%9E%0A%E3%83%BB%E6%9E%9D%E5%88%86%E3%81%8B%E3%82%8C%E3%81%A7%E9%96%A2%E9%80%A3%E8%A6%81%E7%B4%A0%E3%82%92%E9%85%8D%E7%BD%AE%0A%E3%83%BB%E8%89%B2%E5%88%86%E3%81%91%E3%81%A7%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA%E5%88%86%E3%81%91%0A%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E6%B7%BB%E3%81%88%E3%82%8B%0A%E3%83%BB%E6%9C%89%E6%A9%9F%E7%9A%84%E3%81%AA%E9%85%8D%E7%BD%AE%0A%0A%E9%A0%AD%E3%81%AE%E4%B8%AD%E3%81%8C%E6%95%B4%E7%90%86%E3%81%95%E3%82%8C%E3%82%8B%E6%84%9F%E3%81%98%E3%81%A7%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20text%20into%20a%20map%20that%20expands%20outward%20from%20the%20center.%0A%0AKey%20points%3A%0A-%20Put%20the%20main%20theme%20in%20the%20middle%0A-%20Arrange%20related%20elements%20as%20branching%20nodes%0A-%20Use%20color%20coding%20to%20separate%20categories%0A-%20Add%20simple%20icons%0A-%20Use%20an%20organic%20layout%0A%0AMake%20it%20feel%20like%20my%20thoughts%20are%20being%20organized.)**
 
 ---
 
@@ -2875,7 +2884,7 @@ A humorous instructional prompt to create a detailed whiteboard-style illustrati
 #### 📝 Prompt
 
 ```
-A detailed whiteboard illustration and instructions on how to properly use the Squatty Potty
+A detailed whiteboard illustration and instructions on how to properly use the Squatty Potty.
 ```
 
 #### 🖼️ Generated Images
@@ -2891,9 +2900,9 @@ A detailed whiteboard illustration and instructions on how to properly use the S
 - **Author:** [Jason Rink](https://x.com/JasonRink)
 - **Source:** [Twitter Post](https://x.com/JasonRink/status/1992121382894010828)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20detailed%20whiteboard%20illustration%20and%20instructions%20on%20how%20to%20properly%20use%20the%20Squatty%20Potty)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20detailed%20whiteboard%20illustration%20and%20instructions%20on%20how%20to%20properly%20use%20the%20Squatty%20Potty.)**
 
 ---
 
@@ -2908,12 +2917,12 @@ A casual Japanese prompt that takes a background photo from Yurakucho and adds a
 #### 📝 Prompt
 
 ```
-人は地面に立たせて。ただし地面を写す必要はない。この背景に合った人物を入れて。vtuberで通用するキャラにして。
-おしゃれなサムネイルを作りたい。
-vtuberで見られがちなデザインにしたい。
-文字は大胆にストリートスタイルのフォントで入れて。テキストはファッション誌の特集のようなもの。
-縦構図にして。
-画像生成開始
+Have the person standing on the ground, but you don’t need to show the ground. Add a character that matches this background, and make it a character that would work as a VTuber.
+I want a stylish thumbnail.
+Make the design similar to what you often see with VTubers.
+Use bold, street-style fonts for the text. The text should feel like a feature in a fashion magazine.
+Use a vertical composition.
+Start image generation.
 ```
 
 #### 🖼️ Generated Images
@@ -2929,9 +2938,9 @@ vtuberで見られがちなデザインにしたい。
 - **Author:** [Studio Veco|AI×VR|AI×MediaART|](https://x.com/studio_veco)
 - **Source:** [Twitter Post](https://x.com/studio_veco/status/1992120904222990847)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BA%BA%E3%81%AF%E5%9C%B0%E9%9D%A2%E3%81%AB%E7%AB%8B%E3%81%9F%E3%81%9B%E3%81%A6%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E5%9C%B0%E9%9D%A2%E3%82%92%E5%86%99%E3%81%99%E5%BF%85%E8%A6%81%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%81%93%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E5%90%88%E3%81%A3%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82vtuber%E3%81%A7%E9%80%9A%E7%94%A8%E3%81%99%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%E3%81%8A%E3%81%97%E3%82%83%E3%82%8C%E3%81%AA%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%E3%80%82%0Avtuber%E3%81%A7%E8%A6%8B%E3%82%89%E3%82%8C%E3%81%8C%E3%81%A1%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%80%82%0A%E6%96%87%E5%AD%97%E3%81%AF%E5%A4%A7%E8%83%86%E3%81%AB%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E8%AA%8C%E3%81%AE%E7%89%B9%E9%9B%86%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%82%82%E3%81%AE%E3%80%82%0A%E7%B8%A6%E6%A7%8B%E5%9B%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90%E9%96%8B%E5%A7%8B)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Have%20the%20person%20standing%20on%20the%20ground%2C%20but%20you%20don%E2%80%99t%20need%20to%20show%20the%20ground.%20Add%20a%20character%20that%20matches%20this%20background%2C%20and%20make%20it%20a%20character%20that%20would%20work%20as%20a%20VTuber.%0AI%20want%20a%20stylish%20thumbnail.%0AMake%20the%20design%20similar%20to%20what%20you%20often%20see%20with%20VTubers.%0AUse%20bold%2C%20street-style%20fonts%20for%20the%20text.%20The%20text%20should%20feel%20like%20a%20feature%20in%20a%20fashion%20magazine.%0AUse%20a%20vertical%20composition.%0AStart%20image%20generation.)**
 
 ---
 
@@ -2946,15 +2955,15 @@ A prompt that turns a text into a clean 16:9 whiteboard-style diagram with centr
 #### 📝 Prompt
 
 ```
-このテキストを、ホワイトボード風のシンプルな図解にして。
+Turn this text into a simple whiteboard-style diagram.
 
-ポイント↓
-・メインの概念を中央に配置
-・ 矢印で流れや関係性を示す
-・ 重要な部分は枠で囲む
-・説明は短く、要点だけ
+Points:
+- Place the main concept in the center
+- Use arrows to show flow and relationships
+- Enclose important parts in boxes
+- Keep explanations short and focused only on key points
 
-サイズは16:9で、スマホで見やすいスッキリした図解にしてください。
+Make the size 16:9 and design a clean diagram that is easy to view on a smartphone.
 ```
 
 #### 🖼️ Generated Images
@@ -2970,9 +2979,9 @@ A prompt that turns a text into a clean 16:9 whiteboard-style diagram with centr
 - **Author:** [かずりりぃ｜ChatGPT,AI 活用×SNS発信の裏技](https://x.com/chatgpt_kazlily)
 - **Source:** [Twitter Post](https://x.com/chatgpt_kazlily/status/1992120193271926975)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%80%81%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%E9%A2%A8%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E5%9B%B3%E8%A7%A3%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%0A%0A%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E2%86%93%0A%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E6%A6%82%E5%BF%B5%E3%82%92%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%0A%E3%83%BB%20%E7%9F%A2%E5%8D%B0%E3%81%A7%E6%B5%81%E3%82%8C%E3%82%84%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E7%A4%BA%E3%81%99%0A%E3%83%BB%20%E9%87%8D%E8%A6%81%E3%81%AA%E9%83%A8%E5%88%86%E3%81%AF%E6%9E%A0%E3%81%A7%E5%9B%B2%E3%82%80%0A%E3%83%BB%E8%AA%AC%E6%98%8E%E3%81%AF%E7%9F%AD%E3%81%8F%E3%80%81%E8%A6%81%E7%82%B9%E3%81%A0%E3%81%91%0A%0A%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AF16%3A9%E3%81%A7%E3%80%81%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E8%A6%8B%E3%82%84%E3%81%99%E3%81%84%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%97%E3%81%9F%E5%9B%B3%E8%A7%A3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20text%20into%20a%20simple%20whiteboard-style%20diagram.%0A%0APoints%3A%0A-%20Place%20the%20main%20concept%20in%20the%20center%0A-%20Use%20arrows%20to%20show%20flow%20and%20relationships%0A-%20Enclose%20important%20parts%20in%20boxes%0A-%20Keep%20explanations%20short%20and%20focused%20only%20on%20key%20points%0A%0AMake%20the%20size%2016%3A9%20and%20design%20a%20clean%20diagram%20that%20is%20easy%20to%20view%20on%20a%20smartphone.)**
 
 ---
 
@@ -2987,7 +2996,7 @@ An English prompt that generates a MrBeast-style YouTube thumbnail featuring Don
 #### 📝 Prompt
 
 ```
-A Mr. Beast style YouTube thumbnail but it's Donald Trump and the video is where he reveals what's in the Epstein Files.
+A MrBeast‑style YouTube thumbnail, but it’s Donald Trump and the video is where he reveals what’s in the Epstein files.
 ```
 
 #### 🖼️ Generated Images
@@ -3003,9 +3012,9 @@ A Mr. Beast style YouTube thumbnail but it's Donald Trump and the video is where
 - **Author:** [Jason Rink](https://x.com/JasonRink)
 - **Source:** [Twitter Post](https://x.com/JasonRink/status/1992119926581235863)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20Mr.%20Beast%20style%20YouTube%20thumbnail%20but%20it's%20Donald%20Trump%20and%20the%20video%20is%20where%20he%20reveals%20what's%20in%20the%20Epstein%20Files.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20MrBeast%E2%80%91style%20YouTube%20thumbnail%2C%20but%20it%E2%80%99s%20Donald%20Trump%20and%20the%20video%20is%20where%20he%20reveals%20what%E2%80%99s%20in%20the%20Epstein%20files.)**
 
 ---
 
@@ -3021,11 +3030,11 @@ A long, highly detailed image-generation specification describing a high-angle s
 #### 📝 Prompt
 
 ```
-High-angle bird's-eye view shot of a female east Asian idol subject lying on the floor of a cluttered closet, strictly following the upside-down pose and anatomical structure shown in {argument name="reference_image" default="image_0.png"}. She is wearing a rich blue lace-overlay mini dress with a milkmaid bodice, sweetheart neckline, cap sleeves, and a lettuce hem. She wears heavy, knee-high red leather boots with a vertical front seam. Visible tattoos include a barbed wire band on the thigh and stick-and-poke heart and key motifs on the chest. The floor is covered in piles of mixed textiles, tulle, and clothing. The background walls are painted yellow, featuring white wire shelving, semi-transparent plastic storage drawers, and a packed clothing rack. Lighting is overhead tungsten, creating a warm sepia, vintage 90s disposable camera filter look. The mood is exhaustive, messy, and romantically grunge.
+High-angle bird's-eye view shot of a female East Asian idol subject lying on the floor of a cluttered closet, strictly following the upside-down pose and anatomical structure shown in {argument name="reference_image_en" default="image_0.png"}. She is wearing a rich blue lace-overlay mini dress with a milkmaid bodice, sweetheart neckline, cap sleeves, and a lettuce hem. She wears heavy, knee-high red leather boots with a vertical front seam. Visible tattoos include a barbed wire band on the thigh and small stick-and-poke heart and key motifs on the chest. The floor is covered in piles of mixed textiles, tulle, and clothing. The background walls are painted yellow, featuring white wire shelving, semi-transparent plastic storage drawers, and a packed clothing rack. Lighting is overhead tungsten, creating a warm sepia, vintage 90s disposable camera filter look. The mood is exhausted, messy, and romantically grunge.
 
-Fairy grunge aesthetic, girl in rich blue dress and red leather boots lying upside-down in cluttered closet with yellow walls, pose from {argument name="reference_image_short" default="image_0.png"}, sepia tone, high angle shot.
+Fairy grunge aesthetic, girl in a rich blue dress and red leather boots lying upside down in a cluttered closet with yellow walls, pose from {argument name="reference_image_short_en" default="image_0.png"}, sepia tone, high-angle shot.
 
-minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, hd digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose.
+Negative prompt: minimalism, clean floor, bright daylight, cold lighting, organized, empty space, modern furniture, neon colors, HD digital look, glossy finish, wide angle, fisheye, distorted limbs, missing tattoos, incorrect pose.
 ```
 
 #### 🖼️ Generated Images
@@ -3053,9 +3062,9 @@ minimalism, clean floor, bright daylight, cold lighting, organized, empty space,
 - **Author:** [Mani](https://x.com/JustMani)
 - **Source:** [Twitter Post](https://x.com/JustMani/status/1992119480496132109)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=High-angle%20bird's-eye%20view%20shot%20of%20a%20female%20east%20Asian%20idol%20subject%20lying%20on%20the%20floor%20of%20a%20cluttered%20closet%2C%20strictly%20following%20the%20upside-down%20pose%20and%20anatomical%20structure%20shown%20in%20%7Bargument%20name%3D%22reference_image%22%20default%3D%22image_0.png%22%7D.%20She%20is%20wearing%20a%20rich%20blue%20lace-overlay%20mini%20dress%20with%20a%20milkmaid%20bodice%2C%20sweetheart%20neckline%2C%20cap%20sleeves%2C%20and%20a%20lettuce%20hem.%20She%20wears%20heavy%2C%20knee-high%20red%20leather%20boots%20with%20a%20vertical%20front%20seam.%20Visible%20tattoos%20include%20a%20barbed%20wire%20band%20on%20the%20thigh%20and%20stick-and-poke%20heart%20and%20key%20motifs%20on%20the%20chest.%20The%20floor%20is%20covered%20in%20piles%20of%20mixed%20textiles%2C%20tulle%2C%20and%20clothing.%20The%20background%20walls%20are%20painted%20yellow%2C%20featuring%20white%20wire%20shelving%2C%20semi-transparent%20plastic%20storage%20drawers%2C%20and%20a%20packed%20clothing%20rack.%20Lighting%20is%20overhead%20tungsten%2C%20creating%20a%20warm%20sepia%2C%20vintage%2090s%20disposable%20camera%20filter%20look.%20The%20mood%20is%20exhaustive%2C%20messy%2C%20and%20romantically%20grunge.%0A%0AFairy%20grunge%20aesthetic%2C%20girl%20in%20rich%20blue%20dress%20and%20red%20leather%20boots%20lying%20upside-down%20in%20cluttered%20closet%20with%20yellow%20walls%2C%20pose%20from%20%7Bargument%20name%3D%22reference_image_short%22%20default%3D%22image_0.png%22%7D%2C%20sepia%20tone%2C%20high%20angle%20shot.%0A%0Aminimalism%2C%20clean%20floor%2C%20bright%20daylight%2C%20cold%20lighting%2C%20organized%2C%20empty%20space%2C%20modern%20furniture%2C%20neon%20colors%2C%20hd%20digital%20look%2C%20glossy%20finish%2C%20wide%20angle%2C%20fisheye%2C%20distorted%20limbs%2C%20missing%20tattoos%2C%20incorrect%20pose.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=High-angle%20bird's-eye%20view%20shot%20of%20a%20female%20East%20Asian%20idol%20subject%20lying%20on%20the%20floor%20of%20a%20cluttered%20closet%2C%20strictly%20following%20the%20upside-down%20pose%20and%20anatomical%20structure%20shown%20in%20%7Bargument%20name%3D%22reference_image_en%22%20default%3D%22image_0.png%22%7D.%20She%20is%20wearing%20a%20rich%20blue%20lace-overlay%20mini%20dress%20with%20a%20milkmaid%20bodice%2C%20sweetheart%20neckline%2C%20cap%20sleeves%2C%20and%20a%20lettuce%20hem.%20She%20wears%20heavy%2C%20knee-high%20red%20leather%20boots%20with%20a%20vertical%20front%20seam.%20Visible%20tattoos%20include%20a%20barbed%20wire%20band%20on%20the%20thigh%20and%20small%20stick-and-poke%20heart%20and%20key%20motifs%20on%20the%20chest.%20The%20floor%20is%20covered%20in%20piles%20of%20mixed%20textiles%2C%20tulle%2C%20and%20clothing.%20The%20background%20walls%20are%20painted%20yellow%2C%20featuring%20white%20wire%20shelving%2C%20semi-transparent%20plastic%20storage%20drawers%2C%20and%20a%20packed%20clothing%20rack.%20Lighting%20is%20overhead%20tungsten%2C%20creating%20a%20warm%20sepia%2C%20vintage%2090s%20disposable%20camera%20filter%20look.%20The%20mood%20is%20exhausted%2C%20messy%2C%20and%20romantically%20grunge.%0A%0AFairy%20grunge%20aesthetic%2C%20girl%20in%20a%20rich%20blue%20dress%20and%20red%20leather%20boots%20lying%20upside%20down%20in%20a%20cluttered%20closet%20with%20yellow%20walls%2C%20pose%20from%20%7Bargument%20name%3D%22reference_image_short_en%22%20default%3D%22image_0.png%22%7D%2C%20sepia%20tone%2C%20high-angle%20shot.%0A%0ANegative%20prompt%3A%20minimalism%2C%20clean%20floor%2C%20bright%20daylight%2C%20cold%20lighting%2C%20organized%2C%20empty%20space%2C%20modern%20furniture%2C%20neon%20colors%2C%20HD%20digital%20look%2C%20glossy%20finish%2C%20wide%20angle%2C%20fisheye%2C%20distorted%20limbs%2C%20missing%20tattoos%2C%20incorrect%20pose.)**
 
 ---
 
@@ -3070,7 +3079,7 @@ A Japanese prompt to turn an attached character image into 16 different chibi st
 #### 📝 Prompt
 
 ```
-Lineスタンプを作成。添付画像をチビキャラにしてセリフ入り、ポーズ別で16種類。
+Create LINE stickers. Turn the attached image into a chibi character and make 16 variations with different poses and speech text.
 ```
 
 #### 🖼️ Generated Images
@@ -3092,9 +3101,9 @@ Lineスタンプを作成。添付画像をチビキャラにしてセリフ入�
 - **Author:** [成阿ハルキ⭐👹](https://x.com/haruki_naria)
 - **Source:** [Twitter Post](https://x.com/haruki_naria/status/1992118898934870212)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Line%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%82%92%E3%83%81%E3%83%93%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%82%8A%E3%80%81%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%81%A716%E7%A8%AE%E9%A1%9E%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20LINE%20stickers.%20Turn%20the%20attached%20image%20into%20a%20chibi%20character%20and%20make%2016%20variations%20with%20different%20poses%20and%20speech%20text.)**
 
 ---
 
@@ -3110,7 +3119,7 @@ A prompt to turn an uploaded subject into a trompe l'oeil illusion where they st
 #### 📝 Prompt
 
 ```
-Trompe l'oeil illusion of {argument name="subject" default="A (subject)"} {argument name="attire" default="(attire)"} steps out of a large screen displaying {argument name="platform" default="xyz social media"} interface. The screen shows the username "@" 1K likes, and 12- 20 comments, with floating emojis (heart-eyes, smiley) around it. {argument name="background" default="your preferred background"}.
+Trompe l'oeil illusion of {argument name="subject_en" default="a subject"} in {argument name="attire_en" default="your chosen outfit"} stepping out of a large screen displaying {argument name="platform_en" default="a social media"} interface. The screen shows the username "@", 1K likes, and 12–20 comments, with floating emojis (heart-eyes, smiley) around it, and {argument name="background_en" default="your preferred background"}.
 ```
 
 #### 🖼️ Generated Images
@@ -3126,9 +3135,9 @@ Trompe l'oeil illusion of {argument name="subject" default="A (subject)"} {argum
 - **Author:** [madpencil_](https://x.com/madpencil_)
 - **Source:** [Twitter Post](https://x.com/madpencil_/status/1992118499876213233)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Trompe%20l'oeil%20illusion%20of%20%7Bargument%20name%3D%22subject%22%20default%3D%22A%20(subject)%22%7D%20%7Bargument%20name%3D%22attire%22%20default%3D%22(attire)%22%7D%20steps%20out%20of%20a%20large%20screen%20displaying%20%7Bargument%20name%3D%22platform%22%20default%3D%22xyz%20social%20media%22%7D%20interface.%20The%20screen%20shows%20the%20username%20%22%40%22%201K%20likes%2C%20and%2012-%2020%20comments%2C%20with%20floating%20emojis%20(heart-eyes%2C%20smiley)%20around%20it.%20%7Bargument%20name%3D%22background%22%20default%3D%22your%20preferred%20background%22%7D.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Trompe%20l'oeil%20illusion%20of%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22a%20subject%22%7D%20in%20%7Bargument%20name%3D%22attire_en%22%20default%3D%22your%20chosen%20outfit%22%7D%20stepping%20out%20of%20a%20large%20screen%20displaying%20%7Bargument%20name%3D%22platform_en%22%20default%3D%22a%20social%20media%22%7D%20interface.%20The%20screen%20shows%20the%20username%20%22%40%22%2C%201K%20likes%2C%20and%2012%E2%80%9320%20comments%2C%20with%20floating%20emojis%20(heart-eyes%2C%20smiley)%20around%20it%2C%20and%20%7Bargument%20name%3D%22background_en%22%20default%3D%22your%20preferred%20background%22%7D.)**
 
 ---
 
@@ -3159,7 +3168,7 @@ Ultra-realistic Roronoa Zoro portrait.
 - **Author:** [Crea Dei](https://x.com/crea_dei)
 - **Source:** [Twitter Post](https://x.com/crea_dei/status/1992116959190913170)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Ultra-realistic%20Roronoa%20Zoro%20portrait.)**
 
@@ -3176,7 +3185,7 @@ A lifestyle prompt instructing the AI to unpack items from a bag onto a bed with
 #### 📝 Prompt
 
 ```
-Unpack the items from the bag and place them on the bed withe some of them scattered on the floor
+Unpack the items from the bag and place them on the bed, with some of them scattered on the floor.
 ```
 
 #### 🖼️ Generated Images
@@ -3192,9 +3201,9 @@ Unpack the items from the bag and place them on the bed withe some of them scatt
 - **Author:** [Jin.B](https://x.com/opener_ai)
 - **Source:** [Twitter Post](https://x.com/opener_ai/status/1992111988743553453)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Unpack%20the%20items%20from%20the%20bag%20and%20place%20them%20on%20the%20bed%20withe%20some%20of%20them%20scattered%20on%20the%20floor)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Unpack%20the%20items%20from%20the%20bag%20and%20place%20them%20on%20the%20bed%2C%20with%20some%20of%20them%20scattered%20on%20the%20floor.)**
 
 ---
 
@@ -3209,7 +3218,7 @@ An English prompt to generate an action picture resembling GTA 5 Online where a 
 #### 📝 Prompt
 
 ```
-Create a picture of GTA 5 online where a person is shooting a car
+Create a picture of GTA 5 Online where a person is shooting a car.
 ```
 
 #### 🖼️ Generated Images
@@ -3225,15 +3234,16 @@ Create a picture of GTA 5 online where a person is shooting a car
 - **Author:** [Apple Lamps](https://x.com/lamps_apple)
 - **Source:** [Twitter Post](https://x.com/lamps_apple/status/1992111490510524771)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20picture%20of%20GTA%205%20online%20where%20a%20person%20is%20shooting%20a%20car)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20picture%20of%20GTA%205%20Online%20where%20a%20person%20is%20shooting%20a%20car.)**
 
 ---
 
 ### No. 74: Four-panel comic about a clumsy elf
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -3242,7 +3252,7 @@ A simple Japanese prompt to generate a four-panel manga about a clumsy elf’s d
 #### 📝 Prompt
 
 ```
-Nano Banana Proで4コマ漫画を作ってみよう、【 ドジっ子エルフの1日 】
+Let’s create a 4-panel manga with Nano Banana Pro: “{argument name="title_en" default="A Day in the Life of a Clumsy Elf"}.”
 ```
 
 #### 🖼️ Generated Images
@@ -3258,9 +3268,9 @@ Nano Banana Proで4コマ漫画を作ってみよう、【 ドジっ子エルフ
 - **Author:** [野宮さと](https://x.com/naruchan_ai)
 - **Source:** [Twitter Post](https://x.com/naruchan_ai/status/1992108654825459836)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Nano%20Banana%20Pro%E3%81%A74%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86%E3%80%81%E3%80%90%20%E3%83%89%E3%82%B8%E3%81%A3%E5%AD%90%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE1%E6%97%A5%20%E3%80%91)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Let%E2%80%99s%20create%20a%204-panel%20manga%20with%20Nano%20Banana%20Pro%3A%20%E2%80%9C%7Bargument%20name%3D%22title_en%22%20default%3D%22A%20Day%20in%20the%20Life%20of%20a%20Clumsy%20Elf%22%7D.%E2%80%9D)**
 
 ---
 
@@ -3297,7 +3307,7 @@ Create a hyper faithful remaster of this image.
 - **Author:** [Follow4vibess](https://x.com/follow4vibess)
 - **Source:** [Twitter Post](https://x.com/follow4vibess/status/1992107742232973489)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hyper%20faithful%20remaster%20of%20this%20image.)**
 
@@ -3314,7 +3324,7 @@ A Japanese prompt from the replies to generate a Famicom game box, cartridge, ma
 #### 📝 Prompt
 
 ```
-画像のキャラクターが主人公のゲーム「からくり忍者　朧」のファミコンゲームの箱とカセットと説明書、ブラウン管のテレビにゲーム画面が映っている、
+Create the Famicom game box, cartridge, and manual for the game "Karakuri Ninja Oboro," whose protagonist is the character in the image, with the game screen shown on a CRT television.
 ```
 
 #### 🖼️ Generated Images
@@ -3330,9 +3340,9 @@ A Japanese prompt from the replies to generate a Famicom game box, cartridge, ma
 - **Author:** [FANTAN GLITCHBOX](https://x.com/fantanglitchbox)
 - **Source:** [Twitter Post](https://x.com/fantanglitchbox/status/1992106095083733032)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8C%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E5%BF%8D%E8%80%85%E3%80%80%E6%9C%A7%E3%80%8D%E3%81%AE%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E7%AE%B1%E3%81%A8%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%81%A8%E8%AA%AC%E6%98%8E%E6%9B%B8%E3%80%81%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E7%AE%A1%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2%E3%81%8C%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20the%20Famicom%20game%20box%2C%20cartridge%2C%20and%20manual%20for%20the%20game%20%22Karakuri%20Ninja%20Oboro%2C%22%20whose%20protagonist%20is%20the%20character%20in%20the%20image%2C%20with%20the%20game%20screen%20shown%20on%20a%20CRT%20television.)**
 
 ---
 
@@ -3347,7 +3357,7 @@ A Japanese prompt to create a numbered-panel color comic where a given character
 #### 📝 Prompt
 
 ```
-このキャラクタが焼肉を食べて元気になる漫画をカラーで作成してください。ストーリーはお任せします。コマに番号つけて。
+Please create a color comic in which this character eats yakiniku (grilled meat) and becomes energized. The story is up to you. Number each panel.
 ```
 
 #### 🖼️ Generated Images
@@ -3363,15 +3373,16 @@ A Japanese prompt to create a numbered-panel color comic where a given character
 - **Author:** [はらぺこきんぐ@サラリーマン副業研究室・室長](https://x.com/Harapekokings)
 - **Source:** [Twitter Post](https://x.com/Harapekokings/status/1992103946803196088)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%81%8C%E7%84%BC%E8%82%89%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%A6%E5%85%83%E6%B0%97%E3%81%AB%E3%81%AA%E3%82%8B%E6%BC%AB%E7%94%BB%E3%82%92%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%AF%E3%81%8A%E4%BB%BB%E3%81%9B%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%82%B3%E3%83%9E%E3%81%AB%E7%95%AA%E5%8F%B7%E3%81%A4%E3%81%91%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20a%20color%20comic%20in%20which%20this%20character%20eats%20yakiniku%20(grilled%20meat)%20and%20becomes%20energized.%20The%20story%20is%20up%20to%20you.%20Number%20each%20panel.)**
 
 ---
 
 ### No. 78: Infographic from reference info with classic Japanese font
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -3380,14 +3391,14 @@ A prompt to create a 16:9 Japanese-language infographic from provided reference 
 #### 📝 Prompt
 
 ```
-以下の情報からインフォグラフィック形式の説明画像を作成して。
+From the information below, create an explanatory image in infographic format.
 
-fontは古風な日本語の文字,
-アスペクト比は16:9,
-lang:ja
+Use a classic-style Japanese font.
+Aspect ratio: 16:9.
+lang: ja.
 
-参考情報:
-[参考情報を入力]
+Reference information:
+{argument name="reference_info_en" default="[insert your reference information here]"}
 ```
 
 #### 🖼️ Generated Images
@@ -3403,9 +3414,9 @@ lang:ja
 - **Author:** [しょー](https://x.com/sho_blog11)
 - **Source:** [Twitter Post](https://x.com/sho_blog11/status/1992103556338667538)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%83%85%E5%A0%B1%E3%81%8B%E3%82%89%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E5%BD%A2%E5%BC%8F%E3%81%AE%E8%AA%AC%E6%98%8E%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%0A%0Afont%E3%81%AF%E5%8F%A4%E9%A2%A8%E3%81%AA%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E5%AD%97%2C%0A%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF16%3A9%2C%0Alang%3Aja%0A%0A%E5%8F%82%E8%80%83%E6%83%85%E5%A0%B1%3A%0A%5B%E5%8F%82%E8%80%83%E6%83%85%E5%A0%B1%E3%82%92%E5%85%A5%E5%8A%9B%5D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=From%20the%20information%20below%2C%20create%20an%20explanatory%20image%20in%20infographic%20format.%0A%0AUse%20a%20classic-style%20Japanese%20font.%0AAspect%20ratio%3A%2016%3A9.%0Alang%3A%20ja.%0A%0AReference%20information%3A%0A%7Bargument%20name%3D%22reference_info_en%22%20default%3D%22%5Binsert%20your%20reference%20information%20here%5D%22%7D)**
 
 ---
 
@@ -3442,7 +3453,7 @@ The rabbits also wear the same clothes
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992099435183280132)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20rabbits%20also%20wear%20the%20same%20clothes)**
 
@@ -3475,7 +3486,7 @@ Create an infographic showing different coffee drinks…
 - **Author:** [Bhavesh Patel, CPA](https://x.com/Bhavesh__Patel)
 - **Source:** [Twitter Post](https://x.com/Bhavesh__Patel/status/1992097368272163010)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20infographic%20showing%20different%20coffee%20drinks%E2%80%A6)**
 
@@ -3493,11 +3504,11 @@ A Japanese prompt for turning an uploaded person into a hand-drawn style header 
 #### 📝 Prompt
 
 ```
-アップロードした人物を完全再現
-その人物が「Nano Banana Pro」を紹介するnote 記事の見出し画像
-16:9の横長サイズ
-スタイル、カラー：シンプル、手描き風、斜体、青と緑のグラデーション
-タイトル：{argument name="タイトル" default="Googleの新 AI「Nano Banana Pro」徹底解説"}
+Completely reproduce the uploaded person.
+Make it a header image for a Note article where that person introduces "Nano Banana Pro."
+Aspect ratio 16:9, horizontal.
+Style and colors: simple, hand-drawn look, italic, blue and green gradient.
+Title: {argument name="title_en" default="In-depth guide to Google's new AI: Nano Banana Pro"}.
 ```
 
 #### 🖼️ Generated Images
@@ -3519,9 +3530,9 @@ A Japanese prompt for turning an uploaded person into a hand-drawn style header 
 - **Author:** [セミナー講師専門AIコンシェルジュ｜工藤 晶](https://x.com/akirakudo_ai)
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096871490388129)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%3A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%89%8B%E6%8F%8F%E3%81%8D%E9%A2%A8%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E9%9D%92%E3%81%A8%E7%B7%91%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9A%7Bargument%20name%3D%22%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%22%20default%3D%22Google%E3%81%AE%E6%96%B0%20AI%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Completely%20reproduce%20the%20uploaded%20person.%0AMake%20it%20a%20header%20image%20for%20a%20Note%20article%20where%20that%20person%20introduces%20%22Nano%20Banana%20Pro.%22%0AAspect%20ratio%2016%3A9%2C%20horizontal.%0AStyle%20and%20colors%3A%20simple%2C%20hand-drawn%20look%2C%20italic%2C%20blue%20and%20green%20gradient.%0ATitle%3A%20%7Bargument%20name%3D%22title_en%22%20default%3D%22In-depth%20guide%20to%20Google's%20new%20AI%3A%20Nano%20Banana%20Pro%22%7D.)**
 
 ---
 
@@ -3536,12 +3547,11 @@ Prompt for a hand-drawn style header image of a person introducing Nano Banana P
 #### 📝 Prompt
 
 ```
-アップロードした人物を完全再現
-その人物が「Nano Banana Pro」を紹介する note記事の見出し画像
-16：9の横長サイズ
-スタイル、カラー：シンプル、手描き風、斜体、青と緑のグラデーション
-タイトル：Google の新AI「Nano
-Banana Pro」徹底解説
+Completely recreate the uploaded person.
+Make it a header image for a note article where that person introduces “Nano Banana Pro”.
+Aspect ratio: horizontal 16:9.
+Style and colors: simple, hand-drawn style, italic, with a blue and green gradient.
+Title text: “In-depth explanation of Google’s new AI ‘Nano Banana Pro’”.
 ```
 
 #### 🖼️ Generated Images
@@ -3563,15 +3573,16 @@ Banana Pro」徹底解説
 - **Author:** [セミナー講師専門AIコンシェルジュ｜工藤 晶](https://x.com/akirakudo_ai)
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096860765561190)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%20note%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%EF%BC%9A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%89%8B%E6%8F%8F%E3%81%8D%E9%A2%A8%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E9%9D%92%E3%81%A8%E7%B7%91%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%20%E3%81%AE%E6%96%B0AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Completely%20recreate%20the%20uploaded%20person.%0AMake%20it%20a%20header%20image%20for%20a%20note%20article%20where%20that%20person%20introduces%20%E2%80%9CNano%20Banana%20Pro%E2%80%9D.%0AAspect%20ratio%3A%20horizontal%2016%3A9.%0AStyle%20and%20colors%3A%20simple%2C%20hand-drawn%20style%2C%20italic%2C%20with%20a%20blue%20and%20green%20gradient.%0ATitle%20text%3A%20%E2%80%9CIn-depth%20explanation%20of%20Google%E2%80%99s%20new%20AI%20%E2%80%98Nano%20Banana%20Pro%E2%80%99%E2%80%9D.)**
 
 ---
 
 ### No. 83: Header image with uploaded person introducing Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -3580,12 +3591,11 @@ A structured Japanese prompt to recreate an uploaded person and place them in a 
 #### 📝 Prompt
 
 ```
-アップロードした人物を完全再現
-その人物が「Nano Banana Pro」を紹介するnote 記事の見出し画像
-16：9の横長サイズ
-スタイル、カラー：シンプル、斜体、白、青
-タイトル：Googleの新 AI「Nano
-Banana Pro」徹底解説￼
+Fully recreate the uploaded person.
+Create a note article header image where that person is introducing “Nano Banana Pro.”
+Use a 16:9 horizontal size.
+Style and colors: simple, italic, white and blue.
+Title: “{argument name="title_en" default="In-depth guide to Google’s new AI ‘Nano Banana Pro’"}”.
 ```
 
 #### 🖼️ Generated Images
@@ -3607,15 +3617,16 @@ Banana Pro」徹底解説￼
 - **Author:** [セミナー講師専門AIコンシェルジュ｜工藤 晶](https://x.com/akirakudo_ai)
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096851957620861)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F%0A16%EF%BC%9A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%80%81%E6%96%9C%E4%BD%93%E3%80%81%E7%99%BD%E3%80%81%E9%9D%92%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%E3%81%AE%E6%96%B0%20AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BF%BC)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Fully%20recreate%20the%20uploaded%20person.%0ACreate%20a%20note%20article%20header%20image%20where%20that%20person%20is%20introducing%20%E2%80%9CNano%20Banana%20Pro.%E2%80%9D%0AUse%20a%2016%3A9%20horizontal%20size.%0AStyle%20and%20colors%3A%20simple%2C%20italic%2C%20white%20and%20blue.%0ATitle%3A%20%E2%80%9C%7Bargument%20name%3D%22title_en%22%20default%3D%22In-depth%20guide%20to%20Google%E2%80%99s%20new%20AI%20%E2%80%98Nano%20Banana%20Pro%E2%80%99%22%7D%E2%80%9D.)**
 
 ---
 
 ### No. 84: Luxurious header image with uploaded person for Nano Banana Pro article
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -3624,13 +3635,11 @@ A template-style Japanese prompt that recreates an uploaded person and places th
 #### 📝 Prompt
 
 ```
-アップロードした人物を完全再現
-その人物が「Nano Banana Pro」を紹介するnote 記事の見出し画像(この部分に関するテキストは表示しない)
-16:9の横長サイズ
-高級感、グラデーション、インパクト
-重視、斜体
-タイトル：Google の新AI「Nano
-Banana Pro」徹底解説￼
+Fully recreate the uploaded person.
+Create a note article header image where that person is introducing “Nano Banana Pro” (do not display text about this part itself).
+Use a 16:9 horizontal size.
+Emphasize a luxurious feel, gradients, and impact, with italic styling.
+Title: “{argument name="title_en" default="In-depth guide to Google’s new AI ‘Nano Banana Pro’"}”.
 ```
 
 #### 🖼️ Generated Images
@@ -3646,9 +3655,9 @@ Banana Pro」徹底解説￼
 - **Author:** [セミナー講師専門AIコンシェルジュ｜工藤 晶](https://x.com/akirakudo_ai)
 - **Source:** [Twitter Post](https://x.com/akirakudo_ai/status/1992096841354101240)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%97%E3%81%9F%E4%BA%BA%E7%89%A9%E3%82%92%E5%AE%8C%E5%85%A8%E5%86%8D%E7%8F%BE%0A%E3%81%9D%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%8C%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8Bnote%20%E8%A8%98%E4%BA%8B%E3%81%AE%E8%A6%8B%E5%87%BA%E3%81%97%E7%94%BB%E5%83%8F(%E3%81%93%E3%81%AE%E9%83%A8%E5%88%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%AF%E8%A1%A8%E7%A4%BA%E3%81%97%E3%81%AA%E3%81%84)%0A16%3A9%E3%81%AE%E6%A8%AA%E9%95%B7%E3%82%B5%E3%82%A4%E3%82%BA%0A%E9%AB%98%E7%B4%9A%E6%84%9F%E3%80%81%E3%82%B0%E3%83%A9%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%81%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88%0A%E9%87%8D%E8%A6%96%E3%80%81%E6%96%9C%E4%BD%93%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%EF%BC%9AGoogle%20%E3%81%AE%E6%96%B0AI%E3%80%8CNano%0ABanana%20Pro%E3%80%8D%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BF%BC)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Fully%20recreate%20the%20uploaded%20person.%0ACreate%20a%20note%20article%20header%20image%20where%20that%20person%20is%20introducing%20%E2%80%9CNano%20Banana%20Pro%E2%80%9D%20(do%20not%20display%20text%20about%20this%20part%20itself).%0AUse%20a%2016%3A9%20horizontal%20size.%0AEmphasize%20a%20luxurious%20feel%2C%20gradients%2C%20and%20impact%2C%20with%20italic%20styling.%0ATitle%3A%20%E2%80%9C%7Bargument%20name%3D%22title_en%22%20default%3D%22In-depth%20guide%20to%20Google%E2%80%99s%20new%20AI%20%E2%80%98Nano%20Banana%20Pro%E2%80%99%22%7D%E2%80%9D.)**
 
 ---
 
@@ -3663,7 +3672,7 @@ A Japanese prompt asking for a 4x3 grid of 12 LINE stickers featuring a standing
 #### 📝 Prompt
 
 ```
-この立っている人形のキャラで、4x3=12種類LINEスタンプが描かれた一覧画像作って。スタンプはごくごく標準的なひとことで。
+Using this standing doll character, create an index image showing 4x3 = 12 different LINE stickers. Each sticker should have a very standard, simple one-word phrase.
 ```
 
 #### 🖼️ Generated Images
@@ -3685,9 +3694,9 @@ A Japanese prompt asking for a 4x3 grid of 12 LINE stickers featuring a standing
 - **Author:** [K Futami](https://x.com/fmmfm)
 - **Source:** [Twitter Post](https://x.com/fmmfm/status/1992092127397118046)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BA%BA%E5%BD%A2%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%A7%E3%80%814x3%3D12%E7%A8%AE%E9%A1%9ELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E4%B8%80%E8%A6%A7%E7%94%BB%E5%83%8F%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AF%E3%81%94%E3%81%8F%E3%81%94%E3%81%8F%E6%A8%99%E6%BA%96%E7%9A%84%E3%81%AA%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8%E3%81%A7%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Using%20this%20standing%20doll%20character%2C%20create%20an%20index%20image%20showing%204x3%20%3D%2012%20different%20LINE%20stickers.%20Each%20sticker%20should%20have%20a%20very%20standard%2C%20simple%20one-word%20phrase.)**
 
 ---
 
@@ -3702,7 +3711,7 @@ A detailed fantasy prompt depicting a translucent blue whale made of seawater, f
 #### 📝 Prompt
 
 ```
-A majestic, translucent blue whale, made of seawater with visible fish schools inside, swimming through fluffy white clouds at golden hour, sunlight creating a rainbow through its body, surreal and grand scene.
+A majestic, translucent blue whale, made of seawater with visible fish schools inside, swimming through fluffy white clouds at golden hour, sunlight creating a rainbow through its body, in a surreal and grand scene.
 ```
 
 #### 🖼️ Generated Images
@@ -3718,9 +3727,9 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 - **Author:** [luokai](https://x.com/iamluokai)
 - **Source:** [Twitter Post](https://x.com/iamluokai/status/1992090978740826143)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20majestic%2C%20translucent%20blue%20whale%2C%20made%20of%20seawater%20with%20visible%20fish%20schools%20inside%2C%20swimming%20through%20fluffy%20white%20clouds%20at%20golden%20hour%2C%20sunlight%20creating%20a%20rainbow%20through%20its%20body%2C%20surreal%20and%20grand%20scene.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20majestic%2C%20translucent%20blue%20whale%2C%20made%20of%20seawater%20with%20visible%20fish%20schools%20inside%2C%20swimming%20through%20fluffy%20white%20clouds%20at%20golden%20hour%2C%20sunlight%20creating%20a%20rainbow%20through%20its%20body%2C%20in%20a%20surreal%20and%20grand%20scene.)**
 
 ---
 
@@ -3735,7 +3744,7 @@ A straightforward Japanese prompt to generate a portfolio image for an imaginary
 #### 📝 Prompt
 
 ```
-架空のWebデザイナーのポートフォリオ画像を作成して。
+Create a portfolio image for a fictional web designer.
 ```
 
 #### 🖼️ Generated Images
@@ -3751,9 +3760,9 @@ A straightforward Japanese prompt to generate a portfolio image for an imaginary
 - **Author:** [じん丨AI×ノーコードWeb制作](https://x.com/jin_design_)
 - **Source:** [Twitter Post](https://x.com/jin_design_/status/1992088801351815310)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%9E%B6%E7%A9%BA%E3%81%AEWeb%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20portfolio%20image%20for%20a%20fictional%20web%20designer.)**
 
 ---
 
@@ -3769,7 +3778,7 @@ An English prompt that edits a person’s photo to look like they are shopping a
 #### 📝 Prompt
 
 ```
-Make it look like I am shopping at Levi's holding bags, taking a picture at the mirror in the store, covering my face with my phone, make the phone a {argument name="phone_model" default="Samsung S25 Plus"}.
+Make it look like I am shopping at Levi’s holding bags, taking a picture in the store mirror, covering my face with my phone. Make the phone a {argument name="phone_model_en" default="Samsung S25 Plus"}.
 ```
 
 #### 🖼️ Generated Images
@@ -3785,9 +3794,9 @@ Make it look like I am shopping at Levi's holding bags, taking a picture at the 
 - **Author:** [Sai Nemani](https://x.com/SaiNemani1)
 - **Source:** [Twitter Post](https://x.com/SaiNemani1/status/1992088323779952880)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20it%20look%20like%20I%20am%20shopping%20at%20Levi's%20holding%20bags%2C%20taking%20a%20picture%20at%20the%20mirror%20in%20the%20store%2C%20covering%20my%20face%20with%20my%20phone%2C%20make%20the%20phone%20a%20%7Bargument%20name%3D%22phone_model%22%20default%3D%22Samsung%20S25%20Plus%22%7D.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20it%20look%20like%20I%20am%20shopping%20at%20Levi%E2%80%99s%20holding%20bags%2C%20taking%20a%20picture%20in%20the%20store%20mirror%2C%20covering%20my%20face%20with%20my%20phone.%20Make%20the%20phone%20a%20%7Bargument%20name%3D%22phone_model_en%22%20default%3D%22Samsung%20S25%20Plus%22%7D.)**
 
 ---
 
@@ -3803,7 +3812,7 @@ Generates a sunset scene at a precise latitude and longitude, useful for geo-bas
 #### 📝 Prompt
 
 ```
-Create an image of {argument name="coordinates" default="7°36′28″S 110°12′14″E"} at {argument name="time" default="sunset"}.
+Create an image of {argument name="coordinates_en" default="7°36′28″S 110°12′14″E"} at {argument name="time_en" default="sunset"}.
 ```
 
 #### 🖼️ Generated Images
@@ -3819,9 +3828,9 @@ Create an image of {argument name="coordinates" default="7°36′28″S 110°12�
 - **Author:** [DΞV](https://x.com/junwatu)
 - **Source:** [Twitter Post](https://x.com/junwatu/status/1992087784430133418)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates%22%20default%3D%227%C2%B036%E2%80%B228%E2%80%B3S%20110%C2%B012%E2%80%B214%E2%80%B3E%22%7D%20at%20%7Bargument%20name%3D%22time%22%20default%3D%22sunset%22%7D.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%227%C2%B036%E2%80%B228%E2%80%B3S%20110%C2%B012%E2%80%B214%E2%80%B3E%22%7D%20at%20%7Bargument%20name%3D%22time_en%22%20default%3D%22sunset%22%7D.)**
 
 ---
 
@@ -3837,7 +3846,7 @@ A Japanese business prompt that first asks the model to think through key messag
 #### 📝 Prompt
 
 ```
-”{argument name="タイトル" default="PLMシステムがデジタルスレッド実現に不可欠な理由"}”というタイトルで、メッセージを支える要素を一度思考して洗い出してから、1枚のプレゼンスライドにして”
+With the title “{argument name="title_en" default="Why PLM systems are essential for realizing a digital thread"}”, first think through and list the elements that support this message, then turn them into a single presentation slide.
 ```
 
 #### 🖼️ Generated Images
@@ -3853,9 +3862,9 @@ A Japanese business prompt that first asks the model to think through key messag
 - **Author:** [PLM_Guy](https://x.com/PLM_yarou)
 - **Source:** [Twitter Post](https://x.com/PLM_yarou/status/1992085788239212569)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E2%80%9D%7Bargument%20name%3D%22%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%22%20default%3D%22PLM%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%8C%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%AC%E3%83%83%E3%83%89%E5%AE%9F%E7%8F%BE%E3%81%AB%E4%B8%8D%E5%8F%AF%E6%AC%A0%E3%81%AA%E7%90%86%E7%94%B1%22%7D%E2%80%9D%E3%81%A8%E3%81%84%E3%81%86%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%A7%E3%80%81%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%E8%A6%81%E7%B4%A0%E3%82%92%E4%B8%80%E5%BA%A6%E6%80%9D%E8%80%83%E3%81%97%E3%81%A6%E6%B4%97%E3%81%84%E5%87%BA%E3%81%97%E3%81%A6%E3%81%8B%E3%82%89%E3%80%811%E6%9E%9A%E3%81%AE%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AB%E3%81%97%E3%81%A6%E2%80%9D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=With%20the%20title%20%E2%80%9C%7Bargument%20name%3D%22title_en%22%20default%3D%22Why%20PLM%20systems%20are%20essential%20for%20realizing%20a%20digital%20thread%22%7D%E2%80%9D%2C%20first%20think%20through%20and%20list%20the%20elements%20that%20support%20this%20message%2C%20then%20turn%20them%20into%20a%20single%20presentation%20slide.)**
 
 ---
 
@@ -3870,7 +3879,7 @@ A Japanese prompt for creating an infographic visualizing the situation of a com
 #### 📝 Prompt
 
 ```
-採用に困っている社長の状況をインフォグラフィックで作成して
+Create an infographic illustrating the situation of a company president who is struggling with hiring.
 ```
 
 #### 🖼️ Generated Images
@@ -3886,9 +3895,9 @@ A Japanese prompt for creating an infographic visualizing the situation of a com
 - **Author:** [濱崎賢太郎｜AI×採用で人手不足ゼロに](https://x.com/hamasakiken)
 - **Source:** [Twitter Post](https://x.com/hamasakiken/status/1992084527972557136)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%8E%A1%E7%94%A8%E3%81%AB%E5%9B%B0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E7%A4%BE%E9%95%B7%E3%81%AE%E7%8A%B6%E6%B3%81%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20infographic%20illustrating%20the%20situation%20of%20a%20company%20president%20who%20is%20struggling%20with%20hiring.)**
 
 ---
 
@@ -3903,7 +3912,7 @@ A very short Japanese prompt asking for an illustration that succinctly represen
 #### 📝 Prompt
 
 ```
-この世界の構造を端的に表した絵を描いて
+Draw an illustration that succinctly represents the structure of this world.
 ```
 
 #### 🖼️ Generated Images
@@ -3919,15 +3928,16 @@ A very short Japanese prompt asking for an illustration that succinctly represen
 - **Author:** [塩川 誠 / Solight](https://x.com/makoto_shiokawa)
 - **Source:** [Twitter Post](https://x.com/makoto_shiokawa/status/1992081001552716033)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E6%A7%8B%E9%80%A0%E3%82%92%E7%AB%AF%E7%9A%84%E3%81%AB%E8%A1%A8%E3%81%97%E3%81%9F%E7%B5%B5%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Draw%20an%20illustration%20that%20succinctly%20represents%20the%20structure%20of%20this%20world.)**
 
 ---
 
 ### No. 93: Infographic comparing ChatGPT 5.1 and Gemini 3
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
@@ -3936,7 +3946,7 @@ A prompt that asks Nano Banana Pro to generate an infographic comparing ChatGPT 
 #### 📝 Prompt
 
 ```
-ChatGPT 5.1とGemini 3の比較をインフォグラフィックにして
+Turn the comparison between {argument name="model_1_en" default="ChatGPT 5.1"} and {argument name="model_2_en" default="Gemini 3"} into an infographic.
 ```
 
 #### 🖼️ Generated Images
@@ -3952,9 +3962,9 @@ ChatGPT 5.1とGemini 3の比較をインフォグラフィックにして
 - **Author:** [MIYABI](https://x.com/mgackty8)
 - **Source:** [Twitter Post](https://x.com/mgackty8/status/1992079211499253891)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=ChatGPT%205.1%E3%81%A8Gemini%203%E3%81%AE%E6%AF%94%E8%BC%83%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20the%20comparison%20between%20%7Bargument%20name%3D%22model_1_en%22%20default%3D%22ChatGPT%205.1%22%7D%20and%20%7Bargument%20name%3D%22model_2_en%22%20default%3D%22Gemini%203%22%7D%20into%20an%20infographic.)**
 
 ---
 
@@ -3969,7 +3979,7 @@ Instructs Nano Banana Pro to convert a long Chinese text into a professor-style 
 #### 📝 Prompt
 
 ```
-将这篇长文资料转换为中文教授白板图片，帮助我理解信息。
+Convert this long text material into a Chinese professor-style whiteboard image to help me understand the information.
 ```
 
 #### 🖼️ Generated Images
@@ -3991,9 +4001,9 @@ Instructs Nano Banana Pro to convert a long Chinese text into a professor-style 
 - **Author:** [欧巴聊AI](https://x.com/hungryturbo)
 - **Source:** [Twitter Post](https://x.com/hungryturbo/status/1992073589584199891)
 - **Published:** November 22, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%86%E8%BF%99%E7%AF%87%E9%95%BF%E6%96%87%E8%B5%84%E6%96%99%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%B8%AD%E6%96%87%E6%95%99%E6%8E%88%E7%99%BD%E6%9D%BF%E5%9B%BE%E7%89%87%EF%BC%8C%E5%B8%AE%E5%8A%A9%E6%88%91%E7%90%86%E8%A7%A3%E4%BF%A1%E6%81%AF%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Convert%20this%20long%20text%20material%20into%20a%20Chinese%20professor-style%20whiteboard%20image%20to%20help%20me%20understand%20the%20information.)**
 
 ---
 
@@ -4008,7 +4018,7 @@ A prompt for turning an attached character image into a superalloy-style robot v
 #### 📝 Prompt
 
 ```
-このキャラクターを超合金ロボット風にして。
+Turn this character into a superalloy-style robot.
 ```
 
 #### 🖼️ Generated Images
@@ -4024,9 +4034,9 @@ A prompt for turning an attached character image into a superalloy-style robot v
 - **Author:** [アヲアヒル🐥AI全方位型クリエイター兼プロデューサー（アヲP）](https://x.com/awoahiru)
 - **Source:** [Twitter Post](https://x.com/awoahiru/status/1992073250105606594)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E8%B6%85%E5%90%88%E9%87%91%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E9%A2%A8%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20character%20into%20a%20superalloy-style%20robot.)**
 
 ---
 
@@ -4041,7 +4051,7 @@ A prompt to enhance and upscale an image while preserving composition and color,
 #### 📝 Prompt
 
 ```
-Enhance and upscale the image while keeping composition and colors identical. Eliminate blur and give the texture detailed look.
+Enhance and upscale the image while keeping the composition and colors identical. Eliminate blur and give the texture a detailed look.
 ```
 
 #### 🖼️ Generated Images
@@ -4075,9 +4085,9 @@ Enhance and upscale the image while keeping composition and colors identical. El
 - **Author:** [こわだ](https://x.com/kowada)
 - **Source:** [Twitter Post](https://x.com/kowada/status/1992072850233340197)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Enhance%20and%20upscale%20the%20image%20while%20keeping%20composition%20and%20colors%20identical.%20Eliminate%20blur%20and%20give%20the%20texture%20detailed%20look.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Enhance%20and%20upscale%20the%20image%20while%20keeping%20the%20composition%20and%20colors%20identical.%20Eliminate%20blur%20and%20give%20the%20texture%20a%20detailed%20look.)**
 
 ---
 
@@ -4092,10 +4102,10 @@ A high-detail prompt for generating a 3D cutaway technical infographic of a mode
 #### 📝 Prompt
 
 ```
-内容描述： 一张现代五代隐身战斗机的科普教育技术3D剖面图，侧面视角。画面清晰地展示了复杂的内部结构，包括涡扇发动机细节、机鼻处的AESA（相控阵）雷达系统、驾驶舱航电系统、飞行员座椅、燃料箱以及装有导弹的内部弹舱。
-风格与画质： 高科技信息图表风格，DK视觉大百科（Dorling Kindersley）风格，超写实主义，细节极高的工程蓝图（全彩模式）。
-光照与背景： 干净的白色背景，柔和的摄影棚布光，对焦清晰，8K超高清分辨率，虚幻引擎5（Unreal Engine 5）渲染质感，机械部件分明，具有金属质感。
-重点是需要剖面 剖面
+Content description: A scientific educational technical 3D cutaway diagram of a modern fifth-generation stealth fighter jet, in side view. The image clearly shows the complex internal structure, including details of the turbofan engine, the AESA (phased array) radar system in the nose, the cockpit avionics, the pilot’s seat, fuel tanks, and the internal weapons bay loaded with missiles.
+Style and image quality: High-tech infographic style, Dorling Kindersley (DK) visual encyclopedia style, hyperrealism, extremely detailed engineering blueprint (full-color mode).
+Lighting and background: Clean white background, soft studio lighting, sharp focus, 8K ultra-high-definition resolution, Unreal Engine 5 rendering feel, clearly defined mechanical parts with a metallic texture.
+The key requirement is that it must be a cutaway, a cutaway.
 ```
 
 #### 🖼️ Generated Images
@@ -4111,9 +4121,9 @@ A high-detail prompt for generating a 3D cutaway technical infographic of a mode
 - **Author:** [block0](https://x.com/block0_eth)
 - **Source:** [Twitter Post](https://x.com/block0_eth/status/1992072587497861317)
 - **Published:** November 22, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%86%85%E5%AE%B9%E6%8F%8F%E8%BF%B0%EF%BC%9A%20%E4%B8%80%E5%BC%A0%E7%8E%B0%E4%BB%A3%E4%BA%94%E4%BB%A3%E9%9A%90%E8%BA%AB%E6%88%98%E6%96%97%E6%9C%BA%E7%9A%84%E7%A7%91%E6%99%AE%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF3D%E5%89%96%E9%9D%A2%E5%9B%BE%EF%BC%8C%E4%BE%A7%E9%9D%A2%E8%A7%86%E8%A7%92%E3%80%82%E7%94%BB%E9%9D%A2%E6%B8%85%E6%99%B0%E5%9C%B0%E5%B1%95%E7%A4%BA%E4%BA%86%E5%A4%8D%E6%9D%82%E7%9A%84%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B6%A1%E6%89%87%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%BB%86%E8%8A%82%E3%80%81%E6%9C%BA%E9%BC%BB%E5%A4%84%E7%9A%84AESA%EF%BC%88%E7%9B%B8%E6%8E%A7%E9%98%B5%EF%BC%89%E9%9B%B7%E8%BE%BE%E7%B3%BB%E7%BB%9F%E3%80%81%E9%A9%BE%E9%A9%B6%E8%88%B1%E8%88%AA%E7%94%B5%E7%B3%BB%E7%BB%9F%E3%80%81%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BA%A7%E6%A4%85%E3%80%81%E7%87%83%E6%96%99%E7%AE%B1%E4%BB%A5%E5%8F%8A%E8%A3%85%E6%9C%89%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%86%85%E9%83%A8%E5%BC%B9%E8%88%B1%E3%80%82%0A%E9%A3%8E%E6%A0%BC%E4%B8%8E%E7%94%BB%E8%B4%A8%EF%BC%9A%20%E9%AB%98%E7%A7%91%E6%8A%80%E4%BF%A1%E6%81%AF%E5%9B%BE%E8%A1%A8%E9%A3%8E%E6%A0%BC%EF%BC%8CDK%E8%A7%86%E8%A7%89%E5%A4%A7%E7%99%BE%E7%A7%91%EF%BC%88Dorling%20Kindersley%EF%BC%89%E9%A3%8E%E6%A0%BC%EF%BC%8C%E8%B6%85%E5%86%99%E5%AE%9E%E4%B8%BB%E4%B9%89%EF%BC%8C%E7%BB%86%E8%8A%82%E6%9E%81%E9%AB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E8%93%9D%E5%9B%BE%EF%BC%88%E5%85%A8%E5%BD%A9%E6%A8%A1%E5%BC%8F%EF%BC%89%E3%80%82%0A%E5%85%89%E7%85%A7%E4%B8%8E%E8%83%8C%E6%99%AF%EF%BC%9A%20%E5%B9%B2%E5%87%80%E7%9A%84%E7%99%BD%E8%89%B2%E8%83%8C%E6%99%AF%EF%BC%8C%E6%9F%94%E5%92%8C%E7%9A%84%E6%91%84%E5%BD%B1%E6%A3%9A%E5%B8%83%E5%85%89%EF%BC%8C%E5%AF%B9%E7%84%A6%E6%B8%85%E6%99%B0%EF%BC%8C8K%E8%B6%85%E9%AB%98%E6%B8%85%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8C%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8E5%EF%BC%88Unreal%20Engine%205%EF%BC%89%E6%B8%B2%E6%9F%93%E8%B4%A8%E6%84%9F%EF%BC%8C%E6%9C%BA%E6%A2%B0%E9%83%A8%E4%BB%B6%E5%88%86%E6%98%8E%EF%BC%8C%E5%85%B7%E6%9C%89%E9%87%91%E5%B1%9E%E8%B4%A8%E6%84%9F%E3%80%82%0A%E9%87%8D%E7%82%B9%E6%98%AF%E9%9C%80%E8%A6%81%E5%89%96%E9%9D%A2%20%E5%89%96%E9%9D%A2)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Content%20description%3A%20A%20scientific%20educational%20technical%203D%20cutaway%20diagram%20of%20a%20modern%20fifth-generation%20stealth%20fighter%20jet%2C%20in%20side%20view.%20The%20image%20clearly%20shows%20the%20complex%20internal%20structure%2C%20including%20details%20of%20the%20turbofan%20engine%2C%20the%20AESA%20(phased%20array)%20radar%20system%20in%20the%20nose%2C%20the%20cockpit%20avionics%2C%20the%20pilot%E2%80%99s%20seat%2C%20fuel%20tanks%2C%20and%20the%20internal%20weapons%20bay%20loaded%20with%20missiles.%0AStyle%20and%20image%20quality%3A%20High-tech%20infographic%20style%2C%20Dorling%20Kindersley%20(DK)%20visual%20encyclopedia%20style%2C%20hyperrealism%2C%20extremely%20detailed%20engineering%20blueprint%20(full-color%20mode).%0ALighting%20and%20background%3A%20Clean%20white%20background%2C%20soft%20studio%20lighting%2C%20sharp%20focus%2C%208K%20ultra-high-definition%20resolution%2C%20Unreal%20Engine%205%20rendering%20feel%2C%20clearly%20defined%20mechanical%20parts%20with%20a%20metallic%20texture.%0AThe%20key%20requirement%20is%20that%20it%20must%20be%20a%20cutaway%2C%20a%20cutaway.)**
 
 ---
 
@@ -4129,76 +4139,76 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 
 ```
 {
-  "image_description": {
-    "overall_composition": "A moody, cinematic 2x2 collage featuring the same young woman",
-    "subject": {
-      "appearance": {
-        "hair": "Short, tousled",
-        "makeup": "Bold red lipstick",
-        "style": "Striking, androgynous editorial look"
-      },
-      "attire": {
-        "suit": "Oversize",
-        "shirt": "Loose white dress shirt with an open collar",
-        "tie": "Patterned tie hanging untied around her neck"
-      }
-    },
-    "environment": {
-      "setting": "Old stairway in a dimly lit interior",
-      "lighting": "Warm, amber-toned lighting",
-      "details": [
-        "Worn black railings",
-        "Textured walls",
-        "Soft ambient glow"
-      ]
-    },
-    "frames": {
-      "top_left": {
-        "pose": "Sitting on the steps, leaning forward with chin resting on hand",
-        "expression": "Thoughtful",
-        "details": [
-          "Subtle shadows on her face",
-          "Relaxed posture"
-        ]
-      },
-      "top_right": {
-        "pose": "Standing on the stairway, one hand lightly holding the railing",
-        "expression": "Calm, introspective",
-        "details": [
-          "Oversized black suit draping naturally",
-          "Face slightly tilted toward the camera",
-          "Red lipstick contrasting with the dark suit",
-          "Hair falling freely across her cheeks"
-        ]
-      },
-      "bottom_left": {
-        "pose": "Leaning against the stair railing, looking off to the side",
-        "expression": "Subtle, distant gaze",
-        "details": [
-          "Soft shadows along the stairway",
-          "Texture of the walls visible in the background"
-        ]
-      },
-      "bottom_right": {
-        "pose": "Sitting with legs apart, elbow resting on knee, one hand lightly touching her lips",
-        "expression": "Edgy, confident",
-        "background": "Railings and background blur softly behind her"
-      }
-    },
-    "visual_style": {
-      "lighting": "Warm low-key lighting",
-      "texture": "Textured shadows, slight grain",
-      "depth": "Cinematic depth",
-      "aspect_ratio": "1:1 per frame, arranged in a 2x2 grid",
-      "camera_settings": {
-        "lens": "35mm",
-        "aperture": "f/1.8",
-        "iso": "400",
-        "shutter_speed": "1/160s"
-      },
-      "overall_look": "Moody editorial collage with vintage tones, expressive posing, and rich atmosphere"
-    }
-  }
+  "image_description": {
+    "overall_composition": "A moody, cinematic 2x2 collage featuring the same young woman",
+    "subject": {
+      "appearance": {
+        "hair": "Short, tousled",
+        "makeup": "Bold red lipstick",
+        "style": "Striking, androgynous editorial look"
+      },
+      "attire": {
+        "suit": "Oversize",
+        "shirt": "Loose white dress shirt with an open collar",
+        "tie": "Patterned tie hanging untied around her neck"
+      }
+    },
+    "environment": {
+      "setting": "Old stairway in a dimly lit interior",
+      "lighting": "Warm, amber-toned lighting",
+      "details": [
+        "Worn black railings",
+        "Textured walls",
+        "Soft ambient glow"
+      ]
+    },
+    "frames": {
+      "top_left": {
+        "pose": "Sitting on the steps, leaning forward with chin resting on hand",
+        "expression": "Thoughtful",
+        "details": [
+          "Subtle shadows on her face",
+          "Relaxed posture"
+        ]
+      },
+      "top_right": {
+        "pose": "Standing on the stairway, one hand lightly holding the railing",
+        "expression": "Calm, introspective",
+        "details": [
+          "Oversized black suit draping naturally",
+          "Face slightly tilted toward the camera",
+          "Red lipstick contrasting with the dark suit",
+          "Hair falling freely across her cheeks"
+        ]
+      },
+      "bottom_left": {
+        "pose": "Leaning against the stair railing, looking off to the side",
+        "expression": "Subtle, distant gaze",
+        "details": [
+          "Soft shadows along the stairway",
+          "Texture of the walls visible in the background"
+        ]
+      },
+      "bottom_right": {
+        "pose": "Sitting with legs apart, elbow resting on knee, one hand lightly touching her lips",
+        "expression": "Edgy, confident",
+        "background": "Railings and background blur softly behind her"
+      }
+    },
+    "visual_style": {
+      "lighting": "Warm low-key lighting",
+      "texture": "Textured shadows, slight grain",
+      "depth": "Cinematic depth",
+      "aspect_ratio": "1:1 per frame, arranged in a 2x2 grid",
+      "camera_settings": {
+        "lens": "35mm",
+        "aperture": "f/1.8",
+        "iso": "400",
+        "shutter_speed": "1/160s"
+      },
+      "overall_look": "Moody editorial collage with vintage tones, expressive posing, and rich atmosphere"
+    }
+  }
 }
 ```
 
@@ -4215,9 +4225,9 @@ A very detailed JSON-style prompt describing a moody, cinematic 2x2 collage of t
 - **Author:** [Anissa](https://x.com/SimplyAnnisa)
 - **Source:** [Twitter Post](https://x.com/SimplyAnnisa/status/1992070377674293612)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22image_description%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22overall_composition%22%3A%20%22A%20moody%2C%20cinematic%202x2%20collage%20featuring%20the%20same%20young%20woman%22%2C%0A%C2%A0%20%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22appearance%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22hair%22%3A%20%22Short%2C%20tousled%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22Bold%20red%20lipstick%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22Striking%2C%20androgynous%20editorial%20look%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22attire%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22suit%22%3A%20%22Oversize%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22shirt%22%3A%20%22Loose%20white%20dress%20shirt%20with%20an%20open%20collar%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22tie%22%3A%20%22Patterned%20tie%20hanging%20untied%20around%20her%20neck%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22environment%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22setting%22%3A%20%22Old%20stairway%20in%20a%20dimly%20lit%20interior%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lighting%22%3A%20%22Warm%2C%20amber-toned%20lighting%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Worn%20black%20railings%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Textured%20walls%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Soft%20ambient%20glow%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22frames%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22top_left%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pose%22%3A%20%22Sitting%20on%20the%20steps%2C%20leaning%20forward%20with%20chin%20resting%20on%20hand%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22Thoughtful%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Subtle%20shadows%20on%20her%20face%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Relaxed%20posture%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22top_right%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pose%22%3A%20%22Standing%20on%20the%20stairway%2C%20one%20hand%20lightly%20holding%20the%20railing%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22Calm%2C%20introspective%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Oversized%20black%20suit%20draping%20naturally%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Face%20slightly%20tilted%20toward%20the%20camera%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Red%20lipstick%20contrasting%20with%20the%20dark%20suit%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Hair%20falling%20freely%20across%20her%20cheeks%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22bottom_left%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pose%22%3A%20%22Leaning%20against%20the%20stair%20railing%2C%20looking%20off%20to%20the%20side%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22Subtle%2C%20distant%20gaze%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Soft%20shadows%20along%20the%20stairway%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22Texture%20of%20the%20walls%20visible%20in%20the%20background%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22bottom_right%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pose%22%3A%20%22Sitting%20with%20legs%20apart%2C%20elbow%20resting%20on%20knee%2C%20one%20hand%20lightly%20touching%20her%20lips%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22Edgy%2C%20confident%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22background%22%3A%20%22Railings%20and%20background%20blur%20softly%20behind%20her%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22visual_style%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lighting%22%3A%20%22Warm%20low-key%20lighting%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22texture%22%3A%20%22Textured%20shadows%2C%20slight%20grain%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22depth%22%3A%20%22Cinematic%20depth%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22aspect_ratio%22%3A%20%221%3A1%20per%20frame%2C%20arranged%20in%20a%202x2%20grid%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22camera_settings%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22lens%22%3A%20%2235mm%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22iso%22%3A%20%22400%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22shutter_speed%22%3A%20%221%2F160s%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22overall_look%22%3A%20%22Moody%20editorial%20collage%20with%20vintage%20tones%2C%20expressive%20posing%2C%20and%20rich%20atmosphere%22%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%0A%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22overall_composition%22%3A%20%22A%20moody%2C%20cinematic%202x2%20collage%20featuring%20the%20same%20young%20woman%22%2C%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22appearance%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22hair%22%3A%20%22Short%2C%20tousled%22%2C%0A%20%20%20%20%20%20%20%20%22makeup%22%3A%20%22Bold%20red%20lipstick%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22Striking%2C%20androgynous%20editorial%20look%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22attire%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22suit%22%3A%20%22Oversize%22%2C%0A%20%20%20%20%20%20%20%20%22shirt%22%3A%20%22Loose%20white%20dress%20shirt%20with%20an%20open%20collar%22%2C%0A%20%20%20%20%20%20%20%20%22tie%22%3A%20%22Patterned%20tie%20hanging%20untied%20around%20her%20neck%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22Old%20stairway%20in%20a%20dimly%20lit%20interior%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Warm%2C%20amber-toned%20lighting%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Worn%20black%20railings%22%2C%0A%20%20%20%20%20%20%20%20%22Textured%20walls%22%2C%0A%20%20%20%20%20%20%20%20%22Soft%20ambient%20glow%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22frames%22%3A%20%7B%0A%20%20%20%20%20%20%22top_left%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22pose%22%3A%20%22Sitting%20on%20the%20steps%2C%20leaning%20forward%20with%20chin%20resting%20on%20hand%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22Thoughtful%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22Subtle%20shadows%20on%20her%20face%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22Relaxed%20posture%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22top_right%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22pose%22%3A%20%22Standing%20on%20the%20stairway%2C%20one%20hand%20lightly%20holding%20the%20railing%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22Calm%2C%20introspective%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22Oversized%20black%20suit%20draping%20naturally%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22Face%20slightly%20tilted%20toward%20the%20camera%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22Red%20lipstick%20contrasting%20with%20the%20dark%20suit%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22Hair%20falling%20freely%20across%20her%20cheeks%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom_left%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22pose%22%3A%20%22Leaning%20against%20the%20stair%20railing%2C%20looking%20off%20to%20the%20side%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22Subtle%2C%20distant%20gaze%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22Soft%20shadows%20along%20the%20stairway%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22Texture%20of%20the%20walls%20visible%20in%20the%20background%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom_right%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22pose%22%3A%20%22Sitting%20with%20legs%20apart%2C%20elbow%20resting%20on%20knee%2C%20one%20hand%20lightly%20touching%20her%20lips%22%2C%0A%20%20%20%20%20%20%20%20%22expression%22%3A%20%22Edgy%2C%20confident%22%2C%0A%20%20%20%20%20%20%20%20%22background%22%3A%20%22Railings%20and%20background%20blur%20softly%20behind%20her%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22visual_style%22%3A%20%7B%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Warm%20low-key%20lighting%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22Textured%20shadows%2C%20slight%20grain%22%2C%0A%20%20%20%20%20%20%22depth%22%3A%20%22Cinematic%20depth%22%2C%0A%20%20%20%20%20%20%22aspect_ratio%22%3A%20%221%3A1%20per%20frame%2C%20arranged%20in%20a%202x2%20grid%22%2C%0A%20%20%20%20%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22lens%22%3A%20%2235mm%22%2C%0A%20%20%20%20%20%20%20%20%22aperture%22%3A%20%22f%2F1.8%22%2C%0A%20%20%20%20%20%20%20%20%22iso%22%3A%20%22400%22%2C%0A%20%20%20%20%20%20%20%20%22shutter_speed%22%3A%20%221%2F160s%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22overall_look%22%3A%20%22Moody%20editorial%20collage%20with%20vintage%20tones%2C%20expressive%20posing%2C%20and%20rich%20atmosphere%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -4233,7 +4243,7 @@ A refined geolocation prompt instructing Nano Banana Pro to generate an image at
 #### 📝 Prompt
 
 ```
-Create an image of {argument name="coordinates" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene
+Create an image of {argument name="coordinates_en" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene.
 ```
 
 #### 🖼️ Generated Images
@@ -4249,9 +4259,9 @@ Create an image of {argument name="coordinates" default="37° 30' 40.4424'' N an
 - **Author:** [SETI Park](https://x.com/seti_park)
 - **Source:** [Twitter Post](https://x.com/seti_park/status/1992070344623157325)
 - **Published:** November 22, 2025
-- **Language:** ko
+- **Languages:** ko
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates%22%20default%3D%2237%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E%22%7D.%20Focus%20on%20a%20landmark%2C%20not%20a%20random%20scene)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%2237%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E%22%7D.%20Focus%20on%20a%20landmark%2C%20not%20a%20random%20scene.)**
 
 ---
 
@@ -4266,7 +4276,7 @@ A short Japanese prompt to place a specific dinosaur into a real-world location 
 #### 📝 Prompt
 
 ```
-この恐竜を新宿の都庁前に出現させる
+Make this dinosaur appear in front of the Tokyo Metropolitan Government Building in Shinjuku.
 ```
 
 #### 🖼️ Generated Images
@@ -4300,9 +4310,9 @@ A short Japanese prompt to place a specific dinosaur into a real-world location 
 - **Author:** [株式会社 bloom　ベトナムのレタッチ屋さん](https://x.com/bloomVDC)
 - **Source:** [Twitter Post](https://x.com/bloomVDC/status/1992067728547463602)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E6%81%90%E7%AB%9C%E3%82%92%E6%96%B0%E5%AE%BF%E3%81%AE%E9%83%BD%E5%BA%81%E5%89%8D%E3%81%AB%E5%87%BA%E7%8F%BE%E3%81%95%E3%81%9B%E3%82%8B)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20this%20dinosaur%20appear%20in%20front%20of%20the%20Tokyo%20Metropolitan%20Government%20Building%20in%20Shinjuku.)**
 
 ---
 
@@ -4318,11 +4328,11 @@ A multi-line prompt for dressing the person from an uploaded reference image in 
 #### 📝 Prompt
 
 ```
-Generate an image of the person from the uploaded reference image, keeping the face and hairstyle exactly as in the uploaded image.
+Generate an image of the person from the uploaded reference image, keeping the face and hairstyle exactly the same as in the uploaded image.
 Dress the person in the clothing from the uploaded clothing image, preserving the style, color, and details of the garment.
 Pose the person in a cute and natural pose, looking towards the camera.
 Realistic photo style, natural lighting, high resolution.
-Background optional, neutral or {argument name="background_location" default="Tokyo street"} setting.
+The background is optional, either neutral or a {argument name="background_location_en" default="Tokyo street"} setting.
 ```
 
 #### 🖼️ Generated Images
@@ -4350,9 +4360,9 @@ Background optional, neutral or {argument name="background_location" default="To
 - **Author:** [iX | AI Video Creator & Vibe Coder](https://x.com/iX00AI)
 - **Source:** [Twitter Post](https://x.com/iX00AI/status/1992065499702693921)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20image%20of%20the%20person%20from%20the%20uploaded%20reference%20image%2C%20keeping%20the%20face%20and%20hairstyle%20exactly%20as%20in%20the%20uploaded%20image.%0ADress%20the%20person%20in%20the%20clothing%20from%20the%20uploaded%20clothing%20image%2C%20preserving%20the%20style%2C%20color%2C%20and%20details%20of%20the%20garment.%0APose%20the%20person%20in%20a%20cute%20and%20natural%20pose%2C%20looking%20towards%20the%20camera.%0ARealistic%20photo%20style%2C%20natural%20lighting%2C%20high%20resolution.%0ABackground%20optional%2C%20neutral%20or%20%7Bargument%20name%3D%22background_location%22%20default%3D%22Tokyo%20street%22%7D%20setting.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20image%20of%20the%20person%20from%20the%20uploaded%20reference%20image%2C%20keeping%20the%20face%20and%20hairstyle%20exactly%20the%20same%20as%20in%20the%20uploaded%20image.%0ADress%20the%20person%20in%20the%20clothing%20from%20the%20uploaded%20clothing%20image%2C%20preserving%20the%20style%2C%20color%2C%20and%20details%20of%20the%20garment.%0APose%20the%20person%20in%20a%20cute%20and%20natural%20pose%2C%20looking%20towards%20the%20camera.%0ARealistic%20photo%20style%2C%20natural%20lighting%2C%20high%20resolution.%0AThe%20background%20is%20optional%2C%20either%20neutral%20or%20a%20%7Bargument%20name%3D%22background_location_en%22%20default%3D%22Tokyo%20street%22%7D%20setting.)**
 
 ---
 
@@ -4368,7 +4378,7 @@ Creates an amateur 1998-style photograph of a middle-aged artist copying an imag
 #### 📝 Prompt
 
 ```
-Amateur photograph from {argument name="year" default="1998"} of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
+An amateur photograph from {argument name="year_en" default="1998"} of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
 ```
 
 #### 🖼️ Generated Images
@@ -4384,9 +4394,9 @@ Amateur photograph from {argument name="year" default="1998"} of a middle-aged a
 - **Author:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0)
 - **Source:** [Twitter Post](https://x.com/plasm0/status/1992065152695578814)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Amateur%20photograph%20from%20%7Bargument%20name%3D%22year%22%20default%3D%221998%22%7D%20of%20a%20middle-aged%20artist%20copying%20an%20image%20by%20hand%20from%20a%20computer%20screen%20to%20an%20oil%20painting%20on%20stretched%20canvas%2C%20but%20the%20image%20is%20itself%20the%20photo%20of%20the%20artist%20painting%20the%20recursive%20image.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=An%20amateur%20photograph%20from%20%7Bargument%20name%3D%22year_en%22%20default%3D%221998%22%7D%20of%20a%20middle-aged%20artist%20copying%20an%20image%20by%20hand%20from%20a%20computer%20screen%20to%20an%20oil%20painting%20on%20stretched%20canvas%2C%20but%20the%20image%20is%20itself%20the%20photo%20of%20the%20artist%20painting%20the%20recursive%20image.)**
 
 ---
 
@@ -4402,7 +4412,7 @@ A prompt that turns an attached illustration into a character-based LINE sticker
 #### 📝 Prompt
 
 ```
-添付画像のイラストをキャラにして。LINEスタンプを作成。表情・ポーズ別・セリフ入で{argument name="スタンプ数" default="16"}種類。
+Turn the illustration in the attached image into a character. Create LINE stickers with {argument name="sticker_count_en" default="16"} variations, differing in expressions, poses, and including phrases.
 ```
 
 #### 🖼️ Generated Images
@@ -4418,9 +4428,9 @@ A prompt that turns an attached illustration into a character-based LINE sticker
 - **Author:** [Dr.フク | 医者×SNS戦略](https://x.com/dr_hacker_fuk)
 - **Source:** [Twitter Post](https://x.com/dr_hacker_fuk/status/1992064424660906262)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%81%A7%7Bargument%20name%3D%22%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E6%95%B0%22%20default%3D%2216%22%7D%E7%A8%AE%E9%A1%9E%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20the%20illustration%20in%20the%20attached%20image%20into%20a%20character.%20Create%20LINE%20stickers%20with%20%7Bargument%20name%3D%22sticker_count_en%22%20default%3D%2216%22%7D%20variations%2C%20differing%20in%20expressions%2C%20poses%2C%20and%20including%20phrases.)**
 
 ---
 
@@ -4435,7 +4445,7 @@ A prompt idea for turning an uploaded image into a blue glowing 3D wireframe ove
 #### 📝 Prompt
 
 ```
-make this a blue glowing 3D wireframe over black background. Add red wireframe tanks if you want.
+make this a blue glowing 3D wireframe over a black background. Add red wireframe tanks if you want.
 ```
 
 #### 🖼️ Generated Images
@@ -4451,9 +4461,9 @@ make this a blue glowing 3D wireframe over black background. Add red wireframe t
 - **Author:** [🔻 🪂🇮🇷🇵🇸🇾🇪🇻🇪🇨🇳🇰🇵National Juche🇰🇵](https://x.com/nationaljuche)
 - **Source:** [Twitter Post](https://x.com/nationaljuche/status/1992062680660914631)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20this%20a%20blue%20glowing%203D%20wireframe%20over%20black%20background.%20Add%20red%20wireframe%20tanks%20if%20you%20want.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20this%20a%20blue%20glowing%203D%20wireframe%20over%20a%20black%20background.%20Add%20red%20wireframe%20tanks%20if%20you%20want.)**
 
 ---
 
@@ -4468,7 +4478,7 @@ A prompt to create an image that visually explains the pros and cons of real est
 #### 📝 Prompt
 
 ```
-不動産投資のメリット・デメリットを画像で作成して。
+Create an image showing the advantages and disadvantages of real estate investment.
 ```
 
 #### 🖼️ Generated Images
@@ -4484,9 +4494,9 @@ A prompt to create an image that visually explains the pros and cons of real est
 - **Author:** [ネコ守|コツコツ不動産大家×マラソンは趣味](https://x.com/futa_1983)
 - **Source:** [Twitter Post](https://x.com/futa_1983/status/1992062450234163485)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%83%BB%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%82%92%E7%94%BB%E5%83%8F%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20showing%20the%20advantages%20and%20disadvantages%20of%20real%20estate%20investment.)**
 
 ---
 
@@ -4502,7 +4512,7 @@ A prompt to create a 12-piece LINE sticker set using an attached character, with
 #### 📝 Prompt
 
 ```
-添付画像のキャラクターでLINEスタンプを作成してほしい。表情・ポーズ・セリフが異なる形で全{argument name="スタンプ数" default="12"}種類。{argument name="セリフ系統" default="〇〇系"}のセリフで使いやすいものでお願い。
+I want you to create LINE stickers using the character in the attached image. Make {argument name="sticker_count_en" default="12"} in total, with different expressions, poses, and phrases. Please use easy-to-use phrases in the {argument name="phrase_style_en" default="[specific theme] style"}.
 ```
 
 #### 🖼️ Generated Images
@@ -4524,9 +4534,9 @@ A prompt to create a 12-piece LINE sticker set using an attached character, with
 - **Author:** [しろねこ](https://x.com/shironeko_icy)
 - **Source:** [Twitter Post](https://x.com/shironeko_icy/status/1992062020913639499)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A7LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E3%81%8C%E7%95%B0%E3%81%AA%E3%82%8B%E5%BD%A2%E3%81%A7%E5%85%A8%7Bargument%20name%3D%22%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E6%95%B0%22%20default%3D%2212%22%7D%E7%A8%AE%E9%A1%9E%E3%80%82%7Bargument%20name%3D%22%E3%82%BB%E3%83%AA%E3%83%95%E7%B3%BB%E7%B5%B1%22%20default%3D%22%E3%80%87%E3%80%87%E7%B3%BB%22%7D%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%81%A7%E4%BD%BF%E3%81%84%E3%82%84%E3%81%99%E3%81%84%E3%82%82%E3%81%AE%E3%81%A7%E3%81%8A%E9%A1%98%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=I%20want%20you%20to%20create%20LINE%20stickers%20using%20the%20character%20in%20the%20attached%20image.%20Make%20%7Bargument%20name%3D%22sticker_count_en%22%20default%3D%2212%22%7D%20in%20total%2C%20with%20different%20expressions%2C%20poses%2C%20and%20phrases.%20Please%20use%20easy-to-use%20phrases%20in%20the%20%7Bargument%20name%3D%22phrase_style_en%22%20default%3D%22%5Bspecific%20theme%5D%20style%22%7D.)**
 
 ---
 
@@ -4542,7 +4552,7 @@ A prompt for generating learning cards for famous Tang poems, combining full tex
 #### 📝 Prompt
 
 ```
-给我来{argument name="诗词数量" default="10"}首著名的唐诗学习卡片，图像包含唐诗全文，同时画面要和诗句的内容相吻合，意境契合，方便学生理解诗文的背景和意境，有简单的中文注释。
+Create {argument name="poem_count_en" default="10"} learning cards for famous Tang poems. Each image should contain the full text of the poem, and the visuals must match the content of the lines and the overall mood, making it easier for students to understand the background and atmosphere of the poem. Include simple Chinese annotations.
 ```
 
 #### 🖼️ Generated Images
@@ -4558,9 +4568,9 @@ A prompt for generating learning cards for famous Tang poems, combining full tex
 - **Author:** [小互](https://x.com/imxiaohu)
 - **Source:** [Twitter Post](https://x.com/imxiaohu/status/1992060195691024862)
 - **Published:** November 22, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%E6%88%91%E6%9D%A5%7Bargument%20name%3D%22%E8%AF%97%E8%AF%8D%E6%95%B0%E9%87%8F%22%20default%3D%2210%22%7D%E9%A6%96%E8%91%97%E5%90%8D%E7%9A%84%E5%94%90%E8%AF%97%E5%AD%A6%E4%B9%A0%E5%8D%A1%E7%89%87%EF%BC%8C%E5%9B%BE%E5%83%8F%E5%8C%85%E5%90%AB%E5%94%90%E8%AF%97%E5%85%A8%E6%96%87%EF%BC%8C%E5%90%8C%E6%97%B6%E7%94%BB%E9%9D%A2%E8%A6%81%E5%92%8C%E8%AF%97%E5%8F%A5%E7%9A%84%E5%86%85%E5%AE%B9%E7%9B%B8%E5%90%BB%E5%90%88%EF%BC%8C%E6%84%8F%E5%A2%83%E5%A5%91%E5%90%88%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%AD%A6%E7%94%9F%E7%90%86%E8%A7%A3%E8%AF%97%E6%96%87%E7%9A%84%E8%83%8C%E6%99%AF%E5%92%8C%E6%84%8F%E5%A2%83%EF%BC%8C%E6%9C%89%E7%AE%80%E5%8D%95%E7%9A%84%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20%7Bargument%20name%3D%22poem_count_en%22%20default%3D%2210%22%7D%20learning%20cards%20for%20famous%20Tang%20poems.%20Each%20image%20should%20contain%20the%20full%20text%20of%20the%20poem%2C%20and%20the%20visuals%20must%20match%20the%20content%20of%20the%20lines%20and%20the%20overall%20mood%2C%20making%20it%20easier%20for%20students%20to%20understand%20the%20background%20and%20atmosphere%20of%20the%20poem.%20Include%20simple%20Chinese%20annotations.)**
 
 ---
 
@@ -4575,7 +4585,7 @@ An English prompt that asks the model to zoom in on the toes of the provided ima
 #### 📝 Prompt
 
 ```
-Zoom in on the toes
+Zoom in on the toes.
 ```
 
 #### 🖼️ Generated Images
@@ -4597,9 +4607,9 @@ Zoom in on the toes
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992059240287244364)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Zoom%20in%20on%20the%20toes)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Zoom%20in%20on%20the%20toes.)**
 
 ---
 
@@ -4615,9 +4625,9 @@ Two geo-based prompts to generate night scenes: one of Yeouido’s 63 Building a
 #### 📝 Prompt
 
 ```
-Create an image of {argument name="coordinates_1" default="37°31'11.24"N 126°56'25.11"E"} at night.
+Create an image of {argument name="coordinates_1_en" default="37°31'11.24"N 126°56'25.11"E"} at night.
 
-Create an image of {argument name="coordinates_2" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene
+Create an image of {argument name="coordinates_2_en" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"}. Focus on a landmark, not a random scene.
 ```
 
 #### 🖼️ Generated Images
@@ -4633,9 +4643,9 @@ Create an image of {argument name="coordinates_2" default="37° 30' 40.4424'' N 
 - **Author:** [SETI Park](https://x.com/seti_park)
 - **Source:** [Twitter Post](https://x.com/seti_park/status/1992058919678849106)
 - **Published:** November 22, 2025
-- **Language:** ko
+- **Languages:** ko
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_1%22%20default%3D%2237%C2%B031'11.24%22N%20126%C2%B056'25.11%22E%22%7D%20at%20night.%0A%0ACreate%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_2%22%20default%3D%2237%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E%22%7D.%20Focus%20on%20a%20landmark%2C%20not%20a%20random%20scene)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_1_en%22%20default%3D%2237%C2%B031'11.24%22N%20126%C2%B056'25.11%22E%22%7D%20at%20night.%0A%0ACreate%20an%20image%20of%20%7Bargument%20name%3D%22coordinates_2_en%22%20default%3D%2237%C2%B0%2030'%2040.4424''%20N%20and%20127%C2%B0%205'%2052.9080''%20E%22%7D.%20Focus%20on%20a%20landmark%2C%20not%20a%20random%20scene.)**
 
 ---
 
@@ -4650,7 +4660,7 @@ A simple Japanese prompt requesting an image that summarizes the concept of basi
 #### 📝 Prompt
 
 ```
-ベーシックインカムについてまとめた画像を作成して
+Create an image that summarizes the concept of basic income.
 ```
 
 #### 🖼️ Generated Images
@@ -4666,9 +4676,9 @@ A simple Japanese prompt requesting an image that summarizes the concept of basi
 - **Author:** [AIオタク / AI OTAKU](https://x.com/AI_otaku_2040)
 - **Source:** [Twitter Post](https://x.com/AI_otaku_2040/status/1992058790347444549)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%99%E3%83%BC%E3%82%B7%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%AB%E3%83%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20that%20summarizes%20the%20concept%20of%20basic%20income.)**
 
 ---
 
@@ -4684,7 +4694,7 @@ A prompt asking the model to clean up a comic by mirroring the second panel and 
 #### 📝 Prompt
 
 ```
-２コマめを左右反転した形で、全体を清書して頂くことはできますか？その際、面接官のセリフを、「{argument name="面接官セリフ" default="我が社が求めていた人材です！"}」に修正して下さい。
+Could you clean up the whole comic by horizontally flipping the second panel, and at the same time change the interviewer’s line to “{argument name="interviewer_line_en" default="You’re exactly the kind of person our company has been looking for!"}”?
 ```
 
 #### 🖼️ Generated Images
@@ -4700,9 +4710,9 @@ A prompt asking the model to clean up a comic by mirroring the second panel and 
 - **Author:** [Takashi Okumura](https://x.com/tweeting_drtaka)
 - **Source:** [Twitter Post](https://x.com/tweeting_drtaka/status/1992058111386161408)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%EF%BC%92%E3%82%B3%E3%83%9E%E3%82%81%E3%82%92%E5%B7%A6%E5%8F%B3%E5%8F%8D%E8%BB%A2%E3%81%97%E3%81%9F%E5%BD%A2%E3%81%A7%E3%80%81%E5%85%A8%E4%BD%93%E3%82%92%E6%B8%85%E6%9B%B8%E3%81%97%E3%81%A6%E9%A0%82%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F%E3%81%9D%E3%81%AE%E9%9A%9B%E3%80%81%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E3%80%81%E3%80%8C%7Bargument%20name%3D%22%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%82%BB%E3%83%AA%E3%83%95%22%20default%3D%22%E6%88%91%E3%81%8C%E7%A4%BE%E3%81%8C%E6%B1%82%E3%82%81%E3%81%A6%E3%81%84%E3%81%9F%E4%BA%BA%E6%9D%90%E3%81%A7%E3%81%99%EF%BC%81%22%7D%E3%80%8D%E3%81%AB%E4%BF%AE%E6%AD%A3%E3%81%97%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Could%20you%20clean%20up%20the%20whole%20comic%20by%20horizontally%20flipping%20the%20second%20panel%2C%20and%20at%20the%20same%20time%20change%20the%20interviewer%E2%80%99s%20line%20to%20%E2%80%9C%7Bargument%20name%3D%22interviewer_line_en%22%20default%3D%22You%E2%80%99re%20exactly%20the%20kind%20of%20person%20our%20company%20has%20been%20looking%20for!%22%7D%E2%80%9D%3F)**
 
 ---
 
@@ -4717,7 +4727,7 @@ A Chinese prompt that generates a grid of the top 30 Water Margin characters in 
 #### 📝 Prompt
 
 ```
-生成一副《水浒》排名前30的人物图，grid格式，中国工笔画风格，每个人物的cell的右下角写上人物的姓名。
+Generate an image of the top 30 characters from "Water Margin" in a grid format, in the style of Chinese gongbi painting, with each character’s name written in the lower‑right corner of their cell.
 ```
 
 #### 🖼️ Generated Images
@@ -4733,9 +4743,9 @@ A Chinese prompt that generates a grid of the top 30 Water Margin characters in 
 - **Author:** [leon](https://x.com/MingleeJ)
 - **Source:** [Twitter Post](https://x.com/MingleeJ/status/1992057312622874857)
 - **Published:** November 22, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%89%AF%E3%80%8A%E6%B0%B4%E6%B5%92%E3%80%8B%E6%8E%92%E5%90%8D%E5%89%8D30%E7%9A%84%E4%BA%BA%E7%89%A9%E5%9B%BE%EF%BC%8Cgrid%E6%A0%BC%E5%BC%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%AC%94%E7%94%BB%E9%A3%8E%E6%A0%BC%EF%BC%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%89%A9%E7%9A%84cell%E7%9A%84%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E4%B8%8A%E4%BA%BA%E7%89%A9%E7%9A%84%E5%A7%93%E5%90%8D%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20image%20of%20the%20top%2030%20characters%20from%20%22Water%20Margin%22%20in%20a%20grid%20format%2C%20in%20the%20style%20of%20Chinese%20gongbi%20painting%2C%20with%20each%20character%E2%80%99s%20name%20written%20in%20the%20lower%E2%80%91right%20corner%20of%20their%20cell.)**
 
 ---
 
@@ -4750,7 +4760,7 @@ A Japanese prompt that transforms the adult woman from the first image into an e
 #### 📝 Prompt
 
 ```
-1枚目の成人女性の老婆の姿を生成して。ドアップ。衣装もおばさんっぽくして。背景は家
+Generate an image of the adult woman from the first picture as an old lady. Make it a close-up. Make her clothing look like that of an older woman, and set the background as a house.
 ```
 
 #### 🖼️ Generated Images
@@ -4766,9 +4776,9 @@ A Japanese prompt that transforms the adult woman from the first image into an e
 - **Author:** [アユネオ](https://x.com/Ayu_AI_0912)
 - **Source:** [Twitter Post](https://x.com/Ayu_AI_0912/status/1992050902438482199)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=1%E6%9E%9A%E7%9B%AE%E3%81%AE%E6%88%90%E4%BA%BA%E5%A5%B3%E6%80%A7%E3%81%AE%E8%80%81%E5%A9%86%E3%81%AE%E5%A7%BF%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%80%82%E8%A1%A3%E8%A3%85%E3%82%82%E3%81%8A%E3%81%B0%E3%81%95%E3%82%93%E3%81%A3%E3%81%BD%E3%81%8F%E3%81%97%E3%81%A6%E3%80%82%E8%83%8C%E6%99%AF%E3%81%AF%E5%AE%B6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20image%20of%20the%20adult%20woman%20from%20the%20first%20picture%20as%20an%20old%20lady.%20Make%20it%20a%20close-up.%20Make%20her%20clothing%20look%20like%20that%20of%20an%20older%20woman%2C%20and%20set%20the%20background%20as%20a%20house.)**
 
 ---
 
@@ -4805,7 +4815,7 @@ Zoom in on the bee
 - **Author:** [ImagineArt](https://x.com/ImagineArt_X)
 - **Source:** [Twitter Post](https://x.com/ImagineArt_X/status/1992050470089580583)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Zoom%20in%20on%20the%20bee)**
 
@@ -4823,9 +4833,9 @@ Instructs Nano Banana Pro to add two centered lines of Japanese text about Googl
 #### 📝 Prompt
 
 ```
-添付をベースに、以下の内容を盛り込んで。2行に収めて。縦中央に配置。
+Based on the attached image, include the following content. Keep it within two lines and place it vertically centered.
 ↓
-{argument name="テキスト" default="Googleが画像生成AIの最終兵器「Nano Banana Pro」を公開"}
+{argument name="text_en" default="Google unveils its ultimate image generation AI, ‘Nano Banana Pro’"}
 ```
 
 #### 🖼️ Generated Images
@@ -4847,9 +4857,9 @@ Instructs Nano Banana Pro to add two centered lines of Japanese text about Googl
 - **Author:** [小畑タカユキ｜AI駆動Web制作の人](https://x.com/no_ai_no_life)
 - **Source:** [Twitter Post](https://x.com/no_ai_no_life/status/1992049924029182382)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%82%92%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%86%85%E5%AE%B9%E3%82%92%E7%9B%9B%E3%82%8A%E8%BE%BC%E3%82%93%E3%81%A7%E3%80%822%E8%A1%8C%E3%81%AB%E5%8F%8E%E3%82%81%E3%81%A6%E3%80%82%E7%B8%A6%E4%B8%AD%E5%A4%AE%E3%81%AB%E9%85%8D%E7%BD%AE%E3%80%82%0A%E2%86%93%0A%7Bargument%20name%3D%22%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%22%20default%3D%22Google%E3%81%8C%E7%94%BB%E5%83%8F%E7%94%9F%E6%88%90AI%E3%81%AE%E6%9C%80%E7%B5%82%E5%85%B5%E5%99%A8%E3%80%8CNano%20Banana%20Pro%E3%80%8D%E3%82%92%E5%85%AC%E9%96%8B%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Based%20on%20the%20attached%20image%2C%20include%20the%20following%20content.%20Keep%20it%20within%20two%20lines%20and%20place%20it%20vertically%20centered.%0A%E2%86%93%0A%7Bargument%20name%3D%22text_en%22%20default%3D%22Google%20unveils%20its%20ultimate%20image%20generation%20AI%2C%20%E2%80%98Nano%20Banana%20Pro%E2%80%99%22%7D)**
 
 ---
 
@@ -4864,7 +4874,7 @@ Asks Nano Banana Pro to create a diagram summarizing the strategy behind a perso
 #### 📝 Prompt
 
 ```
-添付は個人投資家である私のポートフォリオです。こちらのポートフォリオの戦略を人に伝える際の方針概要図を作成してください。
+The attachment is my portfolio as an individual investor. Please create an overview diagram of the policy for explaining this portfolio’s strategy to others.
 ```
 
 #### 🖼️ Generated Images
@@ -4880,9 +4890,9 @@ Asks Nano Banana Pro to create a diagram summarizing the strategy behind a perso
 - **Author:** [えち@投資家🃏｜日本株🇯🇵米国株🇺🇸仮想通貨₿](https://x.com/hm_ememem)
 - **Source:** [Twitter Post](https://x.com/hm_ememem/status/1992049608558871000)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AF%E5%80%8B%E4%BA%BA%E6%8A%95%E8%B3%87%E5%AE%B6%E3%81%A7%E3%81%82%E3%82%8B%E7%A7%81%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%81%A1%E3%82%89%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E3%81%AE%E6%88%A6%E7%95%A5%E3%82%92%E4%BA%BA%E3%81%AB%E4%BC%9D%E3%81%88%E3%82%8B%E9%9A%9B%E3%81%AE%E6%96%B9%E9%87%9D%E6%A6%82%E8%A6%81%E5%9B%B3%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20attachment%20is%20my%20portfolio%20as%20an%20individual%20investor.%20Please%20create%20an%20overview%20diagram%20of%20the%20policy%20for%20explaining%20this%20portfolio%E2%80%99s%20strategy%20to%20others.)**
 
 ---
 
@@ -4897,7 +4907,7 @@ A short prompt that asks Nano Banana Pro to create a slide summarizing the advan
 #### 📝 Prompt
 
 ```
-ベトナム投資の優位性を1枚のスライドにして
+Turn the advantages of investing in Vietnam into a single slide.
 ```
 
 #### 🖼️ Generated Images
@@ -4919,9 +4929,9 @@ A short prompt that asks Nano Banana Pro to create a slide summarizing the advan
 - **Author:** [ベトテク太郎🇻🇳ベトナム経済＆株式ニュース](https://x.com/viettechtaro)
 - **Source:** [Twitter Post](https://x.com/viettechtaro/status/1992049545879118072)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E6%8A%95%E8%B3%87%E3%81%AE%E5%84%AA%E4%BD%8D%E6%80%A7%E3%82%921%E6%9E%9A%E3%81%AE%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%81%AB%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20the%20advantages%20of%20investing%20in%20Vietnam%20into%20a%20single%20slide.)**
 
 ---
 
@@ -4937,7 +4947,7 @@ An English engineering prompt that generates a shear and moment diagram for a si
 #### 📝 Prompt
 
 ```
-a shear and moment diagram for a simply supported beam with a uniform load of {argument name="load" default="100 plf"}. the beam is {argument name="length" default="100 feet"} long
+A shear and moment diagram for a simply supported beam with a uniform load of {argument name="load_en" default="100 plf"}. The beam is {argument name="length_en" default="100 feet"} long.
 ```
 
 #### 🖼️ Generated Images
@@ -4953,9 +4963,9 @@ a shear and moment diagram for a simply supported beam with a uniform load of {a
 - **Author:** [mjamiv⚡️](https://x.com/MJAMIV)
 - **Source:** [Twitter Post](https://x.com/MJAMIV/status/1992048539552346331)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=a%20shear%20and%20moment%20diagram%20for%20a%20simply%20supported%20beam%20with%20a%20uniform%20load%20of%20%7Bargument%20name%3D%22load%22%20default%3D%22100%20plf%22%7D.%20the%20beam%20is%20%7Bargument%20name%3D%22length%22%20default%3D%22100%20feet%22%7D%20long)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20shear%20and%20moment%20diagram%20for%20a%20simply%20supported%20beam%20with%20a%20uniform%20load%20of%20%7Bargument%20name%3D%22load_en%22%20default%3D%22100%20plf%22%7D.%20The%20beam%20is%20%7Bargument%20name%3D%22length_en%22%20default%3D%22100%20feet%22%7D%20long.)**
 
 ---
 
@@ -4970,7 +4980,7 @@ Generates a scene of a physicist’s legs on a hammock with a drink and spa sett
 #### 📝 Prompt
 
 ```
-Physicist on a hammock, with a glass and an S.P.A. Only legs, without shoes and trees and vegetation are shown.
+A physicist on a hammock, with a glass and an S.P.A. Only their legs without shoes, and trees and vegetation are shown.
 ```
 
 #### 🖼️ Generated Images
@@ -4986,9 +4996,9 @@ Physicist on a hammock, with a glass and an S.P.A. Only legs, without shoes and 
 - **Author:** [Lautaro Vergara 🇺🇦](https://x.com/VergaraLautaro)
 - **Source:** [Twitter Post](https://x.com/VergaraLautaro/status/1992046250514882805)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Physicist%20on%20a%20hammock%2C%20with%20a%20glass%20and%20an%20S.P.A.%20Only%20legs%2C%20without%20shoes%20and%20trees%20and%20vegetation%20are%20shown.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20physicist%20on%20a%20hammock%2C%20with%20a%20glass%20and%20an%20S.P.A.%20Only%20their%20legs%20without%20shoes%2C%20and%20trees%20and%20vegetation%20are%20shown.)**
 
 ---
 
@@ -5004,7 +5014,7 @@ Creates a 2x3 grid of step-by-step visual folding instructions from a flat sheet
 #### 📝 Prompt
 
 ```
-Create a {argument name="grid_layout" default="2x 3"} grid of step-by-step visual folding instructions, from flat sheet to the final model. Each step should include a person completing that step
+Create a {argument name="grid_layout_en" default="2 by 3"} grid of step-by-step visual folding instructions, from a flat sheet to the final model. Each step should include a person completing that step.
 ```
 
 #### 🖼️ Generated Images
@@ -5026,9 +5036,9 @@ Create a {argument name="grid_layout" default="2x 3"} grid of step-by-step visua
 - **Author:** [Gadgetify](https://x.com/Gdgtify)
 - **Source:** [Twitter Post](https://x.com/Gdgtify/status/1992044991242281123)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20%7Bargument%20name%3D%22grid_layout%22%20default%3D%222x%203%22%7D%20grid%20of%20step-by-step%20visual%20folding%20instructions%2C%20from%20flat%20sheet%20to%20the%20final%20model.%20Each%20step%20should%20include%20a%20person%20completing%20that%20step)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20%7Bargument%20name%3D%22grid_layout_en%22%20default%3D%222%20by%203%22%7D%20grid%20of%20step-by-step%20visual%20folding%20instructions%2C%20from%20a%20flat%20sheet%20to%20the%20final%20model.%20Each%20step%20should%20include%20a%20person%20completing%20that%20step.)**
 
 ---
 
@@ -5043,7 +5053,7 @@ Creates a classroom chalkboard artwork of a rabbit king with Japanese text, in a
 #### 📝 Prompt
 
 ```
-教室の黒板にチョークイラストでうさぎの王様を書いて 文字も うさ王様参上！ 実写の教室の様子と窓から差し込む夕日 斜めから
+On the classroom blackboard, draw a chalk illustration of a rabbit king and also write the text "うさ王様参上！" (The Rabbit King has arrived!). Show a real classroom scene with sunset light streaming in through the window from a diagonal angle.
 ```
 
 #### 🖼️ Generated Images
@@ -5059,9 +5069,9 @@ Creates a classroom chalkboard artwork of a rabbit king with Japanese text, in a
 - **Author:** [さつき＠AIお絵描き(うさぎ好き）](https://x.com/masukarasulove)
 - **Source:** [Twitter Post](https://x.com/masukarasulove/status/1992044862477078614)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%95%99%E5%AE%A4%E3%81%AE%E9%BB%92%E6%9D%BF%E3%81%AB%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E3%81%86%E3%81%95%E3%81%8E%E3%81%AE%E7%8E%8B%E6%A7%98%E3%82%92%E6%9B%B8%E3%81%84%E3%81%A6%20%E6%96%87%E5%AD%97%E3%82%82%20%E3%81%86%E3%81%95%E7%8E%8B%E6%A7%98%E5%8F%82%E4%B8%8A%EF%BC%81%20%E5%AE%9F%E5%86%99%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%AE%E6%A7%98%E5%AD%90%E3%81%A8%E7%AA%93%E3%81%8B%E3%82%89%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80%E5%A4%95%E6%97%A5%20%E6%96%9C%E3%82%81%E3%81%8B%E3%82%89)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=On%20the%20classroom%20blackboard%2C%20draw%20a%20chalk%20illustration%20of%20a%20rabbit%20king%20and%20also%20write%20the%20text%20%22%E3%81%86%E3%81%95%E7%8E%8B%E6%A7%98%E5%8F%82%E4%B8%8A%EF%BC%81%22%20(The%20Rabbit%20King%20has%20arrived!).%20Show%20a%20real%20classroom%20scene%20with%20sunset%20light%20streaming%20in%20through%20the%20window%20from%20a%20diagonal%20angle.)**
 
 ---
 
@@ -5077,7 +5087,7 @@ An English prompt for creating a full comic page where Ben 10 crosses over into 
 #### 📝 Prompt
 
 ```
-A full comic page bringing {argument name="character_1" default="Ben 10"} into the {argument name="universe" default="TMNT"} universe, expressive panels, clean linework, and vibrant colours that feel straight out of an official crossover issue.
+A full comic page bringing {argument name="character_1_en" default="Ben 10"} into the {argument name="universe_en" default="TMNT"} universe, with expressive panels, clean linework, and vibrant colors that feel straight out of an official crossover issue.
 ```
 
 #### 🖼️ Generated Images
@@ -5093,9 +5103,9 @@ A full comic page bringing {argument name="character_1" default="Ben 10"} into t
 - **Author:** [Nishit.ai](https://x.com/Nishit_alt)
 - **Source:** [Twitter Post](https://x.com/Nishit_alt/status/1992042849567936526)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20full%20comic%20page%20bringing%20%7Bargument%20name%3D%22character_1%22%20default%3D%22Ben%2010%22%7D%20into%20the%20%7Bargument%20name%3D%22universe%22%20default%3D%22TMNT%22%7D%20universe%2C%20expressive%20panels%2C%20clean%20linework%2C%20and%20vibrant%20colours%20that%20feel%20straight%20out%20of%20an%20official%20crossover%20issue.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20full%20comic%20page%20bringing%20%7Bargument%20name%3D%22character_1_en%22%20default%3D%22Ben%2010%22%7D%20into%20the%20%7Bargument%20name%3D%22universe_en%22%20default%3D%22TMNT%22%7D%20universe%2C%20with%20expressive%20panels%2C%20clean%20linework%2C%20and%20vibrant%20colors%20that%20feel%20straight%20out%20of%20an%20official%20crossover%20issue.)**
 
 ---
 
@@ -5111,7 +5121,7 @@ A prompt for generating a bookstore POP display photo featuring an acrylic marke
 #### 📝 Prompt
 
 ```
-イラストをアクリルマーカーで描く、各色のアクリルマーカーを使う事、POPなので正面から見えるように撮影、本屋さんの風景、POPは新刊の前に飾られており、他の本より目立っている、イラスト右下に「{argument name="署名" default="ねこのしっぽ"}」と書いてある
+Draw the illustration with acrylic markers, using various colors of acrylic markers. Since it is a POP display, photograph it so it is visible from the front, in a bookstore scene. The POP is displayed in front of the new books and stands out more than the other books, and in the lower right of the illustration, write “{argument name="signature_en" default="neko no shippo"}”.
 ```
 
 #### 🖼️ Generated Images
@@ -5133,9 +5143,9 @@ A prompt for generating a bookstore POP display photo featuring an acrylic marke
 - **Author:** [ねこのしっぽ](https://x.com/tailcat1)
 - **Source:** [Twitter Post](https://x.com/tailcat1/status/1992042272322629997)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%A7%E6%8F%8F%E3%81%8F%E3%80%81%E5%90%84%E8%89%B2%E3%81%AE%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%82%92%E4%BD%BF%E3%81%86%E4%BA%8B%E3%80%81POP%E3%81%AA%E3%81%AE%E3%81%A7%E6%AD%A3%E9%9D%A2%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E6%92%AE%E5%BD%B1%E3%80%81%E6%9C%AC%E5%B1%8B%E3%81%95%E3%82%93%E3%81%AE%E9%A2%A8%E6%99%AF%E3%80%81POP%E3%81%AF%E6%96%B0%E5%88%8A%E3%81%AE%E5%89%8D%E3%81%AB%E9%A3%BE%E3%82%89%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%80%81%E4%BB%96%E3%81%AE%E6%9C%AC%E3%82%88%E3%82%8A%E7%9B%AE%E7%AB%8B%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%81%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%8F%B3%E4%B8%8B%E3%81%AB%E3%80%8C%7Bargument%20name%3D%22%E7%BD%B2%E5%90%8D%22%20default%3D%22%E3%81%AD%E3%81%93%E3%81%AE%E3%81%97%E3%81%A3%E3%81%BD%22%7D%E3%80%8D%E3%81%A8%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%82%E3%82%8B)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Draw%20the%20illustration%20with%20acrylic%20markers%2C%20using%20various%20colors%20of%20acrylic%20markers.%20Since%20it%20is%20a%20POP%20display%2C%20photograph%20it%20so%20it%20is%20visible%20from%20the%20front%2C%20in%20a%20bookstore%20scene.%20The%20POP%20is%20displayed%20in%20front%20of%20the%20new%20books%20and%20stands%20out%20more%20than%20the%20other%20books%2C%20and%20in%20the%20lower%20right%20of%20the%20illustration%2C%20write%20%E2%80%9C%7Bargument%20name%3D%22signature_en%22%20default%3D%22neko%20no%20shippo%22%7D%E2%80%9D.)**
 
 ---
 
@@ -5150,7 +5160,7 @@ An English natural-language prompt used to reimagine a person’s photo as if th
 #### 📝 Prompt
 
 ```
-Redo this as though this person was into goth music at the time
+Redo this as though this person was into goth music at the time.
 ```
 
 #### 🖼️ Generated Images
@@ -5172,9 +5182,9 @@ Redo this as though this person was into goth music at the time
 - **Author:** [Cybersphere](https://x.com/cybersphere_ai)
 - **Source:** [Twitter Post](https://x.com/cybersphere_ai/status/1992041999755866421)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Redo%20this%20as%20though%20this%20person%20was%20into%20goth%20music%20at%20the%20time)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Redo%20this%20as%20though%20this%20person%20was%20into%20goth%20music%20at%20the%20time.)**
 
 ---
 
@@ -5189,7 +5199,7 @@ A playful prompt to create a humorous anatomical diagram of an uploaded pet phot
 #### 📝 Prompt
 
 ```
-make a funny anatomical diagram of this pet, have humorous annotations
+make a funny anatomical diagram of this pet, with humorous annotations
 ```
 
 #### 🖼️ Generated Images
@@ -5205,9 +5215,9 @@ make a funny anatomical diagram of this pet, have humorous annotations
 - **Author:** [Glenn Williams](https://x.com/GlennHasABeard)
 - **Source:** [Twitter Post](https://x.com/GlennHasABeard/status/1992041939743789067)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20a%20funny%20anatomical%20diagram%20of%20this%20pet%2C%20have%20humorous%20annotations)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20a%20funny%20anatomical%20diagram%20of%20this%20pet%2C%20with%20humorous%20annotations)**
 
 ---
 
@@ -5244,7 +5254,7 @@ Change the one-piece swimsuit to a bikini and add high heels while keeping the s
 - **Author:** [eijo](https://x.com/eijo_AIart)
 - **Source:** [Twitter Post](https://x.com/eijo_AIart/status/1992041326364532813)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Change%20the%20one-piece%20swimsuit%20to%20a%20bikini%20and%20add%20high%20heels%20while%20keeping%20the%20same%20style%20and%20background.)**
 
@@ -5261,7 +5271,7 @@ A Japanese prompt that tells the model to research sources like Teikoku Databank
 #### 📝 Prompt
 
 ```
-高市政権のこの1ヶ月の成果と課題をインフォグラフィックにしてほしい
+I want an infographic showing the achievements and issues of the Takaichi administration over the past month.
 ```
 
 #### 🖼️ Generated Images
@@ -5277,9 +5287,9 @@ A Japanese prompt that tells the model to research sources like Teikoku Databank
 - **Author:** [月ねこAI｜Nai Lab](https://x.com/nekoai_lab)
 - **Source:** [Twitter Post](https://x.com/nekoai_lab/status/1992040370017108015)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%AB%98%E5%B8%82%E6%94%BF%E6%A8%A9%E3%81%AE%E3%81%93%E3%81%AE1%E3%83%B6%E6%9C%88%E3%81%AE%E6%88%90%E6%9E%9C%E3%81%A8%E8%AA%B2%E9%A1%8C%E3%82%92%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%81%AB%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=I%20want%20an%20infographic%20showing%20the%20achievements%20and%20issues%20of%20the%20Takaichi%20administration%20over%20the%20past%20month.)**
 
 ---
 
@@ -5295,12 +5305,12 @@ Generates a vertical four-panel manga in typical Japanese anime style featuring 
 #### 📝 Prompt
 
 ```
-日本の典型的なアニメスタイルの4コマ漫画を生成してください。画像は縦長の長方形で、上から順に4つのコマが配置されています。
+Generate a four-panel manga in a typical Japanese anime style. The image is a vertically long rectangle with four panels arranged from top to bottom.
 
-【キャラクター設定】
-* 名前：{argument name="キャラクター名" default="ルーキー"}
-* 種族：{argument name="種族" default="パンダ人間（人間の少女だが、頭に丸いパンダの耳がついている）"}
-* 髪：{argument name="髪型" default="白銀のツインテール"}
+[Character settings]
+* Name: {argument name="character_name_en" default="Rookie"}
+* Race: {argument name="race_en" default="Panda-human (a human girl with round panda ears on her head)"}
+* Hair: {argument name="hairstyle_en" default="Silver twin-tails"}
 ```
 
 #### 🖼️ Generated Images
@@ -5316,9 +5326,9 @@ Generates a vertical four-panel manga in typical Japanese anime style featuring 
 - **Author:** [しんもも🍑 | AIで創る循環の世界](https://x.com/shinmomo0512)
 - **Source:** [Twitter Post](https://x.com/shinmomo0512/status/1992039003240247508)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%97%A5%E6%9C%AC%E3%81%AE%E5%85%B8%E5%9E%8B%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E7%94%BB%E5%83%8F%E3%81%AF%E7%B8%A6%E9%95%B7%E3%81%AE%E9%95%B7%E6%96%B9%E5%BD%A2%E3%81%A7%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E9%A0%86%E3%81%AB4%E3%81%A4%E3%81%AE%E3%82%B3%E3%83%9E%E3%81%8C%E9%85%8D%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82%0A%0A%E3%80%90%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E8%A8%AD%E5%AE%9A%E3%80%91%0A*%20%E5%90%8D%E5%89%8D%EF%BC%9A%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E5%90%8D%22%20default%3D%22%E3%83%AB%E3%83%BC%E3%82%AD%E3%83%BC%22%7D%0A*%20%E7%A8%AE%E6%97%8F%EF%BC%9A%7Bargument%20name%3D%22%E7%A8%AE%E6%97%8F%22%20default%3D%22%E3%83%91%E3%83%B3%E3%83%80%E4%BA%BA%E9%96%93%EF%BC%88%E4%BA%BA%E9%96%93%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%A0%E3%81%8C%E3%80%81%E9%A0%AD%E3%81%AB%E4%B8%B8%E3%81%84%E3%83%91%E3%83%B3%E3%83%80%E3%81%AE%E8%80%B3%E3%81%8C%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%89%22%7D%0A*%20%E9%AB%AA%EF%BC%9A%7Bargument%20name%3D%22%E9%AB%AA%E5%9E%8B%22%20default%3D%22%E7%99%BD%E9%8A%80%E3%81%AE%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20four-panel%20manga%20in%20a%20typical%20Japanese%20anime%20style.%20The%20image%20is%20a%20vertically%20long%20rectangle%20with%20four%20panels%20arranged%20from%20top%20to%20bottom.%0A%0A%5BCharacter%20settings%5D%0A*%20Name%3A%20%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Rookie%22%7D%0A*%20Race%3A%20%7Bargument%20name%3D%22race_en%22%20default%3D%22Panda-human%20(a%20human%20girl%20with%20round%20panda%20ears%20on%20her%20head)%22%7D%0A*%20Hair%3A%20%7Bargument%20name%3D%22hairstyle_en%22%20default%3D%22Silver%20twin-tails%22%7D)**
 
 ---
 
@@ -5333,7 +5343,7 @@ Instructs Nano Banana Pro to create an explanatory image about document creation
 #### 📝 Prompt
 
 ```
-資料作成の問題とthink-cellが解決できることを解説した画像を作成して
+Create an image that explains the problems of document creation and what Think-cell can solve.
 ```
 
 #### 🖼️ Generated Images
@@ -5349,9 +5359,9 @@ Instructs Nano Banana Pro to create an explanatory image about document creation
 - **Author:** [まつつか@パワポのthink-cell｜松塚展国](https://x.com/nobukunimatsu)
 - **Source:** [Twitter Post](https://x.com/nobukunimatsu/status/1992038781957116093)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%B3%87%E6%96%99%E4%BD%9C%E6%88%90%E3%81%AE%E5%95%8F%E9%A1%8C%E3%81%A8think-cell%E3%81%8C%E8%A7%A3%E6%B1%BA%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%9F%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20image%20that%20explains%20the%20problems%20of%20document%20creation%20and%20what%20Think-cell%20can%20solve.)**
 
 ---
 
@@ -5402,7 +5412,7 @@ task: "edit-image: add full-screen analysis HUD overlay only"
 - **Author:** [てんねん](https://x.com/munou_ac)
 - **Source:** [Twitter Post](https://x.com/munou_ac/status/1992035945319973039)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20blue%20HUD%20color.%0A%0Atask%3A%20%22edit-image%3A%20add%20full-screen%20analysis%20HUD%20overlay%20only%22)**
 
@@ -5419,7 +5429,7 @@ A very simple Japanese prompt that asks Nano Banana Pro to create a diagram show
 #### 📝 Prompt
 
 ```
-きれいな歩き方の図解をつくって
+Create a diagram showing how to walk beautifully.
 ```
 
 #### 🖼️ Generated Images
@@ -5435,9 +5445,9 @@ A very simple Japanese prompt that asks Nano Banana Pro to create a diagram show
 - **Author:** [はなりん＠主婦ゲーマー](https://x.com/hanarinblog)
 - **Source:** [Twitter Post](https://x.com/hanarinblog/status/1992035551168667738)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%8D%E3%82%8C%E3%81%84%E3%81%AA%E6%AD%A9%E3%81%8D%E6%96%B9%E3%81%AE%E5%9B%B3%E8%A7%A3%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20diagram%20showing%20how%20to%20walk%20beautifully.)**
 
 ---
 
@@ -5452,7 +5462,7 @@ A very short Japanese prompt that asks for a couple made of anthropomorphized ap
 #### 📝 Prompt
 
 ```
-人間ではなく、りんごとバナナが擬人化した夫婦
+A married couple not as humans, but as an anthropomorphized apple and banana.
 ```
 
 #### 🖼️ Generated Images
@@ -5468,9 +5478,9 @@ A very short Japanese prompt that asks for a couple made of anthropomorphized ap
 - **Author:** [GNUmotion | AIVideo](https://x.com/gnumotin_ai)
 - **Source:** [Twitter Post](https://x.com/gnumotin_ai/status/1992035241012396215)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%BA%BA%E9%96%93%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%E3%80%81%E3%82%8A%E3%82%93%E3%81%94%E3%81%A8%E3%83%90%E3%83%8A%E3%83%8A%E3%81%8C%E6%93%AC%E4%BA%BA%E5%8C%96%E3%81%97%E3%81%9F%E5%A4%AB%E5%A9%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20married%20couple%20not%20as%20humans%2C%20but%20as%20an%20anthropomorphized%20apple%20and%20banana.)**
 
 ---
 
@@ -5485,7 +5495,7 @@ Provides styling instructions for Nano Banana Pro to create simplified, flat-des
 #### 📝 Prompt
 
 ```
-テキストをきわめて少なく、グラフィカルな表現を重視。日本語の文字化けを抑える。フォントはヒラギノゴシック中心。コンテンツはそのままに配色やデザインはMicrosoft365のように。フラットデザインでシンプルに。
+Use extremely little text and focus on graphical expression. Suppress Japanese character garbling. Use Hiragino Gothic as the main font. Keep the content as is, but make the colors and design similar to Microsoft 365. Use a flat and simple design.
 ```
 
 #### 🖼️ Generated Images
@@ -5501,9 +5511,9 @@ Provides styling instructions for Nano Banana Pro to create simplified, flat-des
 - **Author:** [エクセル兄さん(たてばやし淳)@ExcelとChatGPT著書多数](https://x.com/excel_niisan)
 - **Source:** [Twitter Post](https://x.com/excel_niisan/status/1992035240903323968)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E3%81%8D%E3%82%8F%E3%82%81%E3%81%A6%E5%B0%91%E3%81%AA%E3%81%8F%E3%80%81%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%AB%E3%83%AB%E3%81%AA%E8%A1%A8%E7%8F%BE%E3%82%92%E9%87%8D%E8%A6%96%E3%80%82%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%96%87%E5%AD%97%E5%8C%96%E3%81%91%E3%82%92%E6%8A%91%E3%81%88%E3%82%8B%E3%80%82%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88%E3%81%AF%E3%83%92%E3%83%A9%E3%82%AE%E3%83%8E%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF%E4%B8%AD%E5%BF%83%E3%80%82%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E9%85%8D%E8%89%B2%E3%82%84%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AFMicrosoft365%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E3%83%95%E3%83%A9%E3%83%83%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AB%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20extremely%20little%20text%20and%20focus%20on%20graphical%20expression.%20Suppress%20Japanese%20character%20garbling.%20Use%20Hiragino%20Gothic%20as%20the%20main%20font.%20Keep%20the%20content%20as%20is%2C%20but%20make%20the%20colors%20and%20design%20similar%20to%20Microsoft%20365.%20Use%20a%20flat%20and%20simple%20design.)**
 
 ---
 
@@ -5519,7 +5529,7 @@ A detailed prompt for creating a vertical 4-panel Japanese gag manga featuring a
 #### 📝 Prompt
 
 ```
-この若い日本人女性『{argument name="キャラクター名" default="七海"}』が{argument name="料理" default="二郎系ラーメン"}を食べるシーンで、日本語の4コマギャグ漫画を作って。構図を工夫して顔漫画にならないように。縦に4コマ配置。セリフは縦書きで、右から左に読めるように配置。
+Create a Japanese 4-panel gag manga showing this young Japanese woman, “{argument name="character_name" default="Nanami"},” eating {argument name="dish" default="Jiro-style ramen"}. Design the composition so it doesn’t become just a face-focused comic. Arrange four panels vertically. Place the dialogue as vertical text, readable from right to left.
 ```
 
 #### 🖼️ Generated Images
@@ -5535,9 +5545,9 @@ A detailed prompt for creating a vertical 4-panel Japanese gag manga featuring a
 - **Author:** [Shinya@AIマンガ家](https://x.com/shinya_blogger)
 - **Source:** [Twitter Post](https://x.com/shinya_blogger/status/1992032334301040950)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E8%8B%A5%E3%81%84%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A5%B3%E6%80%A7%E3%80%8E%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E5%90%8D%22%20default%3D%22%E4%B8%83%E6%B5%B7%22%7D%E3%80%8F%E3%81%8C%7Bargument%20name%3D%22%E6%96%99%E7%90%86%22%20default%3D%22%E4%BA%8C%E9%83%8E%E7%B3%BB%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%22%7D%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%A7%E3%80%81%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E3%82%AE%E3%83%A3%E3%82%B0%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E6%A7%8B%E5%9B%B3%E3%82%92%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E9%A1%94%E6%BC%AB%E7%94%BB%E3%81%AB%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%80%82%E7%B8%A6%E3%81%AB4%E3%82%B3%E3%83%9E%E9%85%8D%E7%BD%AE%E3%80%82%E3%82%BB%E3%83%AA%E3%83%95%E3%81%AF%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A7%E3%80%81%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6%E3%81%AB%E8%AA%AD%E3%82%81%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E9%85%8D%E7%BD%AE%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20Japanese%204-panel%20gag%20manga%20showing%20this%20young%20Japanese%20woman%2C%20%E2%80%9C%7Bargument%20name%3D%22character_name%22%20default%3D%22Nanami%22%7D%2C%E2%80%9D%20eating%20%7Bargument%20name%3D%22dish%22%20default%3D%22Jiro-style%20ramen%22%7D.%20Design%20the%20composition%20so%20it%20doesn%E2%80%99t%20become%20just%20a%20face-focused%20comic.%20Arrange%20four%20panels%20vertically.%20Place%20the%20dialogue%20as%20vertical%20text%2C%20readable%20from%20right%20to%20left.)**
 
 ---
 
@@ -5553,20 +5563,20 @@ A detailed prompt to generate a single 16:9 photorealistic image split into left
 #### 📝 Prompt
 
 ```
-16:9のフォトリアルな単一画像を生成し、左右に二分割 された構成にすること。左右それぞれに、同じ場所。
- ［LOCATION_NAME:{argument name="ロケーション名" default="（任意の場所）"}］
-の別年代の姿を描写する。
+Generate a single photorealistic 16:9 image and split its composition into left and right halves. On each side, depict the same place,
+[LOCATION_NAME: {argument name="location_name_en" default="(any location)"}],
+at different eras.
 
-左側（Left side）：{argument name="左側の年" default="（任意の年）"}・{argument name="左側の時間" default="（時間）"}
-右側（Right side）：{argument name="右側の年" default="（任意の年）"}・{argument name="右側の時間" default="（時間）"}
+Left side: {argument name="left_year_en" default="(any year)"} · {argument name="left_time_en" default="(time)"}
+Right side: {argument name="right_year_en" default="(any year)"} · {argument name="right_time_en" default="(time)"}
 
-カメラ位置は完全に同一とし、以下の座標を使用する：
-［LATITUDE,LONGITUDE: {argument name="座標" default="（任意の場所の緯度経度）"}］
+Keep the camera position exactly the same and use the following coordinates:
+[LATITUDE,LONGITUDE: {argument name="coordinates_en" default="(latitude and longitude of any place)"}]
 
-画像に文字（年号・ラベル・透かし等）は一切入れないこと。細かなビジュアルの指定はしない。
-建築、光、車、人々、看板、素材、空気感、構図などすべてをNano Banana Pro に任せる。
+Do not include any text in the image (years, labels, watermarks, etc.). Do not specify detailed visuals.
+Leave all aspects such as architecture, light, cars, people, signs, materials, atmosphere, and composition up to Nano Banana Pro.
 
-それぞれの年代が自然に感じられ、1枚の16:9フレームの中で 左右に並ぶ時代比較画像 として成立すること。
+Each era should feel natural and together form a side-by-side time comparison image within a single 16:9 frame.
 --ar 16:9 --stylize 800 --v 6
 ```
 
@@ -5601,9 +5611,9 @@ A detailed prompt to generate a single 16:9 photorealistic image split into left
 - **Author:** [NOMI｜AI creator](https://x.com/KimikoOsugi)
 - **Source:** [Twitter Post](https://x.com/KimikoOsugi/status/1992030360495145004)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=16%3A9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E5%8D%98%E4%B8%80%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%80%81%E5%B7%A6%E5%8F%B3%E3%81%AB%E4%BA%8C%E5%88%86%E5%89%B2%20%E3%81%95%E3%82%8C%E3%81%9F%E6%A7%8B%E6%88%90%E3%81%AB%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82%E5%B7%A6%E5%8F%B3%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AB%E3%80%81%E5%90%8C%E3%81%98%E5%A0%B4%E6%89%80%E3%80%82%0A%20%EF%BC%BBLOCATION_NAME%3A%7Bargument%20name%3D%22%E3%83%AD%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%90%8D%22%20default%3D%22%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%A0%B4%E6%89%80%EF%BC%89%22%7D%EF%BC%BD%0A%E3%81%AE%E5%88%A5%E5%B9%B4%E4%BB%A3%E3%81%AE%E5%A7%BF%E3%82%92%E6%8F%8F%E5%86%99%E3%81%99%E3%82%8B%E3%80%82%0A%0A%E5%B7%A6%E5%81%B4%EF%BC%88Left%20side%EF%BC%89%EF%BC%9A%7Bargument%20name%3D%22%E5%B7%A6%E5%81%B4%E3%81%AE%E5%B9%B4%22%20default%3D%22%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%B9%B4%EF%BC%89%22%7D%E3%83%BB%7Bargument%20name%3D%22%E5%B7%A6%E5%81%B4%E3%81%AE%E6%99%82%E9%96%93%22%20default%3D%22%EF%BC%88%E6%99%82%E9%96%93%EF%BC%89%22%7D%0A%E5%8F%B3%E5%81%B4%EF%BC%88Right%20side%EF%BC%89%EF%BC%9A%7Bargument%20name%3D%22%E5%8F%B3%E5%81%B4%E3%81%AE%E5%B9%B4%22%20default%3D%22%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%B9%B4%EF%BC%89%22%7D%E3%83%BB%7Bargument%20name%3D%22%E5%8F%B3%E5%81%B4%E3%81%AE%E6%99%82%E9%96%93%22%20default%3D%22%EF%BC%88%E6%99%82%E9%96%93%EF%BC%89%22%7D%0A%0A%E3%82%AB%E3%83%A1%E3%83%A9%E4%BD%8D%E7%BD%AE%E3%81%AF%E5%AE%8C%E5%85%A8%E3%81%AB%E5%90%8C%E4%B8%80%E3%81%A8%E3%81%97%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E5%BA%A7%E6%A8%99%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%EF%BC%9A%0A%EF%BC%BBLATITUDE%2CLONGITUDE%3A%20%7Bargument%20name%3D%22%E5%BA%A7%E6%A8%99%22%20default%3D%22%EF%BC%88%E4%BB%BB%E6%84%8F%E3%81%AE%E5%A0%B4%E6%89%80%E3%81%AE%E7%B7%AF%E5%BA%A6%E7%B5%8C%E5%BA%A6%EF%BC%89%22%7D%EF%BC%BD%0A%0A%E7%94%BB%E5%83%8F%E3%81%AB%E6%96%87%E5%AD%97%EF%BC%88%E5%B9%B4%E5%8F%B7%E3%83%BB%E3%83%A9%E3%83%99%E3%83%AB%E3%83%BB%E9%80%8F%E3%81%8B%E3%81%97%E7%AD%89%EF%BC%89%E3%81%AF%E4%B8%80%E5%88%87%E5%85%A5%E3%82%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%80%82%E7%B4%B0%E3%81%8B%E3%81%AA%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AE%E6%8C%87%E5%AE%9A%E3%81%AF%E3%81%97%E3%81%AA%E3%81%84%E3%80%82%0A%E5%BB%BA%E7%AF%89%E3%80%81%E5%85%89%E3%80%81%E8%BB%8A%E3%80%81%E4%BA%BA%E3%80%85%E3%80%81%E7%9C%8B%E6%9D%BF%E3%80%81%E7%B4%A0%E6%9D%90%E3%80%81%E7%A9%BA%E6%B0%97%E6%84%9F%E3%80%81%E6%A7%8B%E5%9B%B3%E3%81%AA%E3%81%A9%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92Nano%20Banana%20Pro%20%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%8B%E3%80%82%0A%0A%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E5%B9%B4%E4%BB%A3%E3%81%8C%E8%87%AA%E7%84%B6%E3%81%AB%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%80%811%E6%9E%9A%E3%81%AE16%3A9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AE%E4%B8%AD%E3%81%A7%20%E5%B7%A6%E5%8F%B3%E3%81%AB%E4%B8%A6%E3%81%B6%E6%99%82%E4%BB%A3%E6%AF%94%E8%BC%83%E7%94%BB%E5%83%8F%20%E3%81%A8%E3%81%97%E3%81%A6%E6%88%90%E7%AB%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82%0A--ar%2016%3A9%20--stylize%20800%20--v%206)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20single%20photorealistic%2016%3A9%20image%20and%20split%20its%20composition%20into%20left%20and%20right%20halves.%20On%20each%20side%2C%20depict%20the%20same%20place%2C%0A%5BLOCATION_NAME%3A%20%7Bargument%20name%3D%22location_name_en%22%20default%3D%22(any%20location)%22%7D%5D%2C%0Aat%20different%20eras.%0A%0ALeft%20side%3A%20%7Bargument%20name%3D%22left_year_en%22%20default%3D%22(any%20year)%22%7D%20%C2%B7%20%7Bargument%20name%3D%22left_time_en%22%20default%3D%22(time)%22%7D%0ARight%20side%3A%20%7Bargument%20name%3D%22right_year_en%22%20default%3D%22(any%20year)%22%7D%20%C2%B7%20%7Bargument%20name%3D%22right_time_en%22%20default%3D%22(time)%22%7D%0A%0AKeep%20the%20camera%20position%20exactly%20the%20same%20and%20use%20the%20following%20coordinates%3A%0A%5BLATITUDE%2CLONGITUDE%3A%20%7Bargument%20name%3D%22coordinates_en%22%20default%3D%22(latitude%20and%20longitude%20of%20any%20place)%22%7D%5D%0A%0ADo%20not%20include%20any%20text%20in%20the%20image%20(years%2C%20labels%2C%20watermarks%2C%20etc.).%20Do%20not%20specify%20detailed%20visuals.%0ALeave%20all%20aspects%20such%20as%20architecture%2C%20light%2C%20cars%2C%20people%2C%20signs%2C%20materials%2C%20atmosphere%2C%20and%20composition%20up%20to%20Nano%20Banana%20Pro.%0A%0AEach%20era%20should%20feel%20natural%20and%20together%20form%20a%20side-by-side%20time%20comparison%20image%20within%20a%20single%2016%3A9%20frame.%0A--ar%2016%3A9%20--stylize%20800%20--v%206)**
 
 ---
 
@@ -5640,7 +5650,7 @@ Light gray rabbit's point-of-view shot
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1992029967623032945)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Light%20gray%20rabbit's%20point-of-view%20shot)**
 
@@ -5657,7 +5667,7 @@ Generates a Japanese four-panel manga where a reference character explains the o
 #### 📝 Prompt
 
 ```
-参照画像のキャラクターがサイファーパンク的観点からビットコインの成り立ちを説明する日本語の4コマ漫画を作って
+Create a Japanese four-panel manga in which the character from the reference image explains the origins of Bitcoin from a cypherpunk perspective.
 ```
 
 #### 🖼️ Generated Images
@@ -5673,9 +5683,9 @@ Generates a Japanese four-panel manga where a reference character explains the o
 - **Author:** [TKtokyo](https://x.com/tktokyoBTC)
 - **Source:** [Twitter Post](https://x.com/tktokyoBTC/status/1992028869390725546)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A1%E3%83%BC%E3%83%91%E3%83%B3%E3%82%AF%E7%9A%84%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AE%E6%88%90%E3%82%8A%E7%AB%8B%E3%81%A1%E3%82%92%E8%AA%AC%E6%98%8E%E3%81%99%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20Japanese%20four-panel%20manga%20in%20which%20the%20character%20from%20the%20reference%20image%20explains%20the%20origins%20of%20Bitcoin%20from%20a%20cypherpunk%20perspective.)**
 
 ---
 
@@ -5690,7 +5700,7 @@ Takes a hand-drawn idol character flyer and composites it as if it’s realistic
 #### 📝 Prompt
 
 ```
-Take the image of the hand-drawn style idol character flyer and visually depict it as if it is adhered to a vending machine for steamed buns at a convenience store. Ensure the flyer is realistically integrated with the machine, maintaining consistent lighting and perspective with the surrounding environment.
+Take the image of the hand-drawn-style idol character flyer and visually depict it as if it is stuck to a vending machine for steamed buns at a convenience store. Ensure the flyer is realistically integrated with the machine, maintaining consistent lighting and perspective with the surrounding environment.
 ```
 
 #### 🖼️ Generated Images
@@ -5706,9 +5716,9 @@ Take the image of the hand-drawn style idol character flyer and visually depict 
 - **Author:** [koyuki | 清華大AI M2](https://x.com/yukiaitsinghua)
 - **Source:** [Twitter Post](https://x.com/yukiaitsinghua/status/1992027750006395319)
 - **Published:** November 22, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20image%20of%20the%20hand-drawn%20style%20idol%20character%20flyer%20and%20visually%20depict%20it%20as%20if%20it%20is%20adhered%20to%20a%20vending%20machine%20for%20steamed%20buns%20at%20a%20convenience%20store.%20Ensure%20the%20flyer%20is%20realistically%20integrated%20with%20the%20machine%2C%20maintaining%20consistent%20lighting%20and%20perspective%20with%20the%20surrounding%20environment.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20image%20of%20the%20hand-drawn-style%20idol%20character%20flyer%20and%20visually%20depict%20it%20as%20if%20it%20is%20stuck%20to%20a%20vending%20machine%20for%20steamed%20buns%20at%20a%20convenience%20store.%20Ensure%20the%20flyer%20is%20realistically%20integrated%20with%20the%20machine%2C%20maintaining%20consistent%20lighting%20and%20perspective%20with%20the%20surrounding%20environment.)**
 
 ---
 
@@ -5723,9 +5733,9 @@ Two sequential edit prompts: first convert a city scene into rainy weather, then
 #### 📝 Prompt
 
 ```
-雨が降っているように加工してください
+Edit it so that it looks like it is raining.
 
-雨の時、ベトナム人はレインコートを着てバイクに乗ります
+When it rains, Vietnamese people wear raincoats and ride motorbikes.
 ```
 
 #### 🖼️ Generated Images
@@ -5753,9 +5763,9 @@ Two sequential edit prompts: first convert a city scene into rainy weather, then
 - **Author:** [株式会社 bloom　ベトナムのレタッチ屋さん](https://x.com/bloomVDC)
 - **Source:** [Twitter Post](https://x.com/bloomVDC/status/1992027360657555515)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%9B%A8%E3%81%8C%E9%99%8D%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%0A%0A%E9%9B%A8%E3%81%AE%E6%99%82%E3%80%81%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E4%BA%BA%E3%81%AF%E3%83%AC%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%88%E3%82%92%E7%9D%80%E3%81%A6%E3%83%90%E3%82%A4%E3%82%AF%E3%81%AB%E4%B9%97%E3%82%8A%E3%81%BE%E3%81%99)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Edit%20it%20so%20that%20it%20looks%20like%20it%20is%20raining.%0A%0AWhen%20it%20rains%2C%20Vietnamese%20people%20wear%20raincoats%20and%20ride%20motorbikes.)**
 
 ---
 
@@ -5771,7 +5781,7 @@ A prompt for creating a textbook teaching illustration for the classical Chinese
 #### 📝 Prompt
 
 ```
-给{argument name="诗名" default="杨慎的《临江仙·滚滚长江东逝水》"}生成一个课本教学图
+Generate a textbook-style teaching illustration for {argument name="poem_title_en" default="Yang Shen’s ‘Linjiangxian · The Rolling Yangtze River Flows East’"}.
 ```
 
 #### 🖼️ Generated Images
@@ -5787,9 +5797,9 @@ A prompt for creating a textbook teaching illustration for the classical Chinese
 - **Author:** [AI 赋能坊](https://x.com/Jasonwang159621)
 - **Source:** [Twitter Post](https://x.com/Jasonwang159621/status/1992021201867407634)
 - **Published:** November 22, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%7Bargument%20name%3D%22%E8%AF%97%E5%90%8D%22%20default%3D%22%E6%9D%A8%E6%85%8E%E7%9A%84%E3%80%8A%E4%B8%B4%E6%B1%9F%E4%BB%99%C2%B7%E6%BB%9A%E6%BB%9A%E9%95%BF%E6%B1%9F%E4%B8%9C%E9%80%9D%E6%B0%B4%E3%80%8B%22%7D%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E8%AF%BE%E6%9C%AC%E6%95%99%E5%AD%A6%E5%9B%BE)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20textbook-style%20teaching%20illustration%20for%20%7Bargument%20name%3D%22poem_title_en%22%20default%3D%22Yang%20Shen%E2%80%99s%20%E2%80%98Linjiangxian%20%C2%B7%20The%20Rolling%20Yangtze%20River%20Flows%20East%E2%80%99%22%7D.)**
 
 ---
 
@@ -5805,7 +5815,7 @@ A prompt to generate a colorful, pop-style flyer image that promotes a specific 
 #### 📝 Prompt
 
 ```
-このnoteの記事を紹介するポップなチラシ画像を作って。アスペクト比は{argument name="アスペクト比" default="3:4"}で
+Create a pop-style flyer image to introduce this Note article. Set the aspect ratio to {argument name="aspect_ratio_en" default="3:4"}.
 ```
 
 #### 🖼️ Generated Images
@@ -5821,9 +5831,9 @@ A prompt to generate a colorful, pop-style flyer image that promotes a specific 
 - **Author:** [おかさん （岡実）](https://x.com/okappiki3)
 - **Source:** [Twitter Post](https://x.com/okappiki3/status/1992020474038280329)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AEnote%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%83%9D%E3%83%83%E3%83%97%E3%81%AA%E3%83%81%E3%83%A9%E3%82%B7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%E3%81%AF%7Bargument%20name%3D%22%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%22%20default%3D%223%3A4%22%7D%E3%81%A7)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20pop-style%20flyer%20image%20to%20introduce%20this%20Note%20article.%20Set%20the%20aspect%20ratio%20to%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%223%3A4%22%7D.)**
 
 ---
 
@@ -5838,7 +5848,7 @@ A prompt for producing an anime-style isometric living room layout that matches 
 #### 📝 Prompt
 
 ```
-このソファに似合うリビングのレイアウトを作成してください。都会の平屋一戸建てで夫婦が暮らす部屋にしてください。部屋全体をアイソメトリックな俯瞰図にしてください。アニメ調のイラストにしてください。
+Create a living room layout that suits this sofa. Make it a room in a single-story house in the city where a married couple lives. Show the entire room as an isometric bird’s-eye view. Use an anime-style illustration.
 ```
 
 #### 🖼️ Generated Images
@@ -5872,9 +5882,9 @@ A prompt for producing an anime-style isometric living room layout that matches 
 - **Author:** [シュナプーン](https://x.com/schnapoon)
 - **Source:** [Twitter Post](https://x.com/schnapoon/status/1992020206210973804)
 - **Published:** November 22, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E3%82%BD%E3%83%95%E3%82%A1%E3%81%AB%E4%BC%BC%E5%90%88%E3%81%86%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E9%83%BD%E4%BC%9A%E3%81%AE%E5%B9%B3%E5%B1%8B%E4%B8%80%E6%88%B8%E5%BB%BA%E3%81%A6%E3%81%A7%E5%A4%AB%E5%A9%A6%E3%81%8C%E6%9A%AE%E3%82%89%E3%81%99%E9%83%A8%E5%B1%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E9%83%A8%E5%B1%8B%E5%85%A8%E4%BD%93%E3%82%92%E3%82%A2%E3%82%A4%E3%82%BD%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AA%E4%BF%AF%E7%9E%B0%E5%9B%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%A2%E3%83%8B%E3%83%A1%E8%AA%BF%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20living%20room%20layout%20that%20suits%20this%20sofa.%20Make%20it%20a%20room%20in%20a%20single-story%20house%20in%20the%20city%20where%20a%20married%20couple%20lives.%20Show%20the%20entire%20room%20as%20an%20isometric%20bird%E2%80%99s-eye%20view.%20Use%20an%20anime-style%20illustration.)**
 
 ---
 
@@ -5889,7 +5899,7 @@ A prompt to turn a research paper into a Chinese whiteboard-style teaching slide
 #### 📝 Prompt
 
 ```
-将这个论文转换为中文教授白板图片，帮助我理解信息
+Convert this paper into a Chinese professor-style whiteboard image to help me understand the information.
 ```
 
 #### 🖼️ Generated Images
@@ -5905,9 +5915,9 @@ A prompt to turn a research paper into a Chinese whiteboard-style teaching slide
 - **Author:** [歸藏(guizang.ai)](https://x.com/op7418)
 - **Source:** [Twitter Post](https://x.com/op7418/status/1991806419948253508)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%B0%86%E8%BF%99%E4%B8%AA%E8%AE%BA%E6%96%87%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%B8%AD%E6%96%87%E6%95%99%E6%8E%88%E7%99%BD%E6%9D%BF%E5%9B%BE%E7%89%87%EF%BC%8C%E5%B8%AE%E5%8A%A9%E6%88%91%E7%90%86%E8%A7%A3%E4%BF%A1%E6%81%AF)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Convert%20this%20paper%20into%20a%20Chinese%20professor-style%20whiteboard%20image%20to%20help%20me%20understand%20the%20information.)**
 
 ---
 
@@ -5923,7 +5933,7 @@ A Chinese prompt describing Einstein trying to take a selfie with a smartphone w
 #### 📝 Prompt
 
 ```
-头发蓬乱的爱因斯坦困惑地盯着智能手机，试图自拍。埃隆·马斯克站在他旁边，耐心地指着屏幕教他。手机屏幕上的字：“{argument name="屏幕文案" default="怎么拍照？"}”。
+Albert Einstein, with messy hair, stares at a smartphone in confusion, trying to take a selfie. Elon Musk stands next to him, patiently pointing at the screen and teaching him. On the phone screen it says: “{argument name="screen_text_en" default="How do I take a photo?"}”.
 ```
 
 #### 🖼️ Generated Images
@@ -5939,9 +5949,9 @@ A Chinese prompt describing Einstein trying to take a selfie with a smartphone w
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991805840685453495)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A4%B4%E5%8F%91%E8%93%AC%E4%B9%B1%E7%9A%84%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%9B%B0%E6%83%91%E5%9C%B0%E7%9B%AF%E7%9D%80%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%EF%BC%8C%E8%AF%95%E5%9B%BE%E8%87%AA%E6%8B%8D%E3%80%82%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AB%99%E5%9C%A8%E4%BB%96%E6%97%81%E8%BE%B9%EF%BC%8C%E8%80%90%E5%BF%83%E5%9C%B0%E6%8C%87%E7%9D%80%E5%B1%8F%E5%B9%95%E6%95%99%E4%BB%96%E3%80%82%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E4%B8%8A%E7%9A%84%E5%AD%97%EF%BC%9A%E2%80%9C%7Bargument%20name%3D%22%E5%B1%8F%E5%B9%95%E6%96%87%E6%A1%88%22%20default%3D%22%E6%80%8E%E4%B9%88%E6%8B%8D%E7%85%A7%EF%BC%9F%22%7D%E2%80%9D%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Albert%20Einstein%2C%20with%20messy%20hair%2C%20stares%20at%20a%20smartphone%20in%20confusion%2C%20trying%20to%20take%20a%20selfie.%20Elon%20Musk%20stands%20next%20to%20him%2C%20patiently%20pointing%20at%20the%20screen%20and%20teaching%20him.%20On%20the%20phone%20screen%20it%20says%3A%20%E2%80%9C%7Bargument%20name%3D%22screen_text_en%22%20default%3D%22How%20do%20I%20take%20a%20photo%3F%22%7D%E2%80%9D.)**
 
 ---
 
@@ -5956,7 +5966,7 @@ A very short Japanese prompt to create an eye-catching thumbnail announcing that
 #### 📝 Prompt
 
 ```
-なのばななプロがでたというような目を引くサムネを作成して
+Create an eye-catching thumbnail that conveys that Nano Banana Pro has come out.
 ```
 
 #### 🖼️ Generated Images
@@ -5972,9 +5982,9 @@ A very short Japanese prompt to create an eye-catching thumbnail announcing that
 - **Author:** [モブりん（社畜）](https://x.com/moburin01)
 - **Source:** [Twitter Post](https://x.com/moburin01/status/1991804188536525169)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%AA%E3%81%AE%E3%81%B0%E3%81%AA%E3%81%AA%E3%83%97%E3%83%AD%E3%81%8C%E3%81%A7%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E3%82%88%E3%81%86%E3%81%AA%E7%9B%AE%E3%82%92%E5%BC%95%E3%81%8F%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20an%20eye-catching%20thumbnail%20that%20conveys%20that%20Nano%20Banana%20Pro%20has%20come%20out.)**
 
 ---
 
@@ -5989,7 +5999,7 @@ A Chinese prompt depicting Bruce Lee in his yellow jumpsuit playfully sparring w
 #### 📝 Prompt
 
 ```
-穿着黄色连体服的李小龙与尤达大师进行友好的切磋。李小龙拿着双截棍，尤达拿着绿色小光剑。他们都在微笑。传统中国道场背景。后方横幅写着“以武会友”。
+Bruce Lee, wearing a yellow jumpsuit, is having a friendly sparring match with Master Yoda. Bruce Lee holds nunchucks, and Yoda holds a small green lightsaber. They are both smiling. The background is a traditional Chinese dojo, with a banner in the back that reads “Making friends through martial arts.”
 ```
 
 #### 🖼️ Generated Images
@@ -6005,9 +6015,9 @@ A Chinese prompt depicting Bruce Lee in his yellow jumpsuit playfully sparring w
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991802097483014569)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%A9%BF%E7%9D%80%E9%BB%84%E8%89%B2%E8%BF%9E%E4%BD%93%E6%9C%8D%E7%9A%84%E6%9D%8E%E5%B0%8F%E9%BE%99%E4%B8%8E%E5%B0%A4%E8%BE%BE%E5%A4%A7%E5%B8%88%E8%BF%9B%E8%A1%8C%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%88%87%E7%A3%8B%E3%80%82%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%8B%BF%E7%9D%80%E5%8F%8C%E6%88%AA%E6%A3%8D%EF%BC%8C%E5%B0%A4%E8%BE%BE%E6%8B%BF%E7%9D%80%E7%BB%BF%E8%89%B2%E5%B0%8F%E5%85%89%E5%89%91%E3%80%82%E4%BB%96%E4%BB%AC%E9%83%BD%E5%9C%A8%E5%BE%AE%E7%AC%91%E3%80%82%E4%BC%A0%E7%BB%9F%E4%B8%AD%E5%9B%BD%E9%81%93%E5%9C%BA%E8%83%8C%E6%99%AF%E3%80%82%E5%90%8E%E6%96%B9%E6%A8%AA%E5%B9%85%E5%86%99%E7%9D%80%E2%80%9C%E4%BB%A5%E6%AD%A6%E4%BC%9A%E5%8F%8B%E2%80%9D%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Bruce%20Lee%2C%20wearing%20a%20yellow%20jumpsuit%2C%20is%20having%20a%20friendly%20sparring%20match%20with%20Master%20Yoda.%20Bruce%20Lee%20holds%20nunchucks%2C%20and%20Yoda%20holds%20a%20small%20green%20lightsaber.%20They%20are%20both%20smiling.%20The%20background%20is%20a%20traditional%20Chinese%20dojo%2C%20with%20a%20banner%20in%20the%20back%20that%20reads%20%E2%80%9CMaking%20friends%20through%20martial%20arts.%E2%80%9D)**
 
 ---
 
@@ -6023,12 +6033,12 @@ A replacement for the word “manga” that describes a three-frame high-resolut
 #### 📝 Prompt
 
 ```
-構図：{argument name="フレーム数" default="3"}つのフレームに分割された「高精細ストーリーアート」。
+Composition: A “high-resolution story art” layout divided into {argument name="num_frames_en" default="three"} frames.
 
-背景はフルカラーの背景美術品質。  
-キャラクターは高密度のディテール描写。吹き出しでキャラクターのセリフを表現する。  
-全体は画集のような高級感のある“アートレイアウト”で構成されている。
-参考画像の画風を忠実に再現し、繊細な線画・高精細に仕上げてください。
+The background should have full-color background-art quality.
+Characters are rendered with densely detailed depiction, and their dialogue is expressed via speech bubbles.
+The overall layout should feel like a high-end art book “art layout.”
+Faithfully reproduce the art style of the reference image, with delicate linework and a highly detailed finish.
 ```
 
 #### 🖼️ Generated Images
@@ -6050,9 +6060,9 @@ A replacement for the word “manga” that describes a three-frame high-resolut
 - **Author:** [かし子🍩](https://x.com/Kashiko_AIart)
 - **Source:** [Twitter Post](https://x.com/Kashiko_AIart/status/1991801500096446888)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A7%8B%E5%9B%B3%EF%BC%9A%7Bargument%20name%3D%22%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E6%95%B0%22%20default%3D%223%22%7D%E3%81%A4%E3%81%AE%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%81%AB%E5%88%86%E5%89%B2%E3%81%95%E3%82%8C%E3%81%9F%E3%80%8C%E9%AB%98%E7%B2%BE%E7%B4%B0%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%88%E3%80%8D%E3%80%82%0A%0A%E8%83%8C%E6%99%AF%E3%81%AF%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%81%AE%E8%83%8C%E6%99%AF%E7%BE%8E%E8%A1%93%E5%93%81%E8%B3%AA%E3%80%82%20%20%0A%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AF%E9%AB%98%E5%AF%86%E5%BA%A6%E3%81%AE%E3%83%87%E3%82%A3%E3%83%86%E3%83%BC%E3%83%AB%E6%8F%8F%E5%86%99%E3%80%82%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E3%80%82%20%20%0A%E5%85%A8%E4%BD%93%E3%81%AF%E7%94%BB%E9%9B%86%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E9%AB%98%E7%B4%9A%E6%84%9F%E3%81%AE%E3%81%82%E3%82%8B%E2%80%9C%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AC%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88%E2%80%9D%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82%0A%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AE%E7%94%BB%E9%A2%A8%E3%82%92%E5%BF%A0%E5%AE%9F%E3%81%AB%E5%86%8D%E7%8F%BE%E3%81%97%E3%80%81%E7%B9%8A%E7%B4%B0%E3%81%AA%E7%B7%9A%E7%94%BB%E3%83%BB%E9%AB%98%E7%B2%BE%E7%B4%B0%E3%81%AB%E4%BB%95%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Composition%3A%20A%20%E2%80%9Chigh-resolution%20story%20art%E2%80%9D%20layout%20divided%20into%20%7Bargument%20name%3D%22num_frames_en%22%20default%3D%22three%22%7D%20frames.%0A%0AThe%20background%20should%20have%20full-color%20background-art%20quality.%0ACharacters%20are%20rendered%20with%20densely%20detailed%20depiction%2C%20and%20their%20dialogue%20is%20expressed%20via%20speech%20bubbles.%0AThe%20overall%20layout%20should%20feel%20like%20a%20high-end%20art%20book%20%E2%80%9Cart%20layout.%E2%80%9D%0AFaithfully%20reproduce%20the%20art%20style%20of%20the%20reference%20image%2C%20with%20delicate%20linework%20and%20a%20highly%20detailed%20finish.)**
 
 ---
 
@@ -6067,7 +6077,7 @@ An English/Chinese mixed prompt describing a pixelated game character trying to 
 #### 📝 Prompt
 
 ```
-一个像素化的电子游戏角色试图从电视屏幕爬到客厅里。一个真实的人类玩家正手忙脚乱地用控制器把角色推回屏幕。
+A pixelated video game character is trying to climb out of the TV screen into the living room. A real human player is frantically using a controller to push the character back into the screen.
 ```
 
 #### 🖼️ Generated Images
@@ -6083,9 +6093,9 @@ An English/Chinese mixed prompt describing a pixelated game character trying to 
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991801077092733297)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%B8%AA%E5%83%8F%E7%B4%A0%E5%8C%96%E7%9A%84%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%AF%95%E5%9B%BE%E4%BB%8E%E7%94%B5%E8%A7%86%E5%B1%8F%E5%B9%95%E7%88%AC%E5%88%B0%E5%AE%A2%E5%8E%85%E9%87%8C%E3%80%82%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BA%BA%E7%B1%BB%E7%8E%A9%E5%AE%B6%E6%AD%A3%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1%E5%9C%B0%E7%94%A8%E6%8E%A7%E5%88%B6%E5%99%A8%E6%8A%8A%E8%A7%92%E8%89%B2%E6%8E%A8%E5%9B%9E%E5%B1%8F%E5%B9%95%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20pixelated%20video%20game%20character%20is%20trying%20to%20climb%20out%20of%20the%20TV%20screen%20into%20the%20living%20room.%20A%20real%20human%20player%20is%20frantically%20using%20a%20controller%20to%20push%20the%20character%20back%20into%20the%20screen.)**
 
 ---
 
@@ -6101,7 +6111,7 @@ A straightforward prompt for generating a cute chibi-style cat-eared girl with f
 #### 📝 Prompt
 
 ```
-カワイイ猫耳少女のイラストを生成して。ちびきゃら風で、フリフリのお洋服を着せて、ロングヘアーの{argument name="髪色" default="ピンク色"}の髪にして。
+Generate an illustration of a cute cat-eared girl. Make her in a chibi style, wearing frilly clothes, with long {argument name="hair_color_en" default="pink"} hair.
 ```
 
 #### 🖼️ Generated Images
@@ -6117,9 +6127,9 @@ A straightforward prompt for generating a cute chibi-style cat-eared girl with f
 - **Author:** [Mikage Sawatari](https://x.com/mikage)
 - **Source:** [Twitter Post](https://x.com/mikage/status/1991800706719010873)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%82%AB%E3%83%AF%E3%82%A4%E3%82%A4%E7%8C%AB%E8%80%B3%E5%B0%91%E5%A5%B3%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%92%E7%94%9F%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%81%A1%E3%81%B3%E3%81%8D%E3%82%83%E3%82%89%E9%A2%A8%E3%81%A7%E3%80%81%E3%83%95%E3%83%AA%E3%83%95%E3%83%AA%E3%81%AE%E3%81%8A%E6%B4%8B%E6%9C%8D%E3%82%92%E7%9D%80%E3%81%9B%E3%81%A6%E3%80%81%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%98%E3%82%A2%E3%83%BC%E3%81%AE%7Bargument%20name%3D%22%E9%AB%AA%E8%89%B2%22%20default%3D%22%E3%83%94%E3%83%B3%E3%82%AF%E8%89%B2%22%7D%E3%81%AE%E9%AB%AA%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20an%20illustration%20of%20a%20cute%20cat-eared%20girl.%20Make%20her%20in%20a%20chibi%20style%2C%20wearing%20frilly%20clothes%2C%20with%20long%20%7Bargument%20name%3D%22hair_color_en%22%20default%3D%22pink%22%7D%20hair.)**
 
 ---
 
@@ -6134,7 +6144,7 @@ A fashion-edit prompt that swaps the user’s clothes to match those shown in a 
 #### 📝 Prompt
 
 ```
-Take the clothing from the reference and change mine to match it
+Take the clothing from the reference and change my clothing to match it
 ```
 
 #### 🖼️ Generated Images
@@ -6162,9 +6172,9 @@ Take the clothing from the reference and change mine to match it
 - **Author:** [CHAO2U AI](https://x.com/CHAO2U_AI)
 - **Source:** [Twitter Post](https://x.com/CHAO2U_AI/status/1991799896907956276)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20clothing%20from%20the%20reference%20and%20change%20mine%20to%20match%20it)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Take%20the%20clothing%20from%20the%20reference%20and%20change%20my%20clothing%20to%20match%20it)**
 
 ---
 
@@ -6196,7 +6206,7 @@ JSON-styled prompt describing a hyper-realistic environmental portrait of a styl
 - **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
 - **Source:** [Twitter Post](https://x.com/saniaspeaks_/status/1991798571503624502)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Hyper-realistic%20environmental%20portrait%20of%20a%20stylish%20young%20woman%20standing%20in%20a%20dense%20tropical%20bamboo%20forest.%20She%20is%20wearing%20a%20wide-brimmed%20black%20fedora%20hat%2C%20round%20dark%20sunglasses%20with%20thin%20metal%20frames%2C%20a%20plain%20black%20crew-neck%20t-shirt%20tucked%20in%2C%20and%20dark%20grey%20high-waisted%20trousers.%20She%20stands%20with%20a%20confident%20posture%2C%20leaning%20slightly%20forward%2C%20with%20her%20right%20)**
 
@@ -6213,7 +6223,7 @@ A meta-structural prompt (not fully quoted) that instructs Nano Banana Pro to cr
 #### 📝 Prompt
 
 ```
-4コマ漫画4ページ作成。4コマ漫画一つづつにオチをつけ、画像1枚に2つの4コマ漫画、合計8つの4コマ漫画がストーリーとしてつながっているように。
+Create four pages of four-panel manga. Give each four-panel strip its own punchline, and arrange them so that each image contains two four-panel manga strips, for a total of eight four-panel manga strips that connect together as a single story.
 ```
 
 #### 🖼️ Generated Images
@@ -6247,9 +6257,9 @@ A meta-structural prompt (not fully quoted) that instructs Nano Banana Pro to cr
 - **Author:** [美咲](https://x.com/patata1216)
 - **Source:** [Twitter Post](https://x.com/patata1216/status/1991797720160637344)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB4%E3%83%9A%E3%83%BC%E3%82%B8%E4%BD%9C%E6%88%90%E3%80%824%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E4%B8%80%E3%81%A4%E3%81%A5%E3%81%A4%E3%81%AB%E3%82%AA%E3%83%81%E3%82%92%E3%81%A4%E3%81%91%E3%80%81%E7%94%BB%E5%83%8F1%E6%9E%9A%E3%81%AB2%E3%81%A4%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%80%81%E5%90%88%E8%A8%888%E3%81%A4%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%81%8C%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20four%20pages%20of%20four-panel%20manga.%20Give%20each%20four-panel%20strip%20its%20own%20punchline%2C%20and%20arrange%20them%20so%20that%20each%20image%20contains%20two%20four-panel%20manga%20strips%2C%20for%20a%20total%20of%20eight%20four-panel%20manga%20strips%20that%20connect%20together%20as%20a%20single%20story.)**
 
 ---
 
@@ -6264,7 +6274,7 @@ A prompt to create a polished scientific illustration of how cytotoxic T cells r
 #### 📝 Prompt
 
 ```
-用製作精良的科研論文圖示描述細胞毒性 T 細胞識別並殺死癌細胞的過程。至少10個信息塊。非常複雜繁瑣的信息量，但又排版清晰，賞心悅目。
+Use a finely crafted scientific paper-style diagram to depict the process by which cytotoxic T cells recognize and kill cancer cells. Include at least 10 information blocks. The information should be very complex and detailed, yet laid out clearly and pleasantly to look at.
 ```
 
 #### 🖼️ Generated Images
@@ -6280,9 +6290,9 @@ A prompt to create a polished scientific illustration of how cytotoxic T cells r
 - **Author:** [MSB](https://x.com/KeWai386772)
 - **Source:** [Twitter Post](https://x.com/KeWai386772/status/1991795203947274463)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%A8%E8%A3%BD%E4%BD%9C%E7%B2%BE%E8%89%AF%E7%9A%84%E7%A7%91%E7%A0%94%E8%AB%96%E6%96%87%E5%9C%96%E7%A4%BA%E6%8F%8F%E8%BF%B0%E7%B4%B0%E8%83%9E%E6%AF%92%E6%80%A7%20T%20%E7%B4%B0%E8%83%9E%E8%AD%98%E5%88%A5%E4%B8%A6%E6%AE%BA%E6%AD%BB%E7%99%8C%E7%B4%B0%E8%83%9E%E7%9A%84%E9%81%8E%E7%A8%8B%E3%80%82%E8%87%B3%E5%B0%9110%E5%80%8B%E4%BF%A1%E6%81%AF%E5%A1%8A%E3%80%82%E9%9D%9E%E5%B8%B8%E8%A4%87%E9%9B%9C%E7%B9%81%E7%91%A3%E7%9A%84%E4%BF%A1%E6%81%AF%E9%87%8F%EF%BC%8C%E4%BD%86%E5%8F%88%E6%8E%92%E7%89%88%E6%B8%85%E6%99%B0%EF%BC%8C%E8%B3%9E%E5%BF%83%E6%82%85%E7%9B%AE%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20a%20finely%20crafted%20scientific%20paper-style%20diagram%20to%20depict%20the%20process%20by%20which%20cytotoxic%20T%20cells%20recognize%20and%20kill%20cancer%20cells.%20Include%20at%20least%2010%20information%20blocks.%20The%20information%20should%20be%20very%20complex%20and%20detailed%2C%20yet%20laid%20out%20clearly%20and%20pleasantly%20to%20look%20at.)**
 
 ---
 
@@ -6297,7 +6307,7 @@ A stylized prompt for a sketchy pirate-themed captain’s log page featuring Luf
 #### 📝 Prompt
 
 ```
-破旧的船长航海日志。速写描绘路飞伸长橡胶手臂去抓宝箱，与桅杆形成三角形。藏宝图背景纹理，指南针印章，“通缉令”海报碎片，金币贴纸。冒险、混乱、海盗手帐风格。
+A worn-out captain’s sailing log. A sketch depicting Luffy stretching his rubber arm to grab a treasure chest, forming a triangle with the mast. Treasure map background texture, compass stamp, torn “Wanted” poster fragments, gold coin stickers. Adventurous, chaotic, pirate journal style.
 ```
 
 #### 🖼️ Generated Images
@@ -6313,9 +6323,9 @@ A stylized prompt for a sketchy pirate-themed captain’s log page featuring Luf
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991794231263072737)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%A0%B4%E6%97%A7%E7%9A%84%E8%88%B9%E9%95%BF%E8%88%AA%E6%B5%B7%E6%97%A5%E5%BF%97%E3%80%82%E9%80%9F%E5%86%99%E6%8F%8F%E7%BB%98%E8%B7%AF%E9%A3%9E%E4%BC%B8%E9%95%BF%E6%A9%A1%E8%83%B6%E6%89%8B%E8%87%82%E5%8E%BB%E6%8A%93%E5%AE%9D%E7%AE%B1%EF%BC%8C%E4%B8%8E%E6%A1%85%E6%9D%86%E5%BD%A2%E6%88%90%E4%B8%89%E8%A7%92%E5%BD%A2%E3%80%82%E8%97%8F%E5%AE%9D%E5%9B%BE%E8%83%8C%E6%99%AF%E7%BA%B9%E7%90%86%EF%BC%8C%E6%8C%87%E5%8D%97%E9%92%88%E5%8D%B0%E7%AB%A0%EF%BC%8C%E2%80%9C%E9%80%9A%E7%BC%89%E4%BB%A4%E2%80%9D%E6%B5%B7%E6%8A%A5%E7%A2%8E%E7%89%87%EF%BC%8C%E9%87%91%E5%B8%81%E8%B4%B4%E7%BA%B8%E3%80%82%E5%86%92%E9%99%A9%E3%80%81%E6%B7%B7%E4%B9%B1%E3%80%81%E6%B5%B7%E7%9B%97%E6%89%8B%E5%B8%90%E9%A3%8E%E6%A0%BC%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20worn-out%20captain%E2%80%99s%20sailing%20log.%20A%20sketch%20depicting%20Luffy%20stretching%20his%20rubber%20arm%20to%20grab%20a%20treasure%20chest%2C%20forming%20a%20triangle%20with%20the%20mast.%20Treasure%20map%20background%20texture%2C%20compass%20stamp%2C%20torn%20%E2%80%9CWanted%E2%80%9D%20poster%20fragments%2C%20gold%20coin%20stickers.%20Adventurous%2C%20chaotic%2C%20pirate%20journal%20style.)**
 
 ---
 
@@ -6331,7 +6341,7 @@ A prompt to embed a given block of text into a stylish magazine-article photogra
 #### 📝 Prompt
 
 ```
-請將這段文字原封不動地複製到一張精美雜誌文章的照片中，照片需包含圖片、漂亮的排版設計、精選語錄和大膽的格式。原文如下：{argument name="原文" default="[未格式化的文章文本貼在這裡]"}
+Please copy this passage of text verbatim into a photo of a beautiful magazine article. The photo should include images, attractive layout design, selected quotes, and bold formatting. The original text is as follows: {argument name="original_text" default="[paste the unformatted article text here]"}
 ```
 
 #### 🖼️ Generated Images
@@ -6347,9 +6357,9 @@ A prompt to embed a given block of text into a stylish magazine-article photogra
 - **Author:** [AI焦点](https://x.com/AIFocus360)
 - **Source:** [Twitter Post](https://x.com/AIFocus360/status/1991793498832638252)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%AB%8B%E5%B0%87%E9%80%99%E6%AE%B5%E6%96%87%E5%AD%97%E5%8E%9F%E5%B0%81%E4%B8%8D%E5%8B%95%E5%9C%B0%E8%A4%87%E8%A3%BD%E5%88%B0%E4%B8%80%E5%BC%B5%E7%B2%BE%E7%BE%8E%E9%9B%9C%E8%AA%8C%E6%96%87%E7%AB%A0%E7%9A%84%E7%85%A7%E7%89%87%E4%B8%AD%EF%BC%8C%E7%85%A7%E7%89%87%E9%9C%80%E5%8C%85%E5%90%AB%E5%9C%96%E7%89%87%E3%80%81%E6%BC%82%E4%BA%AE%E7%9A%84%E6%8E%92%E7%89%88%E8%A8%AD%E8%A8%88%E3%80%81%E7%B2%BE%E9%81%B8%E8%AA%9E%E9%8C%84%E5%92%8C%E5%A4%A7%E8%86%BD%E7%9A%84%E6%A0%BC%E5%BC%8F%E3%80%82%E5%8E%9F%E6%96%87%E5%A6%82%E4%B8%8B%EF%BC%9A%7Bargument%20name%3D%22%E5%8E%9F%E6%96%87%22%20default%3D%22%5B%E6%9C%AA%E6%A0%BC%E5%BC%8F%E5%8C%96%E7%9A%84%E6%96%87%E7%AB%A0%E6%96%87%E6%9C%AC%E8%B2%BC%E5%9C%A8%E9%80%99%E8%A3%A1%5D%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20copy%20this%20passage%20of%20text%20verbatim%20into%20a%20photo%20of%20a%20beautiful%20magazine%20article.%20The%20photo%20should%20include%20images%2C%20attractive%20layout%20design%2C%20selected%20quotes%2C%20and%20bold%20formatting.%20The%20original%20text%20is%20as%20follows%3A%20%7Bargument%20name%3D%22original_text%22%20default%3D%22%5Bpaste%20the%20unformatted%20article%20text%20here%5D%22%7D)**
 
 ---
 
@@ -6364,7 +6374,7 @@ A Chinese prompt to create a Banana-themed Twitter banner for AIFocus that match
 #### 📝 Prompt
 
 ```
-给我画一张AIFocus的推特的BANANA图，要符合Google 品牌调性和设计元素
+Draw a BANANA-themed Twitter banner image for AIFocus that matches Google’s brand tone and design elements.
 ```
 
 #### 🖼️ Generated Images
@@ -6380,9 +6390,9 @@ A Chinese prompt to create a Banana-themed Twitter banner for AIFocus that match
 - **Author:** [AI焦点](https://x.com/AIFocus360)
 - **Source:** [Twitter Post](https://x.com/AIFocus360/status/1991791464733708499)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BB%99%E6%88%91%E7%94%BB%E4%B8%80%E5%BC%A0AIFocus%E7%9A%84%E6%8E%A8%E7%89%B9%E7%9A%84BANANA%E5%9B%BE%EF%BC%8C%E8%A6%81%E7%AC%A6%E5%90%88Google%20%E5%93%81%E7%89%8C%E8%B0%83%E6%80%A7%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Draw%20a%20BANANA-themed%20Twitter%20banner%20image%20for%20AIFocus%20that%20matches%20Google%E2%80%99s%20brand%20tone%20and%20design%20elements.)**
 
 ---
 
@@ -6431,7 +6441,7 @@ A 16-bit pixel art poster showcasing all the black and white animals of nature. 
 - **Author:** [被减数](https://x.com/Lessnoise365)
 - **Source:** [Twitter Post](https://x.com/Lessnoise365/status/1991791005319016642)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%2016-bit%20pixel%20art%20poster%20showcasing%20all%20the%20black%20and%20white%20animals%20of%20nature.%20The%20composition%20uses%20a%20neat%20grid%20layout%2C%20reminiscent%20of%20a%20retro%20video%20game%20character%20selection%20screen%20or%20an%20encyclopedia%20page.%20Each%20animal%20is%20labeled%20with%20its%20English%20name%20in%20clear%20retro%20pixel%20font.%20The%20background%20is%20clean%20white%20or%20light%20gray%2C%20with%20vivid%20pixel%20details%2C%20exuding%20a%20retro%20aesthetic%20and%20high-quality%20production.%20--ar%2016%3A9)**
 
@@ -6448,7 +6458,7 @@ A multi-image prompt to generate four hyper-realistic landmark scenes with infor
 #### 📝 Prompt
 
 ```
-Generate four distinct, hyper-realistic images, each depicting a world-renowned landmark. For each image, include a comprehensive and clearly legible set of annotations directly overlaid onto key architectural features, historical elements, or culturally significant details. These annotations should provide brief, informative descriptions.
+Generate four distinct, hyper‑realistic images, each depicting a world‑renowned landmark. For each image, include a comprehensive and clearly legible set of annotations directly overlaid onto key architectural features, historical elements, or culturally significant details. These annotations should provide brief, informative descriptions.
 
 The first image should feature the Eiffel Tower in Paris, France, at sunset, with annotations highlighting its iron lattice structure, observation decks, and historical significance.
 
@@ -6456,7 +6466,7 @@ The second image should showcase the Great Wall of China, specifically a section
 
 The third image should present the Colosseum in Rome, Italy, bathed in morning light, with annotations identifying its arches, seating tiers, and its role as an ancient amphitheater.
 
-The fourth image should capture the Taj Mahal in Agra, India, under a soft, ethereal pre-dawn glow, with annotations pointing out its marble dome, minarets, and inlaid floral designs.
+The fourth image should capture the Taj Mahal in Agra, India, under a soft, ethereal pre‑dawn glow, with annotations pointing out its marble dome, minarets, and inlaid floral designs.
 
 Each image should be rendered with exceptional detail, vibrant colors, and dynamic lighting to emphasize the grandeur of the location, making the annotations seamlessly integrated into the visual narrative.
 ```
@@ -6474,9 +6484,9 @@ Each image should be rendered with exceptional detail, vibrant colors, and dynam
 - **Author:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
 - **Source:** [Twitter Post](https://x.com/Ankit_patel211/status/1991790238822215947)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20four%20distinct%2C%20hyper-realistic%20images%2C%20each%20depicting%20a%20world-renowned%20landmark.%20For%20each%20image%2C%20include%20a%20comprehensive%20and%20clearly%20legible%20set%20of%20annotations%20directly%20overlaid%20onto%20key%20architectural%20features%2C%20historical%20elements%2C%20or%20culturally%20significant%20details.%20These%20annotations%20should%20provide%20brief%2C%20informative%20descriptions.%0A%0AThe%20first%20image%20should%20feature%20the%20Eiffel%20Tower%20in%20Paris%2C%20France%2C%20at%20sunset%2C%20with%20annotations%20highlighting%20its%20iron%20lattice%20structure%2C%20observation%20decks%2C%20and%20historical%20significance.%0A%0AThe%20second%20image%20should%20showcase%20the%20Great%20Wall%20of%20China%2C%20specifically%20a%20section%20in%20Mutianyu%2C%20during%20a%20clear%20autumn%20day%2C%20with%20annotations%20detailing%20its%20watchtowers%2C%20construction%20materials%2C%20and%20strategic%20importance.%0A%0AThe%20third%20image%20should%20present%20the%20Colosseum%20in%20Rome%2C%20Italy%2C%20bathed%20in%20morning%20light%2C%20with%20annotations%20identifying%20its%20arches%2C%20seating%20tiers%2C%20and%20its%20role%20as%20an%20ancient%20amphitheater.%0A%0AThe%20fourth%20image%20should%20capture%20the%20Taj%20Mahal%20in%20Agra%2C%20India%2C%20under%20a%20soft%2C%20ethereal%20pre-dawn%20glow%2C%20with%20annotations%20pointing%20out%20its%20marble%20dome%2C%20minarets%2C%20and%20inlaid%20floral%20designs.%0A%0AEach%20image%20should%20be%20rendered%20with%20exceptional%20detail%2C%20vibrant%20colors%2C%20and%20dynamic%20lighting%20to%20emphasize%20the%20grandeur%20of%20the%20location%2C%20making%20the%20annotations%20seamlessly%20integrated%20into%20the%20visual%20narrative.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20four%20distinct%2C%20hyper%E2%80%91realistic%20images%2C%20each%20depicting%20a%20world%E2%80%91renowned%20landmark.%20For%20each%20image%2C%20include%20a%20comprehensive%20and%20clearly%20legible%20set%20of%20annotations%20directly%20overlaid%20onto%20key%20architectural%20features%2C%20historical%20elements%2C%20or%20culturally%20significant%20details.%20These%20annotations%20should%20provide%20brief%2C%20informative%20descriptions.%0A%0AThe%20first%20image%20should%20feature%20the%20Eiffel%20Tower%20in%20Paris%2C%20France%2C%20at%20sunset%2C%20with%20annotations%20highlighting%20its%20iron%20lattice%20structure%2C%20observation%20decks%2C%20and%20historical%20significance.%0A%0AThe%20second%20image%20should%20showcase%20the%20Great%20Wall%20of%20China%2C%20specifically%20a%20section%20in%20Mutianyu%2C%20during%20a%20clear%20autumn%20day%2C%20with%20annotations%20detailing%20its%20watchtowers%2C%20construction%20materials%2C%20and%20strategic%20importance.%0A%0AThe%20third%20image%20should%20present%20the%20Colosseum%20in%20Rome%2C%20Italy%2C%20bathed%20in%20morning%20light%2C%20with%20annotations%20identifying%20its%20arches%2C%20seating%20tiers%2C%20and%20its%20role%20as%20an%20ancient%20amphitheater.%0A%0AThe%20fourth%20image%20should%20capture%20the%20Taj%20Mahal%20in%20Agra%2C%20India%2C%20under%20a%20soft%2C%20ethereal%20pre%E2%80%91dawn%20glow%2C%20with%20annotations%20pointing%20out%20its%20marble%20dome%2C%20minarets%2C%20and%20inlaid%20floral%20designs.%0A%0AEach%20image%20should%20be%20rendered%20with%20exceptional%20detail%2C%20vibrant%20colors%2C%20and%20dynamic%20lighting%20to%20emphasize%20the%20grandeur%20of%20the%20location%2C%20making%20the%20annotations%20seamlessly%20integrated%20into%20the%20visual%20narrative.)**
 
 ---
 
@@ -6491,7 +6501,7 @@ A prompt telling Nano Banana Pro to create a four-panel comic where a fairy desc
 #### 📝 Prompt
 
 ```
-妖精が天から地球に降りてきた。最初に出会ったのが三毛猫だったから、この星は猫の星かと思って猫に話しかける４コマ漫画を描いて
+Draw a four-panel manga in which a fairy comes down from the heavens to Earth. Because the first being it meets is a calico cat, it thinks this planet belongs to cats and talks to the cat.
 ```
 
 #### 🖼️ Generated Images
@@ -6507,9 +6517,9 @@ A prompt telling Nano Banana Pro to create a four-panel comic where a fairy desc
 - **Author:** [starwalker前田徳彦](https://x.com/starwalker0202)
 - **Source:** [Twitter Post](https://x.com/starwalker0202/status/1991789421671449071)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A6%96%E7%B2%BE%E3%81%8C%E5%A4%A9%E3%81%8B%E3%82%89%E5%9C%B0%E7%90%83%E3%81%AB%E9%99%8D%E3%82%8A%E3%81%A6%E3%81%8D%E3%81%9F%E3%80%82%E6%9C%80%E5%88%9D%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%8C%E4%B8%89%E6%AF%9B%E7%8C%AB%E3%81%A0%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%89%E3%80%81%E3%81%93%E3%81%AE%E6%98%9F%E3%81%AF%E7%8C%AB%E3%81%AE%E6%98%9F%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E7%8C%AB%E3%81%AB%E8%A9%B1%E3%81%97%E3%81%8B%E3%81%91%E3%82%8B%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E6%8F%8F%E3%81%84%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Draw%20a%20four-panel%20manga%20in%20which%20a%20fairy%20comes%20down%20from%20the%20heavens%20to%20Earth.%20Because%20the%20first%20being%20it%20meets%20is%20a%20calico%20cat%2C%20it%20thinks%20this%20planet%20belongs%20to%20cats%20and%20talks%20to%20the%20cat.)**
 
 ---
 
@@ -6528,16 +6538,16 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 {
   "image_description": {
     "upper_third": {
-      "focus": "{argument name=\"upper_focus\" default=\"Her eyes\"}",
+      "focus": "{argument name=\"upper_focus_en\" default=\"Her eyes\"}",
       "details": [
         "Reflecting blurred city lights below",
-        "Thin layer of frost touching her lashes",
+        "A thin layer of frost touching her lashes",
         "Wind pushing a few strands of hair across her forehead"
       ],
-      "vibe": "{argument name=\"upper_vibe\" default=\"Sharp retro-Y2K\"}"
+      "vibe": "{argument name=\"upper_vibe_en\" default=\"Sharp retro-Y2K\"}"
     },
     "middle_third": {
-      "focus": "{argument name=\"middle_focus\" default=\"Her body and immediate surroundings\"}",
+      "focus": "{argument name=\"middle_focus_en\" default=\"Her body and immediate surroundings\"}",
       "details": [
         "Lying on a rooftop lounge chair dusted with snow",
         "Wrapped in a white faux-fur jacket over a sequined winter dress",
@@ -6545,7 +6555,7 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
       ]
     },
     "lower_third": {
-      "focus": "{argument name=\"lower_focus\" default=\"Close-up of her face and hands\"}",
+      "focus": "{argument name=\"lower_focus_en\" default=\"Close-up of her face and hands\"}",
       "details": [
         "Facing the camera with one hand above her eyes",
         "Shielding a bright pinkish neon light",
@@ -6570,9 +6580,9 @@ A detailed JSON-style English prompt that describes a woman on a snowy rooftop i
 - **Author:** [Kaan](https://x.com/wkaandemir)
 - **Source:** [Twitter Post](https://x.com/wkaandemir/status/1991788166941114799)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22upper_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22upper_focus%5C%22%20default%3D%5C%22Her%20eyes%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Reflecting%20blurred%20city%20lights%20below%22%2C%0A%20%20%20%20%20%20%20%20%22Thin%20layer%20of%20frost%20touching%20her%20lashes%22%2C%0A%20%20%20%20%20%20%20%20%22Wind%20pushing%20a%20few%20strands%20of%20hair%20across%20her%20forehead%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22vibe%22%3A%20%22%7Bargument%20name%3D%5C%22upper_vibe%5C%22%20default%3D%5C%22Sharp%20retro-Y2K%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22middle_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22middle_focus%5C%22%20default%3D%5C%22Her%20body%20and%20immediate%20surroundings%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Lying%20on%20a%20rooftop%20lounge%20chair%20dusted%20with%20snow%22%2C%0A%20%20%20%20%20%20%20%20%22Wrapped%20in%20a%20white%20faux-fur%20jacket%20over%20a%20sequined%20winter%20dress%22%2C%0A%20%20%20%20%20%20%20%20%22Soft%20neon%20glow%20bouncing%20off%20snowflakes%20on%20her%20sleeves%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lower_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22lower_focus%5C%22%20default%3D%5C%22Close-up%20of%20her%20face%20and%20hands%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Facing%20the%20camera%20with%20one%20hand%20above%20her%20eyes%22%2C%0A%20%20%20%20%20%20%20%20%22Shielding%20a%20bright%20pinkish%20neon%20light%22%2C%0A%20%20%20%20%20%20%20%20%22Snowflakes%20clinging%20to%20her%20jewelry%22%2C%0A%20%20%20%20%20%20%20%20%22Tiny%20drops%20forming%20near%20her%20lips%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22upper_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22upper_focus_en%5C%22%20default%3D%5C%22Her%20eyes%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Reflecting%20blurred%20city%20lights%20below%22%2C%0A%20%20%20%20%20%20%20%20%22A%20thin%20layer%20of%20frost%20touching%20her%20lashes%22%2C%0A%20%20%20%20%20%20%20%20%22Wind%20pushing%20a%20few%20strands%20of%20hair%20across%20her%20forehead%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22vibe%22%3A%20%22%7Bargument%20name%3D%5C%22upper_vibe_en%5C%22%20default%3D%5C%22Sharp%20retro-Y2K%5C%22%7D%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22middle_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22middle_focus_en%5C%22%20default%3D%5C%22Her%20body%20and%20immediate%20surroundings%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Lying%20on%20a%20rooftop%20lounge%20chair%20dusted%20with%20snow%22%2C%0A%20%20%20%20%20%20%20%20%22Wrapped%20in%20a%20white%20faux-fur%20jacket%20over%20a%20sequined%20winter%20dress%22%2C%0A%20%20%20%20%20%20%20%20%22Soft%20neon%20glow%20bouncing%20off%20snowflakes%20on%20her%20sleeves%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lower_third%22%3A%20%7B%0A%20%20%20%20%20%20%22focus%22%3A%20%22%7Bargument%20name%3D%5C%22lower_focus_en%5C%22%20default%3D%5C%22Close-up%20of%20her%20face%20and%20hands%5C%22%7D%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Facing%20the%20camera%20with%20one%20hand%20above%20her%20eyes%22%2C%0A%20%20%20%20%20%20%20%20%22Shielding%20a%20bright%20pinkish%20neon%20light%22%2C%0A%20%20%20%20%20%20%20%20%22Snowflakes%20clinging%20to%20her%20jewelry%22%2C%0A%20%20%20%20%20%20%20%20%22Tiny%20drops%20forming%20near%20her%20lips%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -6587,7 +6597,7 @@ A humorous Chinese prompt depicting a salted fish in a frying pan trying to flip
 #### 📝 Prompt
 
 ```
-一条咸鱼躺在平底锅里，正在努力试图翻身，但翻过来还是咸鱼。画风是极简手绘风。旁边配文：“咸鱼翻身……还是咸鱼”。
+A salted fish lies in a frying pan, trying hard to flip over, but even after flipping it’s still a salted fish. The art style is minimalist hand-drawn. Next to it, add the caption: “The salted fish turns over… but is still a salted fish.”
 ```
 
 #### 🖼️ Generated Images
@@ -6603,9 +6613,9 @@ A humorous Chinese prompt depicting a salted fish in a frying pan trying to flip
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991786544286642625)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E6%9D%A1%E5%92%B8%E9%B1%BC%E8%BA%BA%E5%9C%A8%E5%B9%B3%E5%BA%95%E9%94%85%E9%87%8C%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%8A%AA%E5%8A%9B%E8%AF%95%E5%9B%BE%E7%BF%BB%E8%BA%AB%EF%BC%8C%E4%BD%86%E7%BF%BB%E8%BF%87%E6%9D%A5%E8%BF%98%E6%98%AF%E5%92%B8%E9%B1%BC%E3%80%82%E7%94%BB%E9%A3%8E%E6%98%AF%E6%9E%81%E7%AE%80%E6%89%8B%E7%BB%98%E9%A3%8E%E3%80%82%E6%97%81%E8%BE%B9%E9%85%8D%E6%96%87%EF%BC%9A%E2%80%9C%E5%92%B8%E9%B1%BC%E7%BF%BB%E8%BA%AB%E2%80%A6%E2%80%A6%E8%BF%98%E6%98%AF%E5%92%B8%E9%B1%BC%E2%80%9D%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20salted%20fish%20lies%20in%20a%20frying%20pan%2C%20trying%20hard%20to%20flip%20over%2C%20but%20even%20after%20flipping%20it%E2%80%99s%20still%20a%20salted%20fish.%20The%20art%20style%20is%20minimalist%20hand-drawn.%20Next%20to%20it%2C%20add%20the%20caption%3A%20%E2%80%9CThe%20salted%20fish%20turns%20over%E2%80%A6%20but%20is%20still%20a%20salted%20fish.%E2%80%9D)**
 
 ---
 
@@ -6621,13 +6631,13 @@ A detailed prompt for creating a 9:16 hand-drawn infographic card with brush scr
 #### 📝 Prompt
 
 ```
-创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。
+Create a hand-drawn style infographic card in a 9:16 vertical ratio. The card should have a clear theme, with a beige or off‑white paper-textured background and an overall rustic, friendly hand-drawn aesthetic.
 
-卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。
+At the top of the card, highlight the title in large brush-style cursive Chinese characters using a striking red-and-black contrast to draw the viewer’s eye. All text should be in Chinese cursive script. The layout is divided into 2 to 4 clear sections, each using short, concise Chinese phrases to express the key points. The font should maintain the flowing rhythm of cursive script while staying readable and artistic.
 
-卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。
+Add simple, fun hand-drawn illustrations or icons on the card, such as characters or symbolic motifs, to enhance visual appeal and spark reflection and empathy. Maintain visual balance in the overall layout and leave enough white space so the design remains clean, easy to read, and easy to understand.
 
-主题是：“{argument name="主题" default="做IP是长期复利，坚持每日出摊，持续做，肯定会有结果，因为99%都坚持不住的。"}”
+The theme is: “{argument name="theme" default="Building a personal IP is a long-term compounding process; if you keep showing up daily and continue consistently, you will definitely see results, because 99% of people can’t stick with it."}”
 ```
 
 #### 🖼️ Generated Images
@@ -6643,9 +6653,9 @@ A detailed prompt for creating a 9:16 hand-drawn infographic card with brush scr
 - **Author:** [宝玉](https://x.com/dotey)
 - **Source:** [Twitter Post](https://x.com/dotey/status/1991786129046044735)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E6%89%8B%E7%BB%98%E9%A3%8E%E6%A0%BC%E7%9A%84%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%8D%A1%E7%89%87%EF%BC%8C%E6%AF%94%E4%BE%8B%E4%B8%BA9%3A16%E7%AB%96%E7%89%88%E3%80%82%E5%8D%A1%E7%89%87%E4%B8%BB%E9%A2%98%E9%B2%9C%E6%98%8E%EF%BC%8C%E8%83%8C%E6%99%AF%E4%B8%BA%E5%B8%A6%E6%9C%89%E7%BA%B8%E8%B4%A8%E8%82%8C%E7%90%86%E7%9A%84%E7%B1%B3%E8%89%B2%E6%88%96%E7%B1%B3%E7%99%BD%E8%89%B2%EF%BC%8C%E6%95%B4%E4%BD%93%E8%AE%BE%E8%AE%A1%E4%BD%93%E7%8E%B0%E8%B4%A8%E6%9C%B4%E3%80%81%E4%BA%B2%E5%88%87%E7%9A%84%E6%89%8B%E7%BB%98%E7%BE%8E%E6%84%9F%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%8A%E6%96%B9%E4%BB%A5%E7%BA%A2%E9%BB%91%E7%9B%B8%E9%97%B4%E3%80%81%E5%AF%B9%E6%AF%94%E9%B2%9C%E6%98%8E%E7%9A%84%E5%A4%A7%E5%8F%B7%E6%AF%9B%E7%AC%94%E8%8D%89%E4%B9%A6%E5%AD%97%E4%BD%93%E7%AA%81%E5%87%BA%E6%A0%87%E9%A2%98%EF%BC%8C%E5%90%B8%E5%BC%95%E8%A7%86%E8%A7%89%E7%84%A6%E7%82%B9%E3%80%82%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E5%9D%87%E9%87%87%E7%94%A8%E4%B8%AD%E6%96%87%E8%8D%89%E4%B9%A6%EF%BC%8C%E6%95%B4%E4%BD%93%E5%B8%83%E5%B1%80%E5%88%86%E4%B8%BA2%E8%87%B34%E4%B8%AA%E6%B8%85%E6%99%B0%E7%9A%84%E5%B0%8F%E8%8A%82%EF%BC%8C%E6%AF%8F%E8%8A%82%E4%BB%A5%E7%AE%80%E7%9F%AD%E3%80%81%E7%B2%BE%E7%82%BC%E7%9A%84%E4%B8%AD%E6%96%87%E7%9F%AD%E8%AF%AD%E8%A1%A8%E8%BE%BE%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9%E3%80%82%E5%AD%97%E4%BD%93%E4%BF%9D%E6%8C%81%E8%8D%89%E4%B9%A6%E6%B5%81%E7%95%85%E7%9A%84%E9%9F%B5%E5%BE%8B%E6%84%9F%EF%BC%8C%E6%97%A2%E6%B8%85%E6%99%B0%E5%8F%AF%E8%AF%BB%E5%8F%88%E5%AF%8C%E6%9C%89%E8%89%BA%E6%9C%AF%E6%B0%94%E6%81%AF%E3%80%82%0A%0A%E5%8D%A1%E7%89%87%E4%B8%AD%E7%82%B9%E7%BC%80%E7%AE%80%E5%8D%95%E3%80%81%E6%9C%89%E8%B6%A3%E7%9A%84%E6%89%8B%E7%BB%98%E6%8F%92%E7%94%BB%E6%88%96%E5%9B%BE%E6%A0%87%EF%BC%8C%E4%BE%8B%E5%A6%82%E4%BA%BA%E7%89%A9%E6%88%96%E8%B1%A1%E5%BE%81%E7%AC%A6%E5%8F%B7%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%BC%BA%E8%A7%86%E8%A7%89%E5%90%B8%E5%BC%95%E5%8A%9B%EF%BC%8C%E5%BC%95%E5%8F%91%E8%AF%BB%E8%80%85%E6%80%9D%E8%80%83%E4%B8%8E%E5%85%B1%E9%B8%A3%E3%80%82%E6%95%B4%E4%BD%93%E5%B8%83%E5%B1%80%E6%B3%A8%E6%84%8F%E8%A7%86%E8%A7%89%E5%B9%B3%E8%A1%A1%EF%BC%8C%E9%A2%84%E7%95%99%E8%B6%B3%E5%A4%9F%E7%9A%84%E7%A9%BA%E7%99%BD%E7%A9%BA%E9%97%B4%EF%BC%8C%E7%A1%AE%E4%BF%9D%E7%94%BB%E9%9D%A2%E7%AE%80%E6%B4%81%E6%98%8E%E4%BA%86%EF%BC%8C%E6%98%93%E4%BA%8E%E9%98%85%E8%AF%BB%E5%92%8C%E7%90%86%E8%A7%A3%E3%80%82%0A%0A%E4%B8%BB%E9%A2%98%E6%98%AF%EF%BC%9A%E2%80%9C%7Bargument%20name%3D%22%E4%B8%BB%E9%A2%98%22%20default%3D%22%E5%81%9AIP%E6%98%AF%E9%95%BF%E6%9C%9F%E5%A4%8D%E5%88%A9%EF%BC%8C%E5%9D%9A%E6%8C%81%E6%AF%8F%E6%97%A5%E5%87%BA%E6%91%8A%EF%BC%8C%E6%8C%81%E7%BB%AD%E5%81%9A%EF%BC%8C%E8%82%AF%E5%AE%9A%E4%BC%9A%E6%9C%89%E7%BB%93%E6%9E%9C%EF%BC%8C%E5%9B%A0%E4%B8%BA99%25%E9%83%BD%E5%9D%9A%E6%8C%81%E4%B8%8D%E4%BD%8F%E7%9A%84%E3%80%82%22%7D%E2%80%9D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20hand-drawn%20style%20infographic%20card%20in%20a%209%3A16%20vertical%20ratio.%20The%20card%20should%20have%20a%20clear%20theme%2C%20with%20a%20beige%20or%20off%E2%80%91white%20paper-textured%20background%20and%20an%20overall%20rustic%2C%20friendly%20hand-drawn%20aesthetic.%0A%0AAt%20the%20top%20of%20the%20card%2C%20highlight%20the%20title%20in%20large%20brush-style%20cursive%20Chinese%20characters%20using%20a%20striking%20red-and-black%20contrast%20to%20draw%20the%20viewer%E2%80%99s%20eye.%20All%20text%20should%20be%20in%20Chinese%20cursive%20script.%20The%20layout%20is%20divided%20into%202%20to%204%20clear%20sections%2C%20each%20using%20short%2C%20concise%20Chinese%20phrases%20to%20express%20the%20key%20points.%20The%20font%20should%20maintain%20the%20flowing%20rhythm%20of%20cursive%20script%20while%20staying%20readable%20and%20artistic.%0A%0AAdd%20simple%2C%20fun%20hand-drawn%20illustrations%20or%20icons%20on%20the%20card%2C%20such%20as%20characters%20or%20symbolic%20motifs%2C%20to%20enhance%20visual%20appeal%20and%20spark%20reflection%20and%20empathy.%20Maintain%20visual%20balance%20in%20the%20overall%20layout%20and%20leave%20enough%20white%20space%20so%20the%20design%20remains%20clean%2C%20easy%20to%20read%2C%20and%20easy%20to%20understand.%0A%0AThe%20theme%20is%3A%20%E2%80%9C%7Bargument%20name%3D%22theme%22%20default%3D%22Building%20a%20personal%20IP%20is%20a%20long-term%20compounding%20process%3B%20if%20you%20keep%20showing%20up%20daily%20and%20continue%20consistently%2C%20you%20will%20definitely%20see%20results%2C%20because%2099%25%20of%20people%20can%E2%80%99t%20stick%20with%20it.%22%7D%E2%80%9D)**
 
 ---
 
@@ -6660,7 +6670,7 @@ A simple prompt that takes some given text and turns it into a single blackboard
 #### 📝 Prompt
 
 ```
-下記内容を一枚の黒板にわかりやすくまとめてください
+Please clearly summarize the following content on a single blackboard.
 ```
 
 #### 🖼️ Generated Images
@@ -6676,9 +6686,9 @@ A simple prompt that takes some given text and turns it into a single blackboard
 - **Author:** [岡部颯太|船橋屋](https://x.com/soutaokabe)
 - **Source:** [Twitter Post](https://x.com/soutaokabe/status/1991785607828533253)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%8B%E8%A8%98%E5%86%85%E5%AE%B9%E3%82%92%E4%B8%80%E6%9E%9A%E3%81%AE%E9%BB%92%E6%9D%BF%E3%81%AB%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20clearly%20summarize%20the%20following%20content%20on%20a%20single%20blackboard.)**
 
 ---
 
@@ -6694,7 +6704,7 @@ A detailed prompt that generates four different Japanese four-panel manga using 
 #### 📝 Prompt
 
 ```
-参照画像にある男性キャラクターと女性キャラクターによる日本語の4コマ漫画を作ってください。コマ割りは参照画像を使うこと。テーマは新しく発表された{argument name="テーマ対象" default="nano banana pro"}のこととし、最後の4コマ目で面白いオチを付けてください。ただし、生成AIに疎いユーザーにも直感的に{argument name="テーマ対象_再" default="nano banana pro"}のことが理解できるような構成としてください。これらの条件で4種類の4コマ漫画を作ってください。
+Please create a Japanese 4‑panel manga featuring the male and female characters from the reference images. Use the panel layout from the reference image. The theme should be the newly announced {argument name="subject_en" default="Nano Banana Pro"}, and in the final, fourth panel, add a funny punchline. Make the structure intuitive so that even users unfamiliar with generative AI can easily understand what {argument name="subject_en_again" default="Nano Banana Pro"} is about. Under these conditions, create four different 4‑panel manga.
 ```
 
 #### 🖼️ Generated Images
@@ -6710,9 +6720,9 @@ A detailed prompt that generates four different Japanese four-panel manga using 
 - **Author:** [小倉＠医療系Pythonプログラム開発サポート](https://x.com/jun_ogulinks)
 - **Source:** [Twitter Post](https://x.com/jun_ogulinks/status/1991785337639866484)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%81%AB%E3%81%82%E3%82%8B%E7%94%B7%E6%80%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A8%E5%A5%B3%E6%80%A7%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AB%E3%82%88%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B3%E3%83%9E%E5%89%B2%E3%82%8A%E3%81%AF%E5%8F%82%E7%85%A7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E3%81%86%E3%81%93%E3%81%A8%E3%80%82%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%96%B0%E3%81%97%E3%81%8F%E7%99%BA%E8%A1%A8%E3%81%95%E3%82%8C%E3%81%9F%7Bargument%20name%3D%22%E3%83%86%E3%83%BC%E3%83%9E%E5%AF%BE%E8%B1%A1%22%20default%3D%22nano%20banana%20pro%22%7D%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A8%E3%81%97%E3%80%81%E6%9C%80%E5%BE%8C%E3%81%AE4%E3%82%B3%E3%83%9E%E7%9B%AE%E3%81%A7%E9%9D%A2%E7%99%BD%E3%81%84%E3%82%AA%E3%83%81%E3%82%92%E4%BB%98%E3%81%91%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%81%9F%E3%81%A0%E3%81%97%E3%80%81%E7%94%9F%E6%88%90AI%E3%81%AB%E7%96%8E%E3%81%84%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AB%E3%82%82%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%7Bargument%20name%3D%22%E3%83%86%E3%83%BC%E3%83%9E%E5%AF%BE%E8%B1%A1_%E5%86%8D%22%20default%3D%22nano%20banana%20pro%22%7D%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E7%90%86%E8%A7%A3%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AA%E6%A7%8B%E6%88%90%E3%81%A8%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%81%93%E3%82%8C%E3%82%89%E3%81%AE%E6%9D%A1%E4%BB%B6%E3%81%A74%E7%A8%AE%E9%A1%9E%E3%81%AE4%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20a%20Japanese%204%E2%80%91panel%20manga%20featuring%20the%20male%20and%20female%20characters%20from%20the%20reference%20images.%20Use%20the%20panel%20layout%20from%20the%20reference%20image.%20The%20theme%20should%20be%20the%20newly%20announced%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22Nano%20Banana%20Pro%22%7D%2C%20and%20in%20the%20final%2C%20fourth%20panel%2C%20add%20a%20funny%20punchline.%20Make%20the%20structure%20intuitive%20so%20that%20even%20users%20unfamiliar%20with%20generative%20AI%20can%20easily%20understand%20what%20%7Bargument%20name%3D%22subject_en_again%22%20default%3D%22Nano%20Banana%20Pro%22%7D%20is%20about.%20Under%20these%20conditions%2C%20create%20four%20different%204%E2%80%91panel%20manga.)**
 
 ---
 
@@ -6728,7 +6738,7 @@ A prompt to create a photo-like image of Python Fibonacci code written with colo
 #### 📝 Prompt
 
 ```
-create a photo of {argument name="programming_language" default="python"} code to calculate the fibonacci numbers drawn on a glass whiteboard with coloring markers
+Create a photo of {argument name="programming_language_en" default="Python"} code to calculate the Fibonacci numbers, drawn on a glass whiteboard with coloring markers.
 ```
 
 #### 🖼️ Generated Images
@@ -6744,9 +6754,9 @@ create a photo of {argument name="programming_language" default="python"} code t
 - **Author:** [Patrick Loeber](https://x.com/patloeber)
 - **Source:** [Twitter Post](https://x.com/patloeber/status/1991781961610981714)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20a%20photo%20of%20%7Bargument%20name%3D%22programming_language%22%20default%3D%22python%22%7D%20code%20to%20calculate%20the%20fibonacci%20numbers%20drawn%20on%20a%20glass%20whiteboard%20with%20coloring%20markers)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20photo%20of%20%7Bargument%20name%3D%22programming_language_en%22%20default%3D%22Python%22%7D%20code%20to%20calculate%20the%20Fibonacci%20numbers%2C%20drawn%20on%20a%20glass%20whiteboard%20with%20coloring%20markers.)**
 
 ---
 
@@ -6762,7 +6772,7 @@ A prompt to convert an attached character into a chibi style and generate a 12�
 #### 📝 Prompt
 
 ```
-添付画像のキャラクターをちびキャラにして。LINEスタンプを作成。表情・ポーズ別・セリフ入で{argument name="スタンプ数" default="12"}種類。
+Turn the character in the attached image into a chibi character. Create LINE stickers, with different expressions, poses, and speech bubbles, in {argument name="num_stamps_en" default="12"} variations.
 ```
 
 #### 🖼️ Generated Images
@@ -6784,9 +6794,9 @@ A prompt to convert an attached character into a chibi style and generate a 12�
 - **Author:** [イーサン・マスク](https://x.com/0uhly2VacK23204)
 - **Source:** [Twitter Post](https://x.com/0uhly2VacK23204/status/1991780261068226776)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%92%E3%81%A1%E3%81%B3%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82LINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%82%92%E4%BD%9C%E6%88%90%E3%80%82%E8%A1%A8%E6%83%85%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BA%E5%88%A5%E3%83%BB%E3%82%BB%E3%83%AA%E3%83%95%E5%85%A5%E3%81%A7%7Bargument%20name%3D%22%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E6%95%B0%22%20default%3D%2212%22%7D%E7%A8%AE%E9%A1%9E%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20the%20character%20in%20the%20attached%20image%20into%20a%20chibi%20character.%20Create%20LINE%20stickers%2C%20with%20different%20expressions%2C%20poses%2C%20and%20speech%20bubbles%2C%20in%20%7Bargument%20name%3D%22num_stamps_en%22%20default%3D%2212%22%7D%20variations.)**
 
 ---
 
@@ -6801,7 +6811,7 @@ A Japanese prompt that asks Nano Banana Pro to research the future direction of 
 #### 📝 Prompt
 
 ```
-これからの医療データの国策の方向性を調べた上で、これからの医療データ企業のあるべき姿を内閣府の委員会資料のような文字の量多めのポンチ絵スライド画像を作って下さい
+After researching the future direction of national policy on medical data, please create a rough sketch-style slide image, with a lot of text like Cabinet Office committee materials, that shows how medical data companies should be in the future.
 ```
 
 #### 🖼️ Generated Images
@@ -6817,9 +6827,9 @@ A Japanese prompt that asks Nano Banana Pro to research the future direction of 
 - **Author:** [Jun Harada](https://x.com/hrjn)
 - **Source:** [Twitter Post](https://x.com/hrjn/status/1991779958600134854)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E5%8C%BB%E7%99%82%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E5%9B%BD%E7%AD%96%E3%81%AE%E6%96%B9%E5%90%91%E6%80%A7%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%9F%E4%B8%8A%E3%81%A7%E3%80%81%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AE%E5%8C%BB%E7%99%82%E3%83%87%E3%83%BC%E3%82%BF%E4%BC%81%E6%A5%AD%E3%81%AE%E3%81%82%E3%82%8B%E3%81%B9%E3%81%8D%E5%A7%BF%E3%82%92%E5%86%85%E9%96%A3%E5%BA%9C%E3%81%AE%E5%A7%94%E5%93%A1%E4%BC%9A%E8%B3%87%E6%96%99%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%96%87%E5%AD%97%E3%81%AE%E9%87%8F%E5%A4%9A%E3%82%81%E3%81%AE%E3%83%9D%E3%83%B3%E3%83%81%E7%B5%B5%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E4%B8%8B%E3%81%95%E3%81%84)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=After%20researching%20the%20future%20direction%20of%20national%20policy%20on%20medical%20data%2C%20please%20create%20a%20rough%20sketch-style%20slide%20image%2C%20with%20a%20lot%20of%20text%20like%20Cabinet%20Office%20committee%20materials%2C%20that%20shows%20how%20medical%20data%20companies%20should%20be%20in%20the%20future.)**
 
 ---
 
@@ -6835,7 +6845,7 @@ A quick prompt that turns two supplied character images into a fan-made doujinsh
 #### 📝 Prompt
 
 ```
-{argument name="キャラ数" default="この二人"}の同人誌の表紙
+The cover of a doujinshi featuring {argument name="number_of_characters_en" default="these two characters"}.
 ```
 
 #### 🖼️ Generated Images
@@ -6851,9 +6861,9 @@ A quick prompt that turns two supplied character images into a fan-made doujinsh
 - **Author:** [852話(hakoniwa)](https://x.com/8co28)
 - **Source:** [Twitter Post](https://x.com/8co28/status/1991779823178641681)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E6%95%B0%22%20default%3D%22%E3%81%93%E3%81%AE%E4%BA%8C%E4%BA%BA%22%7D%E3%81%AE%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%81%AE%E8%A1%A8%E7%B4%99)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20cover%20of%20a%20doujinshi%20featuring%20%7Bargument%20name%3D%22number_of_characters_en%22%20default%3D%22these%20two%20characters%22%7D.)**
 
 ---
 
@@ -6868,7 +6878,7 @@ A prompt to turn a provided figure photo into a Japanese product advertisement f
 #### 📝 Prompt
 
 ```
-この画像のフィギュアの広告。文字は日本語で入れること。商品名は「たぬフィギュア」。今なら小さなたぬきが付属。2026年発売予定。価格未定。
+An advertisement for the figure in this image. The text must be in Japanese. The product name is “Tanu Figure.” For now, a small raccoon is included as a bonus. Scheduled for release in 2026. Price undecided.
 ```
 
 #### 🖼️ Generated Images
@@ -6890,9 +6900,9 @@ A prompt to turn a provided figure photo into a Japanese product advertisement f
 - **Author:** [赤城（あかぎ）](https://x.com/akagi401)
 - **Source:** [Twitter Post](https://x.com/akagi401/status/1991779779197157448)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%AE%E5%BA%83%E5%91%8A%E3%80%82%E6%96%87%E5%AD%97%E3%81%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E5%85%A5%E3%82%8C%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82%E5%95%86%E5%93%81%E5%90%8D%E3%81%AF%E3%80%8C%E3%81%9F%E3%81%AC%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%80%8D%E3%80%82%E4%BB%8A%E3%81%AA%E3%82%89%E5%B0%8F%E3%81%95%E3%81%AA%E3%81%9F%E3%81%AC%E3%81%8D%E3%81%8C%E4%BB%98%E5%B1%9E%E3%80%822026%E5%B9%B4%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A%E3%80%82%E4%BE%A1%E6%A0%BC%E6%9C%AA%E5%AE%9A%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=An%20advertisement%20for%20the%20figure%20in%20this%20image.%20The%20text%20must%20be%20in%20Japanese.%20The%20product%20name%20is%20%E2%80%9CTanu%20Figure.%E2%80%9D%20For%20now%2C%20a%20small%20raccoon%20is%20included%20as%20a%20bonus.%20Scheduled%20for%20release%20in%202026.%20Price%20undecided.)**
 
 ---
 
@@ -6907,7 +6917,7 @@ A prompt that turns the contents of a paper into a summarized Chinese whiteboard
 #### 📝 Prompt
 
 ```
-概括這篇論文，轉成中文白板照片
+Summarize this paper and turn it into a Chinese whiteboard-style photo.
 ```
 
 #### 🖼️ Generated Images
@@ -6929,9 +6939,9 @@ A prompt that turns the contents of a paper into a summarized Chinese whiteboard
 - **Author:** [桃子队长](https://x.com/capmmk)
 - **Source:** [Twitter Post](https://x.com/capmmk/status/1991775163655024848)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A6%82%E6%8B%AC%E9%80%99%E7%AF%87%E8%AB%96%E6%96%87%EF%BC%8C%E8%BD%89%E6%88%90%E4%B8%AD%E6%96%87%E7%99%BD%E6%9D%BF%E7%85%A7%E7%89%87)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Summarize%20this%20paper%20and%20turn%20it%20into%20a%20Chinese%20whiteboard-style%20photo.)**
 
 ---
 
@@ -6946,7 +6956,7 @@ A prompt to turn attached gorilla and rabbit characters into a one-page color ad
 #### 📝 Prompt
 
 ```
-添付のゴリラとウサギの画像を使用。ゴリラとウサギがパーソナリティーのラジオ「元気の出るラジオ」の広告マンガを作って。毎週水曜 夜10時15分～ Xのスペースにて放送。1ページ漫画、カラー、擬音語付き
+Use the attached images of the gorilla and the rabbit. Create an advertisement manga for the radio program “Genki no Deru Radio,” where the gorilla and rabbit are the personalities. It airs every Wednesday at 10:15 p.m. on X Spaces. One-page manga, in color, with sound effect text included.
 ```
 
 #### 🖼️ Generated Images
@@ -6980,9 +6990,9 @@ A prompt to turn attached gorilla and rabbit characters into a one-page color ad
 - **Author:** [きゅにお@行けたら行くで来る率高い小学5年生は人造人間108号📦🚀⛑️](https://x.com/eggkyunio)
 - **Source:** [Twitter Post](https://x.com/eggkyunio/status/1991774896276603361)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%B4%E3%83%AA%E3%83%A9%E3%81%A8%E3%82%A6%E3%82%B5%E3%82%AE%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%BF%E7%94%A8%E3%80%82%E3%82%B4%E3%83%AA%E3%83%A9%E3%81%A8%E3%82%A6%E3%82%B5%E3%82%AE%E3%81%8C%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%81%AE%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8C%E5%85%83%E6%B0%97%E3%81%AE%E5%87%BA%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA%E3%80%8D%E3%81%AE%E5%BA%83%E5%91%8A%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82%E6%AF%8E%E9%80%B1%E6%B0%B4%E6%9B%9C%20%E5%A4%9C10%E6%99%8215%E5%88%86%EF%BD%9E%20X%E3%81%AE%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%81%AB%E3%81%A6%E6%94%BE%E9%80%81%E3%80%821%E3%83%9A%E3%83%BC%E3%82%B8%E6%BC%AB%E7%94%BB%E3%80%81%E3%82%AB%E3%83%A9%E3%83%BC%E3%80%81%E6%93%AC%E9%9F%B3%E8%AA%9E%E4%BB%98%E3%81%8D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Use%20the%20attached%20images%20of%20the%20gorilla%20and%20the%20rabbit.%20Create%20an%20advertisement%20manga%20for%20the%20radio%20program%20%E2%80%9CGenki%20no%20Deru%20Radio%2C%E2%80%9D%20where%20the%20gorilla%20and%20rabbit%20are%20the%20personalities.%20It%20airs%20every%20Wednesday%20at%2010%3A15%20p.m.%20on%20X%20Spaces.%20One-page%20manga%2C%20in%20color%2C%20with%20sound%20effect%20text%20included.)**
 
 ---
 
@@ -6998,16 +7008,16 @@ A structured Japanese prompt for generating a four-panel manga featuring a brigh
 #### 📝 Prompt
 
 ```
-女性を主人公にした４コマ漫画を作りたいです。
-女性は{argument name="国籍" default="日本人"}。明るい表情。
-{argument name="髪型" default="金髪のポニーテール（赤いリボンでとめている）"}。
-{argument name="服装上" default="白いシャツ。胸に七色の花のワッペン。"}
-{argument name="服装下" default="Gパン。赤のハイヒール。"}
+I want to create a 4-panel manga with a woman as the main character.
+The woman is {argument name="nationality_en" default="Japanese"}. She has a bright expression.
+{argument name="hairstyle_en" default="Blonde ponytail tied with a red ribbon."}
+{argument name="top_outfit_en" default="A white shirt with a rainbow-colored flower patch on her chest."}
+{argument name="bottom_outfit_en" default="Jeans and red high heels."}
 
-１：女性が歩きながら「{argument name="セリフ1" default="あ〜、お腹すいたな"}」
-２：女性がお店のショーウインドウを見ながら「{argument name="セリフ2" default="美味しそうなパンケーキ"}」
-３：女性がお店のテーブルに座って「{argument name="セリフ3" default="早く食べたいな"}」
-４：女性がパンケーキを食べながら「{argument name="セリフ4" default="美味し〜い！　でも太っちゃう！"}」
+1: The woman is walking and saying “{argument name="line1_en" default="Ahh, I’m so hungry"}”.
+2: The woman looks at a shop’s show window and says “{argument name="line2_en" default="Those pancakes look so delicious"}”.
+3: The woman is sitting at a table in the shop saying “{argument name="line3_en" default="I can’t wait to eat"}”.
+4: The woman is eating pancakes and says “{argument name="line4_en" default="So tasty! But I’m going to get fat!"}”.
 ```
 
 #### 🖼️ Generated Images
@@ -7023,9 +7033,9 @@ A structured Japanese prompt for generating a four-panel manga featuring a brigh
 - **Author:** [内田勉 AIキャラと話せるHINA chat開発してます](https://x.com/sidodtv)
 - **Source:** [Twitter Post](https://x.com/sidodtv/status/1991773708248330537)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%A5%B3%E6%80%A7%E3%82%92%E4%B8%BB%E4%BA%BA%E5%85%AC%E3%81%AB%E3%81%97%E3%81%9F%EF%BC%94%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99%E3%80%82%0A%E5%A5%B3%E6%80%A7%E3%81%AF%7Bargument%20name%3D%22%E5%9B%BD%E7%B1%8D%22%20default%3D%22%E6%97%A5%E6%9C%AC%E4%BA%BA%22%7D%E3%80%82%E6%98%8E%E3%82%8B%E3%81%84%E8%A1%A8%E6%83%85%E3%80%82%0A%7Bargument%20name%3D%22%E9%AB%AA%E5%9E%8B%22%20default%3D%22%E9%87%91%E9%AB%AA%E3%81%AE%E3%83%9D%E3%83%8B%E3%83%BC%E3%83%86%E3%83%BC%E3%83%AB%EF%BC%88%E8%B5%A4%E3%81%84%E3%83%AA%E3%83%9C%E3%83%B3%E3%81%A7%E3%81%A8%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%89%22%7D%E3%80%82%0A%7Bargument%20name%3D%22%E6%9C%8D%E8%A3%85%E4%B8%8A%22%20default%3D%22%E7%99%BD%E3%81%84%E3%82%B7%E3%83%A3%E3%83%84%E3%80%82%E8%83%B8%E3%81%AB%E4%B8%83%E8%89%B2%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%AF%E3%83%83%E3%83%9A%E3%83%B3%E3%80%82%22%7D%0A%7Bargument%20name%3D%22%E6%9C%8D%E8%A3%85%E4%B8%8B%22%20default%3D%22G%E3%83%91%E3%83%B3%E3%80%82%E8%B5%A4%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AB%E3%80%82%22%7D%0A%0A%EF%BC%91%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E6%AD%A9%E3%81%8D%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%7Bargument%20name%3D%22%E3%82%BB%E3%83%AA%E3%83%951%22%20default%3D%22%E3%81%82%E3%80%9C%E3%80%81%E3%81%8A%E8%85%B9%E3%81%99%E3%81%84%E3%81%9F%E3%81%AA%22%7D%E3%80%8D%0A%EF%BC%92%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%81%8A%E5%BA%97%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A6%E3%82%92%E8%A6%8B%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%7Bargument%20name%3D%22%E3%82%BB%E3%83%AA%E3%83%952%22%20default%3D%22%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%9D%E3%81%86%E3%81%AA%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%22%7D%E3%80%8D%0A%EF%BC%93%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AB%E5%BA%A7%E3%81%A3%E3%81%A6%E3%80%8C%7Bargument%20name%3D%22%E3%82%BB%E3%83%AA%E3%83%953%22%20default%3D%22%E6%97%A9%E3%81%8F%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%84%E3%81%AA%22%7D%E3%80%8D%0A%EF%BC%94%EF%BC%9A%E5%A5%B3%E6%80%A7%E3%81%8C%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%8C%E3%82%89%E3%80%8C%7Bargument%20name%3D%22%E3%82%BB%E3%83%AA%E3%83%954%22%20default%3D%22%E7%BE%8E%E5%91%B3%E3%81%97%E3%80%9C%E3%81%84%EF%BC%81%E3%80%80%E3%81%A7%E3%82%82%E5%A4%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86%EF%BC%81%22%7D%E3%80%8D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=I%20want%20to%20create%20a%204-panel%20manga%20with%20a%20woman%20as%20the%20main%20character.%0AThe%20woman%20is%20%7Bargument%20name%3D%22nationality_en%22%20default%3D%22Japanese%22%7D.%20She%20has%20a%20bright%20expression.%0A%7Bargument%20name%3D%22hairstyle_en%22%20default%3D%22Blonde%20ponytail%20tied%20with%20a%20red%20ribbon.%22%7D%0A%7Bargument%20name%3D%22top_outfit_en%22%20default%3D%22A%20white%20shirt%20with%20a%20rainbow-colored%20flower%20patch%20on%20her%20chest.%22%7D%0A%7Bargument%20name%3D%22bottom_outfit_en%22%20default%3D%22Jeans%20and%20red%20high%20heels.%22%7D%0A%0A1%3A%20The%20woman%20is%20walking%20and%20saying%20%E2%80%9C%7Bargument%20name%3D%22line1_en%22%20default%3D%22Ahh%2C%20I%E2%80%99m%20so%20hungry%22%7D%E2%80%9D.%0A2%3A%20The%20woman%20looks%20at%20a%20shop%E2%80%99s%20show%20window%20and%20says%20%E2%80%9C%7Bargument%20name%3D%22line2_en%22%20default%3D%22Those%20pancakes%20look%20so%20delicious%22%7D%E2%80%9D.%0A3%3A%20The%20woman%20is%20sitting%20at%20a%20table%20in%20the%20shop%20saying%20%E2%80%9C%7Bargument%20name%3D%22line3_en%22%20default%3D%22I%20can%E2%80%99t%20wait%20to%20eat%22%7D%E2%80%9D.%0A4%3A%20The%20woman%20is%20eating%20pancakes%20and%20says%20%E2%80%9C%7Bargument%20name%3D%22line4_en%22%20default%3D%22So%20tasty!%20But%20I%E2%80%99m%20going%20to%20get%20fat!%22%7D%E2%80%9D.)**
 
 ---
 
@@ -7040,7 +7050,7 @@ A whimsical prompt for a cross-section of a giant watermelon whose flesh is a sw
 #### 📝 Prompt
 
 ```
-一个巨大西瓜的剖面图。红色的果肉实际上是一个装满红色水的游泳池。黑色的西瓜籽是游泳圈。微缩的小人在西瓜皮上游泳和晒太阳。夏日氛围。
+A cross-sectional view of a giant watermelon. The red flesh is actually a swimming pool filled with red water. The black watermelon seeds are swim rings. Miniature people are swimming and sunbathing on the watermelon rind. Summer vibe.
 ```
 
 #### 🖼️ Generated Images
@@ -7056,9 +7066,9 @@ A whimsical prompt for a cross-section of a giant watermelon whose flesh is a sw
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991770878154272790)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E8%A5%BF%E7%93%9C%E7%9A%84%E5%89%96%E9%9D%A2%E5%9B%BE%E3%80%82%E7%BA%A2%E8%89%B2%E7%9A%84%E6%9E%9C%E8%82%89%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF%E4%B8%80%E4%B8%AA%E8%A3%85%E6%BB%A1%E7%BA%A2%E8%89%B2%E6%B0%B4%E7%9A%84%E6%B8%B8%E6%B3%B3%E6%B1%A0%E3%80%82%E9%BB%91%E8%89%B2%E7%9A%84%E8%A5%BF%E7%93%9C%E7%B1%BD%E6%98%AF%E6%B8%B8%E6%B3%B3%E5%9C%88%E3%80%82%E5%BE%AE%E7%BC%A9%E7%9A%84%E5%B0%8F%E4%BA%BA%E5%9C%A8%E8%A5%BF%E7%93%9C%E7%9A%AE%E4%B8%8A%E6%B8%B8%E6%B3%B3%E5%92%8C%E6%99%92%E5%A4%AA%E9%98%B3%E3%80%82%E5%A4%8F%E6%97%A5%E6%B0%9B%E5%9B%B4%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20cross-sectional%20view%20of%20a%20giant%20watermelon.%20The%20red%20flesh%20is%20actually%20a%20swimming%20pool%20filled%20with%20red%20water.%20The%20black%20watermelon%20seeds%20are%20swim%20rings.%20Miniature%20people%20are%20swimming%20and%20sunbathing%20on%20the%20watermelon%20rind.%20Summer%20vibe.)**
 
 ---
 
@@ -7073,7 +7083,7 @@ A Chinese prompt describing a golden-hour scene of a giant translucent blue whal
 #### 📝 Prompt
 
 ```
-黄金时刻，一只巨大的、半透明的蓝鲸在洁白蓬松的云海中游动。鲸鱼的身体由海水构成，里面还可以看到游动的鱼群。阳光穿透水做的鲸鱼，折射出彩虹。画面超现实且宏伟壮观。
+At golden hour, a huge, semi-transparent blue whale swims through a sea of white, fluffy clouds. The whale’s body is made of seawater, and you can see schools of fish swimming inside it. Sunlight passes through the water-formed whale, refracting into a rainbow. The scene is surreal and magnificently grand.
 ```
 
 #### 🖼️ Generated Images
@@ -7089,9 +7099,9 @@ A Chinese prompt describing a golden-hour scene of a giant translucent blue whal
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991768984195400068)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E9%BB%84%E9%87%91%E6%97%B6%E5%88%BB%EF%BC%8C%E4%B8%80%E5%8F%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E3%80%81%E5%8D%8A%E9%80%8F%E6%98%8E%E7%9A%84%E8%93%9D%E9%B2%B8%E5%9C%A8%E6%B4%81%E7%99%BD%E8%93%AC%E6%9D%BE%E7%9A%84%E4%BA%91%E6%B5%B7%E4%B8%AD%E6%B8%B8%E5%8A%A8%E3%80%82%E9%B2%B8%E9%B1%BC%E7%9A%84%E8%BA%AB%E4%BD%93%E7%94%B1%E6%B5%B7%E6%B0%B4%E6%9E%84%E6%88%90%EF%BC%8C%E9%87%8C%E9%9D%A2%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%B8%B8%E5%8A%A8%E7%9A%84%E9%B1%BC%E7%BE%A4%E3%80%82%E9%98%B3%E5%85%89%E7%A9%BF%E9%80%8F%E6%B0%B4%E5%81%9A%E7%9A%84%E9%B2%B8%E9%B1%BC%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E5%BD%A9%E8%99%B9%E3%80%82%E7%94%BB%E9%9D%A2%E8%B6%85%E7%8E%B0%E5%AE%9E%E4%B8%94%E5%AE%8F%E4%BC%9F%E5%A3%AE%E8%A7%82%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=At%20golden%20hour%2C%20a%20huge%2C%20semi-transparent%20blue%20whale%20swims%20through%20a%20sea%20of%20white%2C%20fluffy%20clouds.%20The%20whale%E2%80%99s%20body%20is%20made%20of%20seawater%2C%20and%20you%20can%20see%20schools%20of%20fish%20swimming%20inside%20it.%20Sunlight%20passes%20through%20the%20water-formed%20whale%2C%20refracting%20into%20a%20rainbow.%20The%20scene%20is%20surreal%20and%20magnificently%20grand.)**
 
 ---
 
@@ -7106,7 +7116,7 @@ A Chinese prompt to generate a minimalist zen-style overhead view of two koi for
 #### 📝 Prompt
 
 ```
-两条锦鲤在水中游动，形成完美的阴阳太极图案。一条鱼由黑色的水墨烟雾组成，另一条由白色的发光光线组成。俯视视角，水面有涟漪。禅意，极简主义。
+Two koi fish swim in the water, forming a perfect yin-yang Taiji pattern. One fish is made of black ink-like smoke, and the other is composed of glowing white light. Overhead view, ripples on the water surface. Zen vibe, minimalist style.
 ```
 
 #### 🖼️ Generated Images
@@ -7122,9 +7132,9 @@ A Chinese prompt to generate a minimalist zen-style overhead view of two koi for
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991768051654762799)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E4%B8%A4%E6%9D%A1%E9%94%A6%E9%B2%A4%E5%9C%A8%E6%B0%B4%E4%B8%AD%E6%B8%B8%E5%8A%A8%EF%BC%8C%E5%BD%A2%E6%88%90%E5%AE%8C%E7%BE%8E%E7%9A%84%E9%98%B4%E9%98%B3%E5%A4%AA%E6%9E%81%E5%9B%BE%E6%A1%88%E3%80%82%E4%B8%80%E6%9D%A1%E9%B1%BC%E7%94%B1%E9%BB%91%E8%89%B2%E7%9A%84%E6%B0%B4%E5%A2%A8%E7%83%9F%E9%9B%BE%E7%BB%84%E6%88%90%EF%BC%8C%E5%8F%A6%E4%B8%80%E6%9D%A1%E7%94%B1%E7%99%BD%E8%89%B2%E7%9A%84%E5%8F%91%E5%85%89%E5%85%89%E7%BA%BF%E7%BB%84%E6%88%90%E3%80%82%E4%BF%AF%E8%A7%86%E8%A7%86%E8%A7%92%EF%BC%8C%E6%B0%B4%E9%9D%A2%E6%9C%89%E6%B6%9F%E6%BC%AA%E3%80%82%E7%A6%85%E6%84%8F%EF%BC%8C%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Two%20koi%20fish%20swim%20in%20the%20water%2C%20forming%20a%20perfect%20yin-yang%20Taiji%20pattern.%20One%20fish%20is%20made%20of%20black%20ink-like%20smoke%2C%20and%20the%20other%20is%20composed%20of%20glowing%20white%20light.%20Overhead%20view%2C%20ripples%20on%20the%20water%20surface.%20Zen%20vibe%2C%20minimalist%20style.)**
 
 ---
 
@@ -7140,20 +7150,16 @@ A detailed prompt for turning an image into an ultra-detailed figure-style produ
 #### 📝 Prompt
 
 ```
-この画像を超精密なフィギュア風にして
-製品紹介ページデザインを作ってください。
-商品名は「{argument name="商品名" default="失恋ガールズ"}」です。
-1/{argument name="スケール" default="7"}フィギュアです。
-メーカー名は「{argument name="メーカー名" default="TENNEN"}」です。
-ロゴは角丸青色正方形に{argument name="ロゴ文字" default="TENNEN"}の文字
-「{argument name="ロゴ上段" default="TEN"}」で改行、文頭揃えて「{argument name="ロゴ下段" default="NEN"}」
-角丸青色正方形内に最大配置。
-部分拡大図等を配置して製品紹介らしく
-見栄え良くプロっぽくデザインしてください。
-「{argument name="商品名_再" default="失恋ガールズ"}」もロゴっぽくしてください。
-製品紹介ページらしくしてください。
-{argument name="発売時期" default="2025年冬"}発売予定
-原型製作：{argument name="原型師名" default="てんねん"}
+Turn this image into an ultra-detailed figure-style rendering and design a product introduction page.
+The product name is “{argument name="product_name_en" default="Heartbreak Girls"}”.
+It is a 1/{argument name="scale_en" default="7"} scale figure.
+The manufacturer name is “{argument name="manufacturer_en" default="TENNEN"}”.
+The logo should be the word {argument name="logo_text_en" default="TENNEN"} inside a rounded blue square. Break the line after “{argument name="logo_top_en" default="TEN"}”, and align the next line “{argument name="logo_bottom_en" default="NEN"}” at the start of the line, placing it as large as possible within the rounded blue square.
+Place zoomed-in detail views, etc., so that it looks like a product introduction and has a professional, visually appealing design.
+Also make the “{argument name="product_name_en_again" default="Heartbreak Girls"}” lettering look like a logo.
+Make it look like a proper product introduction page.
+Scheduled for release in {argument name="release_season_en" default="Winter 2025"}.
+Prototype sculptor: {argument name="sculptor_name_en" default="Tennen"}.
 ```
 
 #### 🖼️ Generated Images
@@ -7175,9 +7181,9 @@ A detailed prompt for turning an image into an ultra-detailed figure-style produ
 - **Author:** [てんねん](https://x.com/munou_ac)
 - **Source:** [Twitter Post](https://x.com/munou_ac/status/1991767005557583966)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E8%B6%85%E7%B2%BE%E5%AF%86%E3%81%AA%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E9%A2%A8%E3%81%AB%E3%81%97%E3%81%A6%0A%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E5%95%86%E5%93%81%E5%90%8D%E3%81%AF%E3%80%8C%7Bargument%20name%3D%22%E5%95%86%E5%93%81%E5%90%8D%22%20default%3D%22%E5%A4%B1%E6%81%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%22%7D%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A1%2F%7Bargument%20name%3D%22%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%22%20default%3D%227%22%7D%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%81%A7%E3%81%99%E3%80%82%0A%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%90%8D%E3%81%AF%E3%80%8C%7Bargument%20name%3D%22%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%90%8D%22%20default%3D%22TENNEN%22%7D%E3%80%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E3%83%AD%E3%82%B4%E3%81%AF%E8%A7%92%E4%B8%B8%E9%9D%92%E8%89%B2%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%AB%7Bargument%20name%3D%22%E3%83%AD%E3%82%B4%E6%96%87%E5%AD%97%22%20default%3D%22TENNEN%22%7D%E3%81%AE%E6%96%87%E5%AD%97%0A%E3%80%8C%7Bargument%20name%3D%22%E3%83%AD%E3%82%B4%E4%B8%8A%E6%AE%B5%22%20default%3D%22TEN%22%7D%E3%80%8D%E3%81%A7%E6%94%B9%E8%A1%8C%E3%80%81%E6%96%87%E9%A0%AD%E6%8F%83%E3%81%88%E3%81%A6%E3%80%8C%7Bargument%20name%3D%22%E3%83%AD%E3%82%B4%E4%B8%8B%E6%AE%B5%22%20default%3D%22NEN%22%7D%E3%80%8D%0A%E8%A7%92%E4%B8%B8%E9%9D%92%E8%89%B2%E6%AD%A3%E6%96%B9%E5%BD%A2%E5%86%85%E3%81%AB%E6%9C%80%E5%A4%A7%E9%85%8D%E7%BD%AE%E3%80%82%0A%E9%83%A8%E5%88%86%E6%8B%A1%E5%A4%A7%E5%9B%B3%E7%AD%89%E3%82%92%E9%85%8D%E7%BD%AE%E3%81%97%E3%81%A6%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%82%89%E3%81%97%E3%81%8F%0A%E8%A6%8B%E6%A0%84%E3%81%88%E8%89%AF%E3%81%8F%E3%83%97%E3%83%AD%E3%81%A3%E3%81%BD%E3%81%8F%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E3%80%8C%7Bargument%20name%3D%22%E5%95%86%E5%93%81%E5%90%8D_%E5%86%8D%22%20default%3D%22%E5%A4%B1%E6%81%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%22%7D%E3%80%8D%E3%82%82%E3%83%AD%E3%82%B4%E3%81%A3%E3%81%BD%E3%81%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%89%E3%81%97%E3%81%8F%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%7Bargument%20name%3D%22%E7%99%BA%E5%A3%B2%E6%99%82%E6%9C%9F%22%20default%3D%222025%E5%B9%B4%E5%86%AC%22%7D%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A%0A%E5%8E%9F%E5%9E%8B%E8%A3%BD%E4%BD%9C%EF%BC%9A%7Bargument%20name%3D%22%E5%8E%9F%E5%9E%8B%E5%B8%AB%E5%90%8D%22%20default%3D%22%E3%81%A6%E3%82%93%E3%81%AD%E3%82%93%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20this%20image%20into%20an%20ultra-detailed%20figure-style%20rendering%20and%20design%20a%20product%20introduction%20page.%0AThe%20product%20name%20is%20%E2%80%9C%7Bargument%20name%3D%22product_name_en%22%20default%3D%22Heartbreak%20Girls%22%7D%E2%80%9D.%0AIt%20is%20a%201%2F%7Bargument%20name%3D%22scale_en%22%20default%3D%227%22%7D%20scale%20figure.%0AThe%20manufacturer%20name%20is%20%E2%80%9C%7Bargument%20name%3D%22manufacturer_en%22%20default%3D%22TENNEN%22%7D%E2%80%9D.%0AThe%20logo%20should%20be%20the%20word%20%7Bargument%20name%3D%22logo_text_en%22%20default%3D%22TENNEN%22%7D%20inside%20a%20rounded%20blue%20square.%20Break%20the%20line%20after%20%E2%80%9C%7Bargument%20name%3D%22logo_top_en%22%20default%3D%22TEN%22%7D%E2%80%9D%2C%20and%20align%20the%20next%20line%20%E2%80%9C%7Bargument%20name%3D%22logo_bottom_en%22%20default%3D%22NEN%22%7D%E2%80%9D%20at%20the%20start%20of%20the%20line%2C%20placing%20it%20as%20large%20as%20possible%20within%20the%20rounded%20blue%20square.%0APlace%20zoomed-in%20detail%20views%2C%20etc.%2C%20so%20that%20it%20looks%20like%20a%20product%20introduction%20and%20has%20a%20professional%2C%20visually%20appealing%20design.%0AAlso%20make%20the%20%E2%80%9C%7Bargument%20name%3D%22product_name_en_again%22%20default%3D%22Heartbreak%20Girls%22%7D%E2%80%9D%20lettering%20look%20like%20a%20logo.%0AMake%20it%20look%20like%20a%20proper%20product%20introduction%20page.%0AScheduled%20for%20release%20in%20%7Bargument%20name%3D%22release_season_en%22%20default%3D%22Winter%202025%22%7D.%0APrototype%20sculptor%3A%20%7Bargument%20name%3D%22sculptor_name_en%22%20default%3D%22Tennen%22%7D.)**
 
 ---
 
@@ -7192,9 +7198,9 @@ Moves clothing from one reference image onto a person in another image, making t
 #### 📝 Prompt
 
 ```
-take clothes from image1 and put on person in image2. make sri that the clothe is oversized
+take the clothes from image 1 and put them on the person in image 2. make sure that the clothing is oversized
 
-2k quality 0,14
+2k quality 0.14
 ```
 
 #### 🖼️ Generated Images
@@ -7222,9 +7228,9 @@ take clothes from image1 and put on person in image2. make sri that the clothe i
 - **Author:** [zhenya](https://x.com/genue)
 - **Source:** [Twitter Post](https://x.com/genue/status/1991766084215795877)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=take%20clothes%20from%20image1%20and%20put%20on%20person%20in%20image2.%20make%20sri%20that%20the%20clothe%20is%20oversized%0A%0A2k%20quality%200%2C14)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=take%20the%20clothes%20from%20image%201%20and%20put%20them%20on%20the%20person%20in%20image%202.%20make%20sure%20that%20the%20clothing%20is%20oversized%0A%0A2k%20quality%200.14)**
 
 ---
 
@@ -7239,7 +7245,7 @@ A structured JSON-style prompt describing an ultra-realistic monochrome portrait
 #### 📝 Prompt
 
 ```
-A cinematic, ultra-realistic monochrome portrait of a young woman with expressive eyes and a calm, intense gaze. Short, dark, neatly styled hair, striking eyes with reflective highlights and highly expressive look, fair complexion with subtle freckles and realistic texture, and softly defined natural lips. Expression is calm, intense, with a direct gaze. She wears black attire with a white textured collar creating strong contrast. Background is a smooth monochrome gradient, minimalist, drawing focus to the face. Lighting is soft but high-contrast monochrome, with gentle highlights on facial features and subtle shadow depth, creating a cinematic, clean, refined effect. Close-up portrait framing, ultra-realistic, high-resolution, with fine tonal range, sharp focus on eyes and facial details and a smooth background gradient. Overall aesthetic is minimalist, artistic, and elegant, with high texture detail, crisp monochrome rendering, and premium realism.
+A cinematic, ultra-realistic monochrome portrait of a young woman with expressive eyes and a calm, intense gaze. She has short, dark, neatly styled hair; striking eyes with reflective highlights and a highly expressive look; a fair complexion with subtle freckles and realistic texture; and softly defined, naturally shaped lips. Her expression is calm and intense, with a direct gaze. She wears black clothing with a white textured collar that creates strong contrast. The background is a smooth monochrome gradient, minimalist and drawing focus to her face. Use soft but high-contrast monochrome lighting, with gentle highlights on facial features and subtle shadow depth, creating a cinematic, clean, refined effect. Frame it as a close-up portrait, ultra-realistic and high-resolution with a fine tonal range, sharp focus on the eyes and facial details, and a smooth background gradient. The overall aesthetic is minimalist, artistic, and elegant, with high texture detail, crisp monochrome rendering, and premium realism.
 ```
 
 #### 🖼️ Generated Images
@@ -7255,9 +7261,9 @@ A cinematic, ultra-realistic monochrome portrait of a young woman with expressiv
 - **Author:** [Aleena Amir](https://x.com/aleenaamiir)
 - **Source:** [Twitter Post](https://x.com/aleenaamiir/status/1991765428985876879)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20cinematic%2C%20ultra-realistic%20monochrome%20portrait%20of%20a%20young%20woman%20with%20expressive%20eyes%20and%20a%20calm%2C%20intense%20gaze.%20Short%2C%20dark%2C%20neatly%20styled%20hair%2C%20striking%20eyes%20with%20reflective%20highlights%20and%20highly%20expressive%20look%2C%20fair%20complexion%20with%20subtle%20freckles%20and%20realistic%20texture%2C%20and%20softly%20defined%20natural%20lips.%20Expression%20is%20calm%2C%20intense%2C%20with%20a%20direct%20gaze.%20She%20wears%20black%20attire%20with%20a%20white%20textured%20collar%20creating%20strong%20contrast.%20Background%20is%20a%20smooth%20monochrome%20gradient%2C%20minimalist%2C%20drawing%20focus%20to%20the%20face.%20Lighting%20is%20soft%20but%20high-contrast%20monochrome%2C%20with%20gentle%20highlights%20on%20facial%20features%20and%20subtle%20shadow%20depth%2C%20creating%20a%20cinematic%2C%20clean%2C%20refined%20effect.%20Close-up%20portrait%20framing%2C%20ultra-realistic%2C%20high-resolution%2C%20with%20fine%20tonal%20range%2C%20sharp%20focus%20on%20eyes%20and%20facial%20details%20and%20a%20smooth%20background%20gradient.%20Overall%20aesthetic%20is%20minimalist%2C%20artistic%2C%20and%20elegant%2C%20with%20high%20texture%20detail%2C%20crisp%20monochrome%20rendering%2C%20and%20premium%20realism.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20cinematic%2C%20ultra-realistic%20monochrome%20portrait%20of%20a%20young%20woman%20with%20expressive%20eyes%20and%20a%20calm%2C%20intense%20gaze.%20She%20has%20short%2C%20dark%2C%20neatly%20styled%20hair%3B%20striking%20eyes%20with%20reflective%20highlights%20and%20a%20highly%20expressive%20look%3B%20a%20fair%20complexion%20with%20subtle%20freckles%20and%20realistic%20texture%3B%20and%20softly%20defined%2C%20naturally%20shaped%20lips.%20Her%20expression%20is%20calm%20and%20intense%2C%20with%20a%20direct%20gaze.%20She%20wears%20black%20clothing%20with%20a%20white%20textured%20collar%20that%20creates%20strong%20contrast.%20The%20background%20is%20a%20smooth%20monochrome%20gradient%2C%20minimalist%20and%20drawing%20focus%20to%20her%20face.%20Use%20soft%20but%20high-contrast%20monochrome%20lighting%2C%20with%20gentle%20highlights%20on%20facial%20features%20and%20subtle%20shadow%20depth%2C%20creating%20a%20cinematic%2C%20clean%2C%20refined%20effect.%20Frame%20it%20as%20a%20close-up%20portrait%2C%20ultra-realistic%20and%20high-resolution%20with%20a%20fine%20tonal%20range%2C%20sharp%20focus%20on%20the%20eyes%20and%20facial%20details%2C%20and%20a%20smooth%20background%20gradient.%20The%20overall%20aesthetic%20is%20minimalist%2C%20artistic%2C%20and%20elegant%2C%20with%20high%20texture%20detail%2C%20crisp%20monochrome%20rendering%2C%20and%20premium%20realism.)**
 
 ---
 
@@ -7272,7 +7278,7 @@ A prompt for generating a 12-sticker LINE stamp sheet featuring a given characte
 #### 📝 Prompt
 
 ```
-添付画像のキャラクターで、12種類のLINEスタンプが描かれた一覧画像を作成してください。スタンプの種類は、送られた相手が笑ってしまうようなユーモアで統一してください。内容は実際にあるインターネットでのやり取りをオマージュとしてふんだんに活用してください。
+Using the character in the attached image, please create an index image showing 12 different LINE stickers. The types of stickers should all share a humor that makes the recipient laugh. Make liberal use of homages to real exchanges that occur on the internet for their content.
 ```
 
 #### 🖼️ Generated Images
@@ -7288,9 +7294,9 @@ A prompt for generating a 12-sticker LINE stamp sheet featuring a given characte
 - **Author:** [オラクルちゃん↵](https://x.com/AI_Oracle_chan)
 - **Source:** [Twitter Post](https://x.com/AI_Oracle_chan/status/1991764949295919160)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E7%94%BB%E5%83%8F%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%A7%E3%80%8112%E7%A8%AE%E9%A1%9E%E3%81%AELINE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%8C%E6%8F%8F%E3%81%8B%E3%82%8C%E3%81%9F%E4%B8%80%E8%A6%A7%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E7%A8%AE%E9%A1%9E%E3%81%AF%E3%80%81%E9%80%81%E3%82%89%E3%82%8C%E3%81%9F%E7%9B%B8%E6%89%8B%E3%81%8C%E7%AC%91%E3%81%A3%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%82%88%E3%81%86%E3%81%AA%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2%E3%81%A7%E7%B5%B1%E4%B8%80%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%E5%86%85%E5%AE%B9%E3%81%AF%E5%AE%9F%E9%9A%9B%E3%81%AB%E3%81%82%E3%82%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%81%A7%E3%81%AE%E3%82%84%E3%82%8A%E5%8F%96%E3%82%8A%E3%82%92%E3%82%AA%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%A5%E3%81%A8%E3%81%97%E3%81%A6%E3%81%B5%E3%82%93%E3%81%A0%E3%82%93%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Using%20the%20character%20in%20the%20attached%20image%2C%20please%20create%20an%20index%20image%20showing%2012%20different%20LINE%20stickers.%20The%20types%20of%20stickers%20should%20all%20share%20a%20humor%20that%20makes%20the%20recipient%20laugh.%20Make%20liberal%20use%20of%20homages%20to%20real%20exchanges%20that%20occur%20on%20the%20internet%20for%20their%20content.)**
 
 ---
 
@@ -7305,7 +7311,7 @@ A very short Japanese prompt asking Nano Banana Pro to create a landing page des
 #### 📝 Prompt
 
 ```
-美容液のLP作って
+Create a landing page for a beauty serum.
 ```
 
 #### 🖼️ Generated Images
@@ -7321,9 +7327,9 @@ A very short Japanese prompt asking Nano Banana Pro to create a landing page des
 - **Author:** [イーサン](https://x.com/ethann_AI)
 - **Source:** [Twitter Post](https://x.com/ethann_AI/status/1991764799357907422)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%BE%8E%E5%AE%B9%E6%B6%B2%E3%81%AELP%E4%BD%9C%E3%81%A3%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20landing%20page%20for%20a%20beauty%20serum.)**
 
 ---
 
@@ -7338,9 +7344,9 @@ Very short Japanese prompts to generate thumbnails for fried chicken and Napolit
 #### 📝 Prompt
 
 ```
-唐揚げのサムネイル
-ナポリタンサムネイル
-背景白にして商品写真にして
+A thumbnail for fried chicken.
+A thumbnail for Napolitan pasta.
+Make the background white and turn it into a product photo.
 ```
 
 #### 🖼️ Generated Images
@@ -7362,9 +7368,9 @@ Very short Japanese prompts to generate thumbnails for fried chicken and Napolit
 - **Author:** [なべ｜YouTube研究家](https://x.com/nabeno_kitchen)
 - **Source:** [Twitter Post](https://x.com/nabeno_kitchen/status/1991763291606237323)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%94%90%E6%8F%9A%E3%81%92%E3%81%AE%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%0A%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%0A%E8%83%8C%E6%99%AF%E7%99%BD%E3%81%AB%E3%81%97%E3%81%A6%E5%95%86%E5%93%81%E5%86%99%E7%9C%9F%E3%81%AB%E3%81%97%E3%81%A6)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=A%20thumbnail%20for%20fried%20chicken.%0AA%20thumbnail%20for%20Napolitan%20pasta.%0AMake%20the%20background%20white%20and%20turn%20it%20into%20a%20product%20photo.)**
 
 ---
 
@@ -7380,8 +7386,8 @@ A Japanese prompt asking to create a 4x5 grid of 20 square messenger stickers fe
 #### 📝 Prompt
 
 ```
-{argument name="アスペクト比" default="4:3"}, {argument name="解像度" default="2K"}
-添付の人物を題材にしたメッセンジャーソフト用のスタンプのセット。それぞれ正方形で、横5列、縦4行でバラエティに富んだ20個をなるべく大きく作る。
+{argument name="aspect_ratio_en" default="4:3"}, {argument name="resolution_en" default="2K"}
+Create a set of messenger-app stickers based on the attached person. Each should be a square, arranged 5 across and 4 down, for 20 stickers in total, made as large and varied as possible.
 ```
 
 #### 🖼️ Generated Images
@@ -7397,9 +7403,9 @@ A Japanese prompt asking to create a 4x5 grid of 20 square messenger stickers fe
 - **Author:** [まゆひらa](https://x.com/riddi0908)
 - **Source:** [Twitter Post](https://x.com/riddi0908/status/1991761213135765741)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%22%20default%3D%224%3A3%22%7D%2C%20%7Bargument%20name%3D%22%E8%A7%A3%E5%83%8F%E5%BA%A6%22%20default%3D%222K%22%7D%0A%E6%B7%BB%E4%BB%98%E3%81%AE%E4%BA%BA%E7%89%A9%E3%82%92%E9%A1%8C%E6%9D%90%E3%81%AB%E3%81%97%E3%81%9F%E3%83%A1%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BD%E3%83%95%E3%83%88%E7%94%A8%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%80%82%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E6%AD%A3%E6%96%B9%E5%BD%A2%E3%81%A7%E3%80%81%E6%A8%AA5%E5%88%97%E3%80%81%E7%B8%A64%E8%A1%8C%E3%81%A7%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%81%AB%E5%AF%8C%E3%82%93%E3%81%A020%E5%80%8B%E3%82%92%E3%81%AA%E3%82%8B%E3%81%B9%E3%81%8F%E5%A4%A7%E3%81%8D%E3%81%8F%E4%BD%9C%E3%82%8B%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%224%3A3%22%7D%2C%20%7Bargument%20name%3D%22resolution_en%22%20default%3D%222K%22%7D%0ACreate%20a%20set%20of%20messenger-app%20stickers%20based%20on%20the%20attached%20person.%20Each%20should%20be%20a%20square%2C%20arranged%205%20across%20and%204%20down%2C%20for%2020%20stickers%20in%20total%2C%20made%20as%20large%20and%20varied%20as%20possible.)**
 
 ---
 
@@ -7414,7 +7420,7 @@ A prompt to turn any supplied text into a dramatic Apple-style keynote event pho
 #### 📝 Prompt
 
 ```
-根據文字生成一張照片：一個宏大的蘋果發布會現場，現場很多觀眾，場景很暗，有絢麗的燈光，鏡頭聚焦在很寬的大屏幕，弧形屏幕，文字和屏幕一樣有一定的透視感，很小的人物剪影站在舞台上，紫色到藍色彌散背景上，白色文字有一些漸變，像是現場實拍，高級感 16:9。
+Generate a photo based on some text: a grand Apple keynote event scene, with many people in the audience. The scene is dark with gorgeous lighting. The camera focuses on a very wide, curved main screen. The text has perspective consistent with the screen. Small silhouettes of people stand on the stage. The background is a purple-to-blue gradient, the white text has some gradient as well, and the whole thing should look like an on-site photograph with a high-end feel, in 16:9 aspect ratio.
 ```
 
 #### 🖼️ Generated Images
@@ -7442,9 +7448,9 @@ A prompt to turn any supplied text into a dramatic Apple-style keynote event pho
 - **Author:** [Nicolechan](https://x.com/stark_nico99)
 - **Source:** [Twitter Post](https://x.com/stark_nico99/status/1991760674435780778)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%A0%B9%E6%93%9A%E6%96%87%E5%AD%97%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%B5%E7%85%A7%E7%89%87%EF%BC%9A%E4%B8%80%E5%80%8B%E5%AE%8F%E5%A4%A7%E7%9A%84%E8%98%8B%E6%9E%9C%E7%99%BC%E5%B8%83%E6%9C%83%E7%8F%BE%E5%A0%B4%EF%BC%8C%E7%8F%BE%E5%A0%B4%E5%BE%88%E5%A4%9A%E8%A7%80%E7%9C%BE%EF%BC%8C%E5%A0%B4%E6%99%AF%E5%BE%88%E6%9A%97%EF%BC%8C%E6%9C%89%E7%B5%A2%E9%BA%97%E7%9A%84%E7%87%88%E5%85%89%EF%BC%8C%E9%8F%A1%E9%A0%AD%E8%81%9A%E7%84%A6%E5%9C%A8%E5%BE%88%E5%AF%AC%E7%9A%84%E5%A4%A7%E5%B1%8F%E5%B9%95%EF%BC%8C%E5%BC%A7%E5%BD%A2%E5%B1%8F%E5%B9%95%EF%BC%8C%E6%96%87%E5%AD%97%E5%92%8C%E5%B1%8F%E5%B9%95%E4%B8%80%E6%A8%A3%E6%9C%89%E4%B8%80%E5%AE%9A%E7%9A%84%E9%80%8F%E8%A6%96%E6%84%9F%EF%BC%8C%E5%BE%88%E5%B0%8F%E7%9A%84%E4%BA%BA%E7%89%A9%E5%89%AA%E5%BD%B1%E7%AB%99%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%EF%BC%8C%E7%B4%AB%E8%89%B2%E5%88%B0%E8%97%8D%E8%89%B2%E5%BD%8C%E6%95%A3%E8%83%8C%E6%99%AF%E4%B8%8A%EF%BC%8C%E7%99%BD%E8%89%B2%E6%96%87%E5%AD%97%E6%9C%89%E4%B8%80%E4%BA%9B%E6%BC%B8%E8%AE%8A%EF%BC%8C%E5%83%8F%E6%98%AF%E7%8F%BE%E5%A0%B4%E5%AF%A6%E6%8B%8D%EF%BC%8C%E9%AB%98%E7%B4%9A%E6%84%9F%2016%3A9%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Generate%20a%20photo%20based%20on%20some%20text%3A%20a%20grand%20Apple%20keynote%20event%20scene%2C%20with%20many%20people%20in%20the%20audience.%20The%20scene%20is%20dark%20with%20gorgeous%20lighting.%20The%20camera%20focuses%20on%20a%20very%20wide%2C%20curved%20main%20screen.%20The%20text%20has%20perspective%20consistent%20with%20the%20screen.%20Small%20silhouettes%20of%20people%20stand%20on%20the%20stage.%20The%20background%20is%20a%20purple-to-blue%20gradient%2C%20the%20white%20text%20has%20some%20gradient%20as%20well%2C%20and%20the%20whole%20thing%20should%20look%20like%20an%20on-site%20photograph%20with%20a%20high-end%20feel%2C%20in%2016%3A9%20aspect%20ratio.)**
 
 ---
 
@@ -7460,7 +7466,7 @@ A prompt that turns a personal anecdote into an essay-style manga where a family
 #### 📝 Prompt
 
 ```
-添付のキャラがユニバに行こうと思い立った。家族でいく手順を調べていたらなんと子供料金ではなく{argument name="年齢区分" default="１１歳以上と以下"}でわかれるので{argument name="子どもの学年" default="小６"}の子どもが大人料金になると知ってびっくりする。という漫画作って。
+Create a manga where the attached character suddenly decides to go to Universal Studios. While looking up the steps for going there with their family, they discover that the ticket prices are not split by “child fare,” but by {argument name="age_bracket_en" default="11 years old and up vs. under 11"}, and they’re shocked to learn that their {argument name="child_grade_en" default="6th‑grade"} child has to pay the adult price.
 ```
 
 #### 🖼️ Generated Images
@@ -7476,9 +7482,9 @@ A prompt that turns a personal anecdote into an essay-style manga where a family
 - **Author:** [みちぽ｜Ｘの先生](https://x.com/michipo5)
 - **Source:** [Twitter Post](https://x.com/michipo5/status/1991759207167848748)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%81%8C%E3%83%A6%E3%83%8B%E3%83%90%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86%E3%81%A8%E6%80%9D%E3%81%84%E7%AB%8B%E3%81%A3%E3%81%9F%E3%80%82%E5%AE%B6%E6%97%8F%E3%81%A7%E3%81%84%E3%81%8F%E6%89%8B%E9%A0%86%E3%82%92%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%84%E3%81%9F%E3%82%89%E3%81%AA%E3%82%93%E3%81%A8%E5%AD%90%E4%BE%9B%E6%96%99%E9%87%91%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F%7Bargument%20name%3D%22%E5%B9%B4%E9%BD%A2%E5%8C%BA%E5%88%86%22%20default%3D%22%EF%BC%91%EF%BC%91%E6%AD%B3%E4%BB%A5%E4%B8%8A%E3%81%A8%E4%BB%A5%E4%B8%8B%22%7D%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%7Bargument%20name%3D%22%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E5%AD%A6%E5%B9%B4%22%20default%3D%22%E5%B0%8F%EF%BC%96%22%7D%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%8C%E5%A4%A7%E4%BA%BA%E6%96%99%E9%87%91%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%A8%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%99%E3%82%8B%E3%80%82%E3%81%A8%E3%81%84%E3%81%86%E6%BC%AB%E7%94%BB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20manga%20where%20the%20attached%20character%20suddenly%20decides%20to%20go%20to%20Universal%20Studios.%20While%20looking%20up%20the%20steps%20for%20going%20there%20with%20their%20family%2C%20they%20discover%20that%20the%20ticket%20prices%20are%20not%20split%20by%20%E2%80%9Cchild%20fare%2C%E2%80%9D%20but%20by%20%7Bargument%20name%3D%22age_bracket_en%22%20default%3D%2211%20years%20old%20and%20up%20vs.%20under%2011%22%7D%2C%20and%20they%E2%80%99re%20shocked%20to%20learn%20that%20their%20%7Bargument%20name%3D%22child_grade_en%22%20default%3D%226th%E2%80%91grade%22%7D%20child%20has%20to%20pay%20the%20adult%20price.)**
 
 ---
 
@@ -7494,30 +7500,30 @@ A long, detailed prompt asking the AI to design a high-conversion YouTube thumbn
 #### 📝 Prompt
 
 ```
-これはYouTubeのサムネで、右側には白い仮面を被った人がインタビューを受けている様子の画像が映ってます。
-このテイストで、AIにサムネの情報設計を共有してサムネを作らせたいのでプロンプトを考えてください。
+This is a YouTube thumbnail where, on the right side, there is an image of a person wearing a white mask being interviewed.
+Using this aesthetic, I want to share the information architecture for the thumbnail with the AI and have it create the thumbnail, so please think of a prompt.
 
-参考画像はあくまで、右側に映っている仮面の人物（{argument name="キャラ名" default="える"}）を参照してほしいだけで、最もクリック率が最大化する構図、文字の大きさ、デザインにしてちょ。
+The reference image is only for the masked person on the right ({argument name="character_name_en" default="Eru"}); use that as the reference, and make the layout, text size, and design so that the click-through rate is maximized.
 
-ターゲットはコミュニケーション力に悩む{argument name="ターゲット年齢層" default="20代後半から30代"}の男性です。
+The target audience is men in their {argument name="target_age_range_en" default="late 20s to 30s"} who struggle with communication skills.
 
-# サムネ情報設計
-＜左側＞
-会話の3レイヤー（小さく）
-逆三角で表す
-3色に分ける
-実際は上から以下の3つ。（文字をモザイクにする）
-・抽象
-・事実
-・具体
+# Thumbnail information architecture
+<Left side>
+Three layers of conversation (small)
+Express them as an inverted triangle
+Divide into three colors
+In reality, from top to bottom, the following three (blur the text):
+・Abstract
+・Facts
+・Concrete
 
-＜右側＞
-{argument name="キャラ名_再" default="える"}（仮面の人）
-会話にはこれしかない（吹き出しにする）
+<Right side>
+{argument name="character_name_en_again" default="Eru"} (the masked person)
+“This is all there is to conversation” (put this in a speech bubble)
 
-＜下側＞
-これで
-会話無限に続く（横幅いっぱい）
+<Bottom>
+“With this,
+conversations go on forever” (stretch across the full width)
 ```
 
 #### 🖼️ Generated Images
@@ -7539,9 +7545,9 @@ A long, detailed prompt asking the AI to design a high-conversion YouTube thumbn
 - **Author:** [える | YouTubeマーケター](https://x.com/_youpro)
 - **Source:** [Twitter Post](https://x.com/_youpro/status/1991758833346310307)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E3%81%93%E3%82%8C%E3%81%AFYouTube%E3%81%AE%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%A7%E3%80%81%E5%8F%B3%E5%81%B4%E3%81%AB%E3%81%AF%E7%99%BD%E3%81%84%E4%BB%AE%E9%9D%A2%E3%82%92%E8%A2%AB%E3%81%A3%E3%81%9F%E4%BA%BA%E3%81%8C%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%92%E5%8F%97%E3%81%91%E3%81%A6%E3%81%84%E3%82%8B%E6%A7%98%E5%AD%90%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%8C%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E3%80%82%0A%E3%81%93%E3%81%AE%E3%83%86%E3%82%A4%E3%82%B9%E3%83%88%E3%81%A7%E3%80%81AI%E3%81%AB%E3%82%B5%E3%83%A0%E3%83%8D%E3%81%AE%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%A6%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%92%E4%BD%9C%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E8%80%83%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E5%8F%82%E8%80%83%E7%94%BB%E5%83%8F%E3%81%AF%E3%81%82%E3%81%8F%E3%81%BE%E3%81%A7%E3%80%81%E5%8F%B3%E5%81%B4%E3%81%AB%E6%98%A0%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E4%BB%AE%E9%9D%A2%E3%81%AE%E4%BA%BA%E7%89%A9%EF%BC%88%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E5%90%8D%22%20default%3D%22%E3%81%88%E3%82%8B%22%7D%EF%BC%89%E3%82%92%E5%8F%82%E7%85%A7%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E3%81%A0%E3%81%91%E3%81%A7%E3%80%81%E6%9C%80%E3%82%82%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E7%8E%87%E3%81%8C%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E6%A7%8B%E5%9B%B3%E3%80%81%E6%96%87%E5%AD%97%E3%81%AE%E5%A4%A7%E3%81%8D%E3%81%95%E3%80%81%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%97%E3%81%A6%E3%81%A1%E3%82%87%E3%80%82%0A%0A%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%81%AF%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%8A%9B%E3%81%AB%E6%82%A9%E3%82%80%7Bargument%20name%3D%22%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%B9%B4%E9%BD%A2%E5%B1%A4%22%20default%3D%2220%E4%BB%A3%E5%BE%8C%E5%8D%8A%E3%81%8B%E3%82%8930%E4%BB%A3%22%7D%E3%81%AE%E7%94%B7%E6%80%A7%E3%81%A7%E3%81%99%E3%80%82%0A%0A%23%20%E3%82%B5%E3%83%A0%E3%83%8D%E6%83%85%E5%A0%B1%E8%A8%AD%E8%A8%88%0A%EF%BC%9C%E5%B7%A6%E5%81%B4%EF%BC%9E%0A%E4%BC%9A%E8%A9%B1%E3%81%AE3%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%88%E5%B0%8F%E3%81%95%E3%81%8F%EF%BC%89%0A%E9%80%86%E4%B8%89%E8%A7%92%E3%81%A7%E8%A1%A8%E3%81%99%0A3%E8%89%B2%E3%81%AB%E5%88%86%E3%81%91%E3%82%8B%0A%E5%AE%9F%E9%9A%9B%E3%81%AF%E4%B8%8A%E3%81%8B%E3%82%89%E4%BB%A5%E4%B8%8B%E3%81%AE3%E3%81%A4%E3%80%82%EF%BC%88%E6%96%87%E5%AD%97%E3%82%92%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%81%AB%E3%81%99%E3%82%8B%EF%BC%89%0A%E3%83%BB%E6%8A%BD%E8%B1%A1%0A%E3%83%BB%E4%BA%8B%E5%AE%9F%0A%E3%83%BB%E5%85%B7%E4%BD%93%0A%0A%EF%BC%9C%E5%8F%B3%E5%81%B4%EF%BC%9E%0A%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E5%90%8D_%E5%86%8D%22%20default%3D%22%E3%81%88%E3%82%8B%22%7D%EF%BC%88%E4%BB%AE%E9%9D%A2%E3%81%AE%E4%BA%BA%EF%BC%89%0A%E4%BC%9A%E8%A9%B1%E3%81%AB%E3%81%AF%E3%81%93%E3%82%8C%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%EF%BC%88%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AB%E3%81%99%E3%82%8B%EF%BC%89%0A%0A%EF%BC%9C%E4%B8%8B%E5%81%B4%EF%BC%9E%0A%E3%81%93%E3%82%8C%E3%81%A7%0A%E4%BC%9A%E8%A9%B1%E7%84%A1%E9%99%90%E3%81%AB%E7%B6%9A%E3%81%8F%EF%BC%88%E6%A8%AA%E5%B9%85%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%EF%BC%89)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=This%20is%20a%20YouTube%20thumbnail%20where%2C%20on%20the%20right%20side%2C%20there%20is%20an%20image%20of%20a%20person%20wearing%20a%20white%20mask%20being%20interviewed.%0AUsing%20this%20aesthetic%2C%20I%20want%20to%20share%20the%20information%20architecture%20for%20the%20thumbnail%20with%20the%20AI%20and%20have%20it%20create%20the%20thumbnail%2C%20so%20please%20think%20of%20a%20prompt.%0A%0AThe%20reference%20image%20is%20only%20for%20the%20masked%20person%20on%20the%20right%20(%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Eru%22%7D)%3B%20use%20that%20as%20the%20reference%2C%20and%20make%20the%20layout%2C%20text%20size%2C%20and%20design%20so%20that%20the%20click-through%20rate%20is%20maximized.%0A%0AThe%20target%20audience%20is%20men%20in%20their%20%7Bargument%20name%3D%22target_age_range_en%22%20default%3D%22late%2020s%20to%2030s%22%7D%20who%20struggle%20with%20communication%20skills.%0A%0A%23%20Thumbnail%20information%20architecture%0A%3CLeft%20side%3E%0AThree%20layers%20of%20conversation%20(small)%0AExpress%20them%20as%20an%20inverted%20triangle%0ADivide%20into%20three%20colors%0AIn%20reality%2C%20from%20top%20to%20bottom%2C%20the%20following%20three%20(blur%20the%20text)%3A%0A%E3%83%BBAbstract%0A%E3%83%BBFacts%0A%E3%83%BBConcrete%0A%0A%3CRight%20side%3E%0A%7Bargument%20name%3D%22character_name_en_again%22%20default%3D%22Eru%22%7D%20(the%20masked%20person)%0A%E2%80%9CThis%20is%20all%20there%20is%20to%20conversation%E2%80%9D%20(put%20this%20in%20a%20speech%20bubble)%0A%0A%3CBottom%3E%0A%E2%80%9CWith%20this%2C%0Aconversations%20go%20on%20forever%E2%80%9D%20(stretch%20across%20the%20full%20width))**
 
 ---
 
@@ -7557,7 +7563,7 @@ A prompt to create a 4-panel manga using an attached character who learns via sm
 #### 📝 Prompt
 
 ```
-添付のキャラクターが登場する 4コマ漫画を作成して。キャラクターが Gemini が日本語のテキストを含む画像を生成できるようになったことをスマホを見て知り、早速 {argument name="リンク" default="https://t.co/o4obUZzxf0"}
+Create a 4-panel manga featuring the attached character. The character sees on their smartphone that Gemini can now generate images containing Japanese text and immediately goes to {argument name="link_en" default="https://t.co/o4obUZzxf0"}.
 ```
 
 #### 🖼️ Generated Images
@@ -7573,9 +7579,9 @@ A prompt to create a 4-panel manga using an attached character who learns via sm
 - **Author:** [Google Japan](https://x.com/googlejapan)
 - **Source:** [Twitter Post](https://x.com/googlejapan/status/1991755967307084004)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E6%B7%BB%E4%BB%98%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%E7%99%BB%E5%A0%B4%E3%81%99%E3%82%8B%204%E3%82%B3%E3%83%9E%E6%BC%AB%E7%94%BB%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%80%82%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%8C%20Gemini%20%E3%81%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%92%E5%90%AB%E3%82%80%E7%94%BB%E5%83%8F%E3%82%92%E7%94%9F%E6%88%90%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92%E3%82%B9%E3%83%9E%E3%83%9B%E3%82%92%E8%A6%8B%E3%81%A6%E7%9F%A5%E3%82%8A%E3%80%81%E6%97%A9%E9%80%9F%20%7Bargument%20name%3D%22%E3%83%AA%E3%83%B3%E3%82%AF%22%20default%3D%22https%3A%2F%2Ft.co%2Fo4obUZzxf0%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%204-panel%20manga%20featuring%20the%20attached%20character.%20The%20character%20sees%20on%20their%20smartphone%20that%20Gemini%20can%20now%20generate%20images%20containing%20Japanese%20text%20and%20immediately%20goes%20to%20%7Bargument%20name%3D%22link_en%22%20default%3D%22https%3A%2F%2Ft.co%2Fo4obUZzxf0%22%7D.)**
 
 ---
 
@@ -7591,7 +7597,7 @@ A prompt for generating a somewhat dark map of Morocco around 1799–1800, showi
 #### 📝 Prompt
 
 ```
-يعطيني خريطة {argument name="المنطقة" default="المغرب"} في {argument name="الفترة" default="1799-1800"} كاتبين كيفية إنتشار الطاعون ديك الساعة والنتائج ديالو و تكون شوية سودوية。
+Give me a map of {argument name="region_en" default="Morocco"} in {argument name="period_en" default="1799–1800"}, showing how the plague spread at that time and its consequences, with a somewhat dark tone.
 ```
 
 #### 🖼️ Generated Images
@@ -7607,9 +7613,9 @@ A prompt for generating a somewhat dark map of Morocco around 1799–1800, showi
 - **Author:** [roojdi M7 ®️](https://x.com/roojdi)
 - **Source:** [Twitter Post](https://x.com/roojdi/status/1991749840234254444)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%D9%8A%D8%B9%D8%B7%D9%8A%D9%86%D9%8A%20%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9%20%7Bargument%20name%3D%22%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9%22%20default%3D%22%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%22%7D%20%D9%81%D9%8A%20%7Bargument%20name%3D%22%D8%A7%D9%84%D9%81%D8%AA%D8%B1%D8%A9%22%20default%3D%221799-1800%22%7D%20%D9%83%D8%A7%D8%AA%D8%A8%D9%8A%D9%86%20%D9%83%D9%8A%D9%81%D9%8A%D8%A9%20%D8%A5%D9%86%D8%AA%D8%B4%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B7%D8%A7%D8%B9%D9%88%D9%86%20%D8%AF%D9%8A%D9%83%20%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9%20%D9%88%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%20%D8%AF%D9%8A%D8%A7%D9%84%D9%88%20%D9%88%20%D8%AA%D9%83%D9%88%D9%86%20%D8%B4%D9%88%D9%8A%D8%A9%20%D8%B3%D9%88%D8%AF%D9%88%D9%8A%D8%A9%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Give%20me%20a%20map%20of%20%7Bargument%20name%3D%22region_en%22%20default%3D%22Morocco%22%7D%20in%20%7Bargument%20name%3D%22period_en%22%20default%3D%221799%E2%80%931800%22%7D%2C%20showing%20how%20the%20plague%20spread%20at%20that%20time%20and%20its%20consequences%2C%20with%20a%20somewhat%20dark%20tone.)**
 
 ---
 
@@ -7624,7 +7630,7 @@ Another refinement prompt specifying a niche, tasteful high-end aesthetic simila
 #### 📝 Prompt
 
 ```
-要傳達小眾有品位的高級感調性，類似 Le Labo 那種感覺。
+It should convey a niche, tasteful sense of high-end style, similar to the feel of Le Labo.
 ```
 
 #### 🖼️ Generated Images
@@ -7658,9 +7664,9 @@ Another refinement prompt specifying a niche, tasteful high-end aesthetic simila
 - **Author:** [Steve](https://x.com/levineeet)
 - **Source:** [Twitter Post](https://x.com/levineeet/status/1991749378403610878)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E8%A6%81%E5%82%B3%E9%81%94%E5%B0%8F%E7%9C%BE%E6%9C%89%E5%93%81%E4%BD%8D%E7%9A%84%E9%AB%98%E7%B4%9A%E6%84%9F%E8%AA%BF%E6%80%A7%EF%BC%8C%E9%A1%9E%E4%BC%BC%20Le%20Labo%20%E9%82%A3%E7%A8%AE%E6%84%9F%E8%A6%BA%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=It%20should%20convey%20a%20niche%2C%20tasteful%20sense%20of%20high-end%20style%2C%20similar%20to%20the%20feel%20of%20Le%20Labo.)**
 
 ---
 
@@ -7676,7 +7682,7 @@ A simple prompt to turn the user into a Lego-style character, useful for playful
 #### 📝 Prompt
 
 ```
-make me into a {argument name="subject" default="Lego"}
+Turn me into a {argument name="subject_en" default="Lego"} character.
 ```
 
 #### 🖼️ Generated Images
@@ -7698,9 +7704,9 @@ make me into a {argument name="subject" default="Lego"}
 - **Author:** [Jamian Gerard](https://x.com/JamianGerard)
 - **Source:** [Twitter Post](https://x.com/JamianGerard/status/1991748852853141579)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=make%20me%20into%20a%20%7Bargument%20name%3D%22subject%22%20default%3D%22Lego%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Turn%20me%20into%20a%20%7Bargument%20name%3D%22subject_en%22%20default%3D%22Lego%22%7D%20character.)**
 
 ---
 
@@ -7716,7 +7722,7 @@ A simple prompt to generate an explanatory infographic about how Tesla Full Self
 #### 📝 Prompt
 
 ```
-Make an infographic that explains how {argument name="system_name" default="Tesla FSD"} works
+Make an infographic that explains how {argument name="system_name_en" default="Tesla FSD"} works.
 ```
 
 #### 🖼️ Generated Images
@@ -7732,9 +7738,9 @@ Make an infographic that explains how {argument name="system_name" default="Tesl
 - **Author:** [Λnanto Mohammad](https://x.com/01Ananto)
 - **Source:** [Twitter Post](https://x.com/01Ananto/status/1991747192005202004)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20infographic%20that%20explains%20how%20%7Bargument%20name%3D%22system_name%22%20default%3D%22Tesla%20FSD%22%7D%20works)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Make%20an%20infographic%20that%20explains%20how%20%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Tesla%20FSD%22%7D%20works.)**
 
 ---
 
@@ -7749,7 +7755,7 @@ Same playful concept as before, asking Nano Banana Pro for the weirdest mundane-
 #### 📝 Prompt
 
 ```
-the most weird mundane photo you can imagine
+The most weird mundane photo you can imagine.
 ```
 
 #### 🖼️ Generated Images
@@ -7765,9 +7771,9 @@ the most weird mundane photo you can imagine
 - **Author:** [Leonardo.Ai](https://x.com/LeonardoAi)
 - **Source:** [Twitter Post](https://x.com/LeonardoAi/status/1991746810281619726)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=the%20most%20weird%20mundane%20photo%20you%20can%20imagine)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=The%20most%20weird%20mundane%20photo%20you%20can%20imagine.)**
 
 ---
 
@@ -7782,8 +7788,7 @@ An English prompt asking for a beautiful cinematic poster containing characters 
 #### 📝 Prompt
 
 ```
-create beautifull poster containing character from given
-movies, a cinematic poster.
+Create a beautiful poster containing characters from the given movies, a cinematic poster.
 ```
 
 #### 🖼️ Generated Images
@@ -7805,9 +7810,9 @@ movies, a cinematic poster.
 - **Author:** [prvn 🇮🇳](https://x.com/prvnprvnkmr)
 - **Source:** [Twitter Post](https://x.com/prvnprvnkmr/status/1991746258646757507)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=create%20beautifull%20poster%20containing%20character%20from%20given%0Amovies%2C%20a%20cinematic%20poster.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20beautiful%20poster%20containing%20characters%20from%20the%20given%20movies%2C%20a%20cinematic%20poster.)**
 
 ---
 
@@ -7822,9 +7827,9 @@ A pair of prompts to create a cinematic sci-fi triptych in a 4:5 composition and
 #### 📝 Prompt
 
 ```
-Create a triptych of three 2.39:1 shots in a 4:5 composition. Cinematic shots, science fiction, atmospheric, shot by Roger Deakins, imax, high contrast, color grading desaturated blue and grey
+Create a triptych of three 2.39:1 shots within a 4:5 composition. Make them cinematic, science-fiction shots with an atmospheric feel, as if shot by Roger Deakins in IMAX, with high contrast and desaturated blue and gray color grading.
 
-Expand the three images one by one into three 4:5 scenes
+Then expand the three images one by one into three separate 4:5 scenes.
 ```
 
 #### 🖼️ Generated Images
@@ -7858,9 +7863,9 @@ Expand the three images one by one into three 4:5 scenes
 - **Author:** [Echoes of Tomorrow](https://x.com/eoft_ai)
 - **Source:** [Twitter Post](https://x.com/eoft_ai/status/1991745589818908869)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20triptych%20of%20three%202.39%3A1%20shots%20in%20a%204%3A5%20composition.%20Cinematic%20shots%2C%20science%20fiction%2C%20atmospheric%2C%20shot%20by%20Roger%20Deakins%2C%20imax%2C%20high%20contrast%2C%20color%20grading%20desaturated%20blue%20and%20grey%0A%0AExpand%20the%20three%20images%20one%20by%20one%20into%20three%204%3A5%20scenes)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Create%20a%20triptych%20of%20three%202.39%3A1%20shots%20within%20a%204%3A5%20composition.%20Make%20them%20cinematic%2C%20science-fiction%20shots%20with%20an%20atmospheric%20feel%2C%20as%20if%20shot%20by%20Roger%20Deakins%20in%20IMAX%2C%20with%20high%20contrast%20and%20desaturated%20blue%20and%20gray%20color%20grading.%0A%0AThen%20expand%20the%20three%20images%20one%20by%20one%20into%20three%20separate%204%3A5%20scenes.)**
 
 ---
 
@@ -7875,9 +7880,7 @@ A detailed editing prompt that keeps the user’s face, pose, and environment wh
 #### 📝 Prompt
 
 ```
-Keep my exact face, pose, body, and environment from my original photo.
-Change ONLY the clothing and accessories so they match the dress and accessories from the second reference image with full accuracy.
-Do not alter my hairstyle, makeup, body proportions, camera angle, or
+Keep my exact face, pose, body, and environment from my original photo. Change ONLY the clothing and accessories so they match the dress and accessories from the second reference image with full accuracy. Do not alter my hairstyle, makeup, body proportions, or camera angle.
 ```
 
 #### 🖼️ Generated Images
@@ -7899,9 +7902,9 @@ Do not alter my hairstyle, makeup, body proportions, camera angle, or
 - **Author:** [Zara](https://x.com/ZaraIrahh)
 - **Source:** [Twitter Post](https://x.com/ZaraIrahh/status/1991744975919554874)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20my%20exact%20face%2C%20pose%2C%20body%2C%20and%20environment%20from%20my%20original%20photo.%0AChange%20ONLY%20the%20clothing%20and%20accessories%20so%20they%20match%20the%20dress%20and%20accessories%20from%20the%20second%20reference%20image%20with%20full%20accuracy.%0ADo%20not%20alter%20my%20hairstyle%2C%20makeup%2C%20body%20proportions%2C%20camera%20angle%2C%20or)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20my%20exact%20face%2C%20pose%2C%20body%2C%20and%20environment%20from%20my%20original%20photo.%20Change%20ONLY%20the%20clothing%20and%20accessories%20so%20they%20match%20the%20dress%20and%20accessories%20from%20the%20second%20reference%20image%20with%20full%20accuracy.%20Do%20not%20alter%20my%20hairstyle%2C%20makeup%2C%20body%20proportions%2C%20or%20camera%20angle.)**
 
 ---
 
@@ -7917,10 +7920,10 @@ A minimal Japanese prompt made of four words to generate a near-future beautiful
 #### 📝 Prompt
 
 ```
-{argument name="国籍" default="日本人"}
-{argument name="世界観" default="近未来"}
-{argument name="被写体" default="美女"}
-{argument name="場所" default="都心"}
+{argument name="nationality_en" default="Japanese"}
+{argument name="world_en" default="near future"}
+{argument name="subject_en" default="beautiful woman"}
+{argument name="location_en" default="city center"}
 ```
 
 #### 🖼️ Generated Images
@@ -7936,9 +7939,9 @@ A minimal Japanese prompt made of four words to generate a near-future beautiful
 - **Author:** [あつむ | AI活用術](https://x.com/atsumu_sns_ai)
 - **Source:** [Twitter Post](https://x.com/atsumu_sns_ai/status/1991744659765489987)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22%E5%9B%BD%E7%B1%8D%22%20default%3D%22%E6%97%A5%E6%9C%AC%E4%BA%BA%22%7D%0A%7Bargument%20name%3D%22%E4%B8%96%E7%95%8C%E8%A6%B3%22%20default%3D%22%E8%BF%91%E6%9C%AA%E6%9D%A5%22%7D%0A%7Bargument%20name%3D%22%E8%A2%AB%E5%86%99%E4%BD%93%22%20default%3D%22%E7%BE%8E%E5%A5%B3%22%7D%0A%7Bargument%20name%3D%22%E5%A0%B4%E6%89%80%22%20default%3D%22%E9%83%BD%E5%BF%83%22%7D)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22nationality_en%22%20default%3D%22Japanese%22%7D%0A%7Bargument%20name%3D%22world_en%22%20default%3D%22near%20future%22%7D%0A%7Bargument%20name%3D%22subject_en%22%20default%3D%22beautiful%20woman%22%7D%0A%7Bargument%20name%3D%22location_en%22%20default%3D%22city%20center%22%7D)**
 
 ---
 
@@ -7954,7 +7957,7 @@ A flexible prompt idea for generating a podcast cover using two uploaded portrai
 #### 📝 Prompt
 
 ```
-先拿兩張人像作為參考圖，然後讓 Nano Banana 用這兩張圖生成播客封面，指定背景「黑色概念圖」，燈光「演播室」，{argument name="姿勢說明" default="可以指定參考的美劇封面，也可以不說，自由發揮"}。
+First take two portrait photos as reference images, then have Nano Banana use these two images to generate a podcast cover. Specify the background as a “black conceptual image” and the lighting as “studio lighting,” and {argument name="pose_instructions" default="you can specify a TV show cover to reference for the pose, or leave it free for creative interpretation"}.
 ```
 
 #### 🖼️ Generated Images
@@ -7976,9 +7979,9 @@ A flexible prompt idea for generating a podcast cover using two uploaded portrai
 - **Author:** [indigo](https://x.com/indigo11)
 - **Source:** [Twitter Post](https://x.com/indigo11/status/1991741508303876608)
 - **Published:** November 21, 2025
-- **Language:** zh
+- **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E5%85%88%E6%8B%BF%E5%85%A9%E5%BC%B5%E4%BA%BA%E5%83%8F%E4%BD%9C%E7%82%BA%E5%8F%83%E8%80%83%E5%9C%96%EF%BC%8C%E7%84%B6%E5%BE%8C%E8%AE%93%20Nano%20Banana%20%E7%94%A8%E9%80%99%E5%85%A9%E5%BC%B5%E5%9C%96%E7%94%9F%E6%88%90%E6%92%AD%E5%AE%A2%E5%B0%81%E9%9D%A2%EF%BC%8C%E6%8C%87%E5%AE%9A%E8%83%8C%E6%99%AF%E3%80%8C%E9%BB%91%E8%89%B2%E6%A6%82%E5%BF%B5%E5%9C%96%E3%80%8D%EF%BC%8C%E7%87%88%E5%85%89%E3%80%8C%E6%BC%94%E6%92%AD%E5%AE%A4%E3%80%8D%EF%BC%8C%7Bargument%20name%3D%22%E5%A7%BF%E5%8B%A2%E8%AA%AA%E6%98%8E%22%20default%3D%22%E5%8F%AF%E4%BB%A5%E6%8C%87%E5%AE%9A%E5%8F%83%E8%80%83%E7%9A%84%E7%BE%8E%E5%8A%87%E5%B0%81%E9%9D%A2%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%AA%AA%EF%BC%8C%E8%87%AA%E7%94%B1%E7%99%BC%E6%8F%AE%22%7D%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=First%20take%20two%20portrait%20photos%20as%20reference%20images%2C%20then%20have%20Nano%20Banana%20use%20these%20two%20images%20to%20generate%20a%20podcast%20cover.%20Specify%20the%20background%20as%20a%20%E2%80%9Cblack%20conceptual%20image%E2%80%9D%20and%20the%20lighting%20as%20%E2%80%9Cstudio%20lighting%2C%E2%80%9D%20and%20%7Bargument%20name%3D%22pose_instructions%22%20default%3D%22you%20can%20specify%20a%20TV%20show%20cover%20to%20reference%20for%20the%20pose%2C%20or%20leave%20it%20free%20for%20creative%20interpretation%22%7D.)**
 
 ---
 
@@ -7993,7 +7996,7 @@ A prompt for image editing: keep the original manga artwork, translate only the 
 #### 📝 Prompt
 
 ```
-画像はそのままにして、このマンガのセリフだけを英語にして。もともとの吹き出しに翻訳したセリフを入れて。
+Keep the image as it is, translate only this manga’s dialogue into English, and place the translated lines into the original speech balloons.
 ```
 
 #### 🖼️ Generated Images
@@ -8021,9 +8024,9 @@ A prompt for image editing: keep the original manga artwork, translate only the 
 - **Author:** [けいすけ / AIマンガ家](https://x.com/kei31)
 - **Source:** [Twitter Post](https://x.com/kei31/status/1991741213826044415)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AF%E3%81%9D%E3%81%AE%E3%81%BE%E3%81%BE%E3%81%AB%E3%81%97%E3%81%A6%E3%80%81%E3%81%93%E3%81%AE%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%AE%E3%82%BB%E3%83%AA%E3%83%95%E3%81%A0%E3%81%91%E3%82%92%E8%8B%B1%E8%AA%9E%E3%81%AB%E3%81%97%E3%81%A6%E3%80%82%E3%82%82%E3%81%A8%E3%82%82%E3%81%A8%E3%81%AE%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AB%E7%BF%BB%E8%A8%B3%E3%81%97%E3%81%9F%E3%82%BB%E3%83%AA%E3%83%95%E3%82%92%E5%85%A5%E3%82%8C%E3%81%A6%E3%80%82)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Keep%20the%20image%20as%20it%20is%2C%20translate%20only%20this%20manga%E2%80%99s%20dialogue%20into%20English%2C%20and%20place%20the%20translated%20lines%20into%20the%20original%20speech%20balloons.)**
 
 ---
 
@@ -8060,7 +8063,7 @@ Restore this old, heavily damaged photo by removing all visible scratches, dents
 - **Author:** [Coffin](https://x.com/coffinxp7)
 - **Source:** [Twitter Post](https://x.com/coffinxp7/status/1991740699818225898)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Restore%20this%20old%2C%20heavily%20damaged%20photo%20by%20removing%20all%20visible%20scratches%2C%20dents%2C%20folds%2C%20and%20stains.%20Reconstruct%20missing%20or%20distorted%20facial%20features%20naturally%20and%20realistically%20while%20preserving%20the%20original%20identity%20and%20expressions%20of%20the%20person.%20Maintain%20the%20authentic)**
 
@@ -8078,15 +8081,15 @@ A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical
 #### 📝 Prompt
 
 ```
-画像の少女「{argument name="キャラ名" default="ネオン"}」の以下の漫画のページ1の画像を作成してください。
+Please create the image for page 1 of the following manga featuring the girl in the picture, "{argument name="character_name_en" default="Neon"}."
 
-吹き出しは縦書きです。
-コマは右から左、上から下に読みます。
-{argument name="アスペクト比" default="9:16"}サイズの画像の漫画にしてください。
+Speech bubbles should be vertical.
+Panels are read from right to left, top to bottom.
+Make it a manga image with an {argument name="aspect_ratio_en" default="9:16"} size.
 
-タイトル: 「{argument name="タイトル" default="キラっと起動！ネオンだよ！"}」
+Title: "{argument name="title_en" default="Sparkling Boot-Up! It’s Neon!"}"
 
-1ページ目
+Page 1
 ```
 
 #### 🖼️ Generated Images
@@ -8120,9 +8123,9 @@ A Japanese prompt for page 1 of a manga about the girl Neon, specifying vertical
 - **Author:** [よはく@0と1のすきま](https://x.com/yohaku_kiroku)
 - **Source:** [Twitter Post](https://x.com/yohaku_kiroku/status/1991738120577118585)
 - **Published:** November 21, 2025
-- **Language:** ja
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=%E7%94%BB%E5%83%8F%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%8C%7Bargument%20name%3D%22%E3%82%AD%E3%83%A3%E3%83%A9%E5%90%8D%22%20default%3D%22%E3%83%8D%E3%82%AA%E3%83%B3%22%7D%E3%80%8D%E3%81%AE%E4%BB%A5%E4%B8%8B%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B81%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E5%90%B9%E3%81%8D%E5%87%BA%E3%81%97%E3%81%AF%E7%B8%A6%E6%9B%B8%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82%0A%E3%82%B3%E3%83%9E%E3%81%AF%E5%8F%B3%E3%81%8B%E3%82%89%E5%B7%A6%E3%80%81%E4%B8%8A%E3%81%8B%E3%82%89%E4%B8%8B%E3%81%AB%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%99%E3%80%82%0A%7Bargument%20name%3D%22%E3%82%A2%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E6%AF%94%22%20default%3D%229%3A16%22%7D%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AE%E6%BC%AB%E7%94%BB%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%3A%20%E3%80%8C%7Bargument%20name%3D%22%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%22%20default%3D%22%E3%82%AD%E3%83%A9%E3%81%A3%E3%81%A8%E8%B5%B7%E5%8B%95%EF%BC%81%E3%83%8D%E3%82%AA%E3%83%B3%E3%81%A0%E3%82%88%EF%BC%81%22%7D%E3%80%8D%0A%0A1%E3%83%9A%E3%83%BC%E3%82%B8%E7%9B%AE)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Please%20create%20the%20image%20for%20page%201%20of%20the%20following%20manga%20featuring%20the%20girl%20in%20the%20picture%2C%20%22%7Bargument%20name%3D%22character_name_en%22%20default%3D%22Neon%22%7D.%22%0A%0ASpeech%20bubbles%20should%20be%20vertical.%0APanels%20are%20read%20from%20right%20to%20left%2C%20top%20to%20bottom.%0AMake%20it%20a%20manga%20image%20with%20an%20%7Bargument%20name%3D%22aspect_ratio_en%22%20default%3D%229%3A16%22%7D%20size.%0A%0ATitle%3A%20%22%7Bargument%20name%3D%22title_en%22%20default%3D%22Sparkling%20Boot-Up!%20It%E2%80%99s%20Neon!%22%7D%22%0A%0APage%201)**
 
 ---
 
@@ -8138,7 +8141,7 @@ A Spanish prompt to mimic an existing stereogram while depicting Lake Amatitlán
 #### 📝 Prompt
 
 ```
-Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {argument name="lugar" default="lago de Amatitlán"} visto desde arriba (vista satelital) y con la cordillera de montañas alrededor del lago que dé un efecto de profundidad.
+Imitate the following stereogram using stereoscopy technique, but with {argument name="place_en" default="Lake Amatitlán"} seen from above (satellite view) and with the mountain range surrounding the lake to create a sense of depth.
 ```
 
 #### 🖼️ Generated Images
@@ -8154,9 +8157,9 @@ Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {
 - **Author:** [cr.txt](https://x.com/crstn_hrndz)
 - **Source:** [Twitter Post](https://x.com/crstn_hrndz/status/1991737399161024855)
 - **Published:** November 21, 2025
-- **Language:** en
+- **Languages:** en
 
-**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imita%20el%20siguiente%20estereograma%20usando%20la%20t%C3%A9cnica%20estereoscop%C3%ADa%2C%20pero%20con%20el%20%7Bargument%20name%3D%22lugar%22%20default%3D%22lago%20de%20Amatitl%C3%A1n%22%7D%20visto%20desde%20arriba%20(vista%20satelital)%20y%20con%20la%20cordillera%20de%20monta%C3%B1as%20alrededor%20del%20lago%20que%20d%C3%A9%20un%20efecto%20de%20profundidad.)**
+**[👉 Try it now →](https://youmind.com/nano-banana-pro-prompts?prompt=Imitate%20the%20following%20stereogram%20using%20stereoscopy%20technique%2C%20but%20with%20%7Bargument%20name%3D%22place_en%22%20default%3D%22Lake%20Amatitl%C3%A1n%22%7D%20seen%20from%20above%20(satellite%20view)%20and%20with%20the%20mountain%20range%20surrounding%20the%20lake%20to%20create%20a%20sense%20of%20depth.)**
 
 ---
 
@@ -8170,7 +8173,7 @@ Imita el siguiente estereograma usando la técnica estereoscopía, pero con el {
 
 Due to GitHub's content length limitations, we can only display the first 200 regular prompts in this README.
 
-**👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**
+**[👉 View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
 The gallery features:
 
@@ -8229,6 +8232,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T08:16:03.003Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T08:58:16.267Z</sub>
 
 </div>

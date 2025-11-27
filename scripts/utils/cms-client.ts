@@ -4,11 +4,12 @@ import { stringify } from 'qs-esm';
 const CMS_HOST = process.env.CMS_HOST;
 const CMS_API_KEY = process.env.CMS_API_KEY;
 
-interface Prompt {
+export interface Prompt {
   id: number;
   title: string;
   description: string;
   content: string;
+  translatedContent?: string; // Translated content for current locale
   sourceLink: string;
   sourcePublishedAt: string;
   sourceMedia: string[];
