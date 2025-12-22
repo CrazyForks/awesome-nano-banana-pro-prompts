@@ -135,9 +135,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **2072** |
+| 📝 Gesamtanzahl Prompts | **2073** |
 | ⭐ Ausgewählt | **12** |
-| 🔄 Zuletzt aktualisiert | **Montag, 22. Dezember 2025 um 12:23:39 UTC** |
+| 🔄 Zuletzt aktualisiert | **Montag, 22. Dezember 2025 um 16:15:07 UTC** |
 
 </div>
 
@@ -8276,7 +8276,7 @@ Posterqualität, ultrahohe Auflösung, scharfer Fokus.
 
 <div align="center">
 
-### 🎯 1952 weitere Prompts hier nicht angezeigt
+### 🎯 1953 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8339,6 +8339,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-22T12:23:39.330Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-22T16:15:07.497Z</sub>
 
 </div>

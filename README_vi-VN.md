@@ -135,9 +135,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **2072** |
+| 📝 Tổng số câu lệnh | **2073** |
 | ⭐ Nổi bật | **12** |
-| 🔄 Cập nhật lần cuối | **lúc 12:23:09 UTC Thứ Hai, 22 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 16:14:46 UTC Thứ Hai, 22 tháng 12, 2025** |
 
 </div>
 
@@ -8260,7 +8260,7 @@ Chất lượng poster, độ phân giải cực cao, lấy nét sắc nét.
 
 <div align="center">
 
-### 🎯 1952 câu lệnh khác không hiển thị ở đây
+### 🎯 1953 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8323,6 +8323,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-22T12:23:09.700Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-22T16:14:46.424Z</sub>
 
 </div>
