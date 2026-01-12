@@ -1,6 +1,4 @@
 
-  > [!NOTE]
-  > 🎄 Wir haben eine Nano Banana Pro Weihnachtskarten-Prompt-Sammlung erstellt. Klicken Sie [hier 🔗]({{link}}), um es auszuprobieren 🎁
 # 🚀 Tolle Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +138,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **4673** |
 | ⭐ Ausgewählt | **10** |
-| 🔄 Zuletzt aktualisiert | **Montag, 12. Januar 2026 um 04:42:17 UTC** |
+| 🔄 Zuletzt aktualisiert | **Montag, 12. Januar 2026 um 07:28:17 UTC** |
 
 </div>
 
@@ -8912,6 +8910,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-01-12T04:42:17.636Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-01-12T07:28:17.263Z</sub>
 
 </div>

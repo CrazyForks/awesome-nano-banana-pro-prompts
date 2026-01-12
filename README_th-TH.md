@@ -1,6 +1,4 @@
 
-  > [!NOTE]
-  > 🎄 เราได้สร้างคอลเลกชันคำสั่งการ์ดคริสต์มาส Nano Banana Pro คลิก[ที่นี่ 🔗]({{link}})เพื่อลองใช้งาน 🎁
 # 🚀 สุดยอด Nano Banana Pro Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -140,7 +138,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **4673** |
 | ⭐ แนะนำ | **10** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 12 มกราคม พ.ศ. 2569 เวลา 4 นาฬิกา 41 นาที 53 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 12 มกราคม พ.ศ. 2569 เวลา 7 นาฬิกา 27 นาที 52 วินาที UTC** |
 
 </div>
 
@@ -8910,6 +8908,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-01-12T04:41:53.415Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-01-12T07:27:52.622Z</sub>
 
 </div>
