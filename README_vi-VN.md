@@ -135,9 +135,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **6418** |
+| 📝 Tổng số câu lệnh | **6568** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:27:23 UTC Thứ Bảy, 24 tháng 1, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:14:45 UTC Thứ Bảy, 24 tháng 1, 2026** |
 
 </div>
 
@@ -646,7 +646,1049 @@ Tỷ lệ khung hình là 3:4 cho poster dọc. Bao gồm chữ thư pháp Nhậ
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trong gương ở phòng ngủ ấm cúng, thân mật
+### No. 1: Hồ sơ / Ảnh đại diện - Chân dung biên tập về một người đàn ông tự tin
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một prompt cho Nano Banana Pro để tạo ra một bức chân dung biên tập điện ảnh, siêu thực của một người đàn ông tự tin. Prompt này chỉ định trang phục của đối tượng (áo cổ lọ đen, kính râm màu đỏ), bối cảnh (phông nền studio màu đỏ đậm) và ánh sáng (mềm nhưng có hướng) để đạt được vẻ ngoài thẩm mỹ của một nhà sáng lập công nghệ hiện đại, có độ tương phản cao.
+
+#### 📝 Câu lệnh
+
+```
+Một người đàn ông tự tin đứng trước phông nền studio màu đỏ sẫm, mặc áo cổ lọ đen ôm sát và đeo kính râm chữ nhật màu đỏ. Anh ấy hơi quay mặt sang một bên với vẻ mặt điềm tĩnh, tự chủ. Phong cách thời trang tối giản, đường quai hàm sắc nét, kiểu tóc gọn gàng, toát lên khí chất của một nhà sáng lập công nghệ hiện đại. Ánh sáng studio dịu nhẹ nhưng có định hướng tạo ra những bóng đổ nhẹ nhàng trên khuôn mặt và cơ thể. Độ tương phản cao giữa trang phục màu đen và phông nền màu đỏ. Phong cách chân dung điện ảnh, biên tập. Siêu thực, độ sâu trường ảnh nông, lấy nét sắc nét, mang phong cách nhiếp ảnh thời trang cao cấp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236061130_283yun_G_aDKBBaAAE0JlN.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung biên tập về một người đàn ông tự tin - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Heisenberg](https://x.com/rovvmut_)
+- **Nguồn:** [Twitter Post](https://x.com/rovvmut_/status/2014944897766486052)
+- **Đã xuất bản:** 24 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7395)**
+
+---
+
+### No. 2: Hồ sơ / Ảnh đại diện - Lời nhắc ảnh selfie trong gương với phông nền là cờ và đồ dệt kim
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một JSON prompt cực kỳ chi tiết để tạo ra một bức ảnh selfie chân thực như ảnh chụp của một phụ nữ Đông Á đang ngồi trên ghế sofa, mặc áo crop top và quần tất đen xuyên thấu, nhấn mạnh độ chính xác về giải phẫu, chi tiết ánh sáng và có một lá cờ Mỹ được treo ở hậu cảnh.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "ethnicity": "Đông Á",
+    "description": "Một phụ nữ trẻ với mái tóc dài, màu nâu sẫm.",
+    "body": {
+      "physique": "Dáng người mesomorph với đường cong đồng hồ cát rõ rệt. Tỷ lệ eo-hông đặc biệt với phần eo thon gọn, săn chắc và xương chậu rộng.",
+      "details": "Vùng bụng săn chắc và eo thon. Cơ mông và cơ tứ đầu đùi săn chắc có thể nhìn thấy qua quần tất. Vai thon, xương quai xanh tinh tế, và cấu trúc bàn tay, ngón tay chính xác về mặt giải phẫu đang cầm một thiết bị."
+    },
+    "facial_features": "Cấu trúc khuôn mặt đối xứng, môi đầy đặn với lớp son lì, đường quai hàm sắc nét và ánh mắt tập trung nhìn vào hình ảnh phản chiếu trong gương."
+  },
+  "wardrobe": {
+    "top": "Áo tank top lửng màu trắng, chất liệu cotton gân, ôm sát, làm nổi bật kết cấu vải và độ căng mềm mại của chất liệu.",
+    "bottom": "Quần tất đen mờ 20-denier, cạp cao, xuyên thấu, làm nổi bật các đường nét cơ bắp và đường cong của đôi chân.",
+    "accessories": "Một chiếc vòng cổ vàng tối giản và những chiếc nhẫn vàng mảnh. Chủ thể đang cầm một chiếc điện thoại thông minh màu trắng; mặt sau của thiết bị có logo '{argument name=\"phone logo\" default=\"Apple logo\"}' màu bạc và mô-đun camera ba ống kính chi tiết."
+  },
+  "pose_action": {
+    "description": "Tư thế chụp ảnh tự sướng qua gương thoải mái nhưng duyên dáng khi đang ngồi trên ghế sofa.",
+    "details": "Chủ thể đang ngồi ở mép ghế sofa với hai chân bắt chéo để làm nổi bật đường chân và vòm bàn chân. Cánh tay trái duỗi ra phía sau để tựa vào đệm, trong khi tay phải giơ lên, cầm điện thoại để chụp ảnh phản chiếu. Thân trên hơi nghiêng để làm nổi bật sự chuyển tiếp từ eo đến hông."
+  },
+  "scene": {
+    "location": "Nội thất hiện đại, tối giản, cao cấp.",
+    "background_elements": "Phủ trên lưng ghế sofa màu xám nhạt có kết cấu là một lá cờ Mỹ (USA); lá cờ không phẳng hoàn toàn, có những đường cong tự nhiên, nếp nhăn nhẹ và các nếp gấp vải chân thực. Bên phải, có thể nhìn thấy một chiếc gối trang trí với họa tiết hình học đen trắng.",
+    "environment": "Cửa sổ lớn từ sàn đến trần ở bên trái với rèm trắng mỏng cho phép ánh sáng bên ngoài dịu nhẹ, khuếch tán. Bức tường phía sau bao gồm các tấm ốp có kết cấu tông màu trung tính."
+  },
+  "lighting": {
+    "setup": "Ánh sáng ban ngày tự nhiên dịu nhẹ, khuếch tán từ nguồn cửa sổ bên (phong cách chiếu sáng Rembrandt).",
+    "details": "Những điểm sáng phản chiếu tinh tế trên từng sợi tóc và kết cấu lưới mịn của quần tất đen. Tạo bóng mềm tự nhiên trong các nếp gấp của quần áo và vải ghế sofa để tạo độ chân thực sâu."
+  },
+  "camera": {
+    "perspective": "Góc nhìn chụp ảnh tự sướng qua gương, ngang tầm mắt.",
+    "technical": "Chụp bằng ống kính 35mm f/2.8 để có tỷ lệ tự nhiên và nén hậu cảnh nhẹ. Độ phân giải 8k, chân thực như ảnh, chất lượng điện ảnh, kết cấu siêu chi tiết. Tỷ lệ khung hình 9:16.",
+    "reflection_integrity_rules": "Hình ảnh phản chiếu trong gương phải hoàn toàn khớp với giải phẫu của chủ thể và hướng của điện thoại. Đảm bảo hình ảnh phản chiếu o"
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236025425_o0kn76_G_YmMllXAAA68sb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc ảnh selfie trong gương với phông nền là cờ và đồ dệt kim - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Duru💝](https://x.com/Durusss13)
+- **Nguồn:** [Twitter Post](https://x.com/Durusss13/status/2014840093001875694)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7341)**
+
+---
+
+### No. 3: Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình nghệ thuật nguệch ngoạc trừu tượng hỗn loạn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một câu lệnh tạo ảnh chuyển đổi ảnh khuôn mặt được tải lên thành nghệ thuật vẽ nguệch ngoạc trừu tượng và hỗn loạn bằng cách sử dụng các đường mực đen lỏng lẻo, rải rác. Mục tiêu là duy trì bố cục và biểu cảm cơ bản trong khi nhấn mạnh sự hỗn loạn và trừu tượng.
+
+#### 📝 Câu lệnh
+
+```
+Chuyển đổi ảnh khuôn mặt đã tải lên thành một bức tranh nghệ thuật nguệch ngoạc rất trừu tượng và hỗn loạn với những đường mực đen rất lỏng lẻo, rải rác và cực kỳ ngẫu nhiên, tạo ra hình ảnh người trong ảnh đang đứng trong một tư thế đẹp, mặc áo sơ mi và quần tây chỉnh tề. Các đường nét chỉ nên phác họa khuôn mặt một cách mơ hồ, nhấn mạnh sự hỗn loạn và trừu tượng hơn là định nghĩa rõ ràng. Duy trì biểu cảm và tỷ lệ ban đầu như một bố cục tổng thể bên dưới.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053820_vd5vp0_G_YjU30WUAA7aSB.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình nghệ thuật nguệch ngoạc trừu tượng hỗn loạn - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836743057350672)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7382)**
+
+---
+
+### No. 4: Hồ sơ / Ảnh đại diện - Lời nhắc chân dung ánh sáng nhấn Neon (Tham khảo hình ảnh)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc để áp dụng phong cách chiếu sáng cụ thể—ánh sáng nền tối với các điểm nhấn neon sáng dọc theo các cạnh của khuôn mặt và tóc—cho một bức ảnh đã tải lên. Nó yêu cầu nghiêm ngặt việc giữ nguyên khuôn mặt, cơ thể và kết cấu ban đầu mà không có bất kỳ sự làm đẹp hoặc thay đổi cấu trúc nào.
+
+#### 📝 Câu lệnh
+
+```
+sử dụng người trong ảnh đã tải lên nguyên trạng, giữ nguyên khuôn mặt, cơ thể, tỷ lệ, kết cấu da và kiểu tóc, không làm đẹp, không thay đổi cấu trúc khuôn mặt hoặc tư thế, ánh sáng nền tối với ánh sáng neon nhấn nhá, các điểm nhấn neon sáng dọc theo các cạnh của khuôn mặt và tóc, các điểm nhấn màu sắc sống động tương phản với bóng tối hơn, ánh sáng là thay đổi duy nhất, không chuẩn hóa ánh sáng hoặc màu sắc, không điều chỉnh phơi sáng tự động, không có ánh sáng làm đẹp
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236059069_1d0mal_G_YigSnXkAAPNWk.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc chân dung ánh sáng nhấn Neon (Tham khảo hình ảnh) - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014835836366274675)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7391)**
+
+---
+
+### No. 5: Hồ sơ / Ảnh đại diện - Lưới nhất quán khuôn mặt chín ô cho Nano Banana Pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Đây là một prompt có cấu trúc, chi tiết cao được thiết kế để tạo ra một lưới 3x3 các bức chân dung tập trung vào khuôn mặt của cùng một người phụ nữ, đảm bảo sự nhất quán tuyệt đối về khuôn mặt trên chín góc đầu và phối cảnh khác nhau. Nó được dùng với Nano Banana Pro để tạo ra một tài liệu tham khảo hồ sơ khuôn mặt toàn diện, duy trì các đặc điểm, ánh sáng và độ chân thực giống hệt nhau để đảm bảo tính nhất quán của nhân vật trong quá trình tạo ảnh.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng hình ảnh tham chiếu được cung cấp làm nguồn duy nhất về nhận dạng và cấu trúc khuôn mặt. Tạo một lưới 3x3 gồm các bức chân dung tập trung vào khuôn mặt của cùng một người phụ nữ, duy trì các đặc điểm khuôn mặt, tỷ lệ, biểu cảm cơ bản và tính chân thực giống hệt nhau trên tất cả các khung hình.
+
+Mỗi ô phải hiển thị một góc đầu và góc nhìn khuôn mặt khác nhau, đồng thời giữ nguyên sự nhất quán về ánh sáng, tính chân thực của ống kính và kết cấu da tự nhiên. Không thay đổi kiểu tóc, kiểu trang điểm hoặc nhận dạng khuôn mặt.
+
+Phân tích lưới
+
+Hàng trên cùng
+1. Góc trung tính nhìn thẳng, mắt nhìn trực tiếp vào máy ảnh
+2. Góc ba phần tư nhìn sang phải, đầu hơi nghiêng, mắt nhìn thẳng
+3. Hồ sơ mặt phải hoàn chỉnh, đường nét rõ ràng của mũi, môi và đường hàm
+
+Hàng giữa
+4. Góc ba phần tư nhìn sang trái, đầu hơi nghiêng nhẹ, ánh mắt tự tin
+5. Góc thấp nhẹ nhìn xuống máy ảnh, tư thế quyền lực tinh tế
+6. Góc cao nhẹ nhìn lên trên, biểu cảm thư thái
+
+Hàng dưới cùng
+7. Đầu quay sang phải với mắt nhìn lại về phía máy ảnh
+8. Đầu quay sang trái với mắt nhìn lại về phía máy ảnh
+9. Góc gần phía sau ba phần tư hiển thị xương gò má, đường hàm và đường viền tai
+
+Yêu cầu kỹ thuật và hình ảnh
+
+Chụp ảnh chân dung siêu thực
+Hiệu ứng ống kính 85mm, độ sâu trường ảnh nông
+Chi tiết khuôn mặt sắc nét, kết cấu da rõ ràng, lỗ chân lông tự nhiên
+Ánh sáng ban ngày dịu nhẹ với bóng đổ nhẹ nhàng
+Nền trung tính không gây xao nhãng
+Khung hình nhất quán để tất cả các khuôn mặt được căn chỉnh gọn gàng trong lưới
+Độ phân giải cao, chất lượng biên tập, tiêu chuẩn thời trang và làm đẹp
+
+Các ràng buộc nghiêm ngặt
+
+Không thay đổi cấu trúc khuôn mặt
+Không cách điệu hoặc hoạt hình hóa
+Không thay đổi biểu cảm quá nhiều
+Không có văn bản, không có hình mờ, không biến dạng
+Cùng một người trong tất cả chín khung hình
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973313_e7cgal_G_X57VvXoAEhiBv.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lưới nhất quán khuôn mặt chín ô cho Nano Banana Pro - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973397_ekhzd3_G_X57VzW8AA8y6w.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lưới nhất quán khuôn mặt chín ô cho Nano Banana Pro - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Ajala Victor 👑 | Visual/Brand Designer](https://x.com/avstudiosng)
+- **Nguồn:** [Twitter Post](https://x.com/avstudiosng/status/2014791228118745344)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7271)**
+
+---
+
+### No. 6: Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh ghép selfie phong cách "Gen Z Chaotic Fairy"
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON phức tạp được thiết kế để tạo ảnh ghép lưới 2x2 gồm các bức ảnh selfie góc siêu rộng theo phong cách đăng tải mạng xã hội tự nhiên của Gen Z, với chủ thể giống Sydney Sweeney. Lời nhắc mô tả chi tiết cấu trúc hình ảnh, cài đặt phong cách tổng thể (ống kính 0.5x, biến dạng góc cao, thẩm mỹ cổ tích hỗn loạn), chi tiết chủ thể (trang phục, trang điểm, phụ kiện) và các biểu cảm, tư thế cụ thể cho từng trong bốn ô (lè lưỡi, chu môi, nháy mắt).
+
+#### 📝 Câu lệnh
+
+```
+{
+  "image_structure": {
+    "format": "Bố cục lưới 2x2",
+    "total_panels": 4,
+    "layout_style": "Bốn ảnh selfie góc rộng 0.5x riêng biệt được sắp xếp theo bố cục lưới vuông",
+    "aspect_ratio": "Tỷ lệ tổng thể hình vuông (1:1) hoặc 4:5 chứa bốn hình ảnh dọc 3:4"
+  },
+  "global_style_settings": {
+    "camera_effect": "Ống kính góc siêu rộng 0.5x / Hiệu ứng mắt cá",
+    "perspective": "Ảnh selfie góc cao với cánh tay bị biến dạng (cánh tay trông dài và lớn ở tiền cảnh)",
+    "lighting": "Ánh sáng đèn trần trong nhà kết hợp với đèn flash màn hình điện thoại phía trước (sáng, tông hơi lạnh)",
+    "aesthetic": "Phong cách Gen Z chụp ảnh tự nhiên đăng mạng xã hội, vibes 'thần tiên' hỗn loạn"
+  },
+  "subject_universal_details": {
+    "demographics": "Phụ nữ trẻ, khoảng 20 tuổi, người da trắng",
+    "skin": "Da trắng/nhợt nhạt với tông hồng lạnh, kết cấu da rất mịn",
+    "hair": "Chân tóc màu vàng bẩn/nâu nhạt chuyển sang màu vàng ở phần thân tóc, tạo kiểu búi cao lộn xộn (topknot) với những sợi tóc mai lưa thưa ôm mặt",
+    "outfit": "{argument name=\"outfit color\" default=\"Lime green\"}/Váy mini màu xanh nõn chuối/Chartreuse phủ đầy kim sa tròn lớn, dây áo mảnh",
+    "accessories": [
+      "Đôi cánh tiên lớn màu xanh lá cây nhạt trong mờ với các chi tiết gân lấp lánh",
+      "Vòng cổ choker nhựa đen kiểu hình xăm"
+    ],
+    "makeup": "Kẻ mắt mèo đen đậm, mascara nhẹ, highlight ở chóp mũi, má hồng phấn trên gò má cao, màu môi tự nhiên hồng/tím hoa cà bóng"
+  },
+  "panel_breakdown": {
+    "top_left_panel": {
+      "expression": "Vui tươi, lè lưỡi thẳng",
+      "gaze": "Nhìn thẳng vào camera",
+      "pose": "Đầu hơi nghiêng, cả hai cánh tay duỗi thẳng về phía ống kính",
+      "specific_detail": "Lưỡi thè xuống, mắt mở to"
+    },
+    "top_right_panel": {
+      "expression": "Mặt vịt / Môi chu",
+      "gaze": "Nhìn thẳng vào camera",
+      "pose": "Ưỡn ngực, nhún vai, hai tay khoanh trước ngực",
+      "specific_detail": "Môi mím chặt, biểu cảm ngây thơ"
+    },
+    "bottom_left_panel": {
+      "expression": "Nháy mắt (Mắt trái nhắm, mắt phải mở), môi hơi chu",
+      "gaze": "Nhìn thẳng vào camera",
+      "pose": "Đầu nghiêng sang phải, hơi ngả người ra sau",
+      "specific_detail": "Một mắt nhắm chặt, đường quai hàm rõ nét"
+    },
+    "bottom_right_panel": {
+      "expression": "Nháy mắt (Mắt trái nhắm, mắt phải mở), mặt hôn thổi exaggerated",
+      "gaze": "Nhìn thẳng vào camera",
+      "pose": "Đầu nghiêng sang trái, cơ thể hơi nghiêng",
+      "specific_detail": "Môi chu ra để hôn, lông mày hơi nhướn"
+    }
+  },
+  "background_environment": {
+    "location": "Phòng khách ngoại ô",
+    "furniture": "Ghế sofa vải nỉ màu xám đậm (hiển thị phía sau cô ấy trong tất cả các bức ảnh)",
+    "architecture": "Cầu thang trắng với lan can hiển thị ở hậu cảnh (cụ thể là phía trên bên trái và phía dưới bên trái)",
+    "decor": "Gỗ dọc "
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235991833_0bnmr6_G_XSEOhbEAAdlmQ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh ghép selfie phong cách "Gen Z Chaotic Fairy" - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [sammy](https://x.com/sumiturkude007)
+- **Nguồn:** [Twitter Post](https://x.com/sumiturkude007/status/2014747390084055078)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7295)**
+
+---
+
+### No. 7: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh tự sướng tự nhiên trên mạng xã hội (Thang cuốn)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một JSON prompt chi tiết để tạo ảnh selfie iPhone góc cao, tự nhiên với phong cách của người có ảnh hưởng trên mạng xã hội. Chủ thể là một phụ nữ trẻ với mái tóc ngắn gợn sóng, đang đứng trên thang cuốn trong trung tâm mua sắm, tạo dáng chu môi/mỏ vịt tinh nghịch. Prompt chỉ định ánh sáng tự nhiên trong nhà, áo ba lỗ màu be kem, và các chi tiết như dây đeo túi xách da đen và dây buộc tóc scrunchie trên cổ tay.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "prompt": "Ảnh selfie tự nhiên chụp từ trên xuống, một phụ nữ trẻ với mái tóc ngắn gợn sóng màu nâu vàng, nhìn lên camera chu môi hôn kiểu mỏ vịt, mắt màu xám xanh nhạt, trang điểm tự nhiên tối giản với môi hồng nude, mặc áo ba lỗ màu kem be có dây mảnh, dây đeo túi xách da màu đen lộ ra, dây buộc tóc scrunchie màu đen trên cổ tay, nhẫn bạc trên ngón tay, móng tay sơn màu trắng, đứng trên thang cuốn nhìn lên, các bậc thang cuốn kim loại hiện rõ phía dưới, một người khác chỉ nhìn thấy một phần phía sau mặc áo chấm bi, bối cảnh trung tâm thương mại hoặc ga tàu điện ngầm, góc chụp selfie từ trên cao, ánh sáng tự nhiên trong nhà, phong cách đường phố giản dị, thẩm mỹ của người có ảnh hưởng trên mạng xã hội, phong cách selfie iPhone",
+  "negative_prompt": "ánh sáng studio, ngoài trời tự nhiên, quần áo trang trọng, biểu cảm nghiêm túc, góc nghiêng, chụp toàn thân",
+  "style": "selfie đường phố tự nhiên, nội dung mạng xã hội, khoảnh khắc đời thường giản dị",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "selfie bằng camera trước điện thoại thông minh",
+    "angle": "góc cao từ trên nhìn xuống chủ thể",
+    "framing": "chụp cận mặt và phần thân trên từ trên xuống"
+  },
+  "lighting": {
+    "type": "ánh sáng tự nhiên trong nhà",
+    "quality": "ánh sáng mềm mại đều, không có bóng đổ gắt",
+    "atmosphere": "bối cảnh trong nhà đời thường giản dị"
+  },
+  "mood": "vui tươi, thú vị, giản dị, tán tỉnh, tự phát",
+  "color_palette": "tóc bạch kim trắng, kem be, điểm nhấn đen, kim loại bạc, tông màu trung tính",
+  "subject_features": {
+    "hair": "{argument name=\"hair color\" default=\"nâu vàng\"}, ngắn ngang vai, sóng nhẹ, rẽ ngôi giữa",
+    "skin": "trắng sáng, trong trẻo, tự nhiên, sứ",
+    "eyes": "xám xanh nhạt, nhìn thẳng lên camera",
+    "lips": "hồng tự nhiên, chu môi hôn kiểu mỏ vịt",
+    "expression": "chu môi hôn kiểu mỏ vịt vui tươi, nhìn vào camera",
+    "eyebrows": "nâu đậm tự nhiên, được tỉa gọn gàng"
+  },
+  "wardrobe": {
+    "top": "áo ba lỗ gân màu kem be với dây mảnh",
+    "accessories": "túi xách da màu đen với dây đeo chéo vai, dây buộc tóc scrunchie vải đen trên cổ tay, nhẫn bạc chunky trên ngón tay",
+    "nails": "móng tay sơn màu trắng hoặc hồng nhạt"
+  },
+  "setting": {
+    "location": "thang cuốn trong trung tâm thương mại hoặc ga tàu điện ngầm",
+    "background": "các bậc thang cuốn kim loại, tay vịn màu đen, một người khác phía sau",
+    "context": "khoảnh khắc đô thị đời thường giản dị"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002462_s92ep6_G_W-yQXbAAElyUR.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh tự sướng tự nhiên trên mạng xã hội (Thang cuốn) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002381_4c9hc4_G_W-yJvbAAId-aN.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh tự sướng tự nhiên trên mạng xã hội (Thang cuốn) - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014726182802227430)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7307)**
+
+---
+
+### No. 8: Hồ sơ / Ảnh đại diện - Ảnh tự chụp tự nhiên với biểu cảm chu môi trên thang cuốn
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc rất chi tiết, có cấu trúc để tạo ra một bức ảnh selfie tự nhiên, góc cao của một phụ nữ trẻ (giống Ana De Armas hoặc Josephine Langford) đang chu môi hôn kiểu "duck face" tinh nghịch khi đứng trên thang cuốn trong trung tâm mua sắm, tập trung vào các phụ kiện cụ thể, ánh sáng và phong cách của một người có ảnh hưởng trên mạng xã hội.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "prompt": "Ảnh selfie tự nhiên chụp từ trên xuống, một phụ nữ trẻ tóc ngắn gợn sóng màu nâu vàng, nhìn lên camera chu môi hôn kiểu mỏ vịt, mắt màu xanh xám nhạt, trang điểm tối giản tự nhiên với môi hồng nude, mặc áo ba lỗ màu kem be có dây mảnh, dây đeo túi xách da đen có thể nhìn thấy, dây buộc tóc scrunchie màu đen trên cổ tay, nhẫn bạc trên ngón tay, móng tay sơn trắng, đứng trên thang cuốn nhìn lên, các bậc thang cuốn kim loại có thể nhìn thấy bên dưới, một người khác chỉ nhìn thấy một phần phía sau mặc áo chấm bi, bối cảnh trung tâm mua sắm hoặc ga tàu điện ngầm, góc chụp selfie từ trên cao, ánh sáng tự nhiên trong nhà, phong cách đường phố giản dị, thẩm mỹ của người có ảnh hưởng trên mạng xã hội, phong cách selfie iPhone",
+  "negative_prompt": "ánh sáng studio, ngoài trời tự nhiên, trang phục trang trọng, biểu cảm nghiêm túc, góc nghiêng, chụp toàn thân",
+  "style": "selfie đường phố tự nhiên, nội dung mạng xã hội, khoảnh khắc đời thường giản dị",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "camera trước điện thoại thông minh selfie",
+    "angle": "góc chụp từ trên cao nhìn xuống chủ thể",
+    "framing": "cận cảnh khuôn mặt và phần thân trên từ trên xuống"
+  },
+  "lighting": {
+    "type": "ánh sáng tự nhiên trong nhà",
+    "quality": "ánh sáng mềm mại đều, không có bóng đổ gắt",
+    "atmosphere": "bối cảnh trong nhà đời thường giản dị"
+  },
+  "mood": "vui tươi, thú vị, giản dị, tán tỉnh, tự phát",
+  "color_palette": "tóc trắng bạch kim, kem be, điểm nhấn màu đen, kim loại bạc, tông màu trung tính",
+  "subject_features": {
+    "hair": "nâu vàng, ngắn ngang vai, sóng nhẹ, rẽ ngôi giữa",
+    "skin": "trắng sáng, trong trẻo, tự nhiên, sứ",
+    "eyes": "xanh xám nhạt, nhìn thẳng lên camera",
+    "lips": "hồng tự nhiên, chu môi hôn kiểu mỏ vịt",
+    "expression": "chu môi hôn kiểu mỏ vịt vui tươi, nhìn vào camera",
+    "eyebrows": "nâu đậm tự nhiên, được tỉa gọn gàng"
+  },
+  "wardrobe": {
+    "top": "áo ba lỗ gân màu kem be với dây mảnh",
+    "accessories": "túi xách da đen đeo chéo vai, dây buộc tóc scrunchie vải đen trên cổ tay, nhẫn bạc chunky trên ngón tay",
+    "nails": "móng tay sơn trắng hoặc hồng nhạt"
+  },
+  "setting": {
+    "location": "thang cuốn trong trung tâm mua sắm hoặc ga tàu điện ngầm",
+    "background": "các bậc thang cuốn kim loại, tay vịn màu đen, một người khác phía sau",
+    "context": "khoảnh khắc đô thị đời thường giản dị"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236016712_svuqb3_G_W4HuObAAASlP8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh tự chụp tự nhiên với biểu cảm chu môi trên thang cuốn - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236017075_exzro2_G_W4HuSbAAUgRnZ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh tự chụp tự nhiên với biểu cảm chu môi trên thang cuốn - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Sudee🥀](https://x.com/NameIsSudee)
+- **Nguồn:** [Twitter Post](https://x.com/NameIsSudee/status/2014719189345599489)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7328)**
+
+---
+
+### No. 9: Hồ sơ / Ảnh đại diện - Chân Dung Cận Cảnh Ấm Cúng Với Cốc Cà Phê
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc (prompt) có cấu trúc cao, chi tiết để tạo ra một bức chân dung cận cảnh, chân thực như ảnh chụp, mang "cảm giác chụp bằng iPhone một cách tự nhiên". Bối cảnh là trên ghế sofa phòng khách với ánh sáng vàng ấm áp, tập trung vào một chủ thể đang cầm cốc cà phê, nhấn mạnh các kết cấu ấm cúng, bóng đổ mềm mại và bố cục cụ thể (tỷ lệ khung hình 4:5). Nó bao gồm các lời nhắc phủ định (negative prompts) mở rộng để đảm bảo tính chân thực và tuân thủ các ràng buộc về nội dung.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "category": "COZY_COUCH_LAMP_CLOSEUP",
+  "subject": {
+    "clothing": {
+      "outfit": "Áo crop top cổ chữ V khoét sâu (không chữ), khe ngực gợi cảm tinh tế, ôm sát, cảm giác ấm cúng trong nhà",
+      "texture": "Vải cotton gân hoặc jersey mềm mại, các nếp gấp chân thực"
+    },
+    "accessories": {
+      "jewelry": ["Khuyên tai bạc nhỏ hình tròn"]
+    }
+  },
+  "pose": {
+    "type": "Cận cảnh tự nhiên",
+    "orientation": "Góc nhìn hơi từ trên xuống, thư thái",
+    "hands": "Một tay cầm cốc gần cằm (ngón tay chính xác)",
+    "gaze": "Ánh mắt dịu dàng giao tiếp",
+    "expression": "Nụ cười nhẹ nhàng, ấm cúng"
+  },
+  "setting": {
+    "environment": "Góc ghế sofa phòng khách",
+    "background_elements": [
+      "Ánh đèn màu cam ấm áp tỏa sáng phía sau",
+      "Kết cấu chăn có thể nhìn thấy",
+      "Một chút lộn xộn tự nhiên được làm mờ"
+    ],
+    "depth": "Khuôn mặt sắc nét, ánh đèn phía sau rực rỡ, hậu cảnh mềm mại"
+  },
+  "camera": {
+    "shot_type": "Chân dung cận cảnh",
+    "angle": "Hơi cao hơn tầm mắt",
+    "focal_length_equivalent": "Điện thoại 26mm hoặc chuyên nghiệp 50mm",
+    "framing": "Tỷ lệ 4:5, khuôn mặt chiếm ưu thế",
+    "focus": "Mắt sắc nét"
+  },
+  "lighting": {
+    "source": "Đèn sợi đốt ấm áp + ánh sáng môi trường yếu",
+    "direction": "Ấm áp từ bên/trước",
+    "highlights": "Ánh sáng dịu nhẹ trên má và tóc",
+    "shadows": "Nhẹ nhàng, dễ chịu"
+  },
+  "mood_and_expression": {
+    "tone": "Thư thái, thân mật, dễ đồng cảm",
+    "expression": "Nụ cười nhẹ nhàng",
+    "atmosphere": "Ấm áp, cảm giác chân thực, thân thuộc như ở nhà"
+  },
+  "style_and_realism": {
+    "style": "Phong cách chụp ảnh chân thực như ảnh chụp bằng iPhone",
+    "imperfections": "Hạt nhẹ, cân bằng trắng hơi không hoàn hảo"
+  },
+  "technical_details": {
+    "aspect_ratio": "4:5",
+    "noise": "Hạt nhiễu nhẹ từ cảm biến điện thoại",
+    "motion_blur": "Không có mờ chuyển động trên khuôn mặt"
+  },
+  "constraints": {
+    "adult_only": true,
+    "no_text": true,
+    "no_logos": true,
+    "no_watermarks": true
+  },
+  "negative_prompt": [
+    "da nhựa",
+    "làm mịn quá mức",
+    "thừa ngón tay",
+    "cốc bị biến dạng",
+    "chữ có thể đọc được",
+    "logo",
+    "hình mờ",
+    "khỏa thân",
+    "quầng vú",
+    "núm vú",
+    "vải xuyên thấu",
+    "đồ lót hở hang"
+  ]
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041021_oh0a0c_G_WgPOoXEAAxhXA.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân Dung Cận Cảnh Ấm Cúng Với Cốc Cà Phê - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [tusina](https://x.com/tusinaai)
+- **Nguồn:** [Twitter Post](https://x.com/tusinaai/status/2014692737631522816)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7363)**
+
+---
+
+### No. 10: Hồ sơ / Ảnh đại diện - Tạo Thiên thần hộ mệnh với Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một người dùng đã tạo ra hình ảnh một thiên thần hộ mệnh được bao quanh bởi hoa và ánh sáng bằng Nano Banana Pro, chia sẻ lời nhắc trong văn bản ALT để người khác dùng thử.
+
+#### 📝 Câu lệnh
+
+```
+👼🌸 Đã thử biến thành thiên thần hộ mệnh bằng AI
+
+Một khoảnh khắc bình yên cho trái tim bạn…✨
+Khoảng thời gian êm đềm được bao quanh bởi hoa và ánh sáng 💐
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037652_sb9oh0_G_WY67Ha8AA30nM.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Tạo Thiên thần hộ mệnh với Nano Banana Pro - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ちゃろん](https://x.com/charon_artist)
+- **Nguồn:** [Twitter Post](https://x.com/charon_artist/status/2014684553877877167)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7359)**
+
+---
+
+### No. 11: Hồ sơ / Ảnh đại diện - Chân dung cận cảnh thân mật với Khóa nhận dạng
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc để tạo ra một bức chân dung cận cảnh siêu thực, thân mật của một phụ nữ trẻ, yêu cầu khóa nhận diện khuôn mặt 100% dựa trên hình ảnh tham chiếu. Cảnh này có ánh sáng mềm mại, huyền ảo, khung cửa sổ với rèm ren, và tập trung vào đôi mắt xanh sáng cùng mái tóc đen với phần mái lưa thưa của chủ thể.
+
+#### 📝 Câu lệnh
+
+```
+100% giống mặt, chất lượng cao, cận cảnh thân mật, chân dung siêu thực của một phụ nữ trẻ với ánh nhìn quyến rũ tinh tế. Đầu cô hơi nghiêng, vai phải lộ ra, gợi ý một bộ trang phục trễ vai hoặc hở vai. Cô được bao quanh một phần bởi một tấm rèm hoặc vải ren trắng mềm mại ở phía bên trái của hình ảnh. Cô có mái tóc đen thẳng dài với phần mái lưa thưa, hơi rối nhẹ nhàng ôm lấy khuôn mặt. Đôi mắt xanh dương sáng tuyệt đẹp của cô là điểm nhấn, với đường kẻ mắt đen tinh tế và hàng mi rõ nét. Má cô có một chút ửng hồng tự nhiên, và đôi môi đầy đặn với sắc hồng nhạt tự nhiên. Có một chiếc bông tai ngọc trai đơn lẻ có thể nhìn thấy ở tai phải của cô. Ánh sáng mềm mại và huyền ảo, làm nổi bật các đường nét và kết cấu của ren. Chi tiết phức tạp, ánh sáng điện ảnh, vẻ ngoài ấn tượng, đang thịnh hành trên ArtStation.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235965177_4otomf_G_WQQJjbcAAbaGf.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cận cảnh thân mật với Khóa nhận dạng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014675018643595489)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7259)**
+
+---
+
+### No. 12: Hồ sơ / Ảnh đại diện - Tạo ảnh phong cách thần tượng Hàn Quốc
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một người dùng đã tạo ảnh cho Instagram story bằng Nano Banana, đặc biệt yêu cầu nhân vật phải tạo dáng và có phong cách như một thần tượng Hàn Quốc.
+
+#### 📝 Câu lệnh
+
+```
+Lời nhắc là để làm cho nó trông giống một thần tượng Hàn Quốc lol
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236039917_vdekhz_G_Vj36naoAARwpY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Tạo ảnh phong cách thần tượng Hàn Quốc - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ROMI｜美容・女性向けLPデザイナー](https://x.com/hiro___design)
+- **Nguồn:** [Twitter Post](https://x.com/hiro___design/status/2014626301827748311)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7361)**
+
+---
+
+### No. 13: Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung selfie trong phòng tắm siêu thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một JSON prompt cực kỳ chi tiết được thiết kế để tạo ra một bức ảnh chân dung selfie trong phòng tắm siêu thực, tập trung vào việc duy trì tính nhất quán về nhận dạng, tỷ lệ cơ thể cụ thể (ngực lớn), các đặc điểm khuôn mặt chi tiết (tàn nhang, nốt ruồi) và một phong cách tự nhiên, mang tính thẩm mỹ của mạng xã hội.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "demographics": "Phụ nữ trẻ trong ảnh tham chiếu",
+    "hair": {
+      "color": "Màu vàng bẩn đến vàng nhạt chuyển màu.",
+      "style": "Tóc dài, thẳng với gợn sóng nhẹ, cắt lớp, rẽ ngôi tự nhiên.",
+      "texture": "Tóc mềm mại, tự nhiên, hơi rối, lộ chân tóc.",
+      "movement": "Rơi tự nhiên qua vai và lưng."
+    },
+    "face": {
+      "shape": "Mặt trái xoan với đường hàm mềm mại.",
+      "eyes": "Mắt hình quả hạnh, mống mắt màu xanh lam/xám nhạt, kẻ mắt cánh sắc nét màu đen rõ ràng.",
+      "nose": "Mũi hếch, sống mũi mềm mại.",
+      "lips": "Môi đầy đặn, căng mọng, hồng hào, hơi hé mở với biểu cảm bĩu môi.",
+      "skin_details": "Nhiều tàn nhang đậm trên mũi và má. Kết cấu mịn nhưng có vân da chân thực. Má hồng tự nhiên.",
+      "micro_details": "Nốt ruồi ở ngực trên bên phải, nốt ruồi ở vai trái."
+    },
+    "body_proportions": {
+      "build": "Đầy đặn, cong, ngực lớn.",
+      "chest": "Ngực lớn, nhô ra rõ rệt về phía trước, khe ngực sâu rõ ràng.",
+      "waist_to_chest_ratio": "Chiều rộng ngực rộng hơn đáng kể so với eo ngụ ý dáng đồng hồ cát.",
+      "shoulders": "Mềm mại, tròn, dốc tự nhiên.",
+      "dominance": "Thể tích phần thân trên chiếm ưu thế về mặt thị giác trong khung hình."
+    },
+    "clothing": {
+      "top": "Áo ba lỗ/áo camisole dệt kim gân màu xám thạch.",
+      "fit": "Ôm sát, vừa vặn, căng qua phần ngực, cổ áo khoét sâu.",
+      "straps": "Dây áo dày, nằm chắc chắn trên vai."
+    },
+    "accessories": {
+      "jewelry": [
+        "Khuyên tai vòng nhỏ bằng vàng.",
+        "Dây chuyền vàng với mặt dây chuyền chữ '{argument name=\"pendant letter\" default=\"G\"}' nhỏ.",
+        "Dây chuyền vàng mỏng dài hơn với mặt dây chuyền hình chuột túi đặc biệt."
+      ]
+    }
+  },
+  "pose": {
+    "type": "Góc nhìn selfie cầm tay.",
+    "orientation": "Cận cảnh chính diện, hơi nghiêng từ trên xuống.",
+    "head_position": "Hơi nghiêng về bên phải của chủ thể.",
+    "limbs": "Cánh tay phải duỗi về phía trước (ra khỏi khung hình) cho thấy đang cầm máy ảnh.",
+    "gaze": "Nhìn thẳng vào ống kính, quyến rũ và tự tin.",
+    "spine_curvature": "Hơi cong ngụ ý bởi sự nổi bật của ngực."
+  },
+  "setting": {
+    "environment": "Phòng tắm gia đình.",
+    "background_elements": "Tường gạch bóng màu nâu sẫm/xám, vòi sen mạ crôm hiển thị ở bên trái, phần trên của bồn cầu sứ trắng hiển thị ở bên phải.",
+    "depth": "Độ sâu trường ảnh nông, các yếu tố nền hơi mờ."
+  },
+  "camera": {
+    "shot_ty": ""
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236020889_zchccm_G_Vj4ukWkAACwr9.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung selfie trong phòng tắm siêu thực - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014626240632913940)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7334)**
+
+---
+
+### No. 14: Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh selfie cặp đôi Zootropolis trước gương
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một JSON prompt chi tiết để tạo ảnh selfie siêu thực, cực kỳ chi tiết của một cặp đôi trong cửa hàng Disney, đội mũ nhân vật Zootropolis cỡ lớn sang trọng (Nick Wilde và Judy Hopps), nhấn mạnh trang điểm K-beauty, phụ kiện cụ thể và lấy nét sắc nét.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "prompt": {
+    "scene": {
+      "type": "ảnh selfie phản chiếu trong gương siêu thực",
+      "device": "iPhone 15 Pro Max",
+      "resolution": "8K",
+      "style": "chụp ảnh chân thực, siêu chi tiết",
+      "aesthetic": "Zootropolis fandom",
+      "composition": "ảnh selfie cặp đôi phản chiếu trong gương hình bầu dục"
+    },
+    "subjects": {
+      "left_subject": {
+        "type": "người đàn ông trẻ",
+        "identity": "sử dụng các đặc điểm khuôn mặt từ Ảnh 1",
+        "expression": "vui tươi, tinh nghịch (khớp với biểu cảm tham chiếu)",
+        "pose": "đứng bên trái gương",
+        "clothing_hair": "trang phục và kiểu tóc giống như Ảnh 1",
+        "accessories": {
+          "hat": {
+            "character": "Nick Wilde (Zootropolis)",
+            "color": "màu cam",
+            "details": "mũ nhân vật Disney sang trọng cỡ lớn với tai cáo to và đôi mắt ranh mãnh thêu"
+          }
+        }
+      },
+      "right_subject": {
+        "type": "người phụ nữ trẻ",
+        "identity": "sử dụng các đặc điểm khuôn mặt từ Ảnh 2",
+        "expression": "nháy mắt tinh nghịch",
+        "pose": "đứng bên phải gương, cầm một chiếc điện thoại màu vàng tươi",
+        "nails": "sơn móng tay ánh kim",
+        "hair": {
+          "style": "tóc dài, thẳng"
+        },
+        "clothing": {
+          "top": "áo yếm {argument name=\"woman's top color\" default=\"màu hồng cánh sen\"}"
+        },
+        "accessories": {
+          "hat": {
+            "character": "Judy Hopps (Zootropolis)",
+            "color": "màu xám",
+            "details": "mũ nhân vật Disney sang trọng cỡ lớn với tai thỏ hồng dài và đôi mắt tím to"
+          },
+          "necklace": "vòng cổ ngọc trai ngắn ôm sát cổ",
+          "rings": "nhiều nhẫn trên các ngón tay"
+        },
+        "makeup": {
+          "style": "trang điểm K-beauty Hàn Quốc",
+          "skin": "làn da căng bóng",
+          "blush": "má hồng tự nhiên nhẹ nhàng",
+          "eyeliner": "kẻ mắt đen",
+          "contact_lenses": "kính áp tròng màu (xanh dương hoặc xám)",
+          "lips": "son môi ombre hồng với tông màu đỏ"
+        }
+      }
+    },
+    "environment": {
+      "location": "bên trong cửa hàng đồ chơi / quà lưu niệm Disney",
+      "background": {
+        "details": "kệ mờ chứa đầy đồ chơi Disney",
+        "lighting": "ánh sáng trung tâm thương mại ngày lễ",
+        "ceiling": "đèn treo trang trí"
+      }
+    },
+    "lighting": {
+      "type": "ánh sáng trung tâm thương mại mềm mại",
+      "effect": "chiếu sáng đều, màu sắc rực rỡ, không có bóng đổ gắt"
+    },
+    "quality": {
+      "detail_level": "cực kỳ cao",
+      "textures": "kết cấu chân thực sang trọng, sợi lông riêng lẻ trên mũ có thể nhìn thấy",
+      "color": "màu sắc tươi sáng bão hòa",
+      "noise": "không có",
+      "focus": "lấy nét sắc nét hoàn hảo vào khuôn mặt và mũ"
+    },
+    "framing": {
+      "shot_type": "ảnh selfie phản chiếu trong gương",
+      "mirror": "gương hình bầu dục",
+      "focus_priority": "khuôn mặt và mũ nhân vật được căn giữa khung hình"
+    }
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022299_6jacmu_G_VYQVsWQAAYCwy.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh selfie cặp đôi Zootropolis trước gương - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022373_nq6d8j_G_VYQYNXwAEnamR.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh selfie cặp đôi Zootropolis trước gương - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022292_hv4xih_G_VYQZCX0AAiKrR.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh selfie cặp đôi Zootropolis trước gương - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236023410_40ijj4_G_VYQbbXMAA1vEJ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh selfie cặp đôi Zootropolis trước gương - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
+- **Nguồn:** [Twitter Post](https://x.com/DavisonDabiri/status/2014613454212973000)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7338)**
+
+---
+
+### No. 15: Hồ sơ / Ảnh đại diện - Ảnh Tự Chụp Trước Gương Hiện Đại Trong Căn Hộ Tối Giản
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON mô tả một bức ảnh selfie trong gương hiện đại, độ nét cao được chụp bởi một phụ nữ trẻ trong căn hộ tối giản vào ban đêm. Lời nhắc chỉ rõ trang phục của chủ thể (áo cardigan lửng màu xám, quần legging màu xanh lá cây đậm), môi trường (cửa kính lớn, đồ nội thất hiện đại, một chú mèo trắng nhỏ) và ánh sáng (ánh sáng dịu nhẹ trong nhà với tông màu lạnh).
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "description": "Một phụ nữ trẻ với mái tóc dài, thẳng màu nâu nhạt đang chụp ảnh tự sướng trước gương.",
+    "features": "Trang điểm tự nhiên, biểu cảm tập trung, làn da rám nắng.",
+    "attire": [
+      "Áo khoác cardigan lửng tay dài màu xám nhạt với các chi tiết nút",
+      "Quần legging cạp cao màu xanh lá cây đậm"
+    ],
+    "pose": "Đứng, cầm điện thoại thông minh màu xanh lá cây nhạt, một tay đặt lên bụng."
+  },
+  "environment": {
+    "setting": "Căn hộ nội thất hiện đại, tối giản vào ban đêm.",
+    "elements": [
+      "Cửa trượt kính lớn",
+      "Ghế sofa đơn hiện đại màu trắng bo tròn",
+      "Một chú mèo trắng nhỏ đang nằm trên đồ nội thất",
+      "Màn hình tivi hiển thị trong phản chiếu nền"
+    ],
+    "flooring": "Gạch lát sàn lớn màu xám mờ."
+  },
+  "aesthetic": {
+    "lighting": "Ánh sáng trong nhà dịu nhẹ với tông màu lạnh từ cửa sổ phía sau.",
+    "composition": "Ảnh tự sướng trước gương theo chiều dọc, chụp từ eo trở lên/toàn thân, chủ thể ở giữa.",
+    "color_palette": ["Xanh lá cây đậm", "Xám lông chồn", "Trắng ngà", "Xanh bạc hà trầm"]
+  },
+  "technical": {
+    "camera_feel": "Chụp ảnh bằng điện thoại di động, kết cấu chân thực, độ sâu trường ảnh nhẹ.",
+    "resolution": "Độ nét cao, đường nét rõ ràng."
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235967289_of5c05_G_VTA_CagAAN1B8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh Tự Chụp Trước Gương Hiện Đại Trong Căn Hộ Tối Giản - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014607688823710046)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7262)**
+
+---
+
+### No. 16: Hồ sơ / Ảnh đại diện - Lời nhắc: Chân dung siêu thực của người đàn ông tại khu nghỉ dưỡng ven biển
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc chi tiết để tạo ra một bức chân dung cận cảnh siêu thực về một người đàn ông lịch lãm tại một khu nghỉ dưỡng sang trọng bên bờ biển trong "giờ xanh", nhấn mạnh trang phục cụ thể (áo sơ mi vải lanh màu xanh nõn chuối), hiệu ứng bokeh từ đèn cổ tích và yêu cầu sử dụng ảnh tham chiếu để đảm bảo sự nhất quán về khuôn mặt.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "image_prompt": {
+    "description": "Một bức chân dung cận cảnh, siêu thực về một người đàn ông tinh tế ở độ tuổi 24 với bộ râu được cắt tỉa sắc sảo, rõ nét và mái tóc đen bồng bềnh được tạo kiểu. Anh ấy mặc một chiếc áo sơ mi vải lanh cao cấp, có họa tiết sọc nhỏ màu trắng và {argument name=\"shirt color\" default=\"xanh nõn chuối\"} với tay áo được xắn nhẹ, kết hợp với quần chinos màu trắng ngà được may đo. Anh ấy đang tựa một cách tự nhiên vào lan can ban công hiện đại, bóng bẩy tại một khu nghỉ dưỡng sang trọng bên bờ biển. Cảnh diễn ra trong 'giờ xanh' ngay sau khi mặt trời lặn; bầu trời có màu chàm đậm. Ở hậu cảnh được làm mờ nhẹ, một vọng lâu bằng gỗ được chiếu sáng bởi những dây đèn cổ tích màu vàng ấm áp, tạo hiệu ứng bokeh đẹp mắt. Ánh sáng trên chủ thể là sự kết hợp giữa ánh sáng hoàng hôn dịu nhẹ và ánh sáng ấm áp từ bên cạnh, làm nổi bật kết cấu vải và ánh kim loại của chiếc đồng hồ đeo tay màu bạc. Được chụp bằng ống kính 35mm, f/1.8, phân loại màu điện ảnh, lấy nét sắc nét vào khuôn mặt, lỗ chân lông và sợi tóc cực kỳ chi tiết, 8k UHD." Vui lòng sử dụng ảnh của tôi trên khuôn mặt
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236027268_8dk2wg_G_VQZxuXUAEnU_N.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc: Chân dung siêu thực của người đàn ông tại khu nghỉ dưỡng ven biển - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [𝗦𝗮𝗿𝗶𝗺](https://x.com/Sareem48)
+- **Nguồn:** [Twitter Post](https://x.com/Sareem48/status/2014604815540605010)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7345)**
+
+---
+
+### No. 17: Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung bộ ba điện ảnh siêu thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một prompt cho Nano Banana Pro sử dụng ảnh đã tải lên để tham chiếu nhận dạng nghiêm ngặt nhằm tạo ra một triptych điện ảnh chân thực (bố cục ba khung hình trong một ảnh). Bối cảnh là không gian làm việc của một nghệ sĩ kỹ thuật số tương lai vào ban đêm, được thể hiện với ánh sáng và kết cấu chân thực lấy cảm hứng từ cyberpunk.
+
+#### 📝 Câu lệnh
+
+```
+sử dụng ảnh đã tải lên làm tham chiếu nhận dạng chính xác. giữ nguyên người, khuôn mặt, các đặc điểm và tỷ lệ khuôn mặt, tạo một bức chân dung bộ ba điện ảnh siêu thực (bố cục ba khung hình trong một ảnh). bối cảnh: không gian làm việc của nghệ sĩ kỹ thuật số tương lai vào ban đêm, màn hình phát sáng, phản chiếu ba chiều tinh tế, đèn thành phố neon bên ngoài cửa sổ. khung hình 1 (trên cùng): cảnh quay điện ảnh rộng, người đó đang ngồi trong một studio công nghệ hiện đại, làm việc với giao diện kỹ thuật số phát sáng. khung hình 2 (giữa): chân dung nhìn nghiêng, biểu cảm tập trung, phản chiếu neon mềm mại trên khuôn mặt. khung hình 3 (dưới cùng): chân dung cảm xúc cận cảnh mắt, kết cấu da, phản chiếu ánh sáng tinh tế. phong cách: nhiếp ảnh thực tế, lấy cảm hứng từ cyberpunk nhưng chân thực, không phải minh họa. ánh sáng: ánh sáng viền neon điện ảnh, ánh sáng thể tích mềm mại, kết cấu da tự nhiên. máy ảnh: dslr full-frame, giao diện ống kính 85mm, tỷ lệ hình ảnh 4:5, độ sâu trường ảnh nông. siêu chân thực, da tự nhiên, nhiếp ảnh chuyên nghiệp, không cgi, không minh họa.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235974652_desnv7_G_VOi77bkAAPRfq.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung bộ ba điện ảnh siêu thực - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014602773720138097)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7273)**
+
+---
+
+### No. 18: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trong gương ở phòng ngủ ấm cúng, thân mật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +1736,7 @@ Một lời nhắc chi tiết định dạng JSON cho Nano Banana Pro để tạ
 
 ---
 
-### No. 2: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trước gương phòng thử đồ thời trang cao cấp (Phong cách Bella Hadid)
+### No. 19: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trước gương phòng thử đồ thời trang cao cấp (Phong cách Bella Hadid)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -730,1375 +1772,6 @@ Một JSON prompt cực kỳ chi tiết dành cho Nano Banana Pro để tạo ra
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7211)**
-
----
-
-### No. 3: Hồ sơ / Ảnh đại diện - Lời nhắc chân dung theo phong cách Notion
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo ảnh chân dung theo phong cách Notion, cho thấy một phong cách thẩm mỹ cụ thể cho ảnh hồ sơ chuyên nghiệp hoặc cá nhân, mặc dù văn bản lời nhắc không hiển thị đầy đủ.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung phong cách Notion trong vài giây
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391716_y0s3if_G_SnZVIWkAAoaF9.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc chân dung theo phong cách Notion - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [AmirMušić](https://x.com/AmirMushich)
-- **Nguồn:** [Twitter Post](https://x.com/AmirMushich/status/2014418990018261493)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7235)**
-
----
-
-### No. 4: Hồ sơ / Ảnh đại diện - Lời nhắc để biến chủ thể thành vận động viên bóng chuyền bãi biển
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Mô tả
-
-Một câu lệnh được sử dụng với Nano Banana Pro để biến đổi một chủ thể thành vận động viên bóng chuyền bãi biển, nhấn mạnh cú nhảy và đập bóng mạnh mẽ dưới ánh nắng mặt trời.
-
-#### 📝 Câu lệnh
-
-```
-Biến thành vận động viên bóng chuyền bãi biển bằng AI
-
-Cú bật nhảy hết sức dưới nắng! ☀️
-Tôi sẽ tung ra một cú đập bóng đẹp mắt! 💪
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377394_p9ix75_G_RPVE7bUAAzb4T.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc để biến chủ thể thành vận động viên bóng chuyền bãi biển - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [ちゃろん](https://x.com/charon_artist)
-- **Nguồn:** [Twitter Post](https://x.com/charon_artist/status/2014322162761642249)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7205)**
-
----
-
-### No. 5: Hồ sơ / Ảnh đại diện - Chân dung trong nhà siêu thực với ánh sáng điện ảnh ấm áp
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc Nano Banana Pro có cấu trúc cao để tạo ra một bức chân dung trong nhà siêu thực, tập trung vào một chủ thể trong bối cảnh phòng ngủ. Nó chỉ định các thuộc tính chi tiết cho chủ thể (ràng buộc về độ giống, đặc điểm thể chất), trang phục (váy ngủ lụa), phụ kiện (trang sức vàng, đồng hồ), ánh sáng điện ảnh ấm áp và bố cục (độ sâu trường ảnh nông, khung hình dọc).
-
-#### 📝 Câu lệnh
-
-```
-{
-  "metadata": {
-    "version": "1.0",
-    "description": "Chân dung trong nhà siêu thực với các ràng buộc chi tiết về chủ thể, trang phục, phụ kiện, ánh sáng và bố cục",
-    "aspect_ratio": 3.4
-  },
-  "subject": {
-    "identity": {
-      "name": "Người tôi đã tải lên",
-      "likeness_constraint": "100% giống mặt và cơ thể",
-      "age_representation": "người lớn"
-    },
-    "physical_attributes": {
-      "gender": "nữ",
-      "body_type": "thon gọn, cân đối",
-      "skin_tone": "tự nhiên, ấm áp",
-      "facial_expression": "dịu dàng, điềm tĩnh, thư thái",
-      "hair": {
-        "color": "nâu sẫm",
-        "style": "buông xõa, tự nhiên",
-        "length": "trung bình đến dài"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "type": "váy ngủ",
-      "fit": "thoải mái nhưng tôn dáng",
-      "material": "vải lụa, nhẹ",
-      "texture": "mịn với độ bóng nhẹ",
-      "design_details": {
-        "neckline": "cổ áo mềm mại, thanh lịch",
-        "straps": "dây áo mỏng, tinh tế",
-        "length": "ngắn đến giữa đùi",
-        "color_palette": [
-          "{argument name=\"nighty color 1\" default=\"soft champagne\"}",
-          "hồng phấn dịu",
-          "trắng ngà sáng"
-        ]
-      }
-    }
-  },
-  "accessories": {
-    "jewelry": {
-      "earrings": {
-        "type": "dáng dài",
-        "material": "vàng",
-        "finish": "đánh bóng"
-      },
-      "bracelets": {
-        "type": "vòng tay hạt xếp chồng",
-        "material": "hạt hỗn hợp",
-        "hand": "cổ tay phải"
-      },
-      "watch": {
-        "type": "đồng hồ đeo tay cổ điển",
-        "material": "kim loại",
-        "style": "tối giản"
-      }
-    }
-  },
-  "setting": {
-    "environment": {
-      "location_type": "trong nhà",
-      "room_type": "phòng ngủ",
-      "style": "hiện đại và ấm cúng"
-    },
-    "background_elements": {
-      "lighting_fixture": "đèn bàn",
-      "furniture": [
-        "giường",
-        "tủ đầu giường"
-      ],
-      "decor": "tối giản, tông màu ấm"
-    }
-  },
-  "lighting": {
-    "primary_light": {
-      "source": "đèn",
-      "color_temperature": "ấm",
-      "intensity": "dịu"
-    },
-    "secondary_light": {
-      "type": "ánh sáng lấp đầy xung quanh",
-      "effect": "kiểm soát bóng nhẹ nhàng"
-    },
-    "overall_mood": "thân mật, tĩnh lặng, điện ảnh"
-  },
-  "camera_and_composition": {
-    "camera": {
-      "angle": "ngang tầm mắt",
-      "distance": "cảnh trung",
-      "lens_style": "ống kính chân dung",
-      "depth_of_field": "độ sâu trường ảnh nông"
-    },
-    "framing": {
-      "orientation": "dọc",
-      "subject_position": "ở giữa",
-      "crop": "từ eo trở lên"
-    },
-    "focus": {
-      "priority": "mặt",
-      "background_blur": "hiệu ứng bokeh mềm mại"
-    }
-  },
-  "rendering_style": {
-    "realism_level": "siêu thực",
-    "detail_level": "cao",
-    "skin_rendering": "kết cấu tự nhiên, không làm mịn quá mức",
-    "color_grading": "tông màu điện ảnh ấm áp"
-  },
-  "constraints": {
-    "must_include": [
-      "trang phục váy ngủ",
-      "trang sức vàng",
-      "bối cảnh phòng ngủ trong nhà"
-    ]
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_6hcfiv_G_RIlWYbkAALmzw.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung trong nhà siêu thực với ánh sáng điện ảnh ấm áp - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_fcmy1h_G_RIlWZbkAAaxqJ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung trong nhà siêu thực với ánh sáng điện ảnh ấm áp - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Nguồn:** [Twitter Post](https://x.com/Adam38363368936/status/2014315011225887125)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7220)**
-
----
-
-### No. 6: Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung nội thất ô tô mơ màng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một prompt Nano Banana Pro chi tiết để tạo ra một bức chân dung cận cảnh siêu thực, mơ màng và thanh lịch của một phụ nữ trẻ bên trong ô tô, nhấn mạnh kiểu tóc đặc trưng của Hàn Quốc, các chi tiết trang điểm (môi bóng, má hồng) và ánh sáng mặt trời tự nhiên mạnh mẽ chiếu từ bên cạnh.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "cô gái trẻ",
-      "age": "đầu 20",
-      "pose": {
-        "location": "bên trong ô tô",
-        "attitude": "tự tin",
-        "gesture": "tay đưa lên che miệng với nụ cười e ấp",
-        "expression": "mơ màng, dịu dàng, thanh lịch",
-        "gaze": "nhìn vào máy ảnh"
-      },
-      "hair": {
-        "color": "nâu sẫm",
-        "length": "dài đến eo",
-        "style": "rẽ ngôi lệch trái, lượn sóng nhẹ ở đuôi, vài sợi tóc mái nhỏ, kiểu Hàn Quốc",
-        "motion": "tóc bay nhẹ qua mặt"
-      },
-      "face_makeup": {
-        "eyebrows": "màu sáng tự nhiên, gọn gàng",
-        "eyelashes": "lông mi giả, dày",
-        "cheeks": "má hồng nude hồng nhạt mềm mại trên má và mũi",
-        "lips": "màu nude-đỏ, bóng và ẩm mượt"
-      },
-      "eyes": {
-        "accessory": "kính râm mắt mèo màu đen, đeo trên đầu"
-      },
-      "clothing": {
-        "top": "áo hai dây mỏng, màu xanh với viền xanh",
-        "accessories": [
-          "vòng cổ bạc ngắn với mặt dây chuyền lá xanh nhỏ",
-          "hoa tai bạc nhỏ hình lá xanh"
-        ]
-      }
-    },
-    "environment": {
-      "car_interior": "nội thất ô tô tối, ghế màu nâu ở phía sau",
-      "outside_view": "bầu trời xanh sáng nhìn thấy qua cửa sổ bên phải"
-    },
-    "lighting": {
-      "type": "ánh sáng mặt trời tự nhiên từ bên trái",
-      "effect": "điểm nhấn mạnh trên tóc và da, cực kỳ sáng, tự nhiên"
-    },
-    "camera": {
-      "angle": "ngang tầm mắt, cận cảnh",
-      "focus": "khuôn mặt, biểu cảm và chi tiết tóc"
-    },
-    "style": {
-      "realism": "siêu thực",
-      "quality": "Ultra HD, chi tiết cao, kết cấu sắc nét, màu sắc sống động",
-      "mood": "mơ màng, dịu dàng, thanh lịch"
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384248_rhm1jd_G_QgJUJW4AAiW0b.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung nội thất ô tô mơ màng - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384219_m4a9f9_G_QgJTqWkAAabG2.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung nội thất ô tô mơ màng - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384214_gnxgrz_G_QgJP9W4AAcL7h.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung nội thất ô tô mơ màng - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384986_v3mgme_G_QgJXBWwAIumXF.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo ảnh chân dung nội thất ô tô mơ màng - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Nguồn:** [Twitter Post](https://x.com/DavisonDabiri/status/2014270293431161076)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7219)**
-
----
-
-### No. 7: Hồ sơ / Ảnh đại diện - Lời nhắc để biến chủ thể thành một Tổng lãnh thiên thần
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Mô tả
-
-Một câu lệnh được sử dụng với Nano Banana Pro để biến đổi một chủ thể thành 'Đại Thiên Thần' với ánh sáng thần thánh và chủ đề sứ giả của thiên đường.
-
-#### 📝 Câu lệnh
-
-```
-Được chuyển hóa thành Đại Thiên Thần bằng AI
-
-Một sứ giả từ thiên đường...! 🕊️
-Thanh tẩy mọi thứ bằng ánh sáng thánh thiện ✨
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149376546_e0ztqt_G_QYZbMbIAAJesG.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc để biến chủ thể thành một Tổng lãnh thiên thần - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [ちゃろん](https://x.com/charon_artist)
-- **Nguồn:** [Twitter Post](https://x.com/charon_artist/status/2014261765518094438)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7204)**
-
----
-
-### No. 8: Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình ảnh chi tiết cho Nano Banana Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Đây là một lời nhắc JSON được cấu trúc rất chi tiết, được thiết kế cho mô hình tạo ảnh có tên 'Nano banana pro'. Nó chỉ định tuổi, giới tính, các đặc điểm khuôn mặt chi tiết (tóc, da, trang điểm), quần áo, tư thế, biểu cảm của chủ thể và bối cảnh phòng tắm hiện đại phức tạp, cùng với các chi tiết kỹ thuật về ánh sáng và bố cục. Mục đích là để tạo ra một hình ảnh cận cảnh vừa phải của một phụ nữ trẻ đang cúi người trên quầy.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt": {
-    "subject": {
-      "age": {
-        "argument name": "age",
-        "default": "20"
-      },
-      "gender": "nữ",
-      "hair": {
-        "color": "vàng hoe",
-        "style": "hai bím tóc cao được buộc bằng scrunchie màu hồng nhạt",
-        "length": "dài vừa phải",
-        "texture": "thẳng với một vài lọn sóng"
-      },
-      "skin": {
-        "tone": "sáng, với tông màu vàng ấm",
-        "texture": "mịn màng, rạng rỡ"
-      },
-      "face": {
-        "eyes": {
-          "color": "xanh lam/xanh lục nhạt",
-          "makeup": "kẻ mắt tinh tế, mascara"
-        },
-        "brows": {
-          "color": "vàng sẫm",
-          "shape": "vòm rõ nét"
-        },
-        "nose": {
-          "shape": "thon gọn, rõ nét"
-        },
-        "lips": {
-          "color": "hồng tự nhiên",
-          "fullness": "đầy đặn, bóng mượt"
-        },
-        "cheeks": {
-          "color": "hồng hào, với điểm nhấn tinh tế"
-        }
-      }
-    },
-    "clothing_and_accessories": {
-      "top": {
-        "type": "áo crop top",
-        "color": "trắng",
-        "fabric": "cotton gân",
-        "details": "tay áo ngắn, cổ khoét sâu"
-      },
-      "bottoms": {
-        "type": "quần short cạp cao",
-        "color": "trắng",
-        "fabric": "cotton gân"
-      },
-      "jewelry": {
-        "necklace": "chuỗi ngọc trai trắng nhỏ",
-        "bracelet": "dây chuyền vàng và đồng hồ bạc lớn trên cổ tay trái"
-      }
-    },
-    "pose_and_expression": {
-      "pose": "nghiêng người về phía trước trên một quầy màu trắng, hai tay đặt lên đó, thân người xoay đi, nhìn qua vai trực tiếp vào máy ảnh",
-      "expression": "ánh mắt quyến rũ, môi hơi hé mở"
-    },
-    "setting_and_background": {
-      "location": "phòng tắm hiện đại",
-      "counter": "đá thạch anh/đá cẩm thạch trắng",
-      "shower": "vách kính với phụ kiện màu vàng, tường lát gạch",
-      "towel_rack": {
-        "material": "giá treo khăn bằng gỗ đứng",
-        "contents": [
-          {
-            "type": "áo choàng",
-            "color": "vải bông trắng",
-            "details": "chữ thêu ở mặt sau"
-          },
-          {
-            "type": "khăn tắm",
-            "color": "đỏ"
-          },
-          {
-            "type": "khăn tắm",
-            "color": "trắng"
-          }
-        ]
-      },
-      "door": "khung đen, tấm trắng"
-    },
-    "technical_details": {
-      "lighting": "sáng, ánh sáng tự nhiên ban ngày",
-      "shot_type": "cận cảnh vừa",
-      "focus": "sắc nét vào chủ thể, hậu cảnh hơi mờ"
-    }
-  },
-  "aspect_ratio": "4:5"
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149378052_okkgag_G_Pv8-TaIAA7hlp.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình ảnh chi tiết cho Nano Banana Pro - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [sammy](https://x.com/sumiturkude007)
-- **Nguồn:** [Twitter Post](https://x.com/sumiturkude007/status/2014217296445837380)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7207)**
-
----
-
-### No. 9: Hồ sơ / Ảnh đại diện - Lời nhắc chụp ảnh tự sướng trước gương bốn tư thế với bikini và tóc bím
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo ảnh selfie gương đa khung hình của một phụ nữ tóc vàng mặc bikini họa tiết hoa màu xanh. Nó chỉ định bốn tư thế riêng biệt, mô tả chi tiết phụ kiện của cô ấy (tóc tết hai bên, khuyên tai vàng hình tròn, kính râm có thanh ngang), và môi trường phòng ngủ tối giản, hướng đến một phong cách tự tin, vui tươi, giản dị.
-
-#### 📝 Câu lệnh
-
-```
-Người phụ nữ tóc vàng trưởng thành chụp ảnh selfie trước gương, hai bím tóc tết, bikini hoa xanh viền vàng, khuyên tai khoen vàng, kính râm trên đầu, dép xỏ ngón màu vàng, bốn tư thế cạnh nhau: ngồi xổm cầm điện thoại, ngồi giữ bím tóc, đứng gập một chân, cúi người về phía trước tay đặt trên đùi, chu môi tinh nghịch, phòng ngủ tối giản, thảm màu be nhạt, cửa tủ quần áo lá sách màu trắng, tường màu kem, gương toàn thân khung vàng, ánh sáng tự nhiên ban ngày, ánh sáng mềm mại đều, phản chiếu điện thoại thông minh ngang tầm mắt, các biến thể toàn thân, kết cấu sắc nét, tông màu da chân thực, tự tin tinh nghịch giản dị, bảng màu xanh vàng be trắng vàng --ar 16:9
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063187349_uzlamq_G_NLw8PaIAM6vIC.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc chụp ảnh tự sướng trước gương bốn tư thế với bikini và tóc bím - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Feyber | AI & WEB3](https://x.com/woleswoosh)
-- **Nguồn:** [Twitter Post](https://x.com/woleswoosh/status/2014097170786373696)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7072)**
-
----
-
-### No. 10: Hồ sơ / Ảnh đại diện - Ảnh selfie gương phòng tập chân thực (JSON có cấu trúc)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một JSON prompt có cấu trúc, chi tiết cao để tạo ra một bức ảnh selfie gương phòng gym chân thực. Nó chỉ định bố cục (góc nhìn ba phần tư từ phía sau), các đặc điểm của chủ thể (thân hình thể thao, tóc đen, trang phục cụ thể như áo crop top màu vàng và quần short màu xanh lá cây), và môi trường phòng gym hiện đại. Prompt này hướng đến chất lượng kỹ thuật cao, lấy nét sắc nét và mang lại cảm giác thoải mái, tự tin sau khi tập luyện.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt_type": "ảnh tự chụp trong gương ở phòng gym theo phong cách chân thực",
-  "main_composition": "ảnh tự chụp trong gương từ phía sau ba phần tư lưng của một phụ nữ trẻ độc thân đang tự tin đứng trong một phòng gym hiện đại trên khu vực cỏ nhân tạo màu xanh, tay phải cầm iPhone để chụp ảnh với hình phản chiếu cho thấy mặt trước và biểu cảm trung tính tinh tế, tư thế thoải mái tự nhiên với hông hơi nghiêng và dồn trọng lượng vào một chân, làm nổi bật những đường cong thể thao, ánh sáng trong nhà rực rỡ với các máy tập cardio và cửa sổ lớn ở phía sau",
-  "subject": {
-    "description": "một phụ nữ trẻ xinh đẹp ở độ tuổi đầu 20, các đường nét nữ tính quyến rũ với lớp trang điểm tự nhiên nhẹ nhàng (kẻ mắt sắc nét, lông mi dài, tạo khối tinh tế, môi bóng), đôi mắt to biểu cảm có thể nhìn thấy trong hình phản chiếu của gương, làn da rám nắng mịn màng với vẻ rạng rỡ khỏe mạnh và thân hình đồng hồ cát săn chắc, khỏe khoắn",
-    "clothing": "áo crop top dài tay màu vàng ôm sát có lỗ xỏ ngón cái và họa tiết tinh tế, quần short thể thao cạp cao màu xanh lá cây không đường may với chi tiết nhún bèo ở phía sau và logo nhỏ màu trắng trên cạp quần, tất cổ cao màu trắng kéo đến giữa bắp chân, giày thể thao trắng thấp cổ sạch sẽ",
-    "details": "mái tóc đen dài gợn sóng buông xõa được buộc cao với độ phồng tự nhiên và những sợi tóc lòa xòa ôm lấy khuôn mặt, biểu cảm tự tin trung tính tinh tế trong hình phản chiếu của gương khi nhìn vào điện thoại, móng tay màu trung tính được cắt tỉa cẩn thận có thể nhìn thấy khi cầm điện thoại với ốp lưng có họa tiết nhiều màu sắc (màu trắng với các vết bắn màu đen hoặc thiết kế trừu tượng), tư thế thoải mái với sự tự tin tự nhiên của cơ thể"
-  },
-  "environment": {
-    "foreground": "khu vực thảm cỏ nhân tạo màu xanh dưới chân",
-    "midground": "gương phòng gym lớn phản chiếu toàn bộ mặt trước và các chi tiết của điện thoại",
-    "background": "phòng gym hiện đại rộng rãi với các hàng máy tập cardio màu đen (máy tập elip với màn hình kỹ thuật số), một chiếc có khăn trắng vắt trên tay cầm, cửa sổ lớn cho phép ánh sáng đêm với khung cảnh ngoài trời mờ ảo, không khí trung tâm thể dục chuyên nghiệp, sạch sẽ"
-  },
-  "lighting_and_atmosphere": "ánh sáng trong nhà phòng gym sáng đều với ánh sáng đêm tự nhiên từ các cửa sổ lớn tạo ra ánh sáng ấm áp dịu nhẹ trên da, tóc, vải màu xanh ngọc và ốp điện thoại bóng loáng, độ bóng tinh tế trên quần legging và các chi tiết giày thể thao, không khí thoải mái tự tin sau buổi tập với độ tương phản cao giữa trang phục đầy màu sắc và thiết bị tối màu, chi tiết chân thực",
-  "technical_quality": "chi tiết cao, lấy nét sắc nét vào chủ thể với kết cấu vải chân thực (áo crop top dài tay co giãn, quần short không đường may bóng loáng), chuyển động của tóc, độ sáng của da, họa tiết ốp điện thoại và độ chính xác của hình phản chiếu trong gương, độ phân giải 8k, phong cách chụp ảnh tự sướng trong gương chuyên nghiệp với độ sâu trường ảnh tự nhiên làm mờ nhẹ các máy móc và cửa sổ ở xa",
-  "negative_prompt_suggestions": "mờ, biến dạng, thừa chi, màn hình điện thoại hiển thị, méo hoặc lệch gương, cửa sổ bị phơi sáng quá mức, chi tiết trang phục bị thiếu sáng, chất lượng thấp, hoạt hình, anime, hình mờ văn bản, người thừa"
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162837_jpq584_G_N9IGRWcAAqVmZ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie gương phòng tập chân thực (JSON có cấu trúc) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162722_dv7qqq_G_N9ICjXIAAQmN8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie gương phòng tập chân thực (JSON có cấu trúc) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162573_utftys_G_N9IL4WEAAX3l8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie gương phòng tập chân thực (JSON có cấu trúc) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063164262_idbkts_G_N9IRPXUAAtuc8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie gương phòng tập chân thực (JSON có cấu trúc) - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2014091052764758102)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7031)**
-
----
-
-### No. 11: Hồ sơ / Ảnh đại diện - Chân dung tự họa hình xăm siêu thực (JSON có cấu trúc)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một JSON prompt chi tiết, có cấu trúc để tạo ra một bức ảnh chân dung selfie cận cảnh chân thực về một phụ nữ trẻ với nhiều hình xăm. Nó chỉ định phong cách cá tính của chủ thể, bao gồm một chiếc váy yếm denim trắng với một dây bị tuột xuống để lộ những hình xăm lớn ở ngực và cánh tay. Bối cảnh là một phòng khách trong nhà ấm cúng, đầy cây xanh với ánh sáng dịu nhẹ, nhấn mạnh sự sắc nét của đường nét và màu sắc hình xăm.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt_type": "chân dung selfie siêu thực",
-  "main_composition": "cận cảnh selfie một phụ nữ trẻ đang cầm điện thoại ở khoảng cách ngang tầm tay, nhìn thẳng vào máy ảnh với vẻ tự tin tinh tế, một dây áo yếm bị tuột xuống vai để lộ hình xăm lớn ở ngực và cánh tay, tư thế thoải mái tự nhiên trong không gian sống trong nhà ấm cúng đầy cây xanh, ánh sáng xung quanh ấm áp với cây xanh tươi tốt và đồ nội thất ở hậu cảnh mờ nhẹ",
-  "subject": {
-    "description": "phụ nữ trẻ xinh đẹp ở độ tuổi đầu 20, các đường nét nữ tính quyến rũ với lớp trang điểm táo bạo theo phong cách alternative (kẻ mắt cánh sắc nét màu tối, lông mi dài, má được tạo khối, môi hồng hoặc nude bóng), đôi mắt to biểu cảm, làn da mịn màng trắng sáng khỏe mạnh, mái tóc dài xoăn nhẹ màu nâu sẫm hoặc đen buông xõa tự nhiên với độ bồng bềnh và hơi rối nhẹ trên vai",
-    "clothing": "váy yếm denim trắng ngắn với họa tiết hoa nhỏ tinh tế khắp thân, dây áo mỏng với khóa kim loại—một dây áo cố tình không cài và tuột khỏi vai để lộ phần ngực trên, không có áo bên trong",
-    "details": "nhiều hình xăm màu sắc nổi bật bao gồm hình xăm dao găm/hoa hồng lớn trên ngực, các hình xăm hoa và họa tiết truyền thống chi tiết trên cả hai cánh tay và bàn tay, hình xăm nhỏ ở cổ, khuyên mũi septum bạc, bàn tay được chăm sóc với móng tay sơn màu tối đang cầm điện thoại, vẻ bĩu môi hoặc mỉm cười tự tin tinh tế với ánh mắt nhìn thẳng, tóc xoăn tự nhiên với những lọn tóc mềm mại ôm lấy khuôn mặt"
-  },
-  "environment": {
-    "foreground": "cánh tay và điện thoại của người phụ nữ được lấy nét sắc nét, chi tiết hình xăm rõ ràng",
-    "midground": "người phụ nữ ở giữa khung hình",
-    "background": "phòng khách hoặc phòng nắng hiện đại ấm cúng trong nhà đầy cây xanh tươi tốt (monstera, cây leo, các loại cây trồng trong chậu), ghế sofa màu tối với gối vàng ở bên trái, các yếu tố gỗ và ánh sáng xung quanh ấm áp gợi lên không khí gia đình thư thái, không có vật dụng lộn xộn trong tiêu điểm"
-  },
-  "lighting_and_atmosphere": "ánh sáng trong nhà mềm mại ấm áp (có thể từ cửa sổ hoặc đèn ngoài khung hình) tạo ra ánh sáng vàng dịu nhẹ trên da, tóc, vải denim trắng và màu sắc hình xăm, bóng đổ tinh tế làm nổi bật đường nét khuôn mặt và đường cong cơ thể, không khí thân mật, tự nhiên, tự tin với độ tương phản cao giữa chủ thể sáng và hậu cảnh ấm cúng tối hơn, chi tiết siêu thực gợi lên vẻ đẹp alternative thư thái",
-  "technical_quality": "chi tiết cao, lấy nét sắc nét vào màu mực và đường nét hình xăm, kết cấu vải denim với họa tiết hoa, sợi tóc, ánh sáng trên da, phản chiếu của khuyên mũi và chi tiết ốp điện thoại, độ phân giải 8k, độ bóng vật liệu chân thực trên denim và các chi tiết trang điểm tinh tế, phong cách chụp ảnh selfie chuyên nghiệp với độ sâu trường ảnh tự nhiên làm mờ nhẹ cây cối và đồ nội thất ở hậu cảnh",
-  "negative_prompt_suggestions": "mờ, biến dạng, thừa chi, ánh sáng flash gắt, da bị cháy sáng, hình xăm bị thiếu sáng, chất lượng thấp, hoạt hình, anime, chữ mờ"
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168050_j02hz2_G_NUON7XkAAT8aB.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tự họa hình xăm siêu thực (JSON có cấu trúc) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168042_p4ck39_G_NUOJ5WsAAJWD8.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tự họa hình xăm siêu thực (JSON có cấu trúc) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168085_zrd8u5_G_NUODYX0AAeYaP.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tự họa hình xăm siêu thực (JSON có cấu trúc) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168787_b192jg_G_NUOMJXQAAsweA.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tự họa hình xăm siêu thực (JSON có cấu trúc) - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2014046077612085611)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7045)**
-
----
-
-### No. 12: Hồ sơ / Ảnh đại diện - Ảnh selfie vui nhộn trong gương với tai mèo và áo corset gấm hồng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một JSON prompt có cấu trúc để tạo ra một bức ảnh selfie gương vui tươi của một phụ nữ trẻ mặc một bộ trang phục cách điệu, rất đặc trưng (áo corset gấm hồng, váy mini kẻ caro, tất cao đến đùi và băng đô tai mèo trắng bông xù). Bối cảnh là một căn hộ hiện đại sáng sủa với cửa sổ lớn, nhấn mạnh ánh sáng tự nhiên và một tư thế vui nhộn, biểu cảm (lè lưỡi, nhìn lên).
-
-#### 📝 Câu lệnh
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "nữ",
-        "age_group": "người trẻ tuổi",
-        "skin_tone": "sáng"
-      },
-      "hair": {
-        "color": "tóc vàng",
-        "length": "dài",
-        "style": "thẳng/gợn sóng",
-        "accessory": "băng đô tai mèo trắng mềm mại"
-      },
-      "face": {
-        "expression": {
-          "mood": "vui tươi",
-          "mouth": "lè lưỡi, cười nhẹ",
-          "gaze": "nhìn lên và sang trái"
-        },
-        "makeup": {
-          "eyes": "trang điểm nhẹ với kẻ mắt cánh",
-          "lips": "màu hồng",
-          "cheeks": "hồng hào",
-          "features": "mũi rõ nét"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "áo corset",
-          "material": "gấm",
-          "color": "hồng",
-          "details": ["dây buộc phía trước", "viền"]
-        },
-        "lower_body": {
-          "item": "váy ngắn",
-          "pattern": "kẻ caro",
-          "color": "hồng",
-          "details": ["nhiều lớp bèo nhún", "viền ren trắng"]
-        },
-        "leg_wear": {
-          "item": "tất cao đến đùi",
-          "color": "trắng",
-          "details": "sọc hồng ở phía trên"
-        },
-        "accessories": {
-          "neck": "vòng cổ choker màu hồng có chuông bạc nhỏ",
-          "ears": "khuyên tai đinh nhỏ",
-          "wrist": "vòng tay vàng tinh xảo"
-        }
-      },
-      "pose": {
-        "action": "chụp ảnh tự sướng qua gương",
-        "hand_position": "cầm điện thoại bằng tay phải",
-        "posture": "đứng"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "nội thất căn hộ hiện đại",
-        "flooring": "sàn gỗ màu xám",
-        "walls": "phần tường ốp gạch màu xám"
-      },
-      "lighting": {
-        "source": "ánh sáng tự nhiên ban ngày",
-        "direction": "từ cửa sổ kính từ trần đến sàn",
-        "quality": "sáng"
-      },
-      "background_elements": {
-        "windows": "cửa sổ lớn từ trần đến sàn, hiển thị cảnh quan thành phố ban ngày sáng sủa và bầu trời",
-        "furniture": {
-          "left": "gấu bông lớn màu nâu tựa vào tường",
-          "right": [
-            "ghế bành bọc nệm trắng",
-            "bàn phụ bằng gỗ",
-            "bình hoa thủy tinh trong suốt trên kệ"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "cây thường xuân giả màu xanh lá cây treo",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "trắng",
-          "position": "phủ lên nền gần ghế"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "nhiếp ảnh",
-      "sub_genre": "ảnh tự sướng qua gương",
-      "device_prop": "iPhone màu trắng",
-      "composition": "phản chiếu hiển thị chủ thể và bối cảnh căn phòng",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167910_ctazh4_G_NLz5sXgAA0Osl.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie vui nhộn trong gương với tai mèo và áo corset gấm hồng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Crystal](https://x.com/Cicily_aura)
-- **Nguồn:** [Twitter Post](https://x.com/Cicily_aura/status/2014036824105074724)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7040)**
-
----
-
-### No. 13: Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình đại diện 3D phong cách Pixar
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc để tạo hình đại diện 3D chất lượng cao dựa trên hình ảnh đã tải lên. Nó chỉ định một khuôn mặt vui vẻ, biểu cảm với nụ cười ấm áp và các đường nét mềm mại, được kết xuất theo phong cách Pixar với kết cấu mịn, tỷ lệ phóng đại và ánh sáng studio mềm mại, đều màu.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một hình đại diện 3D chất lượng cao của người trong ảnh đã tải lên với khuôn mặt tươi tắn, biểu cảm. Nhân vật nên có nụ cười ấm áp, đôi mắt sáng và các đường nét mềm mại trên khuôn mặt tạo cảm giác thân thiện và dễ gần. Kết xuất theo phong cách Pixar với kết cấu mịn, đổ bóng da tinh tế và tỷ lệ hơi phóng đại để có vẻ ngoài dễ thương, hoạt hình. Ánh sáng nên mềm mại và đều, tạo vẻ ngoài studio sạch sẽ với bóng đổ nhẹ nhàng để tăng chiều sâu.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc tạo hình đại diện 3D phong cách Pixar - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Harboriis](https://x.com/harboriis)
-- **Nguồn:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7061)**
-
----
-
-### No. 14: Hồ sơ / Ảnh đại diện - Ảnh selfie gương siêu thực với đặc điểm bạch biến
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Đây là một prompt theo phong cách lan truyền được cấu trúc dưới định dạng JSON để tạo ra một bức ảnh selfie gương chân thực đến siêu thực về một người phụ nữ mắc bệnh bạch biến. Nó mô tả tỉ mỉ ngoại hình của chủ thể (tóc vàng bạch kim, thân hình cân đối, bikini màu hồng), bối cảnh phòng ngủ ấm cúng và điều kiện ánh sáng (giờ vàng ấm áp) để đảm bảo các mảng bạch biến được làm nổi bật một cách tự nhiên, tạo ra một mẫu tương phản đẹp mắt trên da. Đầu ra được chỉ định là một ảnh ghép dọc bốn khung.
-
-#### 📝 Câu lệnh
-
-```
-{
-"type": "image_prompt",
-"style": "ảnh tự chụp gương phong cách đời thường chân thực",
-"scene": {
-"location": "phòng ngủ ấm cúng",
-"flooring": "sàn gỗ ấm áp hoặc thảm trải sàn mềm mại",
-"background": [
-"giường chưa dọn với bộ ga trải giường và gối có họa tiết",
-"tường màu be ấm hoặc xám nhạt",
-"đèn dây hoặc ánh sáng xung quanh ấm áp",
-"tủ đầu giường với sách hoặc nến",
-"có thể có cây xanh hoặc các vật dụng trang trí ấm cúng",
-"gương toàn thân dựa vào tường hoặc gắn trên tường"
-],
-"lighting": "ánh sáng tự nhiên ấm áp pha trộn với ánh sáng xung quanh ấm cúng, cảm giác như hoàng hôn dịu nhẹ, không có bóng đổ gắt, làm nổi bật tự nhiên các mảng da bạch biến"
-},
-"subject": {
-"description": "người phụ nữ trưởng thành đang tự chụp ảnh qua gương",
-"hair": {
-"color": "vàng bạch kim",
-"style": "hai bím tóc tết"
-},
-"skin": {
-"condition": "bạch biến với các mảng da mất sắc tố đặc trưng",
-"distribution": "các mảng rõ ràng trên cánh tay, bàn tay, chân, đùi, bụng, thân, vai - phân bố tự nhiên",
-"base_tone": "màu da trung bình đến rám nắng với tông ấm",
-"texture": "kết cấu da tự nhiên, các mảng bạch biến tạo ra các họa tiết tương phản đẹp mắt trên vùng da lộ ra",
-"lighting_interaction": "ánh sáng ấm áp, dễ chịu làm nổi bật tuyệt đẹp họa tiết da độc đáo, các mảng bắt sáng tạo độ sâu và chiều không gian"
-},
-"face": {
-"features": "xinh đẹp - đôi mắt nai to ngây thơ, mũi nhỏ, môi đầy đặn, một số mảng bạch biến nhỏ có thể nhìn thấy trên mặt/cổ",
-"makeup": "tối giản, tự nhiên, son bóng, trang điểm như không trang điểm"
-},
-"body": {
-"type": "cân đối và đầy đặn",
-"waist": "eo thon",
-"thighs": "đùi đầy đặn, mềm mại",
-"overall": "thể hình khỏe khoắn nhưng nữ tính"
-},
-"outfit": {
-"top": "áo bikini màu hồng",
-"bottom": "quần bikini màu hồng đồng bộ",
-"note": "bikini để lộ các họa tiết bạch biến rộng khắp trên bụng, hai bên sườn, lưng, cánh tay, chân và đùi",
-"accessories": [
-"khuyên tai khoen vàng",
-"kính râm đặt trên đầu"
-]
-},
-"pose_variations": [
-"tư thế ngồi xổm cầm điện thoại - bạch biến rõ trên cánh tay, bàn tay, chân, đùi",
-"tư thế ngồi trên sàn cầm bím tóc - họa tiết bạch biến rõ trên thân, chân, cánh tay",
-"tư thế đứng với một chân co lên - họa tiết bạch biến toàn thân rõ ràng",
-"tư thế cúi người về phía trước với tay đặt trên đùi - bạch biến trên cánh tay, bàn tay, chân nổi bật"
-],
-"expression": "biểu cảm chu môi tinh nghịch, đôi mắt nai ngây thơ, tự tin vào vẻ đẹp độc đáo của mình",
-"camera": {
-"device": "điện thoại thông minh (iPhone)",
-"angle": "phản chiếu gương ngang tầm mắt",
-"framing": "các biến thể toàn thân và nửa thân",
-"quality": "chất lượng ảnh tự chụp iPhone chân thực, ghi lại kết cấu da một cách chân thật"
-}
-},
-"composition": {
-"layout": "bốn ảnh gương dọc đặt cạnh nhau",
-"focus": "chủ thể ở giữa gương, họa tiết bạch biến nhìn rõ ràng",
-"depth_of_field": "tiền cảnh sắc nét, hậu cảnh ấm cúng hơi mờ"
-},
-"color_palette": [
-"hồng",
-"be ấm",
-"xám nhạt",
-"tông màu gỗ ấm",
-"vàng",
-"tông màu da ấm với các mảng bạch biến sáng hơn tạo độ tương phản tự nhiên"
-],
-"mood": "tự tin, ấm cúng, chân thực, độc đáo, tự yêu bản thân"
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063160146_hhuyzd_G_MURrNWMAAmWRi.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie gương siêu thực với đặc điểm bạch biến - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [KEVIN](https://x.com/aimodelabuser)
-- **Nguồn:** [Twitter Post](https://x.com/aimodelabuser/status/2013975771681841303)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7027)**
-
----
-
-### No. 15: Hồ sơ / Ảnh đại diện - Lời nhắc chụp ảnh tự sướng chân dung chân thực như ảnh chụp (Áo liền quần thể dục)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một JSON prompt chi tiết cho Nano Banana Pro để tạo ra một bức chân dung selfie trong gương siêu thực của một phụ nữ trẻ, khỏe mạnh trong bộ đồ thể dục màu xanh hoàng gia, tập trung vào kết cấu da tự nhiên, các chi tiết tư thế cụ thể (cầm điện thoại, tay sau đầu) và tỷ lệ khung hình 4:5.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "image_type": "ảnh chân dung selfie qua gương chụp theo phong cách chân thực",
-  "subject_age": 19,
-  "gender": "nữ",
-  "ethnicity": "người da trắng sáng màu da",
-  "aspect_ratio": "4:5",
-  "resolution": "độ phân giải cực cao, lấy nét sắc nét, kết cấu da tự nhiên",
-
-  "camera": {
-    "device_type": "camera sau điện thoại thông minh",
-    "angle": "hơi cao hơn tầm mắt",
-    "shot_type": "selfie qua gương toàn thân cỡ trung bình",
-    "lens": "ống kính góc rộng của điện thoại thông minh"
-  },
-
-  "lighting": {
-    "type": "ánh sáng dịu nhẹ trong nhà",
-    "shadows": "bóng đổ tự nhiên mềm mại"
-  },
-
-  "subject": {
-    "face": {
-      "shape": "oval",
-      "skin_tone": "màu be ấm sáng với tông hồng",
-      "texture": "làn da mịn màng trẻ trung",
-      "expression": "nụ cười mỉm nhẹ nhàng",
-      "eyes": "mắt hạnh nhân màu nâu sẫm với lớp trang điểm nhẹ"
-    },
-
-    "hair": {
-      "color": "{argument name=\"hair color\" default=\"light blonde\"}" "với chân tóc sẫm màu hơn",
-      "style": "tóc đuôi ngựa cao với các phần tết bím",
-      "accessory": "dây buộc tóc nơ màu tím"
-    },
-
-    "body": {
-      "build": "thể thao, săn chắc",
-      "pose": "hông hơi đẩy sang một bên",
-      "arms": {
-        "left": "đang cầm điện thoại",
-        "right": "tay đặt sau đầu"
-      }
-    },
-
-    "outfit": {
-      "type": "áo liền quần thể dục dụng cụ",
-      "color": "{argument name=\"leotard color\" default=\"deep royal blue\"}" "với ánh kim loại",
-      "design": "cổ cao không tay",
-      "details": "áo liền quần trơn không chữ, không logo, không biểu tượng"
-    }
-  },
-
-  "background": {
-    "location": "hành lang trong nhà hoặc hành lang khách sạn",
-    "elements": ["gương toàn thân", "tường màu trung tính"],
-    "depth": "làm mờ nhẹ hậu cảnh"
-  },
-
-  "mood": "tự tin, trẻ trung, năng động",
-  "style": "chân dung phong cách sống siêu thực",
-
-  "negative_prompt": [
-    "chữ",
-    "logo",
-    "ký tự",
-    "biểu tượng",
-    "hình mờ",
-    "chữ bị phản chiếu",
-    "chữ bị đảo ngược",
-    "hoạt hình",
-    "anime",
-    "giải phẫu bị méo mó",
-    "thừa chi",
-    "mờ"
-  ]
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063240217_9yk5dh_G_LwK6ybYAAF9Yg.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Lời nhắc chụp ảnh tự sướng chân dung chân thực như ảnh chụp (Áo liền quần thể dục) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [sammy](https://x.com/sumiturkude007)
-- **Nguồn:** [Twitter Post](https://x.com/sumiturkude007/status/2013936062541042006)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7160)**
-
----
-
-### No. 16: Hồ sơ / Ảnh đại diện - Chân dung phong cách sống quán cà phê siêu thực với lời nhắc khóa danh tính
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc cực kỳ hạn chế để tạo ra một bức chân dung phong cách sống siêu thực tế trong một quán cà phê hiện đại, yêu cầu độ chính xác 100% của khuôn mặt và giữ nguyên kết cấu da thật từ một hình ảnh đã tải lên. Nó chỉ định tư thế của đối tượng trong một khung gỗ tròn có đèn LED, nhấn mạnh tính chân thực thuần túy và một thẩm mỹ ấm áp, sạch sẽ.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung phong cách sống cao cấp, siêu thực về một người trưởng thành, được chụp trong môi trường quán cà phê hiện đại, thanh lịch và yên bình. Chủ thể ngồi thư thái bên trong một khung gỗ tròn được gắn đèn LED viền ấm áp, xung quanh là cây xanh tươi tốt và đồ trang trí hoa mềm mại. Tư thế thư giãn và tự nhiên: một chân bắt chéo qua chân kia, cơ thể hơi nghiêng, vai thả lỏng, tay đặt tự nhiên trong khi cầm một bó hoa tươi nhỏ. Tâm trạng tổng thể ấm áp, trong trẻo, thanh lịch, trẻ trung và dễ gần – chỉ là chủ nghĩa hiện thực thuần túy. Không cách điệu, không giả tưởng, không cường điệu điện ảnh.
-
-Sử dụng hình ảnh khuôn mặt đã tải lên làm tài liệu tham khảo DUY NHẤT về nhận dạng khuôn mặt
-
-Duy trì độ chính xác 100% của khuôn mặt: cấu trúc xương, hình dạng mắt, nếp mí mắt, hình dạng lông mày, sống mũi và đầu mũi, hình dạng môi, đường viền hàm, cằm, độ đầy đặn của má, đường chân tóc và tỷ lệ khuôn mặt chính xác
-
-Nhận dạng phải hoàn toàn nhất quán từ mọi góc độ (trước, 3/4, bên, tư thế ngồi, hơi nghiêng đầu)
-
-Không trộn lẫn khuôn mặt, không làm đẹp, không chỉnh sửa đối xứng
-
-Không có hiện tượng trôi khuôn mặt do AI
-
-Giữ nguyên kết cấu da thật: lỗ chân lông, nếp nhăn nhỏ, khuyết điểm tự nhiên
-
-Biểu cảm: nụ cười nhẹ nhàng, tự nhiên, thư thái và chân thành
-
-Áo len dệt kim dài tay màu pastel mềm mại (hồng bụi / tông hồng trầm)
-
-Quần tây cạp cao, dáng đứng màu be hoặc kem
-
-Giày thể thao chunky màu trắng sạch sẽ
-
-Chỉ phụ kiện tối giản (khuyên tai đơn giản, đồng hồ thông minh hoặc phụ kiện đeo tay tối thiểu)
-
-Tóc được tạo kiểu gọn gàng, tự nhiên, buộc ra sau hoặc buộc nhẹ nhàng
-
-Trang điểm tự nhiên: tông màu da chân thực, không chỉnh sửa quá nhiều
-
-Nội thất quán cà phê hiện đại hoặc studio phong cách sống
-
-Cấu trúc gỗ tròn với vòng đèn LED ấm áp được gắn bên trong
-
-Cây xanh và hoa được tích hợp vào khung
-
-Nền bokeh mềm mại với ánh sáng xung quanh ấm áp
-
-Bối cảnh sạch sẽ, gọn gàng với chiều sâu và tính chân thực
-
-Chân dung toàn thân hoặc 3/4 thân dọc
-
-Góc máy ngang tầm mắt
-
-Hiệu ứng ống kính 50mm–85mm
-
-Góc nhìn tự nhiên, không biến dạng
-
-Chủ thể nằm ở trung tâm khung tròn
-
-Độ sâu trường ảnh nông, nền được làm mờ nhẹ nhàng
-
-Ánh sáng mềm mại, ấm áp, khuếch tán
-
-Đèn viền LED nhẹ nhàng phác thảo khung tròn
-
-Chiếu sáng khuôn mặt đều với bóng đổ tự nhiên
-
-Không có điểm sáng chói, không có vùng trắng bị cháy sáng
-
-Phản chiếu da và chiều sâu chân thực
-
-Lời nhắc tiêu cực:
-
-Không cách điệu
-
-Không chỉnh màu điện ảnh
-
-Không có bộ lọc làm đẹp
-
-Không có da mịn hoặc da nhựa
-
-Không có tỷ lệ phóng đại
-
-Không có vẻ ngoài như tranh vẽ hoặc minh họa
-
-Không có ánh sáng nhân tạo
-
-Không biến đổi khuôn mặt hoặc thay đổi nhận dạng
-
-Siêu chân thực
-
-Chất lượng ảnh phong cách sống biên tập
-
-Màu sắc tự nhiên, tông màu da chân thực
-
-Nhận dạng không thay đổi và chính xác từ mọi góc độ
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063184530_y5bs4o_G_LiM0JakAAUQ2O.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phong cách sống quán cà phê siêu thực với lời nhắc khóa danh tính - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2013920696460816540)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7068)**
-
----
-
-### No. 17: Hồ sơ / Ảnh đại diện - Chân Dung Flash Siêu Thực Phong Cách Old Money
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết để tạo ra một bức chân dung biên tập thời trang cao cấp, siêu thực tế, sử dụng nhiếp ảnh flash và hiệu ứng hạt điện ảnh. Nó chỉ định một bối cảnh ấn tượng (tường da đỏ, môi trường tối), trang phục của đối tượng (áo corset quây màu be với thêu đỏ), và chi tiết trang điểm (phấn bắt sáng đậm, môi bóng). Lời nhắc nhấn mạnh kiểu tóc 'Old Money' và việc sử dụng flash để tạo độ tương phản cao và kịch tính, phù hợp cho các trang bìa tạp chí.
-
-#### 📝 Câu lệnh
-
-```
-Hiệu ứng điện ảnh với hạt nhiễu. Một bức chân dung siêu thực của một người phụ nữ đứng dựa vào bức tường da đỏ có vân dọc. Cô ấy mặc áo corset quây màu be với họa tiết thêu màu đỏ. Làn da của cô ấy được làm nổi bật. Cô ấy trang điểm rạng rỡ, đeo mi giả, và đôi môi được phủ son bóng trong suốt. Tóc cô ấy thẳng, bóng mượt và dài, theo phong cách Old Money, màu đỏ sẫm rực rỡ. Phấn bắt sáng đậm ở gò má. Một tay cô ấy nhẹ nhàng chỉnh tóc. Cô ấy nhìn thẳng vào máy ảnh. Ánh mắt tự tin, tinh nghịch, miệng hơi hé mở. Một chiếc gương chỉ hiện ra một phần phía sau cô ấy ở rìa khung hình. Ảnh được chụp bằng đèn flash. Xung quanh tối.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167025_5pi880_G_KucySaoAAheay.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân Dung Flash Siêu Thực Phong Cách Old Money - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2013863796604113351)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7038)**
-
----
-
-### No. 18: Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trước gương vui nhộn (Băng đô tai mèo)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một JSON prompt chi tiết cho Nano Banana Pro để tạo ra một bức ảnh selfie phản chiếu siêu thực của một phụ nữ trẻ với biểu cảm tinh nghịch (lè lưỡi), mặc áo corset gấm màu vàng, váy ngắn kẻ caro và băng đô tai mèo trắng bông, với các chi tiết cụ thể về hậu cảnh và ánh sáng.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "nữ",
-        "age_group": "người trẻ tuổi",
-        "skin_tone": "sáng"
-      },
-      "hair": {
-        "color": "{argument name=\"hair color\" default=\"vàng hoe\"}",
-        "length": "dài",
-        "style": "thẳng/gợn sóng",
-        "accessory": "băng đô tai mèo trắng bông xù"
-      },
-      "face": {
-        "expression": {
-          "mood": "vui tươi",
-          "mouth": "lè lưỡi, cười nhẹ",
-          "gaze": "nhìn lên và sang trái"
-        },
-        "makeup": {
-          "eyes": "trang điểm nhẹ với kẻ mắt cánh",
-          "lips": "màu hồng"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "áo corset",
-          "material": "gấm",
-          "color": "{argument name=\"corset color\" default=\"vàng\"}",
-          "details": ["dây buộc phía trước", "viền"]
-        },
-        "lower_body": {
-          "item": "chân váy ngắn",
-          "pattern": "kẻ caro",
-          "color": "vàng",
-          "details": ["nhiều lớp bèo nhún", "viền ren trắng"]
-        },
-        "leg_wear": {
-          "item": "tất đùi",
-          "color": "trắng",
-          "details": "sọc vàng ở phía trên"
-        },
-        "accessories": {
-          "neck": "vòng cổ choker màu vàng với chuông bạc nhỏ",
-          "ears": "khuyên tai đinh nhỏ",
-          "wrist": "vòng tay vàng tinh xảo"
-        }
-      },
-      "pose": {
-        "action": "chụp ảnh selfie qua gương",
-        "hand_position": "cầm điện thoại bằng tay phải",
-        "posture": "đứng"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "nội thất căn hộ hiện đại",
-        "flooring": "sàn gỗ ván màu xám",
-        "walls": "mảng tường ốp gạch màu xám"
-      },
-      "lighting": {
-        "source": "ánh sáng tự nhiên ban ngày",
-        "direction": "từ cửa sổ kính từ trần đến sàn",
-        "quality": "sáng"
-      },
-      "background_elements": {
-        "windows": "cửa sổ lớn từ trần đến sàn, hiển thị cảnh quan thành phố ban ngày sáng sủa và bầu trời",
-        "furniture": {
-          "left": "gấu bông lớn màu nâu tựa vào tường",
-          "right": [
-            "ghế bành bọc nệm trắng",
-            "bàn phụ bằng gỗ",
-            "bình hoa thủy tinh trong suốt trên kệ"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "cây thường xuân nhân tạo màu xanh lá cây treo",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "trắng",
-          "position": "phủ lên nền gần ghế"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "nhiếp ảnh",
-      "sub_genre": "selfie qua gương",
-      "device_prop": "iPhone trắng",
-      "composition": "phản chiếu hiển thị chủ thể và bối cảnh căn phòng",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063241284_bgweit_G_Jc-TGawAAsTzX.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Gợi ý chụp ảnh selfie trước gương vui nhộn (Băng đô tai mèo) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Nguồn:** [Twitter Post](https://x.com/Adam38363368936/status/2013774223526019132)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7164)**
-
----
-
-### No. 19: Hồ sơ / Ảnh đại diện - Gương Chụp Ảnh Tự Sướng Khách Sạn Sang Trọng Quyến Rũ (JSON Chi tiết)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc cực kỳ chi tiết, có cấu trúc để tạo ra một bức ảnh selfie quyến rũ, thời trang cao cấp chụp qua gương trong phòng ngủ tại một khách sạn sang trọng. Nó chỉ định ngoại hình của chủ thể (tóc đen, da ô liu, trang điểm ấn tượng), trang phục (váy mini đen satin xẻ sâu, giày cao gót quai mảnh), tư thế (ngồi, ngả lưng) và ánh sáng ban đêm thân mật, nhấn mạnh chất lượng chân thực như ảnh chụp, kết cấu satin và vẻ thô mộc của đèn flash điện thoại.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "main_prompt": "ảnh selfie gương trong phòng ngủ khách sạn sang trọng quyến rũ, một phụ nữ trẻ tuyệt đẹp ở độ tuổi đầu đến giữa 20 với mái tóc nâu sẫm óng ả dài buông xõa qua vai, làn da ô liu rám nắng với vẻ rạng rỡ, trang điểm ấn tượng: kẻ mắt mèo đen sắc sảo, hàng mi dài dày, gò má được tạo khối, đôi môi hồng nude đậm bóng mọng hơi chu ra, biểu cảm tự tin quyến rũ với đầu hơi ngả về sau nhìn vào camera qua gương phản chiếu, mặc một chiếc váy mini satin đen bó sát cổ chữ V khoét sâu với dây mảnh, hai bên xẻ cao khoe đùi và hông săn chắc, váy hơi vén lên nhấn mạnh đường cong, đi sandal cao gót quai đen hở mũi và quai mắt cá chân, lộ dây chuyền vàng tinh xảo, tạo dáng ngồi trên sàn gạch tựa lưng vào một tay, chân duỗi thẳng và bắt chéo ở mắt cá chân lấp đầy khung hình phía dưới, nội thất phòng suite khách sạn hiện đại sang trọng: tường và sàn lát đá cẩm thạch màu be ấm, tủ quần áo và tủ gỗ tối màu ở phía sau, gương lớn toàn thân phản chiếu cô ấy một cách hoàn hảo, ánh sáng dịu nhẹ ấm áp từ đèn trần và đèn tường tạo viền sáng vàng trên tóc, vai và chân, ánh đèn flash điện thoại tinh tế thêm các điểm nhấn lạnh trên mặt và váy, không khí thân mật ban đêm, phân loại màu sắc điện ảnh với tông màu da ấm và bóng sâu, siêu thực, độ bóng và kết cấu vải satin siêu chi tiết, lỗ chân lông và độ bóng nhẹ của da chân thực, phản chiếu gương chính xác với một chút biến dạng, chụp bằng iPhone 14 Pro với flash ở chế độ chân dung, độ sâu trường ảnh nông tập trung vào chủ thể với hiệu ứng bokeh mềm mại ở hậu cảnh, phong cách boudoir glamour thời trang cao cấp, năng lượng selfie sang trọng thô mộc không bộ lọc --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "mờ, độ phân giải thấp, tay biến dạng, thừa ngón tay, ngón tay dính liền, giải phẫu kém, mặt vẽ kém, tỷ lệ xấu, thừa chi, tay đột biến, xấu xí, biến dạng, xếp gạch, ngoài khung hình, lỗi jpeg, chữ ký, hình mờ, văn bản, lỗi, cắt xén xấu, chất lượng tệ nhất, chất lượng thấp, hoạt hình, kết xuất 3d, da nhựa, giống búp bê, da được chỉnh sửa bằng airbrush, flash bị phơi sáng quá mức, bóng đổ gắt, da nhợt nhạt, không trang điểm, bộ lọc nặng, mặt instagram, môi vịt, cười vui vẻ, người già, trẻ em, nam giới, chụp nhóm, ánh sáng ban ngày chói chang, phòng khách sạn rẻ tiền, trang trí tối giản hiện đại, điện thoại che mặt hoàn toàn, phản chiếu biến dạng, tiền cảnh lộn xộn, ánh sáng lạnh chủ đạo, màu sắc bão hòa thấp, vải mờ, không có độ bóng trên satin, vẻ ngoài tổng hợp, đường may lộ rõ không tự nhiên, tóc ngắn, tóc vàng",
-  "style_tags": [
-    "siêu thực",
-    "ảnh selfie gương khách sạn sang trọng",
-    "váy mini satin đen khoét sâu",
-    "sandal cao gót quai mảnh",
-    "ánh sáng thân mật ban đêm",
-    "nhấn mạnh khe ngực sâu và đùi",
-    "boudoir glamour điện ảnh",
-    "phong cách flash điện thoại thô mộc",
-    "tạo dáng tự tin gợi cảm",
-    "chụp ảnh thời trang cao cấp",
-    "tương phản ấm-lạnh đầy tâm trạng"
-  ],
-  "technical": {
-    "aspect_ratio": "3:4 hoặc 9:16 (kiểu selfie gương điện thoại dọc)",
-    "lighting": "đèn tường/trần khách sạn ấm áp (~3200K) + đèn flash điện thoại lạnh, viền sáng mạnh"
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063165502_oqr9dh_G_JUrIrWcAAkUB7.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Gương Chụp Ảnh Tự Sướng Khách Sạn Sang Trọng Quyến Rũ (JSON Chi tiết) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Lex](https://x.com/katmanai)
-- **Nguồn:** [Twitter Post](https://x.com/katmanai/status/2013765086859391127)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7034)**
 
 ---
 
@@ -2152,7 +1825,689 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm
+### No. 21: Bài đăng trên mạng xã hội - Chân dung hồ bơi hiệu ứng ướt siêu chân thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo ảnh cực kỳ chi tiết cho bức chân dung siêu thực của một người phụ nữ trong hồ bơi, nhấn mạnh tính thẩm mỹ "ướt át". Lời nhắc chỉ rõ một thân hình đồng hồ cát khỏe khoắn, làn da ướt lấp lánh với những giọt nước có thể nhìn thấy, và bộ bikini tối giản màu xanh navy. Các chi tiết kỹ thuật bao gồm ánh sáng mặt trời gay gắt giữa trưa để tạo độ tương phản cao, ống kính 85mm ở khẩu độ f/2.8 để tạo hiệu ứng bokeh, và tốc độ màn trập nhanh (1/4000s) để đóng băng các tia nước bắn động, hướng đến phong cách biên tập của Vogue.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "prompt_structure": {
+    "subject": {
+      "appearance": "Người phụ nữ trẻ rất xinh đẹp và quyến rũ với thân hình đồng hồ cát săn chắc, khỏe khoắn, tông da ô liu với kết cấu và lỗ chân lông chân thực, tóc nâu sẫm tạo kiểu 'ướt' vuốt ngược ra sau mặt.",
+      "facial_features": "Khuôn mặt đối xứng, đôi mắt {argument name=\"eye color\" default=\"nâu lục\"} nổi bật nhìn thẳng vào máy ảnh, lông mày tự nhiên, môi hồng mềm mại, biểu cảm thanh thản và tự tin.",
+      "skin_details": "Làn da ướt lấp lánh, những giọt nước rõ ràng bám trên vai và ngực, hiệu ứng tán xạ dưới bề mặt trên da dưới ánh nắng mặt trời."
+    },
+    "apparel": {
+      "item": "Bộ bikini hai mảnh tối giản.",
+      "color": "{argument name=\"bikini color\" default=\"xanh navy\"}.",
+      "fit": "Vừa vặn, dây áo mảnh, cổ áo khoét sâu, quần cạp cao.",
+      "texture": "Vải ướt bám sát cơ thể."
+    },
+    "pose_and_action": {
+      "posture": "Đứng ngang eo trong hồ bơi, hơi nghiêng người về phía trước với trọng lượng được đỡ bằng cánh tay. Ánh nhìn quyến rũ.",
+      "hands": "Hai tay đặt chắc chắn lên thành hồ bơi bằng đá có kết cấu thô ráp, đặt đối xứng.",
+      "framing": "Cảnh quay chéo trung bình, chụp từ ngay trên mặt nước."
+    },
+    "environment": {
+      "location": "Hồ bơi ngoài trời sang trọng.",
+      "background": "Khu vườn nhiệt đới mờ ảo với những tán lá cọ xanh tươi và cây cối (hiệu ứng bokeh), những cột đá có thể nhìn thấy ở phía xa.",
+      "elements": "Những tia nước bắn tung tóe động trong không khí xung quanh chủ thể, nước hồ bơi màu xanh ngọc lấp lánh, thành hồ bơi bằng đá travertine màu be."
+    },
+    "lighting": {
+      "source": "Ánh sáng ban ngày tự nhiên, gay gắt (mặt trời giữa trưa).",
+      "characteristics": "Độ tương phản cao, điểm sáng phản chiếu trên da ướt và giọt nước, bóng đổ rõ ràng làm nổi bật cơ bắp, ánh sáng viền trên nước bắn tung tóe."
+    },
+    "camera_settings": {
+      "type": "Máy ảnh chuyên nghiệp DSLR hoặc Mirrorless.",
+      "lens": "Ống kính chân dung 85mm.",
+      "aperture": "f/2.8 (để đạt được độ tách nền mượt mà).",
+      "shutter_speed": "1/4000s (tốc độ màn trập nhanh để đóng băng các giọt nước sắc nét).",
+      "focus": "Lấy nét sắc nét vào mắt và khuôn mặt."
+    },
+    "quality_modifiers": [
+      "Siêu chân thực",
+      "Độ phân giải 8k",
+      "Ảnh RAW",
+      "Ánh sáng điện ảnh",
+      "Siêu chi tiết",
+      "Kiệt tác",
+      "Kết xuất dựa trên vật lý (PBR)",
+      "Phong cách biên tập Vogue"
+    ]
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052260_sigakz_G_ZdpA5aoAAQd2z.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung hồ bơi hiệu ứng ướt siêu chân thực - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052265_o0hr61_G_W8-scXMAAlVBA.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung hồ bơi hiệu ứng ướt siêu chân thực - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AIARTGALLARY](https://x.com/AIARTGALLARY)
+- **Nguồn:** [Twitter Post](https://x.com/AIARTGALLARY/status/2014900856064537011)
+- **Đã xuất bản:** 24 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7379)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung cô gái lướt sóng Brazil siêu thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một JSON prompt chi tiết cho Nano Banana Pro mô tả một bức chân dung siêu thực về một cô gái lướt sóng người Brazil mulatta trẻ tuổi. Prompt này chỉ định các chi tiết giải phẫu cực kỳ chính xác, tập trung vào sự đối xứng của khuôn mặt, làn da rám nắng, mái tóc gợn sóng tự nhiên và hình dáng đồng hồ cát phóng đại với cơ mông nổi bật.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "subject": {
+    "description": "Một phụ nữ mulatta trẻ người Brazil với mái tóc xoăn tự nhiên, gợn sóng, được ánh nắng làm sáng, có kết cấu mặn mà như vừa đi biển về, đeo kính râm thể thao đẩy lên đầu, với làn da rám nắng, óng ả, lộ rõ những vệt rám nắng tinh tế.",
+    "face": {
+      "beauty_priority": "Vẻ đẹp khuôn mặt tối đa với các đặc điểm của cô gái lướt sóng siêu thực",
+      "structure": "Khuôn mặt đối xứng hoàn hảo với tỷ lệ hài hòa; gò má cao, rõ nét; đường hàm mượt mà, khỏe khoắn; cấu trúc xương tinh tế, nữ tính với sức sống khỏe mạnh, thể thao.",
+      "skin": "Làn da rạng rỡ, rám nắng với tông màu vàng ấm; vẻ tươi tắn khỏe mạnh tự nhiên từ việc tiếp xúc với biển và nắng; những đốm tàn nhang tinh tế trên mũi và má; kết cấu da mịn màng, rõ ràng nhưng không có khuyết điểm; vẻ căng bóng trên gò má và sống mũi; làn da rám nắng tự nhiên.",
+      "eyes": "Đôi mắt to, biểu cảm, hình quả hạnh với tròng trắng sáng, trong; mống mắt màu nâu hạt dẻ hoặc nâu nhạt ấm áp, giàu sắc thái tự nhiên và ánh sáng phản chiếu đại dương và bầu trời; lông mi dài, dày, tự nhiên, được nắng làm sáng; lông mày tự nhiên được chải chuốt hoàn hảo với đường cong nhẹ nhàng; vành limbal rõ ràng giúp định hình mắt; ánh nhìn đầy tinh thần phiêu lưu.",
+      "nose": "Mũi thanh tú, cân đối với sống mũi mượt mà; đầu mũi tinh tế; lỗ mũi đối xứng; điểm nhấn sáng nhẹ trên sống mũi; những đốm tàn nhang tinh tế do nắng.",
+      "lips": "Môi đầy đặn, rõ nét với đường cong cupid tự nhiên; kết cấu mịn màng với độ bóng tự nhiên tinh tế; tông màu hồng san hô khỏe mạnh từ việc tiếp xúc với nắng và muối; đối xứng hoàn hảo.",
+      "smile": "Nụ cười lướt sóng ấm áp, chân thật, vô tư, để lộ hàm răng trắng đều tăm tắp; những nếp nhăn tự nhiên khi cười làm tăng thêm vẻ quyến rũ; niềm hạnh phúc rạng rỡ từ ánh nắng toát ra từ biểu cảm.",
+      "overall": "Khuôn mặt đẹp nổi bật với sức hút tự nhiên của cô gái biển; vẻ đẹp khỏe khoắn, năng động toát lên sức sống và năng lượng của đại dương."
+    },
+    "hair": {
+      "style": "Mái tóc bồng bềnh, gợn sóng tự nhiên như tóc đi biển với những lọn xoăn lỏng lẻo và kết cấu như bị gió thổi; những lọn tóc được nắng làm sáng; vẻ hơi ẩm ướt như vừa mới ra khỏi nước.",
+      "color": "Nền tóc màu nâu sẫm phong phú với những vệt nắng vàng óng tự nhiên và những lọn tóc sáng màu; kết cấu tóc do muối và nắng tạo nên.",
+      "volume": "Những lọn sóng biển lớn, đầy đặn, bồng bềnh với chuyển động và độ phồng tự nhiên."
+    },
+    "body": {
+      "physique": "Dáng đồng hồ cát cực kỳ rõ nét với tỷ lệ eo-hông cực cao; vóc dáng vận động viên lướt sóng với cánh tay và vai săn chắc.",
+      "anatomy": "Cơ mông (gluteus maximus) cực lớn, đầy đặn với trọng lượng thực tế và kết cấu da mềm mại; eo thon gọn, săn chắc; đùi săn chắc, khỏe khoắn với định hình cơ rõ ràng; đường cong thắt lưng rõ nét (vòm lưng dưới); vai và cánh tay săn chắc. Độ chính xác giải phẫu cao ở chân và bàn chân, thể hiện kết cấu lòng bàn chân và sự thẳng hàng của ngón chân một cách chân thực.",
+      "details": "Lỗ chân lông rõ ràng, nếp gấp da tự nhiên ở eo, tông màu da rám nắng với những vệt rám nắng tinh tế, chân thực"
+    }
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236060988_ut98mx_G_Y9ghMXgAAzdZC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung cô gái lướt sóng Brazil siêu thực - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Sotoshi Nikomito](https://x.com/SotoshiNikomito)
+- **Nguồn:** [Twitter Post](https://x.com/SotoshiNikomito/status/2014865550971638014)
+- **Đã xuất bản:** 24 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7394)**
+
+---
+
+### No. 23: Bài đăng trên mạng xã hội - Chân dung điện ảnh trong nhà với tham chiếu nhận dạng
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một prompt chi tiết để tạo ra một bức chân dung điện ảnh trong nhà về một phụ nữ trẻ với các đặc điểm cụ thể (mắt xanh, tóc đen) và mặc một bộ trang phục cao cổ màu xám có cấu trúc điêu khắc. Prompt này bao gồm một negative prompt để tránh các lỗi tạo hình phổ biến và yêu cầu rõ ràng sử dụng một hình ảnh tham chiếu đã tải lên cho các chi tiết cụ thể như màu mắt, độ dày của tóc, thiết kế trang phục và biểu cảm khuôn mặt.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "main_prompt": "Chân dung điện ảnh trong nhà của một phụ nữ trẻ tuyệt đẹp với mái tóc nâu sẫm dài bồng bềnh buông xõa qua vai, đôi mắt xanh lục sắc sảo với ánh nhìn quyến rũ và mãnh liệt trực diện vào máy ảnh, làn da tự nhiên với lớp nền lì mềm mại, mặc một chiếc áo không tay cổ cao màu xám tinh xảo, kiểu quấn, một chiếc áo thời trang điêu khắc hiện đại với thiết kế cổ chéo, thẩm mỹ tối giản và sạch sẽ, ánh sáng ban ngày tự nhiên dịu nhẹ từ bên cạnh tạo ra những bóng đổ nhẹ nhàng, nền nội thất tông màu trung tính, ống kính chân dung 85mm, siêu thực, chi tiết mống mắt và sợi vải cực kỳ chi tiết --ar 3:4 --stylize 300 --v 6 --q 2",
+  "negative_prompt": "mờ, biến dạng, giải phẫu xấu, xấu xí, phơi sáng quá mức, bóng đổ gắt, trang điểm đậm, cười, ánh sáng ban ngày chói chang, vẻ ngoài tổng hợp, hoạt hình, vẽ, phòng bừa bộn, chất lượng thấp, màu sắc rực rỡ, da nhựa",
+  "style_tags": ["thời trang tối giản hiện đại", "biên tập cao cấp", "ánh nhìn sắc sảo", "quần áo điêu khắc", "bảng màu trung tính"],
+  "technical": {
+    "aspect_ratio": "3:4",
+    "lighting": "ánh sáng tự nhiên dịu nhẹ từ bên",
+    "camera": "ống kính chuyên nghiệp 85mm f/1.8"
+  },
+  "extra_parameters": {
+    "recommended_model": "Flux.1 [dev]",
+    "guidance_scale": "7.0",
+    "steps": "40",
+    "image_reference": "sử dụng hình ảnh tham chiếu đã tải lên cho màu mắt xanh lục cụ thể, độ bồng bềnh của mái tóc nâu dài, thiết kế áo cổ quấn màu xám độc đáo và biểu cảm khuôn mặt mãnh liệt"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235954914_0mh76v_G_Yt0vmWIAAcXMJ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung điện ảnh trong nhà với tham chiếu nhận dạng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Stark](https://x.com/katmanai)
+- **Nguồn:** [Twitter Post](https://x.com/katmanai/status/2014848270548226189)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7246)**
+
+---
+
+### No. 24: Bài đăng trên mạng xã hội - Nhân vật hoạt hình 3D của Pixar/Disney với tên được đan
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo hình ảnh toàn diện để tạo ra một nhân vật hoạt hình 3D cô gái toàn thân được kết xuất theo phong cách của Pixar hoặc Disney. Lời nhắc tập trung vào các chi tiết trang phục cụ thể, bao gồm một chiếc áo len dệt kim ngoại cỡ với tên 'NOOR' được dệt vào vải, nhấn mạnh tính chân thực của sợi dệt kim và bảng màu ấm áp trên nền vàng trơn.
+
+#### 📝 Câu lệnh
+
+```
+Một nhân vật cô gái hoạt hình 3D toàn thân theo phong cách Pixar/Disney, tự tin đứng trước nền màu {argument name="background color" default="vàng"} tươi sáng. Cô ấy có đôi mắt to biểu cảm màu nâu, khuôn mặt tươi cười dễ thương và mái tóc xoăn màu nâu nhạt buộc thành búi cao lộn xộn, với chiếc kính bảo hộ tròn màu trắng đặt trên đầu. Cô ấy mặc một chiếc áo len dệt kim quá khổ với sọc màu kem và vàng mù tạt, với tên “{argument name="name on sweater" default="NOOR"}” được dệt rõ ràng vào vải ngang ngực (kết cấu sợi dệt, không in). Quần cargo dệt kim màu be rộng thùng thình có túi bên, giày thể thao chunky màu trắng với điểm nhấn màu vàng tinh tế. Ánh sáng studio mềm mại, kết cấu mịn, chi tiết dệt kim chân thực, bảng màu ấm áp, tư thế vui tươi với hai tay hơi dang rộng, chất lượng cực cao, 4K, lấy nét sắc nét, nền sạch, nhân vật ở giữa.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047994_6hve1z_G_YpkkWW0AAhN1Y.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nhân vật hoạt hình 3D của Pixar/Disney với tên được đan - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014843601067643131)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7372)**
+
+---
+
+### No. 25: Bài đăng trên mạng xã hội - Bản vẽ trừu tượng về ngọn hải đăng và thuyền buồm Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc để tạo ra một bức tranh trừu tượng về cảnh sông với ngọn hải đăng, thuyền buồm và những chiếc thuyền neo đậu ở bờ biển. Nó chỉ định một mặt trời lớn màu trắng và phong cách nghệ thuật kỹ thuật số ấm áp, thẩm mỹ.
+
+#### 📝 Câu lệnh
+
+```
+Bức vẽ trừu tượng về ngọn hải đăng và thuyền buồm trên sông, với một cái cây ở tiền cảnh, những chiếc thuyền neo đậu ở bờ sông và mọi người đi bộ dọc theo bờ kè. Một mặt trời lớn, màu trắng chiếu sáng phía trên đường chân trời, tạo ra một khung cảnh ấm áp, theo phong cách nghệ thuật kỹ thuật số. Tỷ lệ khung hình 6:9
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057253_yxv7r1_G_Yo1p0XQAAH9dH.jpg" width="600" alt="Bài đăng trên mạng xã hội - Bản vẽ trừu tượng về ngọn hải đăng và thuyền buồm Prompt - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014842801008341184)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7388)**
+
+---
+
+### No. 26: Bài đăng trên mạng xã hội - Gợi ý tạo dáng người đàn ông phong cách (Tham khảo hình ảnh)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc siêu thực tế, độ phân giải cao yêu cầu hình ảnh tham chiếu được tải lên để chụp một chàng trai trẻ sành điệu trong tư thế tạo dáng tự tin trên sàn diễn. Nó chỉ định một chiếc áo khoác phao màu xanh pastel, áo vest trắng không tay, quần ống rộng và bối cảnh studio tối giản.
+
+#### 📝 Câu lệnh
+
+```
+Siêu thực, độ phân giải cao, lấy cảm hứng từ hình ảnh đã tải lên. Chàng trai trẻ sành điệu trong tư thế tự tin, táo bạo: đứng giữa, thân hơi nghiêng, một tay đút túi quần, tay kia nắm cổ áo phao, cằm hơi nhếch, biểu cảm như người mẫu trên sàn diễn. Trang phục: áo phao đệm màu xanh pastel (mở), áo ba lỗ trắng, quần tây trắng rộng, tóc bồng bềnh có kết cấu. Studio trong nhà tối giản, sạch sẽ, tường có các tấm dọc tinh tế phía sau (lệch sang phải), ánh sáng chéo mềm mại.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055364_dy9r37_G_YoUJzWEAAbdet.jpg" width="600" alt="Bài đăng trên mạng xã hội - Gợi ý tạo dáng người đàn ông phong cách (Tham khảo hình ảnh) - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014842219040047311)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7387)**
+
+---
+
+### No. 27: Bài đăng trên mạng xã hội - Mẫu Lời Nhắc Infographic cho Đối Tượng
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một mẫu lời nhắc có thể tái sử dụng dành cho Nano Banana Pro được thiết kế để tạo hình ảnh đồ họa thông tin (infographic) về một đối tượng chung. Lời nhắc hướng dẫn AI kết hợp hình ảnh kết xuất chân thực của đối tượng với các lớp phủ chú thích kỹ thuật, sử dụng các đường nét vẽ bằng mực đen, nhãn, số đo và sơ đồ trên nền trắng tinh, nhằm tạo ra một phong cách thẩm mỹ giống như sách hướng dẫn kỹ thuật, mang tính giáo dục. Đây là phiên bản tổng quát hóa của lời nhắc trước đó.
+
+#### 📝 Câu lệnh
+
+```
+“Tạo một hình ảnh infographic về [{argument name="object" default="OBJECT"}], kết hợp ảnh chụp thực tế hoặc kết xuất ảnh chân thực của đối tượng với các lớp chú thích kỹ thuật được đặt trực tiếp lên trên.
+
+Sử dụng các đường nét và văn bản vẽ bằng mực đen (kiểu bút kỹ thuật / phác thảo kiến trúc) trên nền studio trắng tinh, bao gồm:
+• Nhãn thành phần chính
+• Đường viền cắt ngang bên trong hoặc hình ảnh tháo rời
+• Các phép đo, kích thước và dấu tỷ lệ
+• Chú thích vật liệu và số lượng
+• Các mũi tên chỉ chức năng, lực hoặc dòng chảy (không khí, âm thanh, năng lượng, áp suất)
+• Sơ đồ hoặc biểu đồ cắt ngang đơn giản khi có liên quan
+
+Đặt tiêu đề [OBJECT] bên trong một hộp chú thích kỹ thuật vẽ tay ở một góc.
+
+Quy tắc về phong cách & bố cục:
+• Đối tượng thực tế vẫn hiển thị rõ ràng bên dưới các chú thích
+• Các chú thích có cảm giác được phác thảo, mang tính kỹ thuật và kiến trúc
+• Bố cục sạch sẽ với không gian âm cân bằng
+• Mang lại cảm giác giáo dục, giống như triển lãm bảo tàng / sổ tay kỹ thuật
+
+Phong cách hình ảnh:
+Thẩm mỹ minh họa kỹ thuật tối giản, đường nét đen trên hình ảnh thực tế, chính xác nhưng có cảm giác hơi vẽ tay.
+
+Bảng màu:
+Nền trắng, chỉ có đường chú thích và văn bản màu đen. Không có màu sắc.
+
+Đầu ra:
+1080×1080, siêu sắc nét, tối ưu hóa cho nguồn cấp dữ liệu xã hội, không có hình mờ.”
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050335_96kh9m_G_Yj8SGX0AAa9YM.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mẫu Lời Nhắc Infographic cho Đối Tượng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014837408374706372)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7376)**
+
+---
+
+### No. 28: Bài đăng trên mạng xã hội - Gợi ý tạo ảnh ghép kiểu tóc
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc để tạo ảnh ghép chất lượng cao có cùng một người với các đặc điểm và biểu cảm khuôn mặt nhất quán trên nhiều khung hình, mỗi khung hình hiển thị một kiểu tóc khác nhau (ví dụ: tóc pixie, tết vương miện, búi tóc rối). Nó chỉ định bố cục lưới 4x3 và phong cách làm đẹp biên tập.
+
+#### 📝 Câu lệnh
+
+```
+Một ảnh ghép chất lượng cao có cùng một người với các đặc điểm và biểu cảm khuôn mặt giống hệt nhau, được hiển thị trong nhiều khung hình với các kiểu tóc khác nhau. Mỗi ô hiển thị một kiểu tóc độc đáo như {argument name="hairstyle 1" default="tóc thẳng dài"}, {argument name="hairstyle 2" default="tóc đuôi ngựa buộc cao"}, {argument name="hairstyle 3" default="tóc búi rối"}, tóc pixie, tóc tết vương miện, tóc gợn sóng nhẹ, tóc bob ngắn có mái, tóc búi thấp, tóc tết một bên và tóc xoăn lọn. Trang phục và trang điểm trung tính nhất quán trên tất cả các hình ảnh, ánh sáng studio dịu nhẹ, nền mờ ấm áp, kết cấu da chân thực, khuôn mặt đối xứng nhất quán, siêu chi tiết, vẻ đẹp biên tập, bố cục lưới 4x3, ảnh chân dung chuyên nghiệp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057568_mwc36t_G_YjnB2W0AA8KiL.jpg" width="600" alt="Bài đăng trên mạng xã hội - Gợi ý tạo ảnh ghép kiểu tóc - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014837052383363498)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7390)**
+
+---
+
+### No. 29: Bài đăng trên mạng xã hội - Chân dung kỹ thuật số của một chàng trai trẻ theo phong cách Papercraft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Lời nhắc này dùng để tạo một bức chân dung kỹ thuật số siêu chi tiết theo phong cách papercraft của một chàng trai trẻ, sử dụng phong cách điêu khắc giấy low-poly hình học. Nó tập trung vào các kết cấu giấy chân thực, các cạnh sắc nét và tông màu nâu ấm cho da và tóc, tạo ra một tác phẩm điêu khắc nghệ thuật hiện đại với ánh sáng studio chuyên nghiệp.
+
+#### 📝 Câu lệnh
+
+```
+Chân dung kỹ thuật số HD siêu chi tiết của một chàng trai trẻ theo phong cách papercraft, điêu khắc giấy low-poly hình học, các lớp giấy gấp tạo thành khuôn mặt và tóc, tông màu giấy {argument name="paper color" default="nâu"} ấm áp cho da và tóc, râu và ria mép tinh tế, kính gọng tròn mỏng, nụ cười tự tin nhẹ nhàng, kết cấu giấy cực kỳ chân thực, các cạnh sắc nét và nếp gấp gọn gàng, ánh sáng studio, bóng mềm, bố cục tập trung, {argument name="background style" default="nền trắng tối giản"}, vẻ ngoài của một tác phẩm điêu khắc nghệ thuật hiện đại, lấy nét siêu rõ, độ phân giải 4K, độ tương phản cao, kết xuất nghệ thuật chuyên nghiệp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236048305_6anbbp_G_YjdHiWEAA_dIK.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung kỹ thuật số của một chàng trai trẻ theo phong cách Papercraft - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836886536110579)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7373)**
+
+---
+
+### No. 30: Bài đăng trên mạng xã hội - Gợi ý chụp ảnh đồ ăn: Bánh Waffle Bỉ ngang tầm mắt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một gợi ý chụp ảnh món ăn để tạo ra hình ảnh bánh quế Bỉ vàng ươm, được phủ quả mâm xôi và việt quất tươi, chụp ngang tầm mắt. Gợi ý này nhấn mạnh si-rô phong đang chảy xuống, ánh sáng tự nhiên dịu nhẹ và độ sâu trường ảnh nông.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh món ăn ngang tầm mắt, hai chiếc bánh waffle Bỉ vàng ươm trên đĩa trắng phồng, phủ đầy quả mâm xôi và quả việt quất tươi, si-rô phong chảy nhỏ giọt xuống đĩa, xung quanh là nhiều quả mâm xôi hơn, ánh sáng tự nhiên dịu nhẹ và độ sâu trường ảnh nông.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053833_yjclhv_G_YjLiiXcAEVMpy.jpg" width="600" alt="Bài đăng trên mạng xã hội - Gợi ý chụp ảnh đồ ăn: Bánh Waffle Bỉ ngang tầm mắt - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836577084588445)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7383)**
+
+---
+
+### No. 31: Bài đăng trên mạng xã hội - Macro Beef Burger Food Photography Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc chụp ảnh macro món ăn tập trung vào một chiếc bánh burger bò mọng nước với phô mai cheddar tan chảy nhỏ giọt, mỡ bóng loáng và những giọt nước tươi trên rau xà lách. Nó chỉ định bánh brioche nướng, hơi nước, nền bàn gỗ và ánh sáng cửa sổ.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh chụp macro một chiếc bánh burger bò mọng nước với phô mai cheddar tan chảy chảy xuống bên cạnh, mỡ óng ánh, bánh brioche nướng vàng và những giọt nước tươi trên rau xà lách. Hơi nước bốc lên nhẹ nhàng. Bàn gỗ làm nền, ánh sáng từ cửa sổ. Tỷ lệ khung hình 6:9
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055214_1nzjlw_G_YjDX1XcAEsxAa.jpg" width="600" alt="Bài đăng trên mạng xã hội - Macro Beef Burger Food Photography Prompt - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836442158268541)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7385)**
+
+---
+
+### No. 32: Bài đăng trên mạng xã hội - Chân dung cận cảnh với Khăn trùm đầu và Trang sức (Tham khảo hình ảnh)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc yêu cầu tải lên hình ảnh để chuyển đổi chủ thể thành một bức chân dung cận cảnh siêu thực. Nó mô tả chi tiết lớp trang điểm, khăn trùm đầu họa tiết đen trắng được trang trí bằng tiền vàng và trang sức vàng chunky, đồng thời đảm bảo các đặc điểm khuôn mặt ban đầu được giữ nguyên.
+
+#### 📝 Câu lệnh
+
+```
+Chuyển đổi hình ảnh đã tải lên thành một người phụ nữ tuyệt đẹp trong tư thế chụp chân dung cận cảnh. Cô ấy đang giữ một lọn tóc nâu gợn sóng trước môi. Cô ấy có đôi mắt xám xanh quyến rũ, trang điểm nhẹ nhàng với phấn mắt màu đào, lông mi dài, kẻ mắt đậm, má hồng và môi lì màu hồng đào. Cô ấy đang đội một chiếc khăn trùm đầu họa tiết đen trắng được trang trí bằng những đồng xu và dây chuyền vàng lủng lẳng. Đôi khuyên tai dây chuyền vàng dài ôm lấy khuôn mặt cô ấy. Cô ấy đeo một chiếc nhẫn vàng to bản trên ngón tay, nhìn rõ khi tay cô ấy đưa lên gần mặt. Nền trung tính, tông màu be mờ nhẹ nhàng. Siêu thực, chi tiết 8K, lấy nét sắc nét vào mắt, kết cấu da mịn màng, ánh sáng điện ảnh. Các đặc điểm khuôn mặt vẫn giữ nguyên.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057389_fwh6e0_G_Yi786XMAA9CiG.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung cận cảnh với Khăn trùm đầu và Trang sức (Tham khảo hình ảnh) - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836311484727440)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7389)**
+
+---
+
+### No. 33: Bài đăng trên mạng xã hội - Ảnh chân thực với Voxel Minecraft Doppelgänger
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Đây là một lời nhắc tạo ảnh được thiết kế để tạo ra một bức ảnh cực kỳ chân thực về một người đang đứng trong phong cảnh núi tuyết, mặc một chiếc áo khoác phao dày. Yếu tố độc đáo là sự xuất hiện của một nhân vật voxel 3D Minecraft kích thước thật của chính người đó đứng bên cạnh, hoàn toàn khớp với trang phục của người thật. Lời nhắc nhấn mạnh ánh sáng điện ảnh, chất lượng 8K và sự tương phản giữa phong cách nghệ thuật photorealistic và voxel sạch sẽ. Nó yêu cầu rõ ràng một hình ảnh tham chiếu để bảo toàn danh tính của người đó.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng hình ảnh tham chiếu đính kèm để tạo một bức ảnh chân thực về cùng một người, với nhận dạng được bảo toàn hoàn hảo và không có thay đổi khuôn mặt.
+Người đó đang đứng trong một phong cảnh núi tuyết, không đeo kính râm, mặc một chiếc áo khoác phao dày màu {argument name="jacket color" default="ngẫu nhiên"}.
+Bên cạnh anh ta là một phiên bản nhân vật 3D kiểu Minecraft kích thước thật của cùng một người, được làm hoàn toàn bằng các khối (kiểu voxel), mặc chiếc áo khoác phao giống hệt với cùng màu {argument name="jacket color 2" default="ngẫu nhiên"}, hoàn toàn phù hợp với trang phục thật.
+Ánh sáng điện ảnh và tự nhiên, với bóng và điểm sáng chân thực.
+Độ phân giải cao, chất lượng 8K.
+Phong cách chân thực cho người thật, tương phản với nghệ thuật voxel sạch sẽ cho nhân vật Minecraft.
+Lấy nét sắc nét, chỉnh màu chuyên nghiệp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236046609_yambru_G_YixvHWEAEGdC1.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân thực với Voxel Minecraft Doppelgänger - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014836135130788042)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7370)**
+
+---
+
+### No. 34: Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung áo khoác da màu xanh mòng két trong studio
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc tạo ảnh chân dung studio chuyên nghiệp, độ nét cao cho một người đàn ông sành điệu mặc áo khoác da racer màu xanh mòng két rực rỡ và kính râm phi công cùng tông màu xanh mòng két. Nhấn mạnh ánh sáng điện ảnh với các điểm sáng sắc nét và nền màu xanh mòng két đồng nhất, sạch sẽ.
+
+#### 📝 Câu lệnh
+
+```
+Một bức chân dung studio chuyên nghiệp, độ nét cao về một người đàn ông sành điệu với mái tóc được chải chuốt và râu lún phún. Anh ấy đang mặc một chiếc áo khoác da kiểu racer màu {argument name="jacket color" default="teal"} rực rỡ và kính râm phi công cao cấp với tròng kính phản quang màu {argument name="lens color" default="teal"}. Ánh sáng mang phong cách điện ảnh với những điểm nhấn sắc nét trên khuôn mặt và kết cấu áo khoác của anh ấy. Nền là một màu {argument name="background color" default="teal"} trơn, sạch sẽ, phù hợp với áo khoác. Siêu thực, độ phân giải 8k, lấy nét sắc nét, phong cách nhiếp ảnh thời trang, không có chữ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055304_xphtwn_G_Yio-dXMAA-w63.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung áo khoác da màu xanh mòng két trong studio - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014835994646790366)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7386)**
+
+---
+
+### No. 35: Infographic / Hình ảnh giáo dục - Mẫu Prompt Infographic về các Bộ phận Cơ thể
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một mẫu lời nhắc có thể tái sử dụng cho Nano Banana Pro được thiết kế để tạo hình ảnh đồ họa thông tin về một bộ phận cơ thể cụ thể (mặc định là 'Mắt'). Lời nhắc hướng dẫn AI kết hợp hình ảnh chân thực của đối tượng với các lớp phủ chú thích kỹ thuật, sử dụng các bản vẽ nét mực đen, nhãn, số đo và sơ đồ trên nền trắng tinh, nhằm tạo ra một phong cách thẩm mỹ giống như sách hướng dẫn kỹ thuật, mang tính giáo dục.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình ảnh infographic về [{argument name="body part" default="Mắt"}], kết hợp một bức ảnh chân thực hoặc hình ảnh render chân thực của đối tượng với các lớp chú thích kỹ thuật được đặt trực tiếp lên trên.
+
+Sử dụng các nét vẽ và văn bản kiểu mực đen (kiểu bút kỹ thuật / phác thảo kiến trúc) trên nền studio trắng tinh, bao gồm:
+•Nhãn thành phần chính
+•Đường viền cắt ngang bên trong hoặc hình ảnh phân rã
+•Các phép đo, kích thước và dấu tỷ lệ
+•Chú thích vật liệu và số lượng
+•Mũi tên chỉ chức năng, lực hoặc dòng chảy (không khí, âm thanh, năng lượng, áp suất)
+•Sơ đồ hoặc biểu đồ cắt ngang đơn giản khi có liên quan
+
+Đặt tiêu đề [BODY PART] bên trong một hộp chú thích kỹ thuật vẽ tay ở một góc.
+
+Quy tắc về phong cách & bố cục:
+•Đối tượng thực vẫn hiển thị rõ ràng bên dưới các chú thích
+•Các chú thích có cảm giác được phác thảo, mang tính kỹ thuật và kiến trúc
+•Bố cục gọn gàng với không gian âm cân bằng
+•Mang lại cảm giác giáo dục, giống như triển lãm bảo tàng / sổ tay kỹ thuật
+
+Phong cách hình ảnh:
+Thẩm mỹ minh họa kỹ thuật tối giản, nét vẽ đen trên hình ảnh chân thực, chính xác nhưng có cảm giác hơi vẽ tay.
+
+Bảng màu:
+Nền trắng, chỉ có các đường chú thích và văn bản màu đen. Không có màu sắc.
+
+Đầu ra:
+1080×1080, cực kỳ sắc nét, tối ưu hóa cho nguồn cấp dữ liệu mạng xã hội, không có hình mờ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050189_5px1mr_G_YaM8_W0AAX6Ox.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Mẫu Prompt Infographic về các Bộ phận Cơ thể - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014826718733664702)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7374)**
+
+---
+
+### No. 36: Infographic / Hình ảnh giáo dục - Trực quan hóa nhận thức AI (Nano Banana Pro)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc được sử dụng để yêu cầu Nano Banana Pro hình dung nhận thức của nó về phong cách hướng dẫn của người dùng theo thời gian, tạo ra một hình ảnh hoặc sơ đồ.
+
+#### 📝 Câu lệnh
+
+```
+Hãy tạo một hình ảnh hoặc sơ đồ minh họa cảm nhận của bạn về cách tôi đã đưa ra hướng dẫn cho bạn cho đến nay.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034469_y371dm_G_U5mezbsAA1060.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Trực quan hóa nhận thức AI (Nano Banana Pro) - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ベルベット（velvet404）](https://x.com/velvet404mv)
+- **Nguồn:** [Twitter Post](https://x.com/velvet404mv/status/2014580055549345848)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7356)**
+
+---
+
+### No. 37: Infographic / Hình ảnh giáo dục - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2192,19 +2547,19 @@ Giữ đủ khoảng trắng, tổng thể nhẹ nhàng và dễ đọc.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365945_udfdac_G_UwGembAAMhvYC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236038509_lzpvtc_G_UwDe5bAAMnnjC.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365953_0bio7a_G_UwDe5bAAMnnjC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236038496_j3vdbq_G_UwD2VXMAISyxA.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365955_gl1mud_G_UwD2VXMAISyxA.jpg" width="600" alt="Bài đăng trên mạng xã hội - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 3">
+<img src="https://cms-assets.youmind.com/media/1769236038555_oqzsrn_G_UwGembAAMhvYC.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Mẫu AI Prompt Engineer cho Infographic về Nhiếp ảnh Thực phẩm - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -2218,942 +2573,7 @@ Giữ đủ khoảng trắng, tổng thể nhẹ nhàng và dễ đọc.
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Ana de Armas Fashion Portrait Prompt (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một JSON prompt chi tiết để tạo ảnh chân dung thời trang siêu thực của Ana de Armas trong chiếc váy dạ hội màu vàng ánh kim, đang ngồi xổm trong một sân vườn ngoài trời trang nhã, nhấn mạnh độ sâu trường ảnh nông và chi tiết cao.
-
-#### 📝 Câu lệnh
-
-```
-Một người phụ nữ {argument name="Celebrity Name" default="Ana de Armas"} đang tạo dáng trong một sân trong thanh lịch ngoài trời với những mái vòm đá và bậc thang rộng ở phía sau. Cô ấy đang ngồi xổm thấp, nhìn lại qua vai về phía máy ảnh với vẻ mặt tự tin, tinh nghịch. Cô ấy mặc một chiếc đầm dạ hội màu vàng kim loại lấp lánh với lưng trần, dây áo mỏng và đường xẻ tà cao chạm đất, kết hợp với giày cao gót cùng màu. Mái tóc gợn sóng của cô ấy được tạo kiểu buông lơi với một phụ kiện tóc màu vàng trang trí ở một bên. Độ sâu trường ảnh nông, chi tiết cao. Tỷ lệ 3:4
-
-JSON = Prompt 
-
-{
-  "prompt_type": "photorealistic_fashion_portrait",
-  "subject": {
-    "identity": {
-      "entity_type": "human",
-      "gender": "female",
-      "public_figure": true,
-      "name": "Ana de Armas"
-    },
-    "pose": {
-      "body_position": "squat",
-      "height_level": "low",
-      "torso_orientation": "forward",
-      "head_orientation": "turned_back_over_shoulder"
-    },
-    "expression": {
-      "primary": "confident",
-      "secondary": "playful"
-    },
-    "eye_direction": "toward_camera"
-  },
-  "environment": {
-    "scene_type": "outdoor",
-    "location_style": "elegant_courtyard",
-    "architectural_features": {
-      "arches": {
-        "material": "stone",
-        "style": "classical"
-      },
-      "stairs": {
-        "type": "wide_steps",
-        "material": "stone"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "category": "evening_gown",
-      "color": "gold",
-      "finish": "metallic_shimmer",
-      "structure": {
-        "back": "open",
-        "straps": "thin",
-        "length": "floor_length",
-        "side_slits": "high"
-      }
-    },
-    "footwear": {
-      "type": "high_heels",
-      "color": "gold",
-      "match_with_outfit": true
-    }
-  },
-  "styling": {
-    "hair": {
-      "texture": "wavy",
-      "arrangement": "loose",
-      "accessories": {
-        "type": "hair_accessory",
-        "material": "gold",
-        "placement": "one_side"
-      }
-    }
-  },
-  "camera": {
-    "shot_type": "portrait",
-    "angle": "eye_level",
-    "framing": "medium_full_body",
-    "focus": {
-      "depth_of_field": "shallow",
-      "subject_focus": "sharp",
-      "background_blur": "soft"
-    }
-  },
-  "lighting": {
-    "quality": "soft",
-    "style": "natural",
-    "contrast": "moderate"
-  },
-  "rendering": {
-    "detail_level": "high",
-    "realism": "photorealistic",
-    "texture_emphasis": [
-      "fabric",
-      "skin",
-      "stone"
-    ]
-  },
-  "composition": {
-    "aspect_ratio": {
-      "width": 3,
-      "height": 4
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149392243_qdfrpe_G_Uz8z1XwAApHV3.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ana de Armas Fashion Portrait Prompt (JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393225_g36s7b_G_Uz8z7XEAAYY0D.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ana de Armas Fashion Portrait Prompt (JSON) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393227_ftetgx_G_Uz8z1XsAA9wak.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ana de Armas Fashion Portrait Prompt (JSON) - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Yaseen Khan Gul](https://x.com/YaseenK7212)
-- **Nguồn:** [Twitter Post](https://x.com/YaseenK7212/status/2014573715837587486)
-- **Đã xuất bản:** 23 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7237)**
-
----
-
-### No. 23: Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung sang trọng và tinh tế cho Nano Pro
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một prompt chi tiết, siêu thực cho Nano Pro, được thiết kế để tạo ra một bức chân dung thanh lịch và sang trọng của một phụ nữ trẻ. Prompt chỉ định duy trì độ trung thực khuôn mặt so với hình ảnh tham chiếu, tạo kiểu chi tiết (tóc nâu dài gợn sóng, trang điểm tinh xảo), trang phục cụ thể (váy cổ cao màu đỏ rượu, thắt lưng đen rộng) và bối cảnh điện ảnh trong một phòng khách sạn sang trọng hiện đại với ánh sáng mềm mại, ấn tượng, ghi lại tư thế tự chụp đầy tự tin.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung thời trang, siêu thực, độ phân giải 8K. Một phụ nữ trẻ có các đặc điểm khuôn mặt hoàn toàn khớp với hình ảnh tham chiếu.
-
-Cô ấy có {argument name="hair style" default="mái tóc dài gợn sóng màu nâu"}, với lớp trang điểm hoàn hảo, tinh tế, nổi bật với đường kẻ mắt sắc sảo và màu môi bóng mượt.
-
-Cô ấy đang mặc một chiếc {argument name="attire" default="đầm midi dài tay cổ cao màu đỏ rượu vang thanh lịch"} với chân váy xếp ly, kết hợp với thắt lưng bản rộng màu đen có khóa vàng, cùng những chiếc vòng cổ và vòng tay bạc tinh xảo.
-
-Bối cảnh là bên trong một phòng khách sạn sang trọng hiện đại, hình ảnh khéo léo lồng ghép các phản chiếu từ gương.
-
-Ánh sáng dịu nhẹ và đầy kịch tính, tư thế của chủ thể tự tin, đang cầm điện thoại như thể đang chụp ảnh tự sướng. Phân loại màu điện ảnh, chi tiết cực cao, chất lượng hình ảnh sắc nét.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149363626_9y0n7c_G_UnwmSWsAAMOXo.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung sang trọng và tinh tế cho Nano Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149364337_0yal0e_G_UnwmSWcAAbkVC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc tạo ảnh chân dung sang trọng và tinh tế cho Nano Pro - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [行者AI视频](https://x.com/joshesye)
-- **Nguồn:** [Twitter Post](https://x.com/joshesye/status/2014560230773031355)
-- **Đã xuất bản:** 23 tháng 1, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7190)**
-
----
-
-### No. 24: Bài đăng trên mạng xã hội - Chân dung Biên tập Phong cách Indie Grunge Chic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc tạo ảnh chân dung thời trang biên tập rất cụ thể, tập trung vào vẻ đẹp thô mộc, u sầu. Nó mô tả một phụ nữ trẻ với kiểu tóc wolf-cut bù xù, tàn nhang tự nhiên và ánh nhìn thanh tao, mặc một chiếc áo khoác da tối màu sờn rách bên ngoài lớp vải hồng mỏng. Lời nhắc nhấn mạnh ánh sáng tự nhiên trong nhà dịu nhẹ, kết cấu siêu chi tiết (vân da và sợi tóc), và bao gồm một ghi chú sử dụng hình ảnh tham chiếu đã tải lên cho các chi tiết cụ thể.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "main_prompt": "Chân dung thời trang biên tập của một phụ nữ trẻ tuyệt đẹp với mái tóc nâu {argument name=\"hair style\" default=\"wolf-cut\"} bù xù, lộn xộn và mái lưa thưa ngắn, làn da trắng với những đốm tàn nhang tự nhiên trên mũi và má, đôi mắt xanh nhạt với ánh nhìn u sầu và siêu thoát, đôi môi đỏ mờ bóng, mặc một chiếc áo khoác {argument name=\"jacket material\" default=\"da\"} màu nâu sẫm bạc màu với các chi tiết khóa kéo lộ rõ bên ngoài một lớp vải màu hồng pastel mềm mại, mỏng manh quấn quanh cổ, vòng cổ mặt dây chuyền hình chìa khóa bạc thanh lịch, kiểu dáng thời trang cổ mở, ánh sáng tự nhiên mềm mại trong nhà với bóng đổ nhẹ nhàng, tính thẩm mỹ thô mộc, ống kính 85mm, chân thực như ảnh, chi tiết cực kỳ rõ nét về vân da và sợi tóc --ar 9:16 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "mờ, biến dạng, thừa chi, giải phẫu xấu, xấu xí, phơi sáng quá mức, ánh sáng gắt, cười, ánh sáng ban ngày chói chang, màu sắc bão hòa, vẻ ngoài tổng hợp, hoạt hình, phác thảo, trang điểm đậm, da sạch",
-  "style_tags": ["phong cách indie grunge", "thẩm mỹ wolf cut", "kết cấu da bạc màu", "biên tập u sầu", "tàn nhang tự nhiên"],
-  "technical": {
-    "aspect_ratio": "9:16",
-    "lighting": "ánh sáng tự nhiên mềm mại trong nhà",
-    "camera": "ống kính chân dung 85mm"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "6.5",
-    "steps": "40",
-    "image_reference": "sử dụng hình ảnh tham chiếu đã tải lên để có kiểu tóc wolf-cut chính xác, vòng cổ chìa khóa, kiểu tàn nhang và bố cục áo khoác da sẫm màu cụ thể trên nền vải hồng"
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149396475_f1g28p_G_UQ27FX0AAMHOP.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung Biên tập Phong cách Indie Grunge Chic - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Stark](https://x.com/katmanai)
-- **Nguồn:** [Twitter Post](https://x.com/katmanai/status/2014534947445313895)
-- **Đã xuất bản:** 23 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7241)**
-
----
-
-### No. 25: Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Neon Noir
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc tạo hình ảnh chi tiết để tạo ra một bức chân dung điện ảnh, có độ tương phản cao của một phụ nữ trẻ với mái tóc bạc bạch kim. Bối cảnh là một nội thất tối, lát gạch với các bề mặt phản chiếu và một tấm gương bị biến dạng. Nó chỉ định một "vẻ ngoài ướt át bóng bẩy", ánh sáng viền neon pha trộn với ánh sáng vonfram ấm áp, hạt phim cổ điển nặng và bao gồm các lời nhắc phủ định để đảm bảo chất lượng và tuân thủ phong cách.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "main_prompt": "Chân dung điện ảnh góc rộng trong nội thất lát gạch tối với bề mặt phản chiếu, nhìn vào một chiếc gương méo mó, một phụ nữ trẻ tuyệt đẹp ở độ tuổi đầu 20 với mái tóc gợn sóng màu {argument name=\"hair color\" default=\"bạch kim bạc\"}, trang điểm ấn tượng tương phản cao với kẻ mắt sắc nét màu tối và môi bóng, ánh nhìn nửa khép bí ẩn đầy mãnh liệt, mặc áo thời trang bó sát màu tối, hình xăm nghệ thuật đường nét mảnh rõ ràng trên cánh tay, ánh sáng khí quyển trên da và tóc gợi độ ẩm, ánh sáng viền neon xanh lam-xanh lục mờ ảo pha trộn với ánh sáng vàng ấm của đèn sợi đốt, hạt phim cổ điển nặng và hiệu ứng vignette, chân thực như ảnh, kết cấu da và sợi tóc siêu chi tiết --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "mờ, biến dạng, thừa chi, giải phẫu xấu, xấu xí, phơi sáng quá mức, đèn flash gắt, da khô nhợt nhạt, cười, ánh sáng ban ngày chói chang, nền lộn xộn, vẻ ngoài tổng hợp, hoạt hình, phác thảo, hút thuốc, thuốc lá",
-  "style_tags": ["chân dung điện ảnh", "tóc bạch kim bạc", "vẻ ngoài bóng ướt", "neon noir", "hạt phim cổ điển", "méo mó góc rộng"],
-  "technical": {
-    "aspect_ratio": "3:4",
-    "lighting": "pha trộn ánh sáng vàng ấm của đèn sợi đốt + neon lạnh",
-    "camera": "ống kính góc rộng với độ méo"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "7.0",
-    "steps": "40"
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395836_hg97uy_G_UN8_rXYAABUzC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân Dung Điện Ảnh Neon Noir - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Stark](https://x.com/katmanai)
-- **Nguồn:** [Twitter Post](https://x.com/katmanai/status/2014531753646395630)
-- **Đã xuất bản:** 23 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7240)**
-
----
-
-### No. 26: Bài đăng trên mạng xã hội - Lời nhắc cho hình ảnh chương trình Turtle Talk Show
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết hướng dẫn Nano Banana tạo ra một hình ảnh gợi nhớ đến điểm tham quan Turtle Talk with Crush của Disney, với hình ảnh một con rùa biển giơ cả hai vây lên và nói, "Các bạn là tuyệt nhất!"
-
-#### 📝 Câu lệnh
-
-```
-Một hình ảnh gợi nhớ đến Turtle Talk của Disneyland, với một con rùa biển giơ cả hai vây lên và nói, "{argument name="line" default="You guys are the best!"}"
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377984_er8wom_G_TdU3kbAAALuZ2.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc cho hình ảnh chương trình Turtle Talk Show - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Kanyamaさま](https://x.com/KarmanasaK)
-- **Nguồn:** [Twitter Post](https://x.com/KarmanasaK/status/2014478301096734988)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7206)**
-
----
-
-### No. 27: Bài đăng trên mạng xã hội - Flash Patch Realism Portrait Prompt (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một JSON prompt rất cụ thể để tạo ra một bức chân dung với phong cách 'flash patch realism', mô tả một người phụ nữ tựa vào chiếc Lamborghini trong bối cảnh xa hoa, bất hợp pháp vào đêm khuya, chi tiết về trang phục, tư thế và hiệu ứng ánh sáng flash mạnh.
-
-#### 📝 Câu lệnh
-
-```
-"kiểu tóc": "mượt mà, thẳng, bóng ướt",
-      "chi tiết": "kẹp sau tai, buông xõa qua vai, phản chiếu ánh sáng mạnh dưới đèn flash"
-    },
-
-    "khuôn mặt": {
-      "cấu trúc": "gò má rõ nét, xương hàm sắc sảo",
-      "biểu cảm": "vẻ mặt không hài lòng, hơi nheo mắt kiêu ngạo nhìn xuống camera",
-      "mắt": "nâu sẫm, ánh nhìn mãnh liệt, hơi có hiệu ứng mắt đỏ do đèn flash",
-      "miệng": "môi bĩu, môi nude bóng",
-      "trang điểm": "tạo khối sắc nét, highlight đậm nổi bật dưới đèn flash, lông mày rõ ràng"
-    }
-  },
-
-  "tư thế": {
-    "tổng thể": "ngả lưng một cách thoải mái vào cửa chiếc Lamborghini màu xám đậm",
-
-    "phần thân dưới": {
-      "chân": "bắt chéo ở mắt cá chân",
-      "tư thế đứng": "trọng lượng dồn vào thân xe"
-    },
-
-    "thân trên": {
-      "góc độ": "hơi xoay về phía camera",
-      "dáng người": "vai thư giãn nhưng tự tin"
-    },
-
-    "cánh tay": {
-      "một cánh tay": "đặt trên nóc xe",
-      "cánh tay còn lại": "tay gần móc eo, cầm điện thoại thông minh với ốp lưng sáng màu"
-    },
-
-    "đầu": {
-      "nghiêng": "cằm hơi hếch lên",
-      "ánh nhìn": "nhìn thẳng vào ống kính"
-    }
-  },
-
-  "trang phục": {
-    "quần áo": {
-      "áo trên": {
-        "kiểu": "áo crop top kiểu corset có cấu trúc",
-        "màu sắc": "satin đen",
-        "kiểu dáng": "ôm sát, nâng ngực",
-        "chi tiết": "vải phản chiếu dưới đèn flash, cúp ngực rõ ràng"
-      },
-      "lớp áo ngoài": {
-        "kiểu": "áo khoác da đua xe cổ điển cỡ lớn",
-        "màu sắc": "đen với các mảng trắng và đỏ",
-        "kiểu dáng": "buông hờ, trễ vai"
-      },
-      "quần dưới": {
-        "kiểu": "quần cargo dù ống rộng cạp trễ",
-        "màu sắc": "than chì đậm",
-        "kiểu dáng": "ống rộng, cạp thấp",
-        "chi tiết": "dây rút buông thõng, vải hơi lấp lánh"
-      },
-      "giày": {
-        "kiểu": "giày sneaker thiết kế chunky",
-        "chi tiết": "chi tiết phản quang bắt sáng"
-      }
-    },
-    "phụ kiện": {
-      "vật phẩm": ["dây chuyền bạc dày", "khuyên tai vòng lớn"],
-      "chi tiết": "trang sức kim loại lấp lánh dưới đèn flash"
-    }
-  },
-
-  "góc nhìn camera": {
-    "góc nhìn": "bạn bè chụp nhanh",
-    "góc độ": "góc thấp hơi hướng lên",
-    "khoảng cách": "cận trung (từ đầu gối trở lên)",
-    "khung hình": "chủ thể ở giữa, chi tiết xe và bê tông lấp đầy khung hình",
-    "bố cục": "cảm giác thô mộc, không tạo dáng, hơi nhòe chuyển động ở các cạnh"
-  },
-
-  "không khí": {
-    "tâm trạng": "sang trọng bất hợp pháp, kiêu ngạo, đêm khuya",
-    "năng lượng": "cool ngầu không bận tâm, bí mật đắt giá",
-    "thẩm mỹ": "hiện thực ánh đèn flash, giới trẻ nhà giàu ngầm"
-  },
-
-  "quy tắc": [
-    "phải trông như được chụp bằng iPhone với đèn flash mạnh",
-    "nhấn mạnh làn da bóng dầu/đổ mồ hôi",
-    "không có khỏa thân rõ ràng",
-    "duy trì kết cấu thô, hạt",
-    "bóng đổ chân thực do đèn flash"
-  ]
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391875_5gfykq_G_TPtOeW8AAZaVo.jpg" width="600" alt="Bài đăng trên mạng xã hội - Flash Patch Realism Portrait Prompt (JSON) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Duru💝](https://x.com/Durusss13)
-- **Nguồn:** [Twitter Post](https://x.com/Durusss13/status/2014464532115292632)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7236)**
-
----
-
-### No. 28: Bài đăng trên mạng xã hội - Lời nhắc Chân dung Biên tập Quán cà phê Paris với Khóa khuôn mặt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một Nano Banana Pro prompt có cấu trúc cao để tạo ra một bức chân dung biên tập siêu chân thực về một người phụ nữ trong quán cà phê ở Paris, mặc một chiếc váy trễ vai màu đỏ và cầm ly rượu. Prompt này đáng chú ý vì yêu cầu rõ ràng về một hình ảnh tham chiếu để khóa nhận dạng khuôn mặt của đối tượng và giữ lại các đặc điểm khuôn mặt cụ thể, đảm bảo tính chân thực và thực tế cao.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_cafe_editorial_portrait",
-      "version": "v1.0_PARIS_CAFE_RED_DRESS_WINE_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_face": {
-        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
-        "purpose": "FACE_IDENTITY_LOCK",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true,
-        "preserve_moles_freckles_scars": true,
-        "preserve_eye_shape": true,
-        "preserve_nose_shape": true,
-        "preserve_lip_shape": true,
-        "preserve_jawline": true
-      },
-      "reference_image_style": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "STYLE_COMPOSITION_ANCHOR",
-        "strict_lock": false,
-        "preserve_lighting": true,
-        "preserve_palette": true,
-        "preserve_vibe": true,
-        "preserve_composition": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_luxury_editorial_candid",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_golden_afternoon",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "Chụp chân dung đường phố 50mm, độ sâu trường ảnh nông, phối cảnh tự nhiên, tập trung vào khuôn mặt và bàn tay",
-      "lighting_language": "Ánh nắng chiều muộn xuyên qua cửa sổ quán cà phê, điểm sáng mềm mại, bóng dịu nhẹ, không đèn flash gắt",
-      "authenticity_markers": "kết cấu da chân thực, bàn tay và ngón tay chính xác, nếp gấp vải chân thực, không có ánh sáng AI, không HDR, nhận dạng phải khớp chính xác với tham chiếu"
-    },
-    "creative_prompt": {
-      "scene_summary": "Một bức chân dung biên tập chân thực, tự nhiên của người phụ nữ trưởng thành (khuôn mặt KHỚP CHÍNH XÁC với tham chiếu) đang ngồi tại bàn cà phê Paris cổ điển. Cô ấy mặc một chiếc váy mini trễ vai màu {argument name=\"dress color\" default=\"đỏ\"} thanh lịch với chi tiết nơ phía trước và chân váy có cấu trúc mềm mại (cùng kiểu dáng với ảnh tham chiếu). Cô ấy đang cầm một ly rượu vang đỏ có chân, đưa gần môi như sắp nhấp một ngụm. Ghế cà phê sang trọng với họa tiết dệt màu đỏ-xanh, bàn đá cẩm thạch tròn nhỏ, phản chiếu ấm áp trong cửa sổ, đám đông lờ mờ phía sau tấm kính. Không có chữ nào ở bất cứ đâu.",
-      "wardrobe_and_style": {
-        "outfit": "váy mini trễ vai màu đỏ có nơ phía trước, thân áo ôm sát, chân váy ngắn, ta"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381649_nqck24_G_THrxsXIAEY4QB.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc Chân dung Biên tập Quán cà phê Paris với Khóa khuôn mặt - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Özge Döner](https://x.com/astronomerozge1)
-- **Nguồn:** [Twitter Post](https://x.com/astronomerozge1/status/2014454515249119357)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7212)**
-
----
-
-### No. 29: Bài đăng trên mạng xã hội - Chân dung thiếu sáng u sầu với mái tóc xoăn bồng bềnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc nhở chi tiết cao, chân thực như ảnh để tạo ra một bức chân dung thân mật, u sầu, thiếu sáng của một phụ nữ trẻ với mái tóc xoăn nâu sẫm bồng bềnh và làn da ô liu. Lời nhắc chỉ định ánh sáng phức tạp (ánh sáng viền vonfram ấm + ánh sáng lấp đầy ánh trăng mát mẻ), trang phục (váy cổ yếm khoét sâu), và các chi tiết thẩm mỹ phim để tạo ra một cảm giác biên tập thời trang cao cấp, thô mộc, gợi cảm.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "main_prompt": "Chân dung thiếu nữ tuyệt đẹp ở độ tuổi 20-25, ánh sáng yếu, u ám, ấm cúng, làn da rám nắng từ ô liu đến trung bình, căng mọng tự nhiên, mái tóc xoăn dày, dài, màu nâu sẫm, những lọn tóc xoăn chặt chẽ buông xõa hoang dại trên vai và ngực, những lọn tóc xoăn tự nhiên hơi rối và bồng bềnh, trang điểm quyến rũ tinh tế với lông mày cong sắc nét, kẻ mắt cánh đen đậm, hàng mi dày dài, đôi môi hồng nude đậm bóng mượt với vẻ hờn dỗi quyến rũ nhẹ nhàng, biểu cảm mơ màng gợi cảm với đôi mắt lim dim nhìn thẳng vào máy ảnh, đầu hơi nghiêng xuống và sang một bên, mặc váy mini cổ yếm màu đen bó sát với đường xẻ sâu và các đường cắt hở hai bên để lộ vòng eo và hông săn chắc, vòng cổ và vòng tay dây chuyền vàng tinh xảo có thể nhìn thấy, tạo dáng trong phòng ngủ hoặc phòng khách sạn thiếu sáng vào ban đêm, ánh sáng đèn tungsten ấm áp (~2800K) từ một bên tạo ra ánh sáng viền vàng mạnh mẽ trên các lọn tóc, xương gò má, xương quai xanh và vai, ánh trăng mát mẻ hoặc ánh sáng lấp đầy từ cửa sổ phía sau tạo thêm bóng xanh-tím mềm mại, ánh đèn flash điện thoại tinh tế để tạo điểm sáng trong mắt, thẩm mỹ máy ảnh phim cổ điển với các vệt sáng ở các góc, màu cam nhẹ, viền tối, hạt phim nhẹ và hiệu ứng bokeh mềm mại, siêu thực, kết cấu da siêu chi tiết với lỗ chân lông, tàn nhang và những khuyết điểm tự nhiên, từng sợi tóc xoăn bắt ánh sáng ấm-lạnh với tán xạ dưới bề mặt, phân loại màu sắc điện ảnh với tông màu da vàng ấm, bóng sâu và độ tương phản dịu, chụp bằng iPhone ở chế độ ban đêm chân dung với đèn flash hoặc phim 35mm cổ điển, độ sâu trường ảnh nông tập trung vào khuôn mặt và mái tóc với hiệu ứng bokeh kem trên nền tối, năng lượng phòng ngủ đêm khuya mơ màng thân mật, cảm giác gợi cảm thô mộc không bộ lọc, thời trang cao cấp kết hợp với thẩm mỹ selfie tự nhiên --ar 3:4 --stylize 350 --v 6 --q 2",
-  "negative_prompt": "mờ, độ phân giải thấp, bàn tay biến dạng, thừa ngón tay, ngón tay dính liền, giải phẫu kém, khuôn mặt vẽ kém, tỷ lệ xấu, thừa chi, bàn tay đột biến, xấu xí, biến dạng, xếp gạch, ngoài khung, lỗi jpeg, chữ ký, hình mờ, văn bản, lỗi, cắt xén xấu, chất lượng tệ nhất, chất lượng thấp, hoạt hình, kết xuất 3d, da nhựa, giống búp bê, da được làm mịn bằng airbrush, đèn flash phơi sáng quá mức, bóng tối khắc nghiệt, da nhợt nhạt, trang điểm quá nhiều, khuôn mặt Instagram, môi vịt, biểu cảm cười hạnh phúc, người già, trẻ em, nam giới, chụp nhóm, ánh sáng ban ngày rực rỡ, phòng tối giản sạch sẽ, không xoăn, tóc thẳng, màu sắc bão hòa, tông màu xanh lạnh chủ đạo, vẻ ngoài tổng hợp, khuôn mặt đối xứng hoàn hảo, không hạt, bộ lọc độ phân giải cao hiện đại, điện thoại hiển thị trong khung, tiền cảnh lộn xộn, không có váy cổ yếm",
-  "style_tags": [
-    "siêu thực",
-    "chân dung thân mật ánh sáng yếu u ám",
-    "tập trung vào mái tóc xoăn đen bồng bềnh",
-    "pha trộn ánh sáng tungsten ấm + ánh trăng mát",
-    "cảm giác đêm khuya gợi cảm thô mộc",
-    "phân loại màu sắc điện ảnh ấm áp",
-    "hạt phim và vệt sáng",
-    "biểu cảm mơ màng gợi cảm",
-    "thời trang cao cấp kết hợp với tự nhiên",
-    "váy cổ yếm xẻ sâu",
-    "ánh sáng viền vàng trên các lọn tóc"
-  ],
-  "technical": {
-    "aspe
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149389860_9szkid_G_S2wQMXAAAyrNu.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung thiếu sáng u sầu với mái tóc xoăn bồng bềnh - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Stark](https://x.com/katmanai)
-- **Nguồn:** [Twitter Post](https://x.com/katmanai/status/2014435876978274635)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7231)**
-
----
-
-### No. 30: Bài đăng trên mạng xã hội - Lời nhắc cảnh lãng mạn chân thực siêu cấp (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc JSON cực kỳ chi tiết được thiết kế cho công cụ Nano Banana Pro để tạo ra một bức ảnh tĩnh siêu chân thực, tự nhiên như phim về một cặp đôi đang cười đùa ngoài trời vào giờ vàng, tập trung vào các kết cấu tự nhiên và những biểu cảm nhỏ chân thật.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_romance_outdoors",
-      "version": "v2.4_KADIKOY_GRASS_HUG_LAUGH_ULTRA_WARM_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "true_to_life_golden_hour_warm",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "ống kính 35mm tương đương, ngang tầm mắt, cảm giác tài liệu cầm tay, khung hình không hoàn hảo như được bạn bè chụp, tập trung vào mắt và tiếng cười khi khuôn mặt hiển thị rõ",
-      "lighting_language": "chỉ ánh sáng tự nhiên có chủ đích (hoàng hôn giờ vàng + ánh sáng bầu trời), không dùng đèn flash, không có vẻ studio",
-      "authenticity_markers": "kết cấu da thật, nếp nhăn vải thật, tóc con bay tự nhiên, chỉ làm mờ chuyển động nhẹ ở hậu cảnh, không HDR, không có ánh sáng AI"
-    },
-    "creative_prompt": {
-      "scene_summary": "{argument name=\"Scene Summary\" default=\"Bãi cỏ bờ biển Kadıköy vào giờ vàng. Cặp đôi nằm/ngồi sát bên nhau trên cỏ, cười không kiểm soát vì một điều gì đó ngớ ngẩn. Cảnh tượng vô cùng thân mật nhưng hoàn toàn trong sáng—niềm vui thuần khiết, như thể một người bạn thân đã quay lại.\"}",
-      "subjects": {
-        "count": 2,
-        "description": "cùng một chàng trai và cô gái trẻ (đầu tuổi 20), bình thường và chân thật, không giống người mẫu; khuôn mặt hiển thị rõ ràng và sắc nét",
-        "expression": "tiếng cười lớn chân thật, mắt hơi ướt vì cười, nụ cười rộng ấm áp, các biểu cảm nhỏ được giữ nguyên",
-        "skin_and_face": "kết cấu da tự nhiên, không chỉnh sửa làm đẹp, quầng thâm dưới mắt nhẹ, những khuyết điểm thật"
-      },
-      "wardrobe_and_props": {
-        "female": "trang phục giản dị (áo len nhẹ hoặc áo khoác cardigan + quần jean hoặc váy mềm), trang điểm tối thiểu, tóc dài gợn sóng hơi rối vì gió, không có logo",
-        "male": "áo phông trơn + quần jean/quần chinos, hơi nhăn, không có logo",
-        "props": "hai cốc giấy (trà/cà phê) đặt trên cỏ, một túi tote đơn giản, một gói nhỏ vụn simit hoặc khăn giấy, không có thương hiệu"
-      },
-      "micro_action": "họ ôm chặt lấy nhau trong khi cười; cô ấy vùi mặt vào vai anh ấy một lúc; anh ấy đưa tay vuốt tóc khỏi mặt cô ấy; họ nhìn nhau và lại cười",
-      "environment_details": {
-        "location": "không khí bờ sông / bãi cỏ ven biển Kadıköy",
-        "background": "đường chân trời biển mờ ảo, bóng phà xa xa, một vài người ở xa bị mất nét, chim hải âu trên bầu trời, không có biển báo dễ đọc",
-        "ground_details": "kết cấu cỏ thật với những chiếc lá nhỏ và một vài mảng không đều, không được dàn dựng sạch sẽ"
-      },
-      "lighting": "ánh nắng giờ vàng ấm áp với ánh sáng bầu trời dịu nhẹ, ánh sáng viền nhẹ trên mép tóc, quầng sáng tinh tế trên các điểm nhấn nắng, d"
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149390460_vbt2hi_G_S2rMQWAAAMFSY.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc cảnh lãng mạn chân thực siêu cấp (JSON) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Özge Döner](https://x.com/astronomerozge1)
-- **Nguồn:** [Twitter Post](https://x.com/astronomerozge1/status/2014435800742842721)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7233)**
-
----
-
-### No. 31: Bài đăng trên mạng xã hội - Chân dung làm đẹp thời trang cao cấp siêu thực
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc có cấu trúc được thiết kế để tạo ra một bức chân dung cận cảnh cực kỳ chân thực về một phụ nữ trẻ theo phong cách influencer quyến rũ với mái tóc vàng óng và làn da rám nắng, nhấn mạnh tính thẩm mỹ của vẻ đẹp thời trang cao cấp, độ phân giải 8k và ánh sáng điện ảnh trong một khung cảnh nội thất sang trọng.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "phụ nữ trẻ",
-      "age": "giữa 20",
-      "aesthetic": "người có ảnh hưởng quyến rũ, vẻ đẹp thời trang cao cấp",
-      "expression": "tự tin, quyến rũ, sẵn sàng lên hình",
-      "features": {
-        "face": "đối xứng hoàn hảo, tỷ lệ tinh tế",
-        "skin": {
-          "tone": "nâu rám nắng",
-          "finish": "rạng rỡ, không tì vết"
-        },
-        "eyes": {
-          "color": "xanh lam-xanh lục nhạt",
-          "makeup": "kẻ mắt tinh tế, phấn mắt vàng, mi dài dày",
-          "brows": "lông mày đậm được tạo dáng"
-        },
-        "cheeks": "má hồng đào ấm áp",
-        "lips": {
-          "color": "hồng nude",
-          "finish": "đầy đặn, bóng mượt"
-        }
-      },
-      "hair": {
-        "color": "vàng óng",
-        "length": "cực dài",
-        "volume": "rất bồng bềnh",
-        "style": "sóng biển lơi buông dài qua vai và lưng",
-        "texture": "tóc óng ả, khỏe mạnh với những điểm nhấn tinh tế"
-      },
-      "accessories": {
-        "earrings": "khuyên tai vòng vàng nhỏ",
-        "bracelet": "vòng tay vàng tinh xảo",
-        "nails": "móng tay hình hạnh nhân màu hồng nude nhạt được chăm sóc cẩn thận"
-      },
-      "clothing": {
-        "top": "áo tối màu không tay",
-        "details": "để lộ vai trần"
-      }
-    },
-    "environment": {
-      "location": "căn hộ hiện đại sang trọng trong nhà",
-      "background": "nội thất sạch sẽ, cao cấp được làm mờ nhẹ nhàng"
-    },
-    "lighting": {
-      "type": "ánh sáng tự nhiên dịu nhẹ kết hợp với ánh sáng điện ảnh",
-      "effect": "tăng cường độ sáng, điểm nhấn mượt mà, bóng đổ có chiều sâu"
-    },
-    "camera": {
-      "shot_type": "chân dung selfie cận cảnh siêu gần",
-      "focus": "lấy nét sắc nét vào khuôn mặt, mắt, môi và chi tiết tóc"
-    },
-    "style": {
-      "genre": "chân dung vẻ đẹp thời trang cao cấp",
-      "realism": "siêu thực, chân thực như ảnh",
-      "quality": "độ phân giải 8k, chi tiết siêu sắc nét"
-    }
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386490_poopfc_G_SlLH3WEAEFxSA.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung làm đẹp thời trang cao cấp siêu thực - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386737_6v47fd_G_SlLLsXAAAg9CU.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung làm đẹp thời trang cao cấp siêu thực - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386449_2gv6go_G_SlOwcW8AA9bPC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung làm đẹp thời trang cao cấp siêu thực - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149387391_ukuwu5_G_SlLICXsAEAVVo.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung làm đẹp thời trang cao cấp siêu thực - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Nguồn:** [Twitter Post](https://x.com/DavisonDabiri/status/2014416617132744847)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7224)**
-
----
-
-### No. 32: Bài đăng trên mạng xã hội - Gợi ý về sự lãng mạn đời thường trên phố (Tàu điện ngầm Istanbul)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một Nano Banana Pro prompt có cấu trúc được thiết kế để tạo ra một bức ảnh đường phố chân thực siêu cấp, tự nhiên, ghi lại khoảnh khắc chăm sóc nhỏ giữa một cặp đôi tại lối vào ga tàu điện ngầm Istanbul, tập trung vào kết cấu chân thực, ánh sáng tự nhiên và cảm giác như phim tài liệu.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_street_romance",
-      "version": "v2.0_METRO_ENTRANCE_SCARF_FIX_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_street_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "restrained_realism_city",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "ống kính 35mm tương đương, khung hình chụp tự nhiên cầm tay, cảm giác tài liệu",
-      "lighting_language": "ánh sáng ban ngày tự nhiên của thành phố + đèn thực tế ở lối vào tàu điện ngầm, không dùng đèn flash",
-      "authenticity_markers": "năng lượng đám đông chân thực, chỉ làm mờ nhẹ hậu cảnh, không có hiệu ứng AI glow"
-    },
-    "creative_prompt": {
-      "scene_summary": "Lối vào ga tàu điện ngầm {argument name=\"location\" default=\"Istanbul\"} vào một ngày se lạnh. Đôi tình nhân dừng lại. Anh ấy nhẹ nhàng chỉnh khăn choàng cho cô. Một khoảnh khắc nhỏ của sự quan tâm giữa nơi công cộng.",
-      "subjects": {
-        "count": 2,
-        "description": "cùng một cặp đôi (đầu tuổi 20), bình thường, khuôn mặt rõ ràng và sắc nét",
-        "expression": "sự tập trung nhẹ nhàng và ấm áp e thẹn, chỉ những biểu cảm nhỏ",
-        "skin_and_face": "kết cấu da thật, không chỉnh sửa, có quầng thâm nhẹ dưới mắt"
-      },
-      "wardrobe_and_props": {
-        "clothing": "áo khoác/áo khoác đơn giản tông màu trung tính, hơi nhăn, không logo",
-        "props": "một thẻ tàu điện ngầm trong tay, một dây đeo ba lô, không có thương hiệu"
-      },
-      "micro_action": "anh ấy chỉnh khăn choàng cho cô; cô ấy ngước lên trong giây lát; ánh mắt lưu lại rồi tự nhiên rời đi",
-      "environment_details": {
-        "location": "không khí lối vào ga tàu điện ngầm Istanbul",
-        "background": "cầu thang đi xuống, lan can, người đi lại mờ ảo, kết cấu thành phố, không có chữ viết dễ đọc"
-      },
-      "composition": "cảnh trung bình ngang tầm mắt, cắt xén không hoàn hảo, khuôn mặt sắc nét, hậu cảnh lùi dần tự nhiên",
-      "mood": "sự quan tâm thầm lặng, tình yêu không phô trương"
-    },
-    "negative_prompt": [
-      "ánh sáng studio",
-      "đèn flash",
-      "chỉnh sửa làm đẹp",
-      "da nhựa",
-      "khuôn mặt người mẫu",
-      "đối xứng hoàn hảo",
-      "HDR",
-      "hiệu ứng AI glow",
-      "chữ",
-      "logo",
-      "hình mờ"
-    ]
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383360_7lyh3t_G_SbEd5W8AEfZSe.jpg" width="600" alt="Bài đăng trên mạng xã hội - Gợi ý về sự lãng mạn đời thường trên phố (Tàu điện ngầm Istanbul) - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Özge Döner](https://x.com/astronomerozge1)
-- **Nguồn:** [Twitter Post](https://x.com/astronomerozge1/status/2014405479473283467)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7216)**
-
----
-
-### No. 33: Bài đăng trên mạng xã hội - Tạo dáng người đàn ông trong phòng tập thể hình
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc có cấu trúc cho Nano Banana Pro để tạo ra hình ảnh siêu thực về một người đàn ông cơ bắp đang tạo dáng trong phòng tập thể dục thiếu sáng, nhấn mạnh các đặc điểm nổi bật, trang phục cụ thể và hình ảnh phản chiếu trong gương.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề: Người đàn ông tạo dáng trong phòng tập thể hình. Đặc điểm khuôn mặt: rõ nét
-Da: trắng
-Môi: đầy đặn
-Mắt: tập trung vào máy ảnh
-Tóc: lượn sóng rối
-Cơ thể: cơ bắp rõ nét, gân nổi rõ, {argument name="weight" default="80 kg"}
-Trang phục: để trần phần thân trên, quần jogger nỉ màu đen với {argument name="clothing print" default="họa tiết chữ Trung Quốc"}
-
-Bối cảnh: phòng tập thể hình, thiết bị màu đen, không có người, ánh sáng mờ, đèn LED trần màu trắng, biển hiệu "Your only limit is you" (đèn LED trắng)
-
-Tư thế: Một tay chạm vào bụng, tay kia đặt sau đầu, tự tin, có gương phía sau
-
-Nhiếp ảnh: siêu thực 8k, tỷ lệ khung hình 3:4, nhiếp ảnh influencer, phơi sáng hơi thấp
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381627_4ghlwl_G_Sa76sWgAA33jA.jpg" width="600" alt="Bài đăng trên mạng xã hội - Tạo dáng người đàn ông trong phòng tập thể hình - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381615_xw1nco_G_Sa72KW8AAkKkb.jpg" width="600" alt="Bài đăng trên mạng xã hội - Tạo dáng người đàn ông trong phòng tập thể hình - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381833_ov2929_G_Sa72YWMAAVfno.jpg" width="600" alt="Bài đăng trên mạng xã hội - Tạo dáng người đàn ông trong phòng tập thể hình - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Busra](https://x.com/promptLab0)
-- **Nguồn:** [Twitter Post](https://x.com/promptLab0/status/2014405309272621113)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7213)**
-
----
-
-### No. 34: Infographic / Hình ảnh giáo dục - Tính năng tạo tài liệu Slide
+### No. 38: Infographic / Hình ảnh giáo dục - Tính năng tạo tài liệu Slide
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3204,7 +2624,7 @@ Chỉ cần nhập thông tin và nhấn nút "Slide Document", một slide như
 
 ---
 
-### No. 35: Infographic / Hình ảnh giáo dục - Bảng nhắc tài liệu của nhà nghiên cứu khoa học thực địa
+### No. 39: Infographic / Hình ảnh giáo dục - Bảng nhắc tài liệu của nhà nghiên cứu khoa học thực địa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3256,7 +2676,7 @@ Bảng tài liệu của một nhà nghiên cứu thực địa về {argument n
 
 ---
 
-### No. 36: Infographic / Hình ảnh giáo dục - Lời nhắc Diorama Vũ trụ Hàng hóa Giáo dục
+### No. 40: Infographic / Hình ảnh giáo dục - Lời nhắc Diorama Vũ trụ Hàng hóa Giáo dục
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3329,7 +2749,7 @@ Mục tiêu: Mô hình giáo dục "Vũ trụ Hàng hóa".
 
 ---
 
-### No. 37: Infographic / Hình ảnh giáo dục - Ảo ảnh quang học về chuyển động ảo giác
+### No. 41: Infographic / Hình ảnh giáo dục - Ảo ảnh quang học về chuyển động ảo giác
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3368,7 +2788,7 @@ hình ảnh ảo ảnh quang học chuyển động ảo giác
 
 ---
 
-### No. 38: Infographic / Hình ảnh giáo dục - Lời nhắc trực quan hóa y tế Cybernetic
+### No. 42: Infographic / Hình ảnh giáo dục - Lời nhắc trực quan hóa y tế Cybernetic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3421,7 +2841,7 @@ TUYỆT ĐỐI không bao gồm bất kỳ văn bản, hình mờ hoặc lớp p
 
 ---
 
-### No. 39: Infographic / Hình ảnh giáo dục - Mẫu phong cách chụp X-quang mềm
+### No. 43: Infographic / Hình ảnh giáo dục - Mẫu phong cách chụp X-quang mềm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3469,7 +2889,7 @@ Một mẫu lời nhắc có thể tái sử dụng để tạo ra các hình �
 
 ---
 
-### No. 40: Infographic / Hình ảnh giáo dục - Lớp phủ đồ họa thông tin kỹ thuật trên hình ảnh máy tính xách tay
+### No. 44: Infographic / Hình ảnh giáo dục - Lớp phủ đồ họa thông tin kỹ thuật trên hình ảnh máy tính xách tay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3528,7 +2948,7 @@ Nền trắng, chỉ có đường chú thích và văn bản màu đen. Không 
 
 ---
 
-### No. 41: Infographic / Hình ảnh giáo dục - Chuyển đổi bản phác thảo thành ảnh đường nét kiểu CAD
+### No. 45: Infographic / Hình ảnh giáo dục - Chuyển đổi bản phác thảo thành ảnh đường nét kiểu CAD
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3581,7 +3001,7 @@ Vui lòng hoàn thiện bản phác thảo thô này theo cách tương tự.
 
 ---
 
-### No. 42: Infographic / Hình ảnh giáo dục - LLM Prompt: Phân tích hiệu ứng Matilda và sự bóc lột trong AI
+### No. 46: Infographic / Hình ảnh giáo dục - LLM Prompt: Phân tích hiệu ứng Matilda và sự bóc lột trong AI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3619,21 +3039,18 @@ Vui lòng nhớ ký tên vào tác phẩm của bạn.
 
 ---
 
-### No. 43: Infographic / Hình ảnh giáo dục - Phong cách Infographic Kỹ thuật Chuyên sâu
+### No. 47: Hình thu nhỏ trên YouTube - Lời nhắc bìa tạp chí sử dụng tiện ích mở rộng Nano Banana
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-Bộ hướng dẫn Nano Banana Pro ngắn gọn để tạo đồ họa thông tin kỹ thuật, sắc nét. Quá trình này bao gồm việc chọn một đối tượng, đảm bảo độ rõ ràng chân thực và phủ lên các chú thích kỹ thuật vẽ tay màu đen (nhãn, kích thước, vật liệu, mặt cắt, mũi tên) để đạt được kết cấu 'Sổ tay Kỹ thuật + Bảng trưng bày'.
+Một người dùng trình bày cách sử dụng tiện ích mở rộng Chrome cho Nano Banana để dễ dàng truy cập nhiều lời nhắc khác nhau, bao gồm lời nhắc "trang bìa tạp chí", mà họ đã dùng để tạo một hình ảnh theo phong cách "Tạp chí hàng tuần", cho thấy tiện ích này hữu ích cho thiết kế mạng xã hội.
 
 #### 📝 Câu lệnh
 
 ```
-1️⃣ Chọn {argument name="object" default="OBJECT"}
-2️⃣ Giữ hình ảnh thực tế rõ ràng và dễ nhìn
-3️⃣ Phủ lên trên các chú thích kỹ thuật vẽ tay màu đen (nhãn, kích thước, vật liệu, mặt cắt, mũi tên)
+Tôi đã thử tạo một phong cách "Tạp chí hàng tuần" bằng cách sử dụng lời nhắc bìa tạp chí
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3641,91 +3058,21 @@ Bộ hướng dẫn Nano Banana Pro ngắn gọn để tạo đồ họa thông 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354692_uld7pr_G_FPIhZXoAAWNO9.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Phong cách Infographic Kỹ thuật Chuyên sâu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354776_ixurg7_G_FOxEhWAAA-KpM.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Phong cách Infographic Kỹ thuật Chuyên sâu - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354694_575d12_G_FPHprXoAEw3bb.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Phong cách Infographic Kỹ thuật Chuyên sâu - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977355873_54ki9x_G_FPbWLXEAAeA6k.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Phong cách Infographic Kỹ thuật Chuyên sâu - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236039813_e8v3j0_G_T9M_TagAA54Xy.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Lời nhắc bìa tạp chí sử dụng tiện ích mở rộng Nano Banana - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Dean](https://x.com/kuaijierun)
-- **Nguồn:** [Twitter Post](https://x.com/kuaijierun/status/2013477972104147411)
-- **Đã xuất bản:** 20 tháng 1, 2026
-- **Ngôn ngữ:** zh
+- **Tác giả:** [るう l AI × Canva先生](https://x.com/roosanai)
+- **Nguồn:** [Twitter Post](https://x.com/roosanai/status/2014513338823409825)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7006)**
-
----
-
-### No. 44: Infographic / Hình ảnh giáo dục - Nghiên cứu Giải phẫu Học thời Phục Hưng về Chim Hồng Hạc
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh ngắn gọn để tạo hình ảnh theo phong cách nghiên cứu giải phẫu thời Phục Hưng. Nó chỉ định đối tượng là một con hồng hạc đang đứng trên một chân, được thể hiện bằng kỹ thuật vẽ chì than mịn và nét gạch chéo bằng mực, với các lớp mô trong suốt hiển thị cấu trúc xương và cơ, tất cả trên giấy da ố vàng. Nó bao gồm các câu lệnh phủ định nghiêm ngặt để đảm bảo đối tượng chỉ được vẽ một lần và hoàn chỉnh.
-
-#### 📝 Câu lệnh
-
-```
-Bố cục: {argument name="subject" default="chim hồng hạc, đứng bằng 1 chân"}
-
-Phong cách nghệ thuật: Một nghiên cứu giải phẫu thời Phục hưng
-- được minh họa bằng các nét chì than và mực đan chéo tinh xảo
-- được phủ các lớp giấy lụa trong suốt thể hiện xương và cơ
-- trên giấy da úa vàng/xám
-
-Tránh:
-- Không vẽ chủ thể hai lần - *chỉ một lần*
-- Không bỏ qua bất kỳ bộ phận cơ thể nào - phải hoàn chỉnh
-- Không có bất kỳ văn bản nào
-
-Tỷ lệ khung hình: 3:4
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372426_bjk9g6_G_FG87xXEAAnMEK.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Nghiên cứu Giải phẫu Học thời Phục Hưng về Chim Hồng Hạc - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372831_glcsw6_G7OgKJAaMAAUKqv.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Nghiên cứu Giải phẫu Học thời Phục Hưng về Chim Hồng Hạc - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Brendan Graetz 🥷](https://x.com/bguiz)
-- **Nguồn:** [Twitter Post](https://x.com/bguiz/status/2013469317548134903)
-- **Đã xuất bản:** 20 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7022)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7362)**
 
 ---
 
-### No. 45: Hình thu nhỏ trên YouTube - Tạo hình ảnh Eyecatch từ bản ghi video
+### No. 48: Hình thu nhỏ trên YouTube - Tạo hình ảnh Eyecatch từ bản ghi video
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3758,7 +3105,7 @@ Sử dụng bản ghi của video này làm lời nhắc để Nano Banana tạo
 
 ---
 
-### No. 46: Hình thu nhỏ trên YouTube - Mahira Khan 2x2 Collage Podcast Interview Prompt
+### No. 49: Hình thu nhỏ trên YouTube - Mahira Khan 2x2 Collage Podcast Interview Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3791,7 +3138,7 @@ Một JSON prompt đơn giản để tạo ảnh ghép 2x2 của Mahira Khan d�
 
 ---
 
-### No. 47: Hình thu nhỏ trên YouTube - Hình ảnh tổng hợp sáng tạo cho chương trình khuyến mãi nút 'Theo dõi'
+### No. 50: Hình thu nhỏ trên YouTube - Hình ảnh tổng hợp sáng tạo cho chương trình khuyến mãi nút 'Theo dõi'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3898,7 +3245,7 @@ Một lời nhắc JSON phức tạp được thiết kế cho việc chỉnh s�
 
 ---
 
-### No. 48: Hình thu nhỏ trên YouTube - Lời nhắc tiến hóa AI đa khái niệm
+### No. 51: Hình thu nhỏ trên YouTube - Lời nhắc tiến hóa AI đa khái niệm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4040,7 +3387,7 @@ Một lời nhắc JSON phức tạp, gồm nhiều phần được thiết kế
 
 ---
 
-### No. 49: Hình thu nhỏ trên YouTube - Lời nhắc tổng hợp quảng cáo trên mạng xã hội
+### No. 52: Hình thu nhỏ trên YouTube - Lời nhắc tổng hợp quảng cáo trên mạng xã hội
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4137,7 +3484,7 @@ Một Nano Banana Pro prompt có cấu trúc chặt chẽ được thiết kế 
 
 ---
 
-### No. 50: Hình thu nhỏ trên YouTube - Master Prompt cho Quảng cáo Sân vận động Chung kết NBA
+### No. 53: Hình thu nhỏ trên YouTube - Master Prompt cho Quảng cáo Sân vận động Chung kết NBA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4176,7 +3523,7 @@ Một 'Master Prompt' do người dùng phát triển dành cho mô hình Nano B
 
 ---
 
-### No. 51: Hình thu nhỏ trên YouTube - Ảnh phỏng vấn người nổi tiếng theo phong cách Talk-Show
+### No. 54: Hình thu nhỏ trên YouTube - Ảnh phỏng vấn người nổi tiếng theo phong cách Talk-Show
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4213,7 +3560,7 @@ Duy trì độ chính xác khuôn mặt 100%, kết cấu da sống động như
 
 ---
 
-### No. 52: Hình thu nhỏ trên YouTube - Gợi ý tạo ảnh chân dung Ana de Armas trên thảm đỏ (váy vàng và đỏ)
+### No. 55: Hình thu nhỏ trên YouTube - Gợi ý tạo ảnh chân dung Ana de Armas trên thảm đỏ (váy vàng và đỏ)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4303,7 +3650,7 @@ Hai lời nhắc JSON cực kỳ chi tiết để tạo ra những bức chân d
 
 ---
 
-### No. 53: Hình thu nhỏ trên YouTube - Lời nhắc tạo ảnh bìa phong cách Dan
+### No. 56: Hình thu nhỏ trên YouTube - Lời nhắc tạo ảnh bìa phong cách Dan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4337,7 +3684,7 @@ Một hình ảnh bìa cực kỳ chi tiết, chuyên nghiệp và ấn tượng
 
 ---
 
-### No. 54: Hình thu nhỏ trên YouTube - Chuyển đổi hình ảnh sang phong cách Berserker
+### No. 57: Hình thu nhỏ trên YouTube - Chuyển đổi hình ảnh sang phong cách Berserker
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4371,7 +3718,7 @@ Chiếc rìu đó chém xuyên mọi thứ...!
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - Chuyển đổi hình ảnh sang phong cách váy Berry Tart
+### No. 58: Hình thu nhỏ trên YouTube - Chuyển đổi hình ảnh sang phong cách váy Berry Tart
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4405,7 +3752,7 @@ Chiếc váy đầy dâu tây thật lộng lẫy! ✨
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Nano Banana Pro Prompt để tạo ảnh tiêu đề bài viết trên X
+### No. 59: Hình thu nhỏ trên YouTube - Nano Banana Pro Prompt để tạo ảnh tiêu đề bài viết trên X
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4447,7 +3794,7 @@ Tiêu đề: {argument name="title" default="[Nhập tiêu đề bài viết]"}
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Chân dung tổng hợp và đồ họa thống kê của vận động viên Cricket
+### No. 60: Hình thu nhỏ trên YouTube - Chân dung tổng hợp và đồ họa thống kê của vận động viên Cricket
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4481,7 +3828,7 @@ Một bức chân dung tổng hợp sống động của vận động viên cri
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Cận cảnh Sophie Turner trong vai Lara Croft
+### No. 61: Hình thu nhỏ trên YouTube - Cận cảnh Sophie Turner trong vai Lara Croft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +3863,7 @@ Chân dung cận cảnh cực độ của {argument name="subject" default="Soph
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Hình thu nhỏ YouTube: Phản ứng của Trump trước Chatham House
+### No. 62: Hình thu nhỏ trên YouTube - Hình thu nhỏ YouTube: Phản ứng của Trump trước Chatham House
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4550,7 +3897,7 @@ Hình thu nhỏ YouTube có tác động cao. Cấu trúc hình ảnh: Bên ph�
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Mẫu Lịch Trình Hàng Tuần Cho VTuber
+### No. 63: Hình thu nhỏ trên YouTube - Mẫu Lịch Trình Hàng Tuần Cho VTuber
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4600,7 +3947,7 @@ Hoàn thiện:
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Trình tạo Diorama Sách Pop-Up của Master Prop Maker
+### No. 64: Hình thu nhỏ trên YouTube - Trình tạo Diorama Sách Pop-Up của Master Prop Maker
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4663,19 +4010,21 @@ Bầu không khí: Chủ nghĩa hiện thực huyền ảo. Nước phải lấp
 
 ---
 
-### No. 62: Hình thu nhỏ trên YouTube - Chân dung điện ảnh của một phi hành gia Ấn Độ
+### No. 65: Truyện tranh / Bảng phân cảnh - Nano Banana Pro Scene Shot Prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc để tạo một bức chân dung điện ảnh siêu thực, 8K, tập trung vào một phi hành gia người Ấn Độ bên trong một tàu vũ trụ, nhìn Trái đất, nhấn mạnh bộ đồ không gian ISRO, ánh sáng xanh dịu và biểu cảm kinh ngạc cùng niềm tự hào dân tộc.
+Danh sách bốn góc máy hoặc loại cảnh quay cụ thể được sử dụng làm gợi ý để tạo hình ảnh cảnh với Nano Banana Pro, bao gồm cận cảnh cực đại (extreme close-up), góc thấp (low-angle), ngang mặt đất (ground level) và nhìn từ phía sau (back-to-the-camera).
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung điện ảnh 8K siêu thực về một phi hành gia bên trong một tàu vũ trụ Ấn Độ, nhìn ra ngoài cửa sổ tròn xuống Trái Đất bên dưới, với tiểu lục địa Ấn Độ hiển thị rõ ràng. Phi hành gia mặc bộ đồ vũ trụ ISRO màu trắng và vàng nghệ hiện đại với biểu tượng cờ Ấn Độ trên vai.
-Biểu cảm là sự kinh ngạc và niềm tự hào thầm lặng. Ánh sáng xanh dịu từ Trái Đất chiếu sáng khuôn mặt, trong khi các nút và màn hình phức tạp của buồng lái phát sáng mờ ảo ở hậu cảnh. Tâm trạng là yêu nước, tương lai và đầy cảm hứng sâu sắc. Giữ nguyên khuôn mặt và các đặc điểm.
+1. Cận cảnh đặc tả
+2. Góc máy thấp
+3. Góc nhìn ngang mặt đất
+4. Quay từ phía sau lưng chủ thể
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4683,94 +4032,50 @@ Biểu cảm là sự kinh ngạc và niềm tự hào thầm lặng. Ánh sáng
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768466938551_v2x8mq_G-iodCLbAAELb4l.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Chân dung điện ảnh của một phi hành gia Ấn Độ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236042895_azikpa_G_W2i5SXkAAtiug.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Nano Banana Pro Scene Shot Prompts - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042805_vpjoh4_G_W2i5fXwAA0_JA.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Nano Banana Pro Scene Shot Prompts - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042904_58jiwd_G_W2i5rXgAAllWR.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Nano Banana Pro Scene Shot Prompts - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236044088_j7re22_G_W3_PkXYAABKXS.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Nano Banana Pro Scene Shot Prompts - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [simeon-sanai](https://x.com/Naiknelofar788)
-- **Nguồn:** [Twitter Post](https://x.com/Naiknelofar788/status/2011042457748922442)
-- **Đã xuất bản:** 13 tháng 1, 2026
+- **Tác giả:** [Vlad Sydor](https://x.com/vlad_sydor)
+- **Nguồn:** [Twitter Post](https://x.com/vlad_sydor/status/2014719544510579025)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=5828)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7366)**
 
 ---
 
-### No. 63: Hình thu nhỏ trên YouTube - Lời nhắc ảnh tĩnh video "Nhà sư đưa ra lời khuyên cuộc sống"
+### No. 66: Truyện tranh / Bảng phân cảnh - Lời nhắc chuyển đổi từ Robot Transformer sang Xe tăng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một prompt có cấu trúc để tạo ra hình ảnh tĩnh 4K chân thực của một nhà sư Phật giáo lớn tuổi đang đưa ra lời khuyên cuộc sống trong sân chùa truyền thống ở Đông Á. Prompt chỉ định ngoại hình, trang phục, vật thể (kinh sách, nến) của nhà sư và cài đặt máy ảnh (iPhone 17 Pro, dọc 9:16) để mô phỏng tính thẩm mỹ của một video lan truyền trên mạng xã hội.
+Một prompt để tạo hình ảnh quy trình chuyển đổi 6 bước, thể hiện một robot Transformer biến hình thành xe tăng. Prompt này chỉ định bố cục 3x2 và yêu cầu giữ nguyên phong cách mà không có đường viền.
 
 #### 📝 Câu lệnh
 
 ```
-{
-  "scene_type": "sân_chùa_giảng_dạy_tâm_linh",
-  "setting": {
-    "location": "sân_chùa_Phật_giáo_ngoài_trời",
-    "background": {
-      "architecture": "ngôi_chùa_Đông_Á_truyền_thống_với_những_đường_chạm_khắc_gỗ_tinh_xảo, các_cột_màu_đỏ_và_mái_ngói_cong",
-      "nature": "những_hàng_cây_xanh_tươi_bên_trái",
-      "ground": "nền_đá_xám",
-      "weather": "trời_âm_u_đến_ánh_sáng_tự_nhiên_dịu_nhẹ"
-    }
-  },
-  "subject": {
-    "type": "nhà_sư_lớn_tuổi",
-    "position": "ngồi_kiết_già_trên_mặt_đất",
-    "pose": "ngồi_sau_một_chiếc_bàn_thấp, nói_trực_tiếp_vào_máy_quay",
-    "expression": "chân_thành, khôn_ngoan_và_mang_tính_hướng_dẫn",
-    "appearance": {
-      "hair": {
-        "style": "cạo_trọc",
-        "color": "không_có"
-      },
-      "skin_features": "da_lão_hóa_với_nhiều_nếp_nhăn_sâu",
-      "eye_color": "màu_tối"
-    },
-    "clothing": {
-      "top": "áo_trong_màu_xám_nhạt_với_áo_choàng_ngoài_màu_vàng_nghệ_vắt_qua_vai",
-      "bottom": "vải_áo_choàng_màu_vàng_nghệ_che_chân"
-    },
-    "accessories": []
-  },
-  "objects": [
-    {
-      "type": "đồ_nội_thất",
-      "name": "bàn_gỗ_thấp",
-      "material": "gỗ_sáng_màu",
-      "position": "tiền_cảnh_phía_trước_nhà_sư"
-    },
-    {
-      "type": "sách",
-      "name": "kinh_sách_mở_rộng",
-      "state": "mở_với_các_cột_văn_bản_có_thể_nhìn_thấy",
-      "position": "trên_bàn_gỗ"
-    },
-    {
-      "type": "nguồn_sáng",
-      "name": "nến",
-      "color": "sáp_trắng",
-      "state": "đang_cháy_với_ngọn_lửa_nhỏ_màu_vàng",
-      "position": "trên_bàn_cạnh_sách"
-    }
-  ],
-  "camera": {
-    "device": "iPhone 17 Pro",
-    "angle": "ngang_tầm_mắt",
-    "framing": "cảnh_trung",
-    "orientation": "chân_dung_dọc_9:16",
-    "quality": "ảnh_tĩnh_video_4k, độ_nét_cao, lấy_nét_sắc_bén"
-  },
-  "mood": "thanh_tịnh, triết_lý, mang_tính_giáo_huấn",
-  "lighting": "ánh_sáng_tự_nhiên_dịu_nhẹ, khuếch_tán",
-  "image_style": "video_mạng_xã_hội_lan_truyền, chân_thực",
-  "activity": "nhà_sư_đang_truyền_đạt_lời_khuyên_về_cuộc_sống"
-}
+Thể hiện quá trình chuyển đổi của robot Transformer này thành xe tăng trong 6 (3 x 2) bước. Sử dụng cùng một phong cách không có đường viền.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4778,21 +4083,95 @@ Một prompt có cấu trúc để tạo ra hình ảnh tĩnh 4K chân thực c�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768319143757_f02xwd_G-cqsRYaAAA-kBL.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Lời nhắc ảnh tĩnh video "Nhà sư đưa ra lời khuyên cuộc sống" - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236008713_nnsqsw_G_WLHZhXAAA_Bdr.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Lời nhắc chuyển đổi từ Robot Transformer sang Xe tăng - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Lore](https://x.com/l_w_lorenzen)
-- **Nguồn:** [Twitter Post](https://x.com/l_w_lorenzen/status/2010622716475482593)
-- **Đã xuất bản:** 12 tháng 1, 2026
+- **Tác giả:** [Michael Rabone](https://x.com/michaelrabone)
+- **Nguồn:** [Twitter Post](https://x.com/michaelrabone/status/2014669511236919698)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=5680)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7316)**
 
 ---
 
-### No. 64: Truyện tranh / Bảng phân cảnh - Săn Quái Vật Cùng Nữ Sinh Trung Học Phong Cách OVA Thập Niên 2000
+### No. 67: Truyện tranh / Bảng phân cảnh - Hình ảnh hợp tác Wizardry x Genba Neko
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Mô tả
+
+Một người dùng đã tạo hình ảnh hợp tác 'Wizardry x Genba Neko' (mèo công trường) bằng Nano Banana, đặc biệt yêu cầu một 'nhân vật mèo-người'. Hình ảnh thu được cho thấy nhân vật đang ra dấu 'OK', đòi hỏi năm ngón tay và đệm chân, làm nổi bật một đặc điểm đầu ra AI cụ thể.
+
+#### 📝 Câu lệnh
+
+```
+Do sự hợp tác giữa Wizardry và Genba Neko (mèo công trường), tôi đã khẩn trương thay thế nội dung bài đăng đã lên kế hoạch!
+
+Vì tôi đã chỉ định một "nhân vật mèo lai người", nên ô thứ ba hiển thị năm ngón tay + đệm chân, đây là đặc điểm điển hình của AI, nhưng vì chân mèo không thể tạo dấu OK, nên điều này không sao cả!
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037149_gv12ts_G_WHtmfWgAAK70H.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Hình ảnh hợp tác Wizardry x Genba Neko - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [pt2012](https://x.com/pt20121)
+- **Nguồn:** [Twitter Post](https://x.com/pt20121/status/2014665641819832790)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** ja
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7360)**
+
+---
+
+### No. 68: Truyện tranh / Bảng phân cảnh - Lời nhắc tạo bảng phân cảnh trực quan
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Lời kêu gọi hành động để người dùng nhận một prompt được thiết kế nhằm tạo bảng phân cảnh hình ảnh thương hiệu cho bài thuyết trình sản phẩm bằng Nano Banana Pro, thường được chia sẻ theo yêu cầu.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một storyboard hình ảnh thương hiệu để giới thiệu sản phẩm của bạn với Nano Banana Pro:
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041775_9t1xug_G_Vo48obAAEqLl7.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Lời nhắc tạo bảng phân cảnh trực quan - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041776_p5rv2q_G-3QbGvX0AEEEEI.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Lời nhắc tạo bảng phân cảnh trực quan - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Tushar Pandey](https://x.com/TUSHARPAND0848)
+- **Nguồn:** [Twitter Post](https://x.com/TUSHARPAND0848/status/2014631739239629253)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7365)**
+
+---
+
+### No. 69: Truyện tranh / Bảng phân cảnh - Săn Quái Vật Cùng Nữ Sinh Trung Học Phong Cách OVA Thập Niên 2000
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4846,7 +4225,7 @@ Bố cục nhấn mạnh sự căng thẳng ngay trước trận chiến.
 
 ---
 
-### No. 65: Truyện tranh / Bảng phân cảnh - Lời nhắc mô phỏng bảng phân cảnh sản phẩm 9 ô
+### No. 70: Truyện tranh / Bảng phân cảnh - Lời nhắc mô phỏng bảng phân cảnh sản phẩm 9 ô
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4917,7 +4296,7 @@ Một lưới 3×3 sạch sẽ không có đường viền, không có văn bả
 
 ---
 
-### No. 66: Truyện tranh / Bảng phân cảnh - Lời nhắc chi tiết cho Storyboard về hình ảnh thương hiệu
+### No. 71: Truyện tranh / Bảng phân cảnh - Lời nhắc chi tiết cho Storyboard về hình ảnh thương hiệu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4989,7 +4368,7 @@ Một lưới 3x3 sạch sẽ không có đường viền, văn bản, chú thí
 
 ---
 
-### No. 67: Truyện tranh / Bảng phân cảnh - Lời nhắc tạo lưới Storyboard
+### No. 72: Truyện tranh / Bảng phân cảnh - Lời nhắc tạo lưới Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5022,7 +4401,7 @@ lời nhắc để tạo lưới bảng phân cảnh bên dưới
 
 ---
 
-### No. 68: Truyện tranh / Bảng phân cảnh - Chủ đề AI Manga: Thử và Sai
+### No. 73: Truyện tranh / Bảng phân cảnh - Chủ đề AI Manga: Thử và Sai
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5055,7 +4434,7 @@ Tôi đã thử tạo một bộ truyện tranh. Chủ đề là "Thử và Sai"
 
 ---
 
-### No. 69: Truyện tranh / Bảng phân cảnh - Gemini Nano Banana Pro Truyện tranh 4 khung: Tập Điều khiển từ xa
+### No. 74: Truyện tranh / Bảng phân cảnh - Gemini Nano Banana Pro Truyện tranh 4 khung: Tập Điều khiển từ xa
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5088,7 +4467,7 @@ Tôi đã thử tạo một bộ truyện tranh 4 khung về cuộc sống hàng
 
 ---
 
-### No. 70: Truyện tranh / Bảng phân cảnh - Kịch bản quảng cáo thương mại cho vali hành lý cao cấp
+### No. 75: Truyện tranh / Bảng phân cảnh - Kịch bản quảng cáo thương mại cho vali hành lý cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5121,7 +4500,7 @@ Tạo một bảng phân cảnh hấp dẫn đến gây nghiện theo lưới 3x
 
 ---
 
-### No. 71: Truyện tranh / Bảng phân cảnh - Mẫu YAML để tạo Web Manga bằng Gemini (Nano Banana Pro)
+### No. 76: Truyện tranh / Bảng phân cảnh - Mẫu YAML để tạo Web Manga bằng Gemini (Nano Banana Pro)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5222,7 +4601,7 @@ Storyboard:
 
 ---
 
-### No. 72: Truyện tranh / Bảng phân cảnh - Lời nhắc tạo Manga 10+ trang
+### No. 77: Truyện tranh / Bảng phân cảnh - Lời nhắc tạo Manga 10+ trang
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5255,7 +4634,7 @@ Hướng dẫn tạo một bộ truyện tranh dài hơn 10 trang bằng nanoban
 
 ---
 
-### No. 73: Truyện tranh / Bảng phân cảnh - Biến ảnh thành 4 phong cách nhân vật sống động
+### No. 78: Truyện tranh / Bảng phân cảnh - Biến ảnh thành 4 phong cách nhân vật sống động
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5288,7 +4667,7 @@ Biến bức ảnh gốc thành một bộ 4 nhân vật với phong cách khác
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Người thật hóa thân thành nhân vật truyện tranh trong thành phố tương lai
+### No. 79: Truyện tranh / Bảng phân cảnh - Người thật hóa thân thành nhân vật truyện tranh trong thành phố tương lai
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5321,7 +4700,7 @@ Những người đàn ông và phụ nữ ngoài đời thực bị hút vào m
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Biến đổi Cyborg tinh tế trong tàu điện ngầm
+### No. 80: Truyện tranh / Bảng phân cảnh - Biến đổi Cyborg tinh tế trong tàu điện ngầm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5429,7 +4808,7 @@ Một lời nhắc rất chi tiết để tạo ra một bức ảnh tĩnh đi�
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Frank Miller Sin City Chuyển đổi phong cách tiểu thuyết đồ họa
+### No. 81: Truyện tranh / Bảng phân cảnh - Frank Miller Sin City Chuyển đổi phong cách tiểu thuyết đồ họa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5462,7 +4841,7 @@ Các chủ thể từ hình ảnh được tải lên được thể hiện theo
 
 ---
 
-### No. 77: Truyện tranh / Bảng phân cảnh - Biến ảnh selfie thành ảnh động đất sét
+### No. 82: Truyện tranh / Bảng phân cảnh - Biến ảnh selfie thành ảnh động đất sét
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5501,7 +4880,7 @@ Cận cảnh một người đàn ông với chiếc kéo, hoạt hình đất s
 
 ---
 
-### No. 78: Truyện tranh / Bảng phân cảnh - Lưới gợi ý kể chuyện theo phong cách phim độc lập
+### No. 83: Truyện tranh / Bảng phân cảnh - Lưới gợi ý kể chuyện theo phong cách phim độc lập
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5587,21 +4966,19 @@ Một lời nhắc JSON phức tạp, có cấu trúc được thiết kế đ�
 
 ---
 
-### No. 79: Truyện tranh / Bảng phân cảnh - So sánh tạo cảnh chiến đấu
+### No. 84: Tiếp thị sản phẩm - Lời nhắc về ảnh chân dung cận cảnh điện ảnh của vận động viên thể thao mùa đông
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Đây là một prompt được sử dụng để tạo ra một cảnh chiến đấu, so sánh chất lượng đầu ra giữa GPT-image và Nano Banana Pro, sử dụng cùng một prompt và hình ảnh tham chiếu.
+Một lời nhắc cho Nano Banana Pro được thiết kế để tạo ra một bức chân dung cận cảnh điện ảnh siêu thực của một nữ vận động viên thể thao mùa đông. Lời nhắc chỉ định chủ thể đeo kính trượt tuyết và mũ bảo hiểm, với sương giá và tinh thể băng có thể nhìn thấy, sử dụng tông màu xanh lam-xanh mòng két và cam ấn tượng, đồng thời nhấn mạnh chi tiết cực cao, lấy nét sắc nét và vẻ ngoài của một áp phích thể thao chuyên nghiệp.
 
 #### 📝 Câu lệnh
 
 ```
-Tôi dùng GPT-image để vẽ cảnh chiến đấu ( ´∀｀)
-Trái: GPT-image
-Phải: nano banana pro
-Cùng một lời nhắc, cùng một hình ảnh tham chiếu
+Một bức chân dung cận cảnh siêu thực, đậm chất điện ảnh về một nữ vận động viên thể thao mùa đông, góc nghiêng, đeo kính trượt tuyết và mũ bảo hiểm, biểu cảm tập trung cao độ. Sương giá, tinh thể băng và hạt tuyết bám trên kính và mặt, hơi thở lạnh giá hiện rõ. {argument name="color grading" default="Blue-teal and orange"} tông màu điện ảnh xanh lam-xanh mòng két và cam, ánh sáng mềm mại đầy kịch tính với độ sâu trường ảnh nông. Kết cấu da cực kỳ chi tiết, mắt sắc nét phản chiếu trong kính, không khí mùa đông u ám, tuyết rơi ở tiền cảnh, độ tương phản cao, phong cách áp phích thể thao chuyên nghiệp, 8K, HDR, chân thực như ảnh chụp, nhiếp ảnh điện ảnh, chi tiết cực cao, chất lượng phòng thu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -5609,158 +4986,165 @@ Cùng một lời nhắc, cùng một hình ảnh tham chiếu
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587307_p310qo_G-1AcEUacAAylS6.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - So sánh tạo cảnh chiến đấu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587316_ack784_G-1AcEfbEAE_rQP.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - So sánh tạo cảnh chiến đấu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236052022_38kier_G_YkhU_XsAA9Q-6.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc về ảnh chân dung cận cảnh điện ảnh của vận động viên thể thao mùa đông - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [TomoHiko｜AI art](https://x.com/TomoHiko250220)
-- **Nguồn:** [Twitter Post](https://x.com/TomoHiko250220/status/2012335464406299026)
-- **Đã xuất bản:** 17 tháng 1, 2026
-- **Ngôn ngữ:** ja
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014838051332100142)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6490)**
-
----
-
-### No. 80: Truyện tranh / Bảng phân cảnh - Negative Prompting để tạo Manga trong NanoBanana Pro
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Mô tả
-
-Một template cho 'Forbidden Items' (lời nhắc tiêu cực) được tùy chỉnh đặc biệt để tạo các bảng manga trong NanoBanana Pro, đảm bảo thứ tự đọc, ngôn ngữ và định dạng chính xác.
-
-#### 📝 Câu lệnh
-
-```
-[Các mục bị cấm]
-- Cấm bố cục đọc từ trái sang phải, từ dưới lên trên
-- Cấm đối thoại bằng tiếng Anh
-- Cấm viết đối thoại theo chiều ngang
-- Cấm đơn sắc, đen trắng, nghệ thuật đường nét
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631214624_w9za9y_G-yIakbbwAA4iDd.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Negative Prompting để tạo Manga trong NanoBanana Pro - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [健太｜AI活用で個人ビジネスを仕組み化｜無在庫1000人超指導](https://x.com/kenta_business)
-- **Nguồn:** [Twitter Post](https://x.com/kenta_business/status/2012133143843922078)
-- **Đã xuất bản:** 16 tháng 1, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6367)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7378)**
 
 ---
 
-### No. 81: Truyện tranh / Bảng phân cảnh - Mô hình LEGO Diorama thu nhỏ bối cảnh phim kinh dị 'The Nun'
+### No. 85: Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung người đàn ông phong cách trong studio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc JSON sáng tạo để tạo cảnh mô hình LEGO thu nhỏ mô tả phim trường của bộ phim kinh dị 'The Nun'. Nó bao gồm các mô tả chi tiết về nội thất đá Gothic, nhân vật nữ tu LEGO và nhiều thành viên đoàn làm phim LEGO minifigure (người quay phim, người cầm micro boom, đạo diễn) tương tác với thiết bị làm phim, tất cả được thể hiện bằng ánh sáng điện ảnh kịch tính, độ tương phản cao.
+Một câu lệnh để tạo ra bức chân dung studio siêu thực, đậm chất điện ảnh về một người đàn ông sành điệu, tự tin trong bộ vest màu xanh navy được may đo tinh xảo. Nó mô tả chi tiết các phụ kiện như đồng hồ đeo tay vàng sang trọng và kính râm phi công màu tối, nhấn mạnh ánh sáng mềm mại, ấm áp và phong cách biên tập thời trang.
+
+#### 📝 Câu lệnh
+
+```
+Một người đàn ông sành điệu, tự tin, mặc bộ vest màu xanh navy được may đo vừa vặn với chiếc áo sơ mi trắng tinh khôi hơi cởi cúc, đang chỉnh lại cổ tay áo. Anh ta có mái tóc đen được tạo kiểu gọn gàng, bộ râu quai nón được chăm sóc kỹ lưỡng và đeo kính râm phi công màu tối. Một chiếc đồng hồ đeo tay vàng sang trọng có thể nhìn thấy trên cổ tay trái của anh ta. Ảnh chụp chân dung studio với ánh sáng dịu nhẹ, ấm áp, nền chuyển màu nâu mịn, độ sâu trường ảnh nông, lấy nét sắc nét, chi tiết cao, tâm trạng điện ảnh và thanh lịch, phong cách biên tập thời trang, siêu thực, chất lượng 4K.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053974_dzpxjs_G_YZ4W6X0AAAsdM.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung người đàn ông phong cách trong studio - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014826355708272922)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7384)**
+
+---
+
+### No. 86: Tiếp thị sản phẩm - Chân dung thời trang Cyberpunk với làn da xanh điện
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Đây là một lời nhắc tạo hình ảnh chi tiết để tạo ra một bức chân dung thời trang tương lai siêu cách điệu, có độ tương phản cao. Chủ thể là một người phụ nữ có làn da màu xanh điện, đeo kính râm màu vàng nổi bật và đội mũ len màu cam có họa tiết. Lời nhắc chỉ định một thẩm mỹ cyberpunk neon, ánh sáng studio, chi tiết siêu thực và liệt kê rõ ràng các lời nhắc tiêu cực để đảm bảo một cái nhìn biên tập sạch sẽ, chất lượng cao.
+
+#### 📝 Câu lệnh
+
+```
+Chân dung thời trang tương lai cực kỳ cách điệu của một người phụ nữ, tông màu da xanh điện, đeo kính râm ngoại cỡ táo bạo màu {argument name="sunglasses color" default="vàng"} với tròng kính {argument name="lens color" default="cam phản chiếu"}, phấn mắt màu cam rực rỡ và lông mi dài ấn tượng, môi màu xanh lì, biểu cảm tối giản, đầu hơi ngẩng lên, đội mũ len màu cam có họa tiết. Bảng màu tương phản cao (xanh & cam), thẩm mỹ cyberpunk neon, ánh sáng studio, kết cấu da mịn, siêu thực, lấy nét cực sắc, độ phân giải 8K, nhiếp ảnh thời trang biên tập, phong cách nghệ thuật hiện đại, nền sạch, ánh sáng điện ảnh, cảm giác thời trang sang trọng.
+mờ, độ phân giải thấp, nhiễu hạt, nhiễu, biến dạng, mặt không đối xứng, thừa chi, hình mờ, văn bản, logo, làm sắc nét quá mức.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047762_4nv109_G_YZtE6WoAA3lhI.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung thời trang Cyberpunk với làn da xanh điện - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Nguồn:** [Twitter Post](https://x.com/brightcoding/status/2014826156831473981)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7371)**
+
+---
+
+### No. 87: Tiếp thị sản phẩm - Lời nhắc tạo bảng tâm trạng thương hiệu chuẩn nhà thiết kế
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc đơn giản, cấp cao dành cho Nano Banana Pro được thiết kế để tạo ra một bảng tâm trạng thương hiệu tinh tế, đẳng cấp nhà thiết kế. Nó tập trung vào các khái niệm trừu tượng như bố cục lưới, kết cấu xúc giác, nhiếp ảnh biên tập và bảng màu cao cấp trầm, hướng đến một thẩm mỹ tài liệu nội bộ chuyên nghiệp.
+
+#### 📝 Câu lệnh
+
+```
+Bảng tâm trạng thương hiệu được tuyển chọn kỹ lưỡng dành cho một thương hiệu công nghệ hiện đại.
+Bố cục lưới cân bằng, kết cấu xúc giác,
+tham khảo nhiếp ảnh biên tập,
+bảng màu cao cấp dịu nhẹ,
+bố cục ưu tiên kiểu chữ,
+được tạo tác như một bản trình bày nội bộ của nhà thiết kế thương hiệu cấp cao.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235982712_ekqbiv_G_I8ofcXYAAwpny.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo bảng tâm trạng thương hiệu chuẩn nhà thiết kế - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [SRKDAN](https://x.com/SRKDAN)
+- **Nguồn:** [Twitter Post](https://x.com/SRKDAN/status/2014825721517244464)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7283)**
+
+---
+
+### No. 88: Tiếp thị sản phẩm - Lời nhắc: Bài xã luận thời trang siêu thực trong Nhà tắm La Mã
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc rất chi tiết để tạo ra hình ảnh biên tập thời trang cao cấp của một chủ thể trong nhà tắm La Mã cổ đại, mặc một chiếc váy vàng ướt bó sát, có hình xăm rắn, và nhấn mạnh biểu cảm lạnh lùng, uy quyền cùng ánh sáng chính xác về mặt vật lý.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "scene_overview": {
-    "setting": "Nội thất đá kiểu Gothic giống bối cảnh nhà thờ hoặc thánh đường",
-    "environment_style": "Mô hình LEGO thu nhỏ",
-    "location_type": "Trường quay / sản xuất phim hậu trường",
-    "time_of_day": "Trong nhà, ánh sáng được kiểm soát (tâm trạng đêm điện ảnh)",
-    "atmosphere": "Điện ảnh, kỳ quái, sân khấu, được kiểm soát",
-    "mood": "Hài hước đen tối, ma quái, vui tươi, sáng tạo",
-    "genre_influence": ["Kinh dị", "Làm phim hậu trường", "Kỳ ảo"]
+  "prompt": "Ảnh thời trang biên tập siêu thực của Ana de Armas trong nhà tắm La Mã cổ đại, nước nông, thần thái uy quyền, biểu cảm lạnh lùng khó gần, váy vàng cổ chữ V sâu ướt dính, hình xăm rắn ở chân trái, ống kính 85mm, DOF nông, 3:4",
+  "style": "Nhiếp ảnh thời trang siêu thực cao cấp, chủ nghĩa hiện thực biên tập điện ảnh, quang học tự nhiên, ánh sáng vật lý chính xác, không cách điệu, thuần nhiếp ảnh",
+  "aspect_ratio": "3:4",
+  "resolution": "8k",
+  "lighting": "Ánh sáng ban ngày mềm mại được kiểm soát tốt, điểm nhấn tự nhiên, bóng mềm, phản chiếu nước tinh tế, phơi sáng rõ ràng",
+  "camera_angle": "Hơi dưới ngực, cận trung đến giữa thân, ống kính 85mm, độ sâu trường ảnh nông",
+  "subject": {
+    "name": "{argument name=\"subject name\" default=\"Ana de Armas\"}",
+    "face": "Nét mặt lạnh lùng, đối xứng, làn da sứ với chút ấm áp tinh tế",
+    "expression": "Bình tĩnh săn mồi, ánh mắt khóa chặt trực diện, không cười, môi khép hờ thư giãn, uy quyền không thể chạm tới",
+    "makeup": "Tối giản, nhấn vào mắt và cấu trúc xương",
+    "hair": "Tóc dài thẳng, chân tóc sẫm màu đến ngọn sáng hơn, hơi ẩm, rẽ ngôi gọn gàng",
+    "physique": "Dáng vẻ nữ tính mạnh mẽ thanh lịch, tư thế tự tin vững chãi",
+    "skin": "Da trắng sáng, bóng ướt chân thực ở phần thân dưới, hình xăm rắn quấn quanh chi tiết ở chân trái",
+    "outfit": "Váy bơi lai mỏng màu vàng cổ chữ V sâu, nửa dưới ướt dính, đường viền cổ khoét sâu",
+    "jewelry": "Bông tai giọt kim cương, vòng cổ vàng mảnh nhiều lớp, vòng tay vàng",
+    "pose": "Nằm khuỷu tay trong nước nông, một chân gập một chân duỗi thẳng về phía trước, thân hơi ngả về sau, hông chạm đất, chiếm lĩnh không gian"
   },
-
-  "primary_subject": {
-    "type": "Nhân vật LEGO minifigure",
-    "role": "Nữ tu / nhân vật kinh dị",
-    "appearance": {
-      "outfit": "Áo nữ tu đen với cổ áo trắng",
-      "face": "Mặt trắng bệch, mắt trũng đen, biểu cảm kỳ quái",
-      "accessories": "Dây chuyền thánh giá",
-      "pose": "Đứng yên, đối diện về phía trước"
-    },
-    "positioning": {
-      "location": "Nằm ở trung tâm trong một vòm đá lớn",
-      "background": "Hốc hoặc buồng được chiếu sáng màu xanh lam rực rỡ"
-    }
+  "environment": {
+    "location": "Nhà tắm La Mã cổ đại, cột và kiến trúc cổ điển bằng đá nhạt",
+    "atmosphere": "Ánh sáng ban ngày khuếch tán mềm mại, hùng vĩ nhưng thứ yếu so với chủ thể",
+    "background": "Các cấu trúc đá cổ điển mờ ảo"
   },
-
-  "supporting_characters": {
-    "crew_members": [
-      {
-        "role": "Người quay phim",
-        "object_interaction": "Vận hành một máy quay phim LEGO lớn",
-        "position": "Phía trước bên trái, ngồi trên xe đẩy máy quay"
-      },
-      {
-        "role": "Người điều khiển micro boom",
-        "object_interaction": "Giữ micro boom hướng về phía chủ thể",
-        "position": "Phía trên bên trái tiền cảnh"
-      },
-      {
-        "role": "Kỹ thuật viên ánh sáng",
-        "object_interaction": "Giữ một tấm phản sáng hình chữ nhật",
-        "position": "Bên phải, đặt trên giá đỡ"
-      },
-      {
-        "role": "Người điều khiển bảng vỗ",
-        "object_interaction": "Giữ một bảng vỗ",
-        "position": "Phía trước trung tâm bên phải"
-      },
-      {
-        "role": "Đạo diễn / Giám sát kịch bản",
-        "object_interaction": "Giữ bảng kẹp và giấy tờ",
-        "position": "Phía dưới bên phải tiền cảnh"
-      }
-    ],
-    "style": "Tất cả các nhân vật đều là LEGO minifigure với tông màu da vàng và nhiều kiểu tóc khác nhau"
-  },
-
-  "props_and_equipment": {
-    "film_equipment": [
-      "Máy quay phim LEGO",
-      "Xe đẩy máy quay trên đường ray",
-      "Micro boom có kính chắn gió lông",
-      "Tấm phản sáng",
-      "Bảng vỗ",
-      "Màn hình hiển thị nhân vật nữ tu",
-      "Dây cáp cuộn trên sàn"
-    ],
-    "architectural_elements": [
-      "Tường gạch đá",
-      "Cửa vòm lớn",
-      "Hốc tường lõm",
-      "Sàn đá lát gạch"
-    ]
-  },
-  "lighting": {
-    "primary_light": "Ánh sáng xanh lục lam mạnh từ phía sau nữ tu",
-    "secondary_lighting": "Ánh sáng studio trung tính ấm áp trên đoàn làm phim và tiền cảnh",
-    "contrast": "Độ tương phản cao giữa nền xanh lạnh và tông màu tiền cảnh ấm áp",
-    "style": "Ánh sáng điện ảnh, kịch tính, lấy cảm hứng kinh dị"
-  },
-
-  "color_palette": {
-    "dominant_colors": ["Xám đậm", "Đen", "Xanh lục lam"],
-    "accent_colors": ["Vàng ấm ("
+  "image_quality": {
+    "detail_level": "Chi tiết siêu thực của da, bóng ướt tự nhiên, hình xăm chi tiết",
+    "overall_vibe": "Sự thanh lịch mạnh mẽ, sự vượt trội nguy hiểm bình tĩnh, uy quyền thuần túy và sự tự tin về giới tính"
   }
 }
 ```
@@ -5770,111 +5154,46 @@ Một lời nhắc JSON sáng tạo để tạo cảnh mô hình LEGO thu nhỏ 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631179842_bt4bpk_G-wvqjobQAIEqnQ.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Mô hình LEGO Diorama thu nhỏ bối cảnh phim kinh dị 'The Nun' - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Chandan Singh](https://x.com/cbsingh_oo3)
-- **Nguồn:** [Twitter Post](https://x.com/cbsingh_oo3/status/2012035545812385829)
-- **Đã xuất bản:** 16 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6323)**
-
----
-
-### No. 82: Truyện tranh / Bảng phân cảnh - Lưới khác biệt biểu cảm của nữ chính
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Mô tả
-
-Một prompt tiếng Nhật cố gắng sử dụng Nano Banana Pro để tạo ra một lưới 16 ô hiển thị các biểu cảm khuôn mặt khác nhau (sự khác biệt về biểu cảm) của một nữ anh hùng, dựa trên một hình ảnh tham chiếu. Prompt chỉ định rằng ô trên cùng bên trái phải là hình ảnh gốc, và 15 ô còn lại phải hiển thị các biến thể trong khi vẫn giữ nguyên phong cách nghệ thuật, tương tự như chức năng tham chiếu giả trong các mô hình cũ hơn.
-
-#### 📝 Câu lệnh
-
-```
-Tạo các biểu cảm khác nhau cho nhân vật nữ chính. Hiển thị chúng trên màn hình 16 ô. Ô trên cùng bên trái sẽ là hình ảnh gốc. 15 ô còn lại sẽ hiển thị các biến thể biểu cảm khác nhau.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877373_9olwvv_G-rYHaibQAEAX1W.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Lưới khác biệt biểu cảm của nữ chính - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236022995_yfpu5p_G_YNWuFXIAAuKiq.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc: Bài xã luận thời trang siêu thực trong Nhà tắm La Mã - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877331_a78rtk_G-rYOXja4AA4LhO.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Lưới khác biệt biểu cảm của nữ chính - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236022667_7xe4o1_G_YNWlUXYAA7FSE.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc: Bài xã luận thời trang siêu thực trong Nhà tắm La Mã - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022869_c7pqle_G_YNWruWUAEyfhl.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc: Bài xã luận thời trang siêu thực trong Nhà tắm La Mã - Image 3">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [SenY](https://x.com/YuuriAmemiya)
-- **Nguồn:** [Twitter Post](https://x.com/YuuriAmemiya/status/2011658251960721685)
-- **Đã xuất bản:** 15 tháng 1, 2026
-- **Ngôn ngữ:** ja
+- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2014812579600662753)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6228)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7337)**
 
 ---
 
-### No. 83: Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio ấn tượng, đầy kịch tính (JSON)
+### No. 89: Tiếp thị sản phẩm - Ảnh chụp lén một người phụ nữ ở NYC theo phong cách Paparazzi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc JSON có cấu trúc cao để tạo ra một bức chân dung studio anh hùng, đầy kịch tính với ánh sáng cam-đỏ bão hòa và độ tương phản cao (chiaroscuro), yêu cầu bảo toàn nghiêm ngặt các đặc điểm khuôn mặt và trang phục của chủ thể từ ảnh tham chiếu.
+Một lời nhắc chi tiết để tạo ra một bức ảnh toàn thân chân thực, tự nhiên, theo phong cách paparazzi về một phụ nữ trẻ (giống Anya Taylor Joy) đang đi bộ trên vỉa hè đông đúc ở Thành phố New York, chỉ rõ trang phục của cô ấy (áo crop top có chữ, váy da mini, bốt cao đến đầu gối) và các yếu tố nền đô thị bụi bặm.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "meta": {
-    "title": "Chân Dung Studio Đầy Kịch Tính, Anh Hùng",
-    "role": "Nhiếp ảnh gia đẳng cấp thế giới chuyên chụp chân dung biên tập",
-    "aesthetic": "Ánh sáng studio kịch tính, bão hòa với cảm giác anh hùng"
-  },
-  "constraints": {
-    "identity_anchor": {
-      "source": "ẢNH THAM CHIẾU ĐÍNH KÈM",
-      "strictness": "Nghiêm ngặt",
-      "instruction": "Giữ nguyên vẹn các đặc điểm khuôn mặt, tông màu da, kiểu tóc và sự giống tự nhiên mà không thay đổi."
-    },
-    "clothing_anchor": {
-      "source": "CHÍNH XÁC NHƯ TRONG ẢNH THAM CHIẾU",
-      "strictness": "Nghiêm ngặt",
-      "instruction": "Kiểu dáng, màu sắc, chất liệu và độ vừa vặn phải hoàn toàn tương ứng với bản gốc mà không được cách điệu."
-    }
-  },
-  "subject_details": {
-    "expression": "Nghiêm túc, căng thẳng, tập trung",
-    "gaze": "Hướng ra khỏi máy ảnh, nhìn lên không gian phía trên",
-    "universality": "Ánh sáng và góc chụp áp dụng được cho cả nam và nữ"
-  },
-  "composition": {
-    "background": "Phông nền màu {argument name=\"Background Color\" default=\"orange-red\"} bão hòa, chuyển màu mượt mà, không có họa tiết, không khí 'nóng bỏng'",
-    "camera_angle": "Góc thấp (chụp từ dưới lên) để tạo sự uy quyền",
-    "framing": "Cận trung, nhấn mạnh vào khuôn mặt và vai"
-  },
-  "lighting": {
-    "palette": "Màu cam sáng và đỏ đậm chủ đạo",
-    "key_light": "Nguồn sáng định hướng mạnh mẽ, đổ bóng sâu kịch tính (chiaroscuro), nhấn mạnh cấu trúc khuôn mặt",
-    "backlight": "Ánh sáng viền mạnh mẽ hoặc quầng sáng màu tách chủ thể khỏi phông nền",
-    "mood": "Bí ẩn, căng thẳng, tương phản cao"
-  },
-  "technical_specs": {
-    "style": "Chủ nghĩa hiện thực ảnh, chi tiết cao",
-    "focus": "Lấy nét sắc nét vào khuôn mặt so với phông nền chuyển màu mượt mà",
-    "texture_quality": "Giữ nguyên lỗ chân lông và kết cấu da tự nhiên"
-  },
-  "combined_prompt_text": "Chân dung biên tập đẳng cấp thế giới, ánh sáng studio kịch tính, cảm giác anh hùng. [GIỮ NGUYÊN DANH TÍNH ẢNH THAM CHIẾU]: Các đặc điểm khuôn mặt, tông màu da, kiểu tóc chính xác. [TRANG PHỤC CHÍNH XÁC]: Không thay đổi về độ vừa vặn hoặc chất liệu. Biểu cảm: nghiêm túc, căng thẳng, tập trung, nhìn lên và ra xa. Phông nền: Màu cam đỏ bão hòa, chuyển màu mượt mà, không khí nóng bỏng. Góc máy: Góc thấp chụp từ dưới lên để tạo sự uy quyền. Bố cục: Cận trung. Ánh sáng: Bảng màu cam sáng và đỏ đậm, ánh sáng chính chiaroscuro định hướng mạnh mẽ, ánh sáng viền mạnh mẽ tách chủ thể khỏi phông nền. Kỹ thuật: Hiện thực ảnh, chi tiết cao, lấy nét sắc nét vào khuôn mặt, kết cấu da và lỗ chân lông tự nhiên."
+  "prompt": "Một bức ảnh chụp toàn thân theo phong cách paparazzi chân thực, tự nhiên về một phụ nữ trẻ với mái tóc vàng bạch kim dài thẳng đang đi bộ trên vỉa hè nhộn nhịp của Thành phố New York. Cô ấy mặc một chiếc áo crop top baby tee màu trắng có dòng chữ '{argument name=\"shirt text\" default=\"I <3 COWBOYS\"}' bằng phông chữ lấp lánh màu hồng, một chiếc váy mini da đen ngắn và đôi bốt cao đến đầu gối màu đen. Cô ấy đeo kính râm mắt mèo tối màu và đang ôm một chiếc ví đen cùng điện thoại. Phông nền có cảnh quan đô thị điển hình bao gồm giàn giáo xây dựng, một chiếc xe tải giao hàng màu trắng, một thùng rác và những người đi bộ bị làm mờ, được chụp dưới ánh sáng ban ngày tự nhiên với kết cấu độ phân giải cao."
 }
 ```
 
@@ -5883,172 +5202,113 @@ Một lời nhắc JSON có cấu trúc cao để tạo ra một bức chân dun
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393910_5tmt5z_G_U227dWAAAtzmu.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio ấn tượng, đầy kịch tính (JSON) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236015549_68ope1_G_YLLHOXMAAawSQ.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chụp lén một người phụ nữ ở NYC theo phong cách Paparazzi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149394137_4f0bt5_G_U227hW4AAt5g0.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio ấn tượng, đầy kịch tính (JSON) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236015432_u98lsv_G_YLLHQXUAAtZRD.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chụp lén một người phụ nữ ở NYC theo phong cách Paparazzi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395002_se9oog_G_U227eWMAE4UIl.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio ấn tượng, đầy kịch tính (JSON) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393956_fx7yl0_G_U227gXYAAWGwr.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio ấn tượng, đầy kịch tính (JSON) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236015528_wxq254_G_YM5CVW0AE3iWV.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chụp lén một người phụ nữ ở NYC theo phong cách Paparazzi - Image 3">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Lex](https://x.com/lexx_aura)
-- **Nguồn:** [Twitter Post](https://x.com/lexx_aura/status/2014576740492869761)
+- **Tác giả:** [jennieee:3](https://x.com/jenniebae_ai)
+- **Nguồn:** [Twitter Post](https://x.com/jenniebae_ai/status/2014812283508011295)
 - **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7238)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7327)**
 
 ---
 
-### No. 84: Tiếp thị sản phẩm - Kết xuất ý tưởng kiến trúc: Từ bản phác thảo đến ảnh chân thực
+### No. 90: Tiếp thị sản phẩm - Gợi ý Chụp ảnh Chân dung Biên tập Thời trang trên Ghế sofa Hiện đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một prompt cực kỳ chi tiết để tạo ra bản dựng ý tưởng kiến trúc của một mặt tiền quán cà phê hiện đại. Ý tưởng cốt lõi là pha trộn tính thẩm mỹ của bản phác thảo kỹ thuật rõ ràng (nét chì, gạch chéo, chú thích) với chủ nghĩa siêu thực cao cấp. Nó chỉ định bố cục (mặt tiền đối xứng, cửa sổ khung đen), chi tiết nội thất (ánh sáng ấm áp, cây cối, quầy), và các yếu tố bên ngoài (đèn, bảng hiệu), nhấn mạnh sự tương phản giữa các đường nét phác thảo đơn sắc và các điểm nhấn màu sắc có chọn lọc.
-
-#### 📝 Câu lệnh
-
-```
-"Bản dựng ý tưởng kiến trúc của một mặt tiền quán cà phê hiện đại, cực kỳ chi tiết, kết hợp giữa bản phác thảo kỹ thuật rõ ràng và chủ nghĩa siêu thực cao cấp. Bố cục có một cửa sổ và cửa ra vào bằng kính được đóng khung {argument name="window frame color" default="black"} đối xứng hoàn hảo, đặt trong một mặt tiền tối giản màu trắng tinh khôi với kết cấu tinh tế. Qua ô cửa sổ trung tâm, nội thất quán cà phê ấm cúng, mời gọi hiện ra, với đèn treo mềm mại, cây xanh tươi tốt, một quầy gỗ nhỏ gọn, vài chiếc ghế đẩu và bóng dáng người mờ ảo ở hậu cảnh tạo cảm giác sống động. Xung quanh cửa sổ, các đường phác thảo bút chì tinh tế, dấu kích thước, gạch chéo, lưới xây dựng và các chú thích kiến trúc viết tay nhỏ chồng lên tường và mặt đất, hòa quyện liền mạch tính thẩm mỹ của bản vẽ với thực tế hoàn thiện. Thêm các chi tiết ngoại thất chân thực như một chiếc đèn kim loại màu đen nhỏ đặt chính giữa phía trên vòm hoặc dầm ngang, một biển hiệu sandwich board được thiết kế gọn gàng trên vỉa hè với chữ viết phấn mờ, và hai chậu cây cảnh trang nhã đặt hai bên lối vào trong những chậu cây hiện đại đơn giản. Nhấn mạnh sự tương phản cân bằng giữa các đường phác thảo đơn sắc sắc nét và các điểm nhấn màu sắc chọn lọc, tinh tế — ánh sáng vàng ấm áp bên trong, một tấm áp phích màu vàng nổi bật duy nhất trong cửa sổ, tán lá xanh tự nhiên và bóng đổ mềm mại, có hướng trên vỉa hè. Tâm trạng tổng thể là thanh lịch, sáng tạo và mang tính khái niệm, gợi lên một hình ảnh kiến trúc cao cấp dường như chuyển tiếp dần từ các đường nét bản thiết kế ở các cạnh thành chủ nghĩa hiện thực nhiếp ảnh được hiện thực hóa hoàn toàn ở trung tâm."
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398050_z57bix_G_TVR_IX0AAxOw1.jpg" width="600" alt="Tiếp thị sản phẩm - Kết xuất ý tưởng kiến trúc: Từ bản phác thảo đến ảnh chân thực - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [FutureToolsAI](https://x.com/FutureToolsAI)
-- **Nguồn:** [Twitter Post](https://x.com/FutureToolsAI/status/2014473439164104858)
-- **Đã xuất bản:** 22 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7242)**
-
----
-
-### No. 85: Tiếp thị sản phẩm - Ana de Armas: Chân dung ngồi xổm kiểu đô thị với Khóa nhận diện
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một JSON prompt cực kỳ cụ thể để tạo ra bức chân dung siêu thực, đậm chất điện ảnh của Ana de Armas trong tư thế ngồi xổm bên trong một gara đỗ xe đô thị. Điều quan trọng là prompt này sử dụng các quy tắc 'identity lock' và 'pose lock', yêu cầu AI tuân thủ nghiêm ngặt các hình ảnh tham chiếu bên ngoài về khuôn mặt, tóc, tư thế, bối cảnh và ánh sáng, đồng thời áp dụng trang phục thời trang đường phố hiện đại.
+Một JSON prompt chi tiết để tạo ra một bức chân dung biên tập thời trang siêu độ phân giải cao, chân thực như ảnh chụp. Bức ảnh có hình một người phụ nữ sành điệu đang ngồi trên chiếc ghế sofa hiện đại màu xám nhạt, mặc một chiếc váy ngắn họa tiết kẻ sọc đỏ, áo blazer đen và quần tất đen xuyên thấu. Prompt chỉ định một bức ảnh toàn thân, góc chụp từ trên cao với ánh sáng studio mềm mại, nhấn mạnh chi tiết cao và lấy nét sắc nét đồng thời yêu cầu bảo toàn nghiêm ngặt nhận dạng khuôn mặt từ một hình ảnh tham chiếu.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "scene_description": {
-    "environment": "Nhà để xe trong nhà, sàn bê tông, ống trần công nghiệp, cột, kiến trúc hạ tầng đô thị",
-    "background": "Khu vực đỗ xe rộng và trống, chiều sâu phối cảnh, không khí công nghiệp",
-    "floor": "Sàn nhựa đường/bê tông, vân tự nhiên, phản chiếu nhẹ",
-    "mood": "đô thị, điện ảnh, tối giản, hiện đại"
+  "description": "Một phụ nữ trưởng thành sành điệu đang ngồi trên chiếc ghế sofa hiện đại màu xám nhạt trong phòng khách đương đại, mặc một chiếc váy ngắn {argument name=\"dress pattern\" default=\"kẻ sọc đỏ\"}, áo blazer đen, quần tất đen xuyên thấu và giày cao gót mũi nhọn màu đen. Tư thế thư thái và thanh lịch với đôi chân duỗi thẳng và bắt chéo, một tay đặt trên lưng ghế sofa và tay kia đặt trên đùi. Môi trường tối giản với rèm cửa màu xám, thảm màu be, đồng hồ để bàn cổ điển màu đỏ và đèn bàn bằng đồng thau ở phía sau. Ánh sáng studio tự nhiên dịu nhẹ, phong cách chụp ảnh thời trang biên tập, chi tiết cao, lấy nét sắc nét.",
+  
+  "face_reference": "Chỉ sử dụng hình ảnh tham chiếu đã tải lên cho khuôn mặt, không sửa đổi cấu trúc hoặc nhận dạng khuôn mặt.",
+  
+  "camera": {
+    "angle": "góc cao hơi nghiêng",
+    "framing": "chân dung toàn thân",
+    "lens": "tương đương 35mm-50mm",
+    "depth_of_field": "độ sâu trường ảnh nông đến trung bình, hậu cảnh hơi mờ"
   },
-
-  "subject": {
-    "gender": "nữ",
-    "identity_source": "reference_1",
-    "identity_lock": {
-      "face": true,
-      "hair_color": true,
-      "hair_texture": true,
-      "hair_style": true,
-      "hair_density": true,
-      "hairline": true
+  
+  "lighting": {
+    "type": "ánh sáng studio dịu nhẹ",
+    "mood": "ánh sáng ban ngày tự nhiên, độ tương phản thấp",
+    "shadows": "bóng đổ mềm mại, không có ánh sáng gắt"
+  },
+  "clothing": {
+    "dress": {
+      "color": "đỏ",
+      "pattern": "kẻ sọc tartan với các đường đen và trắng",
+      "length": "ngắn",
+      "fit": "ôm sát, tôn dáng"
     },
-    "pose": {
-      "body_position": "Người phụ nữ trong tư thế ngồi xổm (squat pose), gót chân chạm đất, đầu gối gập",
-      "posture": "Tư thế ngồi xổm cân bằng, có tính thẩm mỹ",
-      "head_pose": "Đầu hơi nghiêng sang một bên",
-      "gaze": "Nhìn thẳng vào máy ảnh",
-      "expression": "Biểu cảm khuôn mặt bình tĩnh, lạnh lùng, hơi bí ẩn"
+    "blazer": {
+      "color": "đen",
+      "style": "ôm sát, một nút"
     },
-    "hands": {
-      "hand_position": "Một tay đặt lên cằm, tay còn lại ở tư thế thư giãn"
+    "tights": {
+      "color": "đen",
+      "type": "xuyên thấu"
+    },
+    "shoes": {
+      "type": "giày cao gót mũi nhọn",
+      "color": "đen",
+      "toe": "mũi nhọn",
+      "detail": "phần mũi giày hơi trong suốt"
     }
   },
-
-  "outfit": {
-    "top": "Áo sweatshirt rộng màu sáng",
-    "bottom": "Chân váy ngắn / váy mini ({argument name=\"skirt color\" default=\"tông màu kaki\"})",
-    "bag": "Túi đeo vai {argument name=\"bag color\" default=\"Đỏ\"}, dây đeo chéo, thiết kế hiện đại",
-    "shoes": "Sandal cao gót {argument name=\"shoe color\" default=\"Đỏ\"}",
-    "style": "phong cách thành thị sang trọng, thời trang đường phố hiện đại",
-    "fabric_detail": "vân vải tự nhiên, bề mặt mờ"
-  },
-
-  "composition": {
-    "framing": "Khung hình dọc",
-    "camera_angle": "Góc nhìn hơi thấp",
-    "lens": "Ống kính 50mm, phối cảnh tự nhiên",
-    "depth_of_field": "Độ sắc nét trung bình, hậu cảnh hơi mờ",
-    "focus": "Người phụ nữ là tiêu điểm chính, chiều sâu hậu cảnh điện ảnh"
-  },
-
-  "lighting": {
-    "main_light": "Ánh sáng mềm từ phía trước",
-    "ambient_light": "Ánh sáng nhân tạo tự nhiên bên trong nhà để xe",
-    "shadow": "Bóng mềm",
-    "mood": "ánh sáng đô thị điện ảnh"
-  },
-
-  "style": {
-    "realism": "siêu thực",
-    "texture": "kết cấu chi tiết cao",
-    "color_grading": "chỉnh màu điện ảnh",
-    "contrast": "độ tương phản trung bình đến cao",
-    "vibe": "đô thị, thẩm mỹ, hiện đại, biên tập"
-  },
-
-  "rules": {
-    "identity": "Khuôn mặt và tóc phải giống hệt từ reference_1",
-    "pose_lock": "Tư thế phải giống hệt reference_2",
-    "scene_lock": "Vị trí, góc độ, ánh sáng và bố cục phải được giữ nguyên chính xác như trong reference_2",
-    "no_changes": [
-      "màu tóc không được thay đổi",
-      "kiểu tóc không được thay đổi",
-      "kết cấu tóc không được thay đổi",
-      "tư thế không được thay đổi",
-      "góc máy ảnh không được thay đổi",
-      "thiết lập ánh sáng không được thay đổi",
-      "vị trí không được thay đổi",
-      "bố cục không được thay đổi"
+  
+  "environment": {
+    "location": "phòng khách hiện đại",
+    "sofa": "ghế sofa vải màu xám nhạt",
+    "curtains": "xám",
+    "floor": "thảm màu be",
+    "props": [
+      "đồng hồ để bàn cổ điển màu đỏ",
+      "đèn bàn bằng đồng thau với chao đèn màu trắng"
     ]
   },
-
-  "quality": {
-    "resolution": "8K",
-    "detail_level": "chi tiết cực cao",
-    "photorealism": true
+  "style": {
+    "genre": "chụp ảnh thời trang biên tập",
+    "quality": "độ phân giải cực cao, chi tiết 8k",
+    "realism": "siêu thực",
+    "noise": "thấp",
+    "sharpness": "cao"
   },
-
+  
   "negative_prompt": [
-    "sai màu tóc",
-    "sai kiểu tóc"
+    "sửa đổi khuôn mặt",
+    "mờ",
+    "độ phân giải thấp",
+    "quá sắc nét",
+    "thừa chi",
+    "cơ thể biến dạng",
+    "hoạt hình",
+    "anime",
+    "cháy sáng",
+    "bóng đổ gắt"
   ]
 }
 ```
@@ -6058,134 +5318,129 @@ Một JSON prompt cực kỳ cụ thể để tạo ra bức chân dung siêu th
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398255_zaad9r_G_R9EG7WoAEsXlh.jpg" width="600" alt="Tiếp thị sản phẩm - Ana de Armas: Chân dung ngồi xổm kiểu đô thị với Khóa nhận diện - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236002476_w185di_G_YM9gGXwAA1fqM.jpg" width="600" alt="Tiếp thị sản phẩm - Gợi ý Chụp ảnh Chân dung Biên tập Thời trang trên Ghế sofa Hiện đại - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398465_pj0kgx_G_R9EJoXcAAGmdI.jpg" width="600" alt="Tiếp thị sản phẩm - Ana de Armas: Chân dung ngồi xổm kiểu đô thị với Khóa nhận diện - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149399500_a9rcaj_G_R9EQsXoAAlUnU.jpg" width="600" alt="Tiếp thị sản phẩm - Ana de Armas: Chân dung ngồi xổm kiểu đô thị với Khóa nhận diện - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398328_1ksw6p_G_SUxK9WYAAOLD_.jpg" width="600" alt="Tiếp thị sản phẩm - Ana de Armas: Chân dung ngồi xổm kiểu đô thị với Khóa nhận diện - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236002488_4nyhhl_G_YNCGMXwAAJJjE.jpg" width="600" alt="Tiếp thị sản phẩm - Gợi ý Chụp ảnh Chân dung Biên tập Thời trang trên Ghế sofa Hiện đại - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [manolya](https://x.com/manolyaai)
-- **Nguồn:** [Twitter Post](https://x.com/manolyaai/status/2014399224809439301)
-- **Đã xuất bản:** 22 tháng 1, 2026
+- **Tác giả:** [Emma](https://x.com/emmagpt0)
+- **Nguồn:** [Twitter Post](https://x.com/emmagpt0/status/2014812242244513978)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7243)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7308)**
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - Chân dung phong cách hội họa Phục Hưng trong một cung điện Ý
+### No. 91: Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio siêu thực với đạo cụ chiếc nhẫn bay lơ lửng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh tạo hình ảnh rất chi tiết được thiết kế để tạo ra một bức chân dung siêu thực của một người phụ nữ mặc váy mini màu hồng họa tiết hoa cúc, được tạo kiểu trông giống như một bức tranh thời Phục hưng đặt trong một phòng trưng bày palazzo của Ý. Câu lệnh chỉ định góc máy ảnh, ánh sáng, tư thế và các chi tiết vật lý để tạo ra một vẻ ngoài biên tập thời trang cao cấp.
+Một mẫu prompt cho Nano Banana Pro để tạo ra một bức chân dung toàn thân siêu thực, chụp trong studio, với một nhân vật được bao quanh bởi một vòng tròn nổi, nghiêng theo đường chéo. Prompt cho phép tùy chỉnh nhân vật, trang phục, chất liệu vòng tròn và màu nền studio theo gradient, nhấn mạnh ánh sáng điện ảnh và lấy nét sắc nét vào chủ thể và vòng tròn.
+
+#### 📝 Câu lệnh
+
+```
+Một bức chân dung toàn thân siêu thực trong studio của {argument name="character" default="[CHARACTER]"} với {argument name="outfit description" default="[OUTFIT DESCRIPTION]"} trong một [POSE]. Toàn bộ cơ thể của anh/cô ấy được nhìn thấy rõ ràng từ đầu đến chân, đứng trên một sàn studio phản chiếu [FLOOR TYPE], với cả hai bàn chân đều rõ ràng trong khung hình. Máy ảnh được đặt ở độ cao toàn thân, thẳng, đảm bảo bố cục sạch sẽ và đối xứng mạnh mẽ.
+
+Xung quanh chủ thể, [RING TYPE] được sắp xếp chính xác quanh vùng giữa thân. [RING CONTENT] (lặp lại liền mạch nếu là văn bản). Vòng được nghiêng chéo theo phối cảnh và lơ lửng tự nhiên quanh cơ thể với một khoảng trống rõ ràng, không chạm vào quần áo/da. Kết xuất vòng: {argument name="ring material" default="[MATERIAL/STYLE: metallic / chrome / dot-matrix LED / anime ink]"} với [EXTRUSION or GLOW], bóng sâu và điểm nhấn bóng loáng.
+
+Nền: một gradient studio sạch sẽ từ [COLOR 1] đến [COLOR 2], được chiếu sáng đều và tối giản. Ánh sáng: ánh sáng studio điện ảnh mềm mại, [KEY LIGHT direction/quality] tạo ra những bóng đổ kịch tính mượt mà trên [materials]. Một ánh sáng nền / ánh sáng viền tinh tế tăng cường chiều sâu và sự tách biệt khỏi nền, trong khi các điểm nhấn phản chiếu nhẹ nhàng làm nổi bật các đường nét, kết cấu và chủ nghĩa hiện thực cao cấp. Tâm trạng: [FINAL MOOD LINE] [STYLE INTERPRETATION]. Cực kỳ chi tiết, bố cục điện ảnh, lấy nét sắc nét
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235990133_6gfcfy_G_YNBm7XMAAffYp.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc tạo ảnh chân dung studio siêu thực với đạo cụ chiếc nhẫn bay lơ lửng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [ΛRMIN | AI](https://x.com/Arminn_Ai)
+- **Nguồn:** [Twitter Post](https://x.com/Arminn_Ai/status/2014812228307058857)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7294)**
+
+---
+
+### No. 92: Tiếp thị sản phẩm - Gợi ý biên tập đồng phục công sở nữ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON có cấu trúc để tạo ra hình ảnh chân thực của một phụ nữ trẻ châu Á trong bộ đồng phục Office Lady quyến rũ (áo sơ mi trắng bó sát, váy siêu ngắn, vớ cao đến đùi) đang ngồi trên bàn làm việc, lấy bối cảnh nội thất văn phòng hiện đại với đường chân trời thành phố phía sau.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "scene_type": "Phòng trưng bày palazzo kiểu Ý, váy mini hoa cúc màu {argument name=\"dress color\" default=\"hồng\"}, tóc bạch kim buộc nửa đầu, tranh tường Tuscan và tượng đá cẩm thạch",
-
-  "camera_perspective": {
-    "pov": "nhiếp ảnh gia đứng bên cạnh/phía trước cô ấy",
-    "angle": "ngang tầm mắt, chụp góc nghiêng đến góc 3/4 của cô ấy",
-    "distance": "cảnh trung bình - từ đùi trên đến trên đầu",
-    "framing": "dọc 4:5, cô ấy chiếm vị trí giữa bên trái, nội thất palazzo trải dài phía sau",
-    "lens": "ống kính chân dung tiêu chuẩn, phối cảnh tự nhiên"
-  },
-
-  "subject": {
-    "action": "đứng trong phòng trưng bày palazzo, xoay người sang một bên, nhìn lại qua vai TRÁI về phía máy ảnh",
-    
-    "pose": {
-      "overall_position": "đứng, GÓC NGHIÊNG đến góc 3/4, nhìn lại về phía máy ảnh",
-      
-      "body_angle": {
-        "orientation": "cơ thể hướng sang phải, xoay khoảng 70-80 độ so với máy ảnh",
-        "twist": "đầu xoay SANG TRÁI để nhìn lại qua vai về phía máy ảnh",
-        "posture": "thanh lịch, đứng tự nhiên"
-      },
-      
-      "upper_body": {
-        "shoulders": "trần trừ những dây áo mỏng có nơ",
-        "chest": "hiện rõ ở góc nghiêng, thân váy ôm sát",
-        "posture": "thẳng, thanh lịch"
-      },
-      
-      "lower_body": {
-        "hips": "hiện rõ đường cong ở góc nghiêng",
-        "dress": "váy mini xòe hiện rõ hình dáng",
-        "stockings": "vớ đùi ren trắng ló ra dưới gấu váy"
-      },
-      
-      "arms": {
-        "position": "thả lỏng hai bên",
-        "hands": "một tay gần đùi/gấu váy",
-        "effect": "tự nhiên, thanh lịch"
-      },
-      
-      "head_and_neck": {
-        "turn": "nhìn lại qua vai TRÁI về phía máy ảnh",
-        "rotation": "đầu xoay đáng kể về phía máy ảnh",
-        "chin": "trung tính, góc mềm mại",
-        "direction": "giao tiếp bằng mắt trực tiếp với máy ảnh"
-      },
-      
-      "overall": "góc nghiêng thanh lịch với cái liếc mắt qua vai trong khung cảnh tráng lệ"
+  "prompt_data": {
+    "subject": {
+      "basics": "1 cô gái, một mình",
+      "demographics": "Nữ thần tượng châu Á ở độ tuổi 20 tuyệt đẹp, dáng người mẫu thời trang cao ráo",
+      "hair": "Tóc đen thẳng rất dài với mái bằng",
+      "eyes": "Đôi mắt to tròn, sắc sảo",
+      "skin": "Làn da trắng ngần không tì vết",
+      "expression": "Biểu cảm dễ thương nhưng quyến rũ nhìn vào người xem"
     },
-    
-    "expression": {
-      "eyes": {
-        "color": "XANH DƯƠNG - xanh lam nhạt, nổi bật, trong trẻo",
-        "direction": "trực tiếp vào máy ảnh",
-        "state": "dịu dàng, bình tĩnh, hơi mãnh liệt, cuốn hút",
-        "energy": "tự tin nhưng nhẹ nhàng, hiểu biết"
+    "attire": {
+      "main_outfit": {
+        "item": "Đồng phục Nữ nhân viên văn phòng quyến rũ",
+        "details": [
+          "Áo sơ mi trắng cài cúc bó sát",
+          "Váy siêu ngắn màu đen",
+          "Gấu váy cắt cực cao",
+          "Hình dáng chuyên nghiệp nhưng lôi cuốn"
+        ],
+        "branding": "Không có"
       },
-      "mouth": {
-        "lips": "đầy đặn, hồng tự nhiên, mềm mại",
-        "expression": "thư giãn, trung tính, bĩu môi tự nhiên nhẹ nhàng",
-        "state": "khép kín, nhẹ nhàng"
-      },
-      "skin": {
-        "face": "trắng sáng, tự nhiên, trong trẻo, căng mọng",
-        "makeup": "tối thiểu/tự nhiên - mặt mộc, có thể thoa son nhẹ"
-      },
-      "overall": "tự tin nhẹ nhàng, vẻ đẹp tự nhiên, sự bình tĩnh mang tính biên tập"
+      "legwear": [
+        "Vớ đùi màu xanh đậm xuyên thấu",
+        "Họa tiết ren hoa phức tạp trên vớ",
+        "Đai nịt ren màu xanh đậm với dây đeo"
+      ]
     },
-
-    "physical": {
-      "age": "đầu tuổi 20",
-      
-      "face": {
-        "structure": "đặc điểm người mẫu, xương gò má rõ nét, hàm mềm mại",
-        "shape": "trái xoan, cân đối",
-        "skin": "trắng sáng, sứ, tự nhiên, khỏe mạnh",
-        "makeup": "tối thiểu - tự nhiên, tươi tắn, căng mọng"
-      },
-      
-      "body": {
-        "type": "thon gọn, nữ tính, tỷ lệ người mẫu",
-        "profile": "đường cong thanh lịch hiện rõ ở góc nhìn nghiêng",
-        "w"
+    "accessories": {
+      "style": "Phụ kiện vàng sang trọng",
+      "items": [
+        "Đồng hồ vàng mỏng",
+        "Dây chuyền vàng mảnh với mặt dây chuyền đá ruby",
+        "Bông tai dây chuyền vàng dài"
+      ]
+    },
+    "pose_and_action": {
+      "posture": "Ngồi duyên dáng trên mép bàn làm việc",
+      "interaction": "Chân bắt chéo thanh lịch"
+    },
+    "environment": {
+      "setting": "Nội thất văn phòng công ty cao cấp hiện đại",
+      "background_elements": "Đường chân trời thành phố mờ ảo qua cửa sổ kính từ trần đến sàn, nội thất văn phòng bóng bẩy"
+    },
+    "style_and_technical": [
+      "Bóng đổ tinh tế",
+      "Ánh sáng mềm mại điện ảnh",
+      "Khuôn mặt và đôi mắt cực kỳ chi tiết",
+      "Chất liệu chân thực",
+      "Chụp ảnh chân thực",
+      "Lấy nét sắc nét",
+      "8k",
+      "3:4"
+    ]
+  }
 }
 ```
 
@@ -6194,43 +5449,241 @@ Một câu lệnh tạo hình ảnh rất chi tiết được thiết kế để
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149400727_h1s4c5_G_SSua9W4AAkYDj.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung phong cách hội họa Phục Hưng trong một cung điện Ý - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236023824_aqdj6j_G_XXhabbAAE9SaU.jpg" width="600" alt="Tiếp thị sản phẩm - Gợi ý biên tập đồng phục công sở nữ - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Nilisty](https://x.com/nilisty)
-- **Nguồn:** [Twitter Post](https://x.com/nilisty/status/2014396478815449327)
-- **Đã xuất bản:** 22 tháng 1, 2026
+- **Tác giả:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **Nguồn:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2014753385518661906)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7245)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7339)**
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Các câu lệnh tạo thiết kế đa bước cho thương hiệu 'Lovart'
+### No. 93: Tiếp thị sản phẩm - Lời nhắc Chân dung Biên tập Quán bar Sang trọng Siêu Chân thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một lời nhắc JSON có cấu trúc cao để tạo ra một bức chân dung biên tập siêu thực tế về một quán bar sang trọng. Nó yêu cầu khóa nhận diện khuôn mặt nghiêm ngặt bằng cách sử dụng hình ảnh tham chiếu và mô tả chi tiết cảnh: một người phụ nữ ngồi trên ghế bar trong một quán cocktail cổ điển cao cấp, mặc một chiếc váy dạ hội bằng sa tanh màu xanh ngọc lục bảo. Lời nhắc chỉ định ánh sáng hổ phách/vonfram ấm áp, tỷ lệ khung hình 4:5 và nhấn mạnh kết cấu da thật cùng dải động tự nhiên, cấm rõ ràng ánh sáng AI hoặc chỉnh sửa.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_bar_editorial_portrait",
+      "version": "v1.0_LUXURY_BAR_GREEN_SATIN_DRESS_NO_TEXT_EN",
+      "priority": "highest",
+      "language": "vi"
+    },
+    "references": {
+      "reference_image_face": {
+        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
+        "purpose": "FACE_IDENTITY_LOCK",
+        "strict_lock": true,
+        "face_similarity_priority": "MAX",
+        "no_identity_blending": true,
+        "no_beautify": true,
+        "no_age_shift": true,
+        "preserve_skin_texture": true,
+        "preserve_facial_proportions": true
+      },
+      "reference_image_style": {
+        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
+        "purpose": "STYLE_COMPOSITION_ANCHOR",
+        "strict_lock": false,
+        "preserve_lighting": true,
+        "preserve_palette": true,
+        "preserve_vibe": true
+      }
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_nudity": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_luxury_editorial",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "very_subtle",
+      "color_grade": "warm_amber_bar_lighting",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "global_rules": {
+      "camera_language": "Chân dung tại quầy bar kiểu biên tập, 35-50mm, toàn thân ngồi, DOF nông, ưu tiên khuôn mặt + kết cấu vải satin",
+      "lighting_language": "ánh sáng quầy bar màu hổ phách/vonfram ấm, đèn phụ mềm, điểm nhấn satin, không flash gắt",
+      "authenticity_markers": "không có hiệu ứng AI/HDR, kết cấu da thật, tay chính xác, giải phẫu học rõ ràng, nhận diện phải khớp"
+    },
+    "creative_prompt": {
+      "scene_summary": "Chân dung biên tập tại quầy bar sang trọng siêu thực của cùng một phụ nữ trưởng thành (KHỚP CHÍNH XÁC KHUÔN MẶT), ngồi trên ghế bar trong một quán cocktail cổ điển cao cấp. Các chai rượu được chiếu sáng từ phía sau trên kệ kính (không có nhãn đọc được), quầy bar bằng gỗ ấm áp + đá cẩm thạch. Cô ấy mặc một chiếc váy dạ hội satin màu {argument name=\"dress color\" default=\"emerald\"}/xanh ô liu với đường viền cổ tinh tế và đường xẻ cao (không hở hang quá mức). Tư thế ngồi bắt chéo chân, giày cao gót sang trọng, trang sức tối giản. Ánh nhìn tự tin quyến rũ. Không có chữ.",
+      "wardrobe_and_style": {
+        "outfit": "váy dạ hội satin màu xanh ngọc lục bảo/xanh ô liu, thân áo ôm sát, đường xẻ cao, rủ mềm mại",
+        "shoes": "giày cao gót màu trung tính",
+        "accessories": "nhẫn tối giản, bông tai tinh xảo",
+        "makeup": "trang điểm đêm quyến rũ, mắt khói nhẹ nhàng, môi hồng nude",
+        "hair": "tóc đen mượt, mái mềm"
+      },
+      "composition": {
+        "framing": "toàn thân ngồi 4:5, khuôn mặt sắc nét, nếp gấp satin rõ ràng, hậu cảnh mờ nhẹ",
+        "background": "kệ quầy bar sang trọng, chai/ly thủy tinh, không có biển hiệu"
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235992196_x3isgl_G_XWeAGWMAEanwo.jpg" width="600" alt="Tiếp thị sản phẩm - Lời nhắc Chân dung Biên tập Quán bar Sang trọng Siêu Chân thực - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Özge Döner](https://x.com/astronomerozge1)
+- **Nguồn:** [Twitter Post](https://x.com/astronomerozge1/status/2014752227303330027)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7296)**
+
+---
+
+### No. 94: Hình ảnh chính thương mại điện tử - Lời nhắc ảnh sản phẩm Studio cho lon trà sữa trân châu (Boba Tea Can) (Bản sao)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một JSON prompt chi tiết được thiết kế để tạo ra một bức ảnh sản phẩm thương mại cao cấp của lon đồ uống, cụ thể là BOBAco Popping Bubble Tea. Prompt này chỉ định một phong cách thẩm mỹ sạch sẽ, tối giản với nền màu hồng pastel, ánh sáng khuếch tán mềm mại và độ sâu trường ảnh nông, tập trung vào các chi tiết siêu thực như hơi nước ngưng tụ và quả mâm xôi tươi làm vật trang trí.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "scene": {
+    "type": "ảnh sản phẩm trong studio",
+    "background": {
+      "color": "{argument name=\"background color\" default=\"hồng pastel\"}",
+      "surface": "mịn"
+    },
+    "lighting": {
+      "key": "ánh sáng khuếch tán mềm",
+      "rim": "tinh tế"
+    },
+    "camera": {
+      "lens": "85mm",
+      "depth_of_field": "nông"
+    }
+  },
+  "subject": {
+    "type": "lon đồ uống",
+    "brand": "{argument name=\"brand name\" default=\"BOBAco Popping Bubble Tea\"}",
+    "color": "trắng",
+    "position": "ở giữa",
+    "details": {
+      "condensation": true,
+      "focus": "nhãn"
+    },
+    "garnish": {
+      "main": {
+        "type": "quả mâm xôi",
+        "position": "trên vành lon"
+      },
+      "foreground": {
+        "type": "quả mâm xôi",
+        "quantity": "nhiều",
+        "ripeness": "chín"
+      }
+    }
+  },
+  "style": {
+    "aesthetic": "tối giản, sạch sẽ",
+    "photography": "chụp ảnh đồ uống thương mại cao cấp",
+    "post_processing": "chỉnh sửa cao cấp",
+    "text": false,
+    "watermark": false
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236008629_0cmhs1_G_WHO2MaAAAIvDX.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc ảnh sản phẩm Studio cho lon trà sữa trân châu (Boba Tea Can) (Bản sao) - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Sharon Riley](https://x.com/Just_sharon7)
+- **Nguồn:** [Twitter Post](https://x.com/Just_sharon7/status/2014665115883471125)
+- **Đã xuất bản:** 23 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7315)**
+
+---
+
+### No. 95: Hình ảnh chính thương mại điện tử - Bản Mockup Nhận diện Thương hiệu Hàng đầu (Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một quy trình làm việc toàn diện, nhiều bước sử dụng tác nhân thiết kế 'Lovart' (có thể được tích hợp với Nano Banana Pro) để tạo ra một bộ nhận diện thương hiệu hoàn chỉnh, bắt đầu từ logo và mở rộng đến hướng dẫn thiết kế, giao diện người dùng (UI), trang web, gian hàng triển lãm và hàng hóa. Điều này thể hiện một cách tiếp cận có cấu trúc để tạo ra thiết kế.
+Một lời nhắc chi tiết, có cấu trúc chặt chẽ dành cho Nano Banana Pro để tạo ra một bản mockup phẳng, toàn diện về hệ sinh thái thương hiệu hàng đầu (Lovart), bao gồm bao bì, đồ dùng ăn uống thiết yếu, đồng phục nhân viên và hàng hóa, sử dụng chủ đề hình ảnh Giáng sinh/tối giản đặc trưng của Nhật Bản.
 
 #### 📝 Câu lệnh
 
 ```
-Một logo cho công ty có tên "{argument name="company name" default="Lovart"}" với dải màu gradient cơ bản là màu {argument name="color 1" default="xanh ngọc lục bảo"} rực rỡ và màu {argument name="color 2" default="xanh dương"} rực rỡ.
-
-Tạo bảng màu và hướng dẫn thiết kế phông chữ từ logo này.
-
-Tạo thiết kế giao diện người dùng (UI) ứng dụng cho dịch vụ này. Phiên bản PC và phiên bản điện thoại thông minh.
-
-Thiết kế một trang web để giới thiệu dịch vụ này. Phiên bản PC và phiên bản điện thoại thông minh.
-
-Thiết kế hình ảnh gian hàng triển lãm cho dịch vụ này.
-
-Thiết kế vật phẩm quảng cáo (merchandise) cho dịch vụ này. Áo phông, áo hoodie, mũ lưỡi trai, sổ tay, sticker.
+“task_description”:
+“Tạo bản mô phỏng nhận diện thương hiệu cấp độ flagship hỗ trợ đầy đủ các danh mục”
+“prompt_structure”: {
+“subject”:
+“Bố cục phẳng của một hệ sinh thái thương hiệu quy mô lớn, cực kỳ chi tiết”
+“brand_info”: {
+“{argument name="brand name" default="Lovart"}”,
+“visual_theme”: “{argument name="visual theme" default="Giáng sinh Nhật Bản, tối giản, tông màu ấm"}”
+},
+“item_categories”: {
+“packaging”: "Túi mua sắm (S/M/L), hộp bánh kem, túi đựng hạt cà phê, hộp bánh sandwich hình nêm, hộp bánh ngọt",
+“dining_essentials”: "Cốc cà phê có tay cầm, khăn giấy ăn, gói đường, giấy lót khay, bảng menu",
+“staff_uniform”: "Tạp dề xanh gấp gọn, mũ lưỡi trai thêu, thẻ tên nhân viên",
+“merchandise”: "Túi vải tote, cốc sứ, sổ tay có thương hiệu, bút bi"
+},
+“visual_style”: {
+“art_style”: “Mô phỏng vector sạch với ánh xạ kết cấu chân thực”,
+“color_palette”: "Xanh lá cây rừng (chính), trắng mờ (phụ), nâu giấy thủ công (kết cấu), be (điểm nhấn)",
+“logo_style”: “Logo hươu nghệ thuật đường nét tối giản”
+},
+“composition”: {“type”: “Bố cục dày đặc, không chồng chéo”,
+“background”: “Màu than chì đậm (#1A1A1A)”,
+“perspective”: “Góc nhìn từ trên xuống 90 độ (góc nhìn trực giao)”}
+“negative_prompt”:“Lộn xộn, bừa bộn, chồng chéo, biến dạng phối cảnh 3D, phản chiếu quá mức chân thực, nhựa bóng, màu neon, bàn tay người, hình mờ, độ phân giải thấp”
+“generation_params”: {
+“aspect_ratio”: “3:4”,
+“detail_level”: “Cao”,
+“texture_quality”: “Cao cấp”}
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -6238,122 +5691,41 @@ Thiết kế vật phẩm quảng cáo (merchandise) cho dịch vụ này. Áo p
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149373823_avjhxj_G_QiCWtawAAkGgW.jpg" width="600" alt="Tiếp thị sản phẩm - Các câu lệnh tạo thiết kế đa bước cho thương hiệu 'Lovart' - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236034649_tx34lj_G_VgYm5bEAAKtxW.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Bản Mockup Nhận diện Thương hiệu Hàng đầu (Nano Banana Pro) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034854_whekav_G_Vnq6bbAAgL_Ru.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Bản Mockup Nhận diện Thương hiệu Hàng đầu (Nano Banana Pro) - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [KAWAI](https://x.com/kawai_design)
-- **Nguồn:** [Twitter Post](https://x.com/kawai_design/status/2014272630833226237)
-- **Đã xuất bản:** 22 tháng 1, 2026
+- **Tác giả:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
+- **Nguồn:** [Twitter Post](https://x.com/lovart_jp/status/2014639253016449173)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7199)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7357)**
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Nhắc nhở chụp ảnh selfie đường phố ban đêm đậm chất điện ảnh với tính năng khóa nhận diện
+### No. 96: Hình ảnh chính thương mại điện tử - Lời nhắc video sản phẩm không trọng lực (Nước ngọt dâu)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc (prompt) có cấu trúc, chi tiết cao dành cho Nano Banana Pro trên Higgsfield, được thiết kế để tạo ra một bức ảnh selfie đường phố ban đêm mang phong cách điện ảnh siêu thực với "thẩm mỹ tội phạm biên tập thời trang". Lời nhắc yêu cầu bảo toàn nghiêm ngặt danh tính bằng cách sử dụng ảnh tham chiếu khuôn mặt được tải lên, mô tả một người phụ nữ đang nghiêng người ra khỏi cửa sổ ô tô trong một cuộc rượt đuổi tốc độ cao, nhấn mạnh ánh sáng động (còi báo động, đèn đường) và hiệu ứng nhòe chuyển động.
+Một lời nhắc để tạo video sản phẩm siêu thực, không trọng lực, có lon soda dâu tây. Bối cảnh là một không gian studio màu hồng đỏ nhẹ nhàng, nơi lon, dâu tây, đá viên và chất lỏng đều trôi nổi chậm rãi, nhấn mạnh tính thẩm mỹ không trọng lượng, ngoài không gian cho cảnh quay sản phẩm.
 
 #### 📝 Câu lệnh
 
 ```
-{
-  "type": "image_generation_prompt",
-  "style": "ảnh selfie đường phố ban đêm siêu thực, điện ảnh, phong cách thời trang-tội phạm",
-  "identity_lock": {
-    "use_uploaded_face_only": true,
-    "strict_identity_preservation": true,
-    "notes": "Giữ nguyên 100% nhận dạng khuôn mặt gốc mà không thay đổi cấu trúc, tỷ lệ hoặc các đặc điểm độc đáo của khuôn mặt. Khuôn mặt đã khóa."
-  },
-  "subject": {
-    "gender": "nữ",
-    "pose": {
-      "description": "nghiêng người ra khỏi cửa sổ ô tô trong một cuộc chạy trốn tốc độ cao",
-      "arm_position": "một cánh tay duỗi thẳng hoàn toàn về phía máy ảnh, đang cầm điện thoại",
-      "head_position": "đầu hơi ngửa ra sau",
-      "gesture": "khiêu khích và tinh nghịch",
-      "attitude": "không sợ hãi, tự tin, nổi loạn"
-    },
-    "face_and_skin": {
-      "skin_quality": "mịn màng và rạng rỡ",
-      "details": [
-        "kết cấu da chân thực với các lỗ chân lông có thể nhìn thấy",
-        "ánh đèn đường bóng bẩy",
-        "gò má được tạo hình mềm mại",
-        "môi bóng bẩy hơi hé mở"
-      ],
-      "eyes": "đôi mắt biểu cảm ẩn một phần sau cặp kính râm đen hình chữ nhật hẹp"
-    },
-    "hair": {
-      "style": "bị gió thổi tung bởi tốc độ và không khí đêm",
-      "movement": "năng động, chảy tự nhiên"
-    },
-    "outfit_and_accessories": {
-      "outerwear": "áo blazer màu xanh navy được khoác hờ sang trọng trên vai",
-      "top": "áo phông trắng",
-      "jewelry": "nhẫn bạc tối giản",
-      "prop": "cốc {argument name=\"prop\" default=\"Costa Coffee\"} cầm trên tay"
-    }
-  },
-  "environment": {
-    "setting": "đường phố thành phố đêm mưa",
-    "ground": "mặt đường nhựa ướt với những vệt phản chiếu dài",
-    "background_action": [
-      "xe cảnh sát đuổi theo phía sau",
-      "đèn còi đỏ và xanh nhấp nháy",
-      "đèn pha mờ ảo",
-      "chiều sâu đô thị điện ảnh"
-    ],
-    "visual_effects": [
-      "hiệu ứng nhòe chuyển động ấn tượng",
-      "vòng tròn bokeh đèn đường màu vàng",
-      "lóe sáng từ đèn cảnh sát",
-      "những phản chiếu trải dài trên con đường ướt mưa"
-    ]
-  },
-  "lighting": {
-    "sources": [
-      "đèn đường natri ấm áp",
-      "đèn cảnh sát xanh lạnh",
-      "đèn còi đỏ nhấp nháy"
-    ],
-    "style": "độ tương phản cao",
-    "effects": [
-      "phản chiếu bóng bẩy trên da",
-      "phản chiếu trên kính và thân xe",
-      "phản chiếu trên đường ướt"
-    ]
-  },
-  "mood": {
-    "vibe": "nổi loạn, tinh nghịch, hỗn loạn quyến rũ",
-    "energy": "cuộc sống về đêm đầy adrenaline",
-    "tone": "cuộc chạy trốn sang trọng hiện đại"
-  },
-  "camera_and_style": {
-    "perspective": "ảnh selfie điện thoại góc rộng",
-    "depth_of_field": "độ sâu trường ảnh nông",
-    "motion_effects": "hiệu ứng nhòe chuyển động mạnh ở hậu cảnh và vệt sáng",
-    "image_quality": [
-      "chi tiết cực cao",
-      "hạt phim chân thực",
-      "phân loại màu điện ảnh"
-    ]
-  },
-  "constraints": [
-    "Không thay đổi nhận dạng khuôn mặt",
-    "Không thay đổi tỷ lệ khuôn mặt",
-    "Không có khuôn mặt được tạo kiểu bằng AI",
-    "Không có vẻ ngoài hoạt hình hoặc CGI"
-  ],
-  "output_goal": "Tạo một bức ảnh selfie đường phố ban đêm siêu thực, điện ảnh của một người phụ nữ tự tin đang l"
-}
+Một video sản phẩm siêu thực về trạng thái không trọng lực, với lon soda dâu tây lơ lửng trong không gian studio màu hồng-đỏ dịu nhẹ.
+
+CẢNH 1 — GIỚI THIỆU KHÔNG GIAN LƠ LỬNG:
+Lon soda lơ lửng giữa không trung, hơi nghiêng, không có trọng lực rõ ràng. Xung quanh nó là những quả dâu tây, viên đá và chất lỏng màu đỏ đang chảy, tất cả đều trôi chậm rãi như thể trong không gian vũ trụ. Không có vật thể nào rơi xuống — mọi thứ nhẹ nhàng lơ lửng theo các hướng khác nhau.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -6361,21 +5733,21 @@ Một lời nhắc (prompt) có cấu trúc, chi tiết cao dành cho Nano Banan
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383502_gv187y_G_PDz5saEAAoL96.jpg" width="600" alt="Tiếp thị sản phẩm - Nhắc nhở chụp ảnh selfie đường phố ban đêm đậm chất điện ảnh với tính năng khóa nhận diện - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235995156_76im06_G_U0e55a4AAMRZK.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc video sản phẩm không trọng lực (Nước ngọt dâu) - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Nguồn:** [Twitter Post](https://x.com/saniaspeaks_/status/2014168771741855965)
-- **Đã xuất bản:** 22 tháng 1, 2026
+- **Tác giả:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Nguồn:** [Twitter Post](https://x.com/Vishnudxe/status/2014574116767256988)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7217)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7299)**
 
 ---
 
-### No. 89: Hình ảnh chính thương mại điện tử - Lời nhắc để tạo hình ảnh cao cấp bằng Nano Banana Pro
+### No. 97: Hình ảnh chính thương mại điện tử - Lời nhắc để tạo hình ảnh cao cấp bằng Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6421,7 +5793,7 @@ Một bức ảnh chụp {argument name="product" default="hạt cà phê chất
 
 ---
 
-### No. 90: Hình ảnh chính thương mại điện tử - Lời nhắc quảng cáo sản phẩm lon nước ngọt siêu chân thực
+### No. 98: Hình ảnh chính thương mại điện tử - Lời nhắc quảng cáo sản phẩm lon nước ngọt siêu chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6475,7 +5847,7 @@ Góc máy ảnh hơi thấp và chéo, khung hình cận cảnh trung bình, đ�
 
 ---
 
-### No. 91: Hình ảnh chính thương mại điện tử - Chuyển đổi hình ảnh thành mockup đồ uống
+### No. 99: Hình ảnh chính thương mại điện tử - Chuyển đổi hình ảnh thành mockup đồ uống
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6527,7 +5899,7 @@ Một chai nhựa sản phẩm mới bắt mắt trong lối đi đồ uống c�
 
 ---
 
-### No. 92: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm ý niệm siêu thực cho thuốc ngủ 'PILLow'
+### No. 100: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm ý niệm siêu thực cho thuốc ngủ 'PILLow'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6574,7 +5946,7 @@ cảnh lộn xộn, ánh sáng gắt, kết cấu nhựa, độ tương phản t
 
 ---
 
-### No. 93: Hình ảnh chính thương mại điện tử - Lời nhắc: Tranh phong cảnh Trung Quốc trừu tượng thu nhỏ
+### No. 101: Hình ảnh chính thương mại điện tử - Lời nhắc: Tranh phong cảnh Trung Quốc trừu tượng thu nhỏ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6625,7 +5997,7 @@ Phong cảnh thu nhỏ, cận cảnh, phong cảnh Trung Quốc trừu tượng,
 
 ---
 
-### No. 94: Hình ảnh chính thương mại điện tử - Lời nhắc quảng cáo thanh sô cô la siêu thực
+### No. 102: Hình ảnh chính thương mại điện tử - Lời nhắc quảng cáo thanh sô cô la siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6665,7 +6037,7 @@ Sử dụng hình ảnh sản phẩm đã tải lên làm tham chiếu. Tạo m�
 
 ---
 
-### No. 95: Hình ảnh chính thương mại điện tử - Chụp ảnh món ăn thương mại theo phong cách tối giản "Exploded View"
+### No. 103: Hình ảnh chính thương mại điện tử - Chụp ảnh món ăn thương mại theo phong cách tối giản "Exploded View"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6738,7 +6110,7 @@ Một JSON prompt để tạo ra ảnh chụp đồ ăn thương mại cao cấp
 
 ---
 
-### No. 96: Hình ảnh chính thương mại điện tử - Lời nhắc tạo đối tượng sợi đan
+### No. 104: Hình ảnh chính thương mại điện tử - Lời nhắc tạo đối tượng sợi đan
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6792,7 +6164,7 @@ Một lời nhắc tạo ảnh chi tiết được thiết kế để hiển th�
 
 ---
 
-### No. 97: Hình ảnh chính thương mại điện tử - Quảng cáo Cherry Soda: Cận cảnh giọt bắn tung tóe
+### No. 105: Hình ảnh chính thương mại điện tử - Quảng cáo Cherry Soda: Cận cảnh giọt bắn tung tóe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6867,7 +6239,7 @@ Máy ảnh & phong cách: Hiệu ứng ống kính macro 85mm, độ sâu trư�
 
 ---
 
-### No. 98: Hình ảnh chính thương mại điện tử - Chụp ảnh thực phẩm Praline độ chi tiết cao
+### No. 106: Hình ảnh chính thương mại điện tử - Chụp ảnh thực phẩm Praline độ chi tiết cao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6901,158 +6273,88 @@ Các viên Praline đủ loại được xếp chồng lỏng lẻo ở giữa t
 
 ---
 
-### No. 99: Hình ảnh chính thương mại điện tử - Trình tạo hình ảnh chủ đạo cho sản phẩm chăm sóc da
+### No. 107: Tài sản trò chơi - Cảnh hành động khoa học viễn tưởng đen tối với Symbiote giống Venom
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một mẫu lời nhắc có thể tùy chỉnh để tạo ra hình ảnh chủ đạo sản phẩm chăm sóc da cao cấp siêu thực. Mẫu này sử dụng các phần giữ chỗ cho sản phẩm, màu nền và các thành phần chính, tập trung vào ánh sáng studio sạch sẽ, phản chiếu sắc nét và các yếu tố nổi (thực vật, xoáy gel, giọt nước) để tạo ra một vẻ đẹp thương mại cao cấp.
-
-#### 📝 Câu lệnh
-
-```
-đặt chính giữa {argument name="product type" default="FACEWASH_PACKAGING"} trên nền chuyển màu đậm {argument name="background color 1" default="BG_COLOR_1"}→{argument name="background color 2" default="BG_COLOR_2"}, ánh sáng studio hiện đại, phản chiếu sắc nét + bóng đổ mềm mại. Chữ trên nhãn phải dễ đọc: chỉ "{argument name="brand name" default="BRAND"} {argument name="product name" default="PRODUCT_NAME"}". Bao quanh bằng KEY_INGREDIENT_1, KEY_INGREDIENT_2, BOTANICAL trôi nổi theo bố cục hình tròn cân đối, cùng với các dải ruy băng gel/bọt bóng loáng (các vòng lặp mượt mà), các giọt nước siêu nhỏ + sương mù nhẹ. Lấy nét cực sắc, DOF nông, 85mm, HDR, ISO100, không gian âm sạch, không lộn xộn, không có hình mờ. Xuất {ASPECT} (1:1/4:5/9:16).
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669960_389lzs_G_A1y5CXIAANTX2.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Trình tạo hình ảnh chủ đạo cho sản phẩm chăm sóc da - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669812_67410t_G_A1zAVX0AAJa21.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Trình tạo hình ảnh chủ đạo cho sản phẩm chăm sóc da - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890670260_lu04jb_G_A1y1wWgAAyNDH.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Trình tạo hình ảnh chủ đạo cho sản phẩm chăm sóc da - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890671110_l4u0yi_G_A1zA8XQAAPvm1.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Trình tạo hình ảnh chủ đạo cho sản phẩm chăm sóc da - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Nguồn:** [Twitter Post](https://x.com/DavisonDabiri/status/2013168193196449941)
-- **Đã xuất bản:** 19 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6744)**
-
----
-
-### No. 100: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm điện ảnh 8K (Nước hoa)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc (prompt) có độ chi tiết cao, theo mô-đun để tạo ra ảnh chụp sản phẩm chai nước hoa chất lượng điện ảnh 8K. Nó bao gồm hai mô-đun riêng biệt: một cho chai nước hoa chủ đề rừng và một cho cảnh nước bắn tung tóe, chỉ định ánh sáng, vật liệu và chi tiết siêu nhỏ.
+Một JSON prompt cực kỳ chi tiết để tạo ra một cảnh hành động điện ảnh siêu thực, 16K trong một nhà kho công nghiệp tối tăm. Prompt tập trung vào một phụ nữ trẻ (với tính năng khóa danh tính được bật) trong tư thế hành động năng động, từ lưng cô ấy một sinh vật cộng sinh ngoài hành tinh giống Venom, màu đen bóng, hung dữ đang bùng nổ, nhấn mạnh độ tương phản cao, ánh sáng viền ấm và góc quay thấp đầy kịch tính.
 
 #### 📝 Câu lệnh
 
 ```
 {
-  "global_settings": {
-    "resolution": "8K",
-    "aspect_ratio": "3:4",
-    "style": "nhiếp ảnh sản phẩm điện ảnh chân thực, siêu thực",
-    "detail_level": "chi tiết siêu nhỏ cực độ",
-    "sharpness": "siêu sắc nét",
-    "noise": "không nhiễu",
-    "compression_artifacts": "không có lỗi nén",
-    "color_depth": "màu 16-bit phong phú",
-    "render_quality": "chất lượng thương mại cao cấp",
-    "ai_finish": "chủ nghĩa hiện thực được tăng cường AI sạch sẽ"
+  "identity_lock": {
+    "reference_image": "uploaded_reference_image",
+    "face_editing": "disabled",
+    "preserve_facial_features": true,
+    "preserve_proportions": true
   },
-
-  "module_1": {
-    "scene_identity": "nước hoa_xanh_rừng",
-    "environment": {
-      "setting": "không khí rừng rậm",
-      "background": "tán lá xanh mờ ảo với độ sâu tách biệt",
-      "foreground": "nền rừng tự nhiên với đất, rêu và mảnh vụn nhỏ",
-      "props": [
-        "bệ đá phẳng tự nhiên",
-        "tảng đá không đều đặt hơi phía sau chai",
-        "cành cây thông có lá kim rõ ràng ở phía bên phải"
-      ],
-      "atmosphere": "khói hoặc sương mù nhẹ nhàng bay lên phía sau chai"
-    },
-    "product": {
-      "object_type": "chai nước hoa",
-      "material": "thủy tinh mờ có gân",
-      "color": "chất lỏng màu xanh ngọc lục bảo đậm",
-      "shape": "hình trụ với các rãnh dọc",
-      "cap": {
-        "material": "kim loại",
-        "finish": "vàng bóng",
-        "shape": "hình trụ nhẵn"
-      },
-      "label": "không có văn bản thương hiệu hiển thị"
-    },
-    "lighting": {
-      "key_light": "ánh sáng tự nhiên khuếch tán mềm mại từ phía trước bên trái",
-      "fill_light": "ánh sáng môi trường rừng tinh tế",
-      "highlights": "phản chiếu nhẹ nhàng trên các gân thủy tinh và nắp vàng",
-      "shadows": "bóng đổ mềm mại chân thực dưới chai và đá"
-    },
-    "camera": {
-      "angle": "góc sản phẩm ngang tầm mắt",
-      "focus": "lấy nét sắc nét vào chai, độ sâu trường ảnh nông",
-      "lens_effect": "nền bokeh tự nhiên"
-    },
-    "mood": "tươi mát, hương gỗ, thanh bình, cao cấp, lấy cảm hứng từ thiên nhiên"
+  "scene": {
+    "description": "Cảnh hành động điện ảnh siêu thực",
+    "resolution": "16K",
+    "style": "Áp phích phim hành động Hollywood",
+    "genre": "hành động khoa học viễn tưởng đen tối"
   },
-
-  "module_2": {
-    "scene_identity": "nước hoa_nước_xanh_bắn_tung_tóe",
-    "environment": {
-      "setting": "cảnh studio dưới nước tối",
-      "background": "chuyển màu từ xanh hải quân đậm sang đen",
-      "surface": "mặt nước gợn sóng với các điểm sáng phản chiếu",
-      "motion_elements": [
-        "vệt nước lớn bắn tung tóe lên phía sau chai",
-        "những giọt nước lơ lửng giữa không trung"
-      ],
-      "props": [
-        "lát chanh (thịt vàng có thể nhìn thấy)",
-        "lát cam quýt xanh",
-        "quả mọng nhỏ màu đỏ",
-        "cành thảo mộc xanh"
-      ]
+  "subject": {
+    "person": "người phụ nữ trẻ giống như trong ảnh tham chiếu",
+    "pose": {
+      "stance": "hành động năng động",
+      "body_position": "hơi cúi người về phía trước",
+      "legs": "một đầu gối gập",
+      "hands": {
+        "left_hand": "ấn xuống đất",
+        "right_hand": "vươn ra ngoài"
+      }
     },
-    "product": {
-      "object_type": "chai nước hoa",
-      "material": "thủy tinh đục",
-      "color": "xanh nửa đêm đậm",
-      "shape": "hình chữ nhật với các cạnh sắc nét",
-      "cap": {
-        "material": "thủy tinh tối màu tương ứng",
-        "shape": "hình trụ"
-      },
-      "text_visible": [
-        "BLEU DE CHANEL",
-        "EAU DE PARFUM"
-      ]
-    },
+    "expression": "tập trung và mãnh liệt",
+    "motion": "đang trong hành động, chuẩn bị nhảy hoặc tấn công"
+  },
+  "symbiote": {
+    "type": "{argument name=\"symbiote type\" default=\"Venom-like alien symbiote\"}",
+    "origin": "bùng nổ từ lưng cô ấy",
+    "features": [
+      "những xúc tu lớn đáng sợ",
+      "khuôn mặt gầm gừ hung dữ phía trên vai"
+    ],
+    "material": "kết cấu hữu cơ màu đen bóng",
+    "behavior": "mở rộng và di chuyển dữ dội"
+  },
+  "environment": {
+    "location": "nhà kho công nghiệp tối tăm",
+    "atmosphere": [
+      "mờ sương",
+      "đầy khói",
+      "các hạt bụi lơ lửng"
+    ],
     "lighting": {
-      "key_light": "ánh sáng định hướng mạnh từ phía trên bên trước",
-      "rim_light": "điểm sáng lạnh trên vệt nước bắn tung tóe",
-      "reflections": "điểm sáng phản xạ"
+      "primary": "những chùm sáng điện ảnh sắc nét xuyên qua sương mù",
+      "highlights": "ánh sáng viền ấm áp trên chủ thể và symbiote"
     }
+  },
+  "camera": {
+    "angle": "góc thấp",
+    "tilt": "hơi nghiêng",
+    "lens": "ống kính rộng điện ảnh",
+    "depth_of_field": "nông",
+    "motion_blur": "hiệu ứng nhòe chuyển động tinh tế"
+  },
+  "post_processing": {
+    "effects": [
+      "lóe sáng ống kính",
+      "vùng sáng ấm",
+      "phân loại màu điện ảnh",
+      "hạt phim tinh tế"
+    ],
+    "contrast": "cao",
+    "sharpness": "siêu chi tiết"
+  },
+  "mood": {
+    "energy": "cường độ cao",
+    "tone": "đen tối, mạnh mẽ, hung hãn",
+    "cinematic_feel": "hoành tráng và kịch tính"
   }
 }
 ```
@@ -7062,293 +6364,21 @@ Một lời nhắc (prompt) có độ chi tiết cao, theo mô-đun để tạo 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638679_0rbo6y_G_Auiz5WgAEqfUY.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm điện ảnh 8K (Nước hoa) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890639096_qd2s06_G_AuizDWQAA9keU.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm điện ảnh 8K (Nước hoa) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638950_22nc5e_G_Aui3fXEAENHXC.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm điện ảnh 8K (Nước hoa) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890640110_sd69rb_G_Aui9WWwAANyRn.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm điện ảnh 8K (Nước hoa) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235965535_jrzyig_G_XKm0ZbIAAcxlL.jpg" width="600" alt="Tài sản trò chơi - Cảnh hành động khoa học viễn tưởng đen tối với Symbiote giống Venom - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **Nguồn:** [Twitter Post](https://x.com/meng_dagg695/status/2013160227835933059)
-- **Đã xuất bản:** 19 tháng 1, 2026
+- **Tác giả:** [Sharon Riley](https://x.com/Just_sharon7)
+- **Nguồn:** [Twitter Post](https://x.com/Just_sharon7/status/2014739187241800019)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6696)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7260)**
 
 ---
 
-### No. 101: Hình ảnh chính thương mại điện tử - Gợi ý tạo ảnh ghép trực quan hóa sản phẩm chuông cửa thông minh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc chi tiết, có cấu trúc dành cho Nano Banana Pro được thiết kế để tạo ra một ảnh ghép trực quan hóa quảng cáo đa khung cho một chuông cửa thông minh. Nó chỉ định các tính năng của sản phẩm, xác định chín khung hình riêng biệt (Hero Shot, Close Up, Brand Environment, In Use, Isometric Grid, Levitating, Detail Extreme, Editorial Unexpected, Wide Use Scenario) và đặt các thông số kiểu máy ảnh như bảng màu và tâm trạng.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "ProductReference": "{argument name="Product Features" default="Chuông cửa thông minh với nhận diện khuôn mặt, âm thanh hai chiều, nhìn đêm, phát hiện chuyển động, chống chịu thời tiết, thiết kế đẹp mắt, điều khiển qua ứng dụng"}",
-  "Frame1_HeroShot": {
-    "Product": "Chuông cửa gắn trên lối vào, ống kính đặt chính giữa",
-    "Background": "Lối vào hiện đại màu xám liền mạch"
-  },
-  "Frame2_CloseUp": {
-    "Focus": "Độ rõ nét của ống kính camera, lưới micro, cơ chế nút bấm, gioăng chống thấm thời tiết, đèn báo LED, giá đỡ"
-  },
-  "Frame3_BrandEnvironment": {
-    "Setting": "Thẩm mỹ lối vào nhà thông minh, an ninh hiện đại",
-    "Props": {
-      "Background": "Kết cấu cửa trước",
-      "Surface": "Khu vực hiên nhà"
-    }
-  },
-  "Frame4_InUse": {
-    "Interaction": "Chủ nhà nhận thông báo trên điện thoại, cử chỉ trò chuyện hai chiều",
-    "Styling": "Tương tác an ninh nhà thông minh"
-  },
-  "Frame5_IsometricGrid": {
-    "Count": "Chuông cửa với màn hình giao diện ứng dụng",
-    "Arrangement": "Hệ thống lối vào thông minh"
-  },
-  "Frame6_Levitating": {
-    "Concept": "Chuông cửa lơ lửng với hình ảnh trực quan hóa vùng an ninh"
-  },
-  "Frame7_DetailExtreme": {
-    "Focus": "Cảm biến nhận diện khuôn mặt, chất lượng micro, đầu ra loa, pin dự phòng, ăng-ten WiFi, phạm vi cảm biến chuyển động"
-  },
-  "Frame8_EditorialUnexpected": {
-    "Concept": "Chuông cửa như người bảo vệ ngôi nhà, hình ảnh trực quan hóa mạng lưới an ninh",
-    "Materials": "Hệ sinh thái an ninh thông minh"
-  },
-  "Frame9_WideUseScenario": {
-    "Location": "Lối vào nhà thông minh hoàn chỉnh với an ninh",
-    "Props": ["Khóa thông minh", "Đèn lối vào", "Thảm chùi chân", "Chậu cây", "Phụ kiện cửa", "Camera an ninh"]
-  },
-  "CameraStyle": {
-    "ColorPalette": "Chuông cửa màu đen, ống kính camera màu xanh lam, đèn LED, màu cửa",
-    "Mood": "An ninh thông minh, lối vào nhà, tiện nghi hiện đại"
-  }
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890714990_8c7kb2_G_ATVFcXAAAsNMj.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Gợi ý tạo ảnh ghép trực quan hóa sản phẩm chuông cửa thông minh - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [松果先森](https://x.com/songguoxiansen)
-- **Nguồn:** [Twitter Post](https://x.com/songguoxiansen/status/2013130384897421728)
-- **Đã xuất bản:** 19 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6812)**
-
----
-
-### No. 102: Hình ảnh chính thương mại điện tử - Lời nhắc tạo tác phẩm điêu khắc siêu xe bằng kính nhiều lớp trong suốt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một JSON prompt mang tính kỹ thuật cao để tạo ra hình ảnh siêu xe chân thực, được dò tia. Chiếc xe được thể hiện dưới dạng một tác phẩm điêu khắc cắt lát theo cấu trúc tô pô, làm từ kính acrylic quang học nhiều lớp, với các chi tiết cơ khí bên trong có thể nhìn thấy. Prompt nhấn mạnh ánh sáng (ánh sáng viền, ánh sáng phát ra từ bên trong, hiệu ứng caustics) trên nền không gian đen kịt, tạo ra một vẻ đẹp của hình ảnh được tách rời.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "prompt_configuration": {
-    "parameters": {
-      "car_model": "{argument name=\"car model\" default=\"SUPERCAR MODEL\"}",
-      "material_color": "{argument name=\"material color\" default=\"warm amber and deep orange\"}"
-    },
-    "aspect_ratio": "16:9",
-    "viewpoint": "góc 3/4 phía trước, hiển thị toàn bộ xe"
-  },
-  "prompt_payload": {
-    "subject_definition": {
-      "core_subject": "{car_model}",
-      "representation_style": "tác phẩm điêu khắc lát cắt dạng tô-pô, được tạo thành từ các tấm vật liệu trong mờ xếp chồng song song"
-    },
-    "material_physics": {
-      "medium": "kính acrylic quang học nhiều lớp",
-      "texture": "cạnh cắt laser, độ trong suốt thể tích, tán xạ dưới bề mặt",
-      "color_palette": "chuyển màu trong mờ {material_color}, khúc xạ nội tại phát sáng"
-    },
-    "technical_details": {
-      "structure": "cấu trúc lá có gân, mặt cắt ngang, các chi tiết cơ khí bên trong có thể nhìn thấy qua các lớp (khối động cơ, hệ thống treo, hộp số)",
-      "fidelity": "siêu chi tiết, độ chính xác như CAD, thẩm mỹ kiểu hình chiếu tách rời nhưng đã lắp ráp"
-    },
-    "lighting_and_atmosphere": {
-      "environment": "nền không gian tối đen như mực, studio tối vô tận",
-      "lighting_setup": "ánh sáng viền để bắt cạnh kính, ánh sáng thể tích bên trong phát sáng, hiệu ứng caustics, độ tương phản cao kiểu điện ảnh"
-    },
-    "rendering_engine": {
-      "style": "Octane Render, dò tia, độ phân giải 8k, thuộc tính vật liệu chân thực, độ sâu trường ảnh chụp macro"
-    }
-  },
-  "negative_prompt": [
-    "thân xe kim loại đặc",
-    "sơn mờ đục",
-    "hoạt hình",
-    "minh họa",
-    "bánh xe bị biến dạng",
-    "khung hình bị cắt xén",
-    "ánh sáng ban ngày",
-    "phản chiếu của nhiếp ảnh gia"
-  ]
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263037_da8uj6_G--zMlXXYAEyetJ.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc tạo tác phẩm điêu khắc siêu xe bằng kính nhiều lớp trong suốt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263002_8omzrs_G--zMqUWEAADVF1.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc tạo tác phẩm điêu khắc siêu xe bằng kính nhiều lớp trong suốt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263805_3sf4w4_G--zMlfXMAAav79.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc tạo tác phẩm điêu khắc siêu xe bằng kính nhiều lớp trong suốt - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804264278_z57ws5_G--zMiCW8AAx8Ze.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc tạo tác phẩm điêu khắc siêu xe bằng kính nhiều lớp trong suốt - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Lloyd Creates](https://x.com/lloydcreates)
-- **Nguồn:** [Twitter Post](https://x.com/lloydcreates/status/2013024593246568485)
-- **Đã xuất bản:** 18 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6587)**
-
----
-
-### No. 103: Hình ảnh chính thương mại điện tử - Lời nhắc chụp ảnh sản phẩm cao cấp chung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một hướng dẫn đơn giản, chung chung để tạo ảnh chụp sản phẩm cao cấp, ngụ ý người dùng nên cung cấp chi tiết sản phẩm.
-
-#### 📝 Câu lệnh
-
-```
-Tạo ảnh hero shot sản phẩm sang trọng bằng lời nhắc này 👇
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205123_px1nxv_G-9TgfNbgAA8ntT.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Lời nhắc chụp ảnh sản phẩm cao cấp chung - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Amira Zairi](https://x.com/azed_ai)
-- **Nguồn:** [Twitter Post](https://x.com/azed_ai/status/2012919379575570766)
-- **Đã xuất bản:** 18 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6508)**
-
----
-
-### No. 104: Hình ảnh chính thương mại điện tử - Gợi ý thiết kế công nghiệp Cozy Knit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Lời nhắc này được thiết kế để hiển thị bất kỳ đối tượng nào được chỉ định như thể nó được đan hoàn toàn bằng tay từ sợi len dày, pha trộn tính thẩm mỹ hygge của Scandinavia với thiết kế công nghiệp. Nó nhấn mạnh các mũi đan rõ ràng, các mẫu đan vặn thừng, ánh sáng ấm áp và độ phân giải cực cao để làm nổi bật kết cấu mềm mại của sợi len.
-
-#### 📝 Câu lệnh
-
-```
-Một {argument name="object" default="[OBJECT]"} được kết xuất như thể được đan hoàn toàn bằng tay từ sợi len dày, trông có vẻ hoạt động hiệu quả một cách bất ngờ mặc dù là sản phẩm thủ công mềm mại. Các mũi đan rõ ràng, họa tiết đan cáp trên các khu vực cầm nắm, đường gân nơi cần sự linh hoạt, các đầu sợi được giấu gọn gàng. Đặt trên nền phong cách sống ấm cúng hoặc studio có kết cấu len sạch sẽ. Sự giao thoa giữa phong cách hygge của Scandinavia và thiết kế công nghiệp. Ánh sáng dịu nhẹ, ấm áp làm nổi bật kết cấu sợi, chất lượng thủ công, sự ấm cúng kỳ lạ của máy móc. Lấy nét sắc nét vào chi tiết mũi đan, màu sắc sợi bão hòa ấm áp, tính thẩm mỹ của sản phẩm phong cách sống, độ phân giải cực cao, sự cứng rắn được làm mềm mại.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224845_ln7rbo_G-7ORciXsAAtAR7.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Gợi ý thiết kế công nghiệp Cozy Knit - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224837_cp3qvl_G-7OWw3XUAAzd1l.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Gợi ý thiết kế công nghiệp Cozy Knit - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224863_8ssifo_G-7Ogj5XgAAlFtT.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Gợi ý thiết kế công nghiệp Cozy Knit - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804226001_g1x8cv_G-7OpVTWwAAYDCQ.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Gợi ý thiết kế công nghiệp Cozy Knit - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling)
-- **Nguồn:** [Twitter Post](https://x.com/AllaAisling/status/2012909092210381048)
-- **Đã xuất bản:** 18 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6537)**
-
----
-
-### No. 105: Tài sản trò chơi - Lời nhắc thiết kế nhân vật 3D cách điệu siêu chi tiết
+### No. 108: Tài sản trò chơi - Lời nhắc thiết kế nhân vật 3D cách điệu siêu chi tiết
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7385,7 +6415,40 @@ Phụ kiện bao gồm một chiếc ba lô nhỏ hoặc túi đeo chéo, tai ng
 
 ---
 
-### No. 106: Tài sản trò chơi - Nghệ thuật bóng ma giả tưởng điện ảnh với lời nhắc về làn da kim loại
+### No. 109: Tài sản trò chơi - Lời nhắc tạo hình đại diện 3D phong cách Pixar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Một lời nhắc để tạo hình đại diện 3D chất lượng cao dựa trên hình ảnh đã tải lên. Nó chỉ định một khuôn mặt vui vẻ, biểu cảm với nụ cười ấm áp và các đường nét mềm mại, được kết xuất theo phong cách Pixar với kết cấu mịn, tỷ lệ phóng đại và ánh sáng studio mềm mại, đều màu.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình đại diện 3D chất lượng cao của người trong ảnh đã tải lên với khuôn mặt tươi tắn, biểu cảm. Nhân vật nên có nụ cười ấm áp, đôi mắt sáng và các đường nét mềm mại trên khuôn mặt tạo cảm giác thân thiện và dễ gần. Kết xuất theo phong cách Pixar với kết cấu mịn, đổ bóng da tinh tế và tỷ lệ hơi phóng đại để có vẻ ngoài dễ thương, hoạt hình. Ánh sáng nên mềm mại và đều, tạo vẻ ngoài studio sạch sẽ với bóng đổ nhẹ nhàng để tăng chiều sâu.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc tạo hình đại diện 3D phong cách Pixar - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Harboriis](https://x.com/harboriis)
+- **Nguồn:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
+- **Đã xuất bản:** 21 tháng 1, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7061)**
+
+---
+
+### No. 110: Tài sản trò chơi - Nghệ thuật bóng ma giả tưởng điện ảnh với lời nhắc về làn da kim loại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7494,7 +6557,7 @@ Một lời nhắc JSON có cấu trúc cao để tạo ra một hình bóng gi�
 
 ---
 
-### No. 107: Tài sản trò chơi - Nano Banana Pro prompt cho phong cách Cross Dimensions
+### No. 111: Tài sản trò chơi - Nano Banana Pro prompt cho phong cách Cross Dimensions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7528,7 +6591,7 @@ Vượt qua các chiều không gian, một {argument name="subject" default="cy
 
 ---
 
-### No. 108: Tài sản trò chơi - Tạo Prompt LINE Sticker (Phong cách Đất sét 3D)
+### No. 112: Tài sản trò chơi - Tạo Prompt LINE Sticker (Phong cách Đất sét 3D)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7568,7 +6631,7 @@ Thiết kế nhân vật 3D, phong cách blind box, phong cách thiết kế Pop
 
 ---
 
-### No. 109: Tài sản trò chơi - Lời nhắc về Nữ quý tộc và Rồng trong điện ảnh
+### No. 113: Tài sản trò chơi - Lời nhắc về Nữ quý tộc và Rồng trong điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7606,7 +6669,7 @@ nhiễu hạt phim, độ phân giải 8k, siêu thực, {argument name="style" 
 
 ---
 
-### No. 110: Tài sản trò chơi - Hình minh họa 3D 8K về những chú ong hình người (Tập gym và Thư giãn)
+### No. 114: Tài sản trò chơi - Hình minh họa 3D 8K về những chú ong hình người (Tập gym và Thư giãn)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7738,7 +6801,7 @@ Một câu lệnh phức tạp được cấu trúc thành hai mô-đun để t�
 
 ---
 
-### No. 111: Tài sản trò chơi - Quy trình làm việc để chuyển đổi phong cách và tạo storyboard
+### No. 115: Tài sản trò chơi - Quy trình làm việc để chuyển đổi phong cách và tạo storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7783,7 +6846,7 @@ hình ảnh thực tế của nhân vật của tôi + hình ảnh tham chiếu 
 
 ---
 
-### No. 112: Tài sản trò chơi - Tạo Avatar 3D Phong cách Pixar
+### No. 116: Tài sản trò chơi - Tạo Avatar 3D Phong cách Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7816,7 +6879,7 @@ Tạo một hình đại diện 3D chất lượng cao của người trong ản
 
 ---
 
-### No. 113: Tài sản trò chơi - Chuyển đổi phong cách kết xuất trò chơi điện tử đầu những năm 2000
+### No. 117: Tài sản trò chơi - Chuyển đổi phong cách kết xuất trò chơi điện tử đầu những năm 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7858,7 +6921,7 @@ Một lời nhắc văn bản được thiết kế để biến đổi một h�
 
 ---
 
-### No. 114: Tài sản trò chơi - Tạo bản vẽ xoay vòng nhân vật
+### No. 118: Tài sản trò chơi - Tạo bản vẽ xoay vòng nhân vật
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7891,58 +6954,98 @@ Vui lòng tạo một bản vẽ xoay ba chiều cho cô gái đính kèm.
 
 ---
 
-### No. 115: Tài sản trò chơi - Lời nhắc biến đổi nhân vật đầy kịch tính
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một prompt Nano Banana Pro được thiết kế để biến một bức ảnh gốc thành bốn phong cách nhân vật siêu thực, cực kỳ chi tiết khác nhau, sử dụng các cảnh quay cận cảnh góc rộng và các góc máy ảnh cực đoan, năng động.
-
-#### 📝 Câu lệnh
-
-```
-Biến đổi bức ảnh gốc thành một bộ 4 nhân vật với phong cách khác nhau, đầy kịch tính, chân thực như ảnh chụp, cực kỳ chi tiết, mỗi nhân vật được chụp cận cảnh góc rộng với góc máy cực kỳ năng động, được đặt ngay cạnh ống kính và trông khổng lồ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342437_nu8lid_G-67I_KW0AA-y2h.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc biến đổi nhân vật đầy kịch tính - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342494_29ks18_G-62zL4WAAEtkio.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc biến đổi nhân vật đầy kịch tính - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **Nguồn:** [Twitter Post](https://x.com/Ankit_patel211/status/2012751932407107585)
-- **Đã xuất bản:** 18 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6688)**
-
----
-
-### No. 116: Tài sản trò chơi - Diorama 3D Isometric về một Vật dụng Gia đình dưới dạng Kiến trúc
+### No. 119: Áp phích / Tờ rơi - Chân dung điện ảnh trong sảnh rạp chiếu phim sang trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một lời nhắc để tạo ra một mô hình diorama 3D isometric sạch sẽ, tối giản, trong đó một vật dụng gia đình cụ thể được biến đổi thành một cấu trúc kiến trúc nhỏ. Nó nhấn mạnh vật liệu chân thực, ánh sáng studio mềm mại và phong cách mô hình kiến trúc thu nhỏ.
+Một JSON prompt chi tiết để tạo ra bức chân dung toàn thân mang phong cách điện ảnh về một chàng trai trẻ sành điệu trong sảnh rạp chiếu phim sang trọng, nhấn mạnh việc khóa nhận dạng (khuôn mặt phải giống 100% với ảnh tham chiếu). Cảnh này bao gồm các chi tiết cụ thể về trang phục, môi trường nền (sàn đá cẩm thạch, ánh sáng ấm áp) và một áp phích phim cho '{argument name="movie title" default="BORDER 2"}' hiển thị rõ ràng bên cạnh chủ thể.
 
 #### 📝 Câu lệnh
 
 ```
-Một mô hình 3D đẳng cự tối giản, sạch sẽ, biến một {argument name="household object" default="HOUSEHOLD OBJECT"} thành một cấu trúc kiến trúc nhỏ. Các yếu tố chức năng được trừu tượng hóa thành cửa ra vào, cửa sổ và khối, vật liệu chân thực, ánh sáng studio mềm mại, các cạnh bo tròn, phong cách mô hình kiến trúc thu nhỏ, nền trung tính.
+{
+  "aspect_ratio": "3:4",
+  "main_subject": {
+    "description": "Một chàng trai trẻ sành điệu đang đứng tự tin bên trong sảnh rạp chiếu phim hiện đại, tạo dáng giống như ảnh tham khảo.",
+    "pose": {
+      "hand": "Một tay bỏ hờ trong túi quần jeans",
+      "body": "Thân người hơi nghiêng",
+      "head": "Đầu quay sang một bên với vẻ mặt tự tin",
+      "face": "Khuôn mặt phải giống 100% với ảnh tham khảo",
+      "additional": "Đứng hờ hững bên cạnh khung áp phích phim, cầm vé xem phim Border 2 bằng cả hai tay"
+    },
+    "appearance": {
+      "sunglasses": "Kính râm đen hình chữ nhật",
+      "jawline": "Đường quai hàm sắc nét",
+      "beard": "Râu được cắt tỉa gọn gàng",
+      "hairstyle": "Kiểu tóc bồng bềnh"
+    },
+    "outfit": {
+      "shirt": "Áo sơ mi ngắn tay màu trắng, dáng rộng",
+      "jeans": "Quần jeans ống rộng màu xám đậm",
+      "shoes": "Giày thể thao trắng kiểu Adidas với sọc đen",
+      "accessories": "Vòng tay và nhẫn bạc trên tay, đồng hồ thông minh Apple màu đen, không có phụ kiện nào khác"
+    }
+  },
+  "background_environment": {
+    "location": "Sảnh rạp chiếu phim sang trọng",
+    "flooring": "Sàn đá cẩm thạch với những phản chiếu ấm áp",
+    "lighting": "Ánh sáng vàng dịu trong nhà",
+    "details": "Quầy đồ ăn có thể nhìn thấy ở phía sau, khung áp phích phim rõ ràng bên cạnh chủ thể"
+  },
+  "poster_details": {
+    "title": "{argument name=\"movie title\" default=\"BORDER 2\"}",
+    "release_date": "23 tháng 1 năm 2026",
+    "actors_visible": [
+      "Sunny Deol",
+      "Varun Dhawan",
+      "Ahan Shetty",
+      "Diljit Dosanjh"
+    ],
+    "style": "Điện ảnh, chính thức, chi tiết cao",
+    "lighting": "Ánh sáng áp phích phù hợp với không khí trong nhà"
+  },
+  "camera_composition": {
+    "shot": "Toàn thân",
+    "quality": "Chất lượng DSLR",
+    "focus": "Lấy nét sắc nét",
+    "placement": "Chủ thể đặt hơi lệch tâm",
+    "poster": "Áp phích rõ ràng có thể đọc được bên cạnh anh ấy"
+  },
+  "image_quality": {
+    "resolution": "Ultra HD",
+    "sharpness": "Cực kỳ sắc nét",
+    "skin_texture": "Kết cấu da tự nhiên",
+    "motion": "Không mờ, không nhòe chuyển động",
+    "look": "Vẻ ngoài sạch sẽ, chân thực"
+  },
+  "color_grading": {
+    "tones": "Tông màu điện ảnh tự nhiên",
+    "highlights": "Điểm sáng ấm áp",
+    "contrast": "Độ tương phản cân bằng",
+    "aesthetic": "Thẩm mỹ trung tâm thương mại sang trọng"
+  },
+  "style_mood": {
+    "vibe": "Tự tin, sành điệu, không khí buổi ra mắt phim",
+    "moment": "Khoảnh khắc người hâm mộ với văn hóa điện ảnh"
+  },
+  "negative_prompt": [
+    "mờ",
+    "chất lượng thấp",
+    "hoạt hình",
+    "anime",
+    "da quá mịn",
+    "thừa ngón tay",
+    "mặt biến dạng",
+    "hình mờ",
+    "logo",
+    "nhiễu",
+    "nhòe điện ảnh"
+  ]
+}
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -7950,107 +7053,39 @@ Một mô hình 3D đẳng cự tối giản, sạch sẽ, biến một {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300421_dnjx48_G-6zqv-XgAAiRfz.jpg" width="600" alt="Tài sản trò chơi - Diorama 3D Isometric về một Vật dụng Gia đình dưới dạng Kiến trúc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235959066_fpcede_G_WpBdnXwAAyOc9.jpg" width="600" alt="Áp phích / Tờ rơi - Chân dung điện ảnh trong sảnh rạp chiếu phim sang trọng - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300228_vgyh8m_G-6zn0XaUAAJDSL.jpg" width="600" alt="Tài sản trò chơi - Diorama 3D Isometric về một Vật dụng Gia đình dưới dạng Kiến trúc - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300310_bxodc0_G-6zoUpWwAA3YBF.jpg" width="600" alt="Tài sản trò chơi - Diorama 3D Isometric về một Vật dụng Gia đình dưới dạng Kiến trúc - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804301814_rfw4oq_G-6zsnAXwAAyVnh.jpg" width="600" alt="Tài sản trò chơi - Diorama 3D Isometric về một Vật dụng Gia đình dưới dạng Kiến trúc - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235958910_ta0ons_G_WpBdAbQAAdScU.jpg" width="600" alt="Áp phích / Tờ rơi - Chân dung điện ảnh trong sảnh rạp chiếu phim sang trọng - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Aleena Amir](https://x.com/aleenaamiir)
-- **Nguồn:** [Twitter Post](https://x.com/aleenaamiir/status/2012743833902370831)
-- **Đã xuất bản:** 18 tháng 1, 2026
+- **Tác giả:** [Abhishek Singh](https://x.com/2abhisheknaks)
+- **Nguồn:** [Twitter Post](https://x.com/2abhisheknaks/status/2014702316553961931)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6636)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7252)**
 
 ---
 
-### No. 117: Tài sản trò chơi - Tạo hình minh họa phòng Isometric dựa trên ý tưởng nhân vật
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Mô tả
-
-Một prompt được sử dụng với Nano Banana Pro để tạo ra một hình minh họa đẳng cự về một căn phòng phản ánh tính cách của một nhân vật cụ thể, đồng thời loại trừ chính nhân vật đó ra khỏi hình ảnh.
-
-#### 📝 Câu lệnh
-
-```
-Hãy mô tả căn phòng của nhân vật này trong một hình minh họa đẳng cự tưởng tượng.
-Không yêu cầu mô tả về người.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg" width="600" alt="Tài sản trò chơi - Tạo hình minh họa phòng Isometric dựa trên ý tưởng nhân vật - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg" width="600" alt="Tài sản trò chơi - Tạo hình minh họa phòng Isometric dựa trên ý tưởng nhân vật - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [十三不塔](https://x.com/shiisanpuutaa13)
-- **Nguồn:** [Twitter Post](https://x.com/shiisanpuutaa13/status/2012729009126416430)
-- **Đã xuất bản:** 18 tháng 1, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6680)**
-
----
-
-### No. 118: Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ
+### No. 120: Áp phích / Tờ rơi - Lời nhắc áp phích âm nhạc đơn sắc gai góc với điểm nhấn neon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh kỹ thuật cao được thiết kế để tạo ra hình ảnh toàn cảnh hình trụ 360 độ liền mạch, được tối ưu hóa cho ánh sáng và bố cục nhất quán trên toàn bộ khung nhìn hình cầu. Nó chỉ định một cảnh lịch sử và bao gồm các quy tắc để ngăn chặn các tạo tác hình ảnh như đường nối hoặc bóng đổ theo hướng, lý tưởng cho môi trường thực tế ảo.
+Một prompt cho Nano Banana Pro để tạo một poster âm nhạc dọc, táo bạo, với hình ảnh một nữ ca sĩ đang biểu diễn trực tiếp. Hình ảnh nên được xử lý theo phong cách đơn sắc gai góc với hạt mịn, nhưng bao gồm các điểm nhấn màu xanh neon rực rỡ được vẽ chồng lên hình ảnh, đặt trên nền màu xanh mòng két có kết cấu với chữ in lớn màu vàng ghi 'ROCK STAR'.
 
 #### 📝 Câu lệnh
 
 ```
-[SCENE] = {argument name="scene description" default="Thành Troy, Anatolia, khoảng thế kỷ 12 TCN. Những khoảnh khắc sau khi ngựa thành Troy được kéo vào bên trong tường thành."}
-
-Tạo một ảnh panorama hình chữ nhật đều 360 độ với tỷ lệ khung hình 21:9.
-Kết xuất cảnh dưới dạng panorama hình cầu hoàn chỉnh với phép chiếu hình chữ nhật đều chính xác.
-Thiết lập toàn bộ môi trường nghiêm ngặt dựa trên [SCENE].
-Đặt camera ở chính giữa cảnh với góc nhìn cố định.
-Thiết kế môi trường như một thế giới liên tục, tròn trịa, không có cạnh trái hoặc phải.
-Đảm bảo các cạnh ngang đầu tiên và cuối cùng thẳng hàng hoàn hảo.
-Phân bố kiến trúc, con người và vật thể đều khắp khung nhìn 360° đầy đủ.
-Sử dụng ánh sáng, vật liệu và hành vi vật lý thực tế.
-Giữ nét sắc nét trên toàn bộ panorama.
-Sử dụng ánh sáng ban ngày tự nhiên đồng đều, không có hướng ánh sáng chủ đạo.
-Đảm bảo cường độ và màu sắc ánh sáng nhất quán trên toàn bộ panorama 360°.
-Xử lý môi trường như được chiếu sáng bởi một mái vòm bầu trời khuếch tán đều thay vì một nguồn mặt trời duy nhất.
-Áp dụng bóng đổ toàn cầu mềm mại không ưu tiên bất kỳ hướng ngang nào.
-Tránh các gradient ánh sáng mặt trời định hướng có thể gây ra sự không khớp ánh sáng đường nối.
-Tránh các yếu tố hiện đại, lớp phủ UI, đường viền, khung, chế độ xem cắt xén, phong cách giả tưởng hoặc các đường nối panorama bị hỏng.
+Tạo một poster âm nhạc dọc táo bạo, tràn đầy năng lượng, với hình ảnh một nữ ca sĩ trẻ đang biểu diễn trực tiếp trên sân khấu. Cô ấy được chụp vào giữa buổi biểu diễn, cầm micro gần miệng, mỉm cười tự tin và đầy sức hút. Tóc cô ấy được tạo kiểu búi hai bên lộn xộn với những sợi tóc lòa xòa, và cô ấy mặc một chiếc áo phông đen quá khổ kết hợp với những chiếc vòng cổ dây xích lớn, tạo nên một phong thái sân khấu nổi loạn, tự nhiên. Bức chân dung được xử lý theo phong cách đơn sắc gai góc với hạt và kết cấu tinh tế, trong khi các điểm nhấn màu xanh neon được vẽ lên một số phần của hình ảnh – đặc biệt là các hình dạng đồ họa giống ngọn lửa bốc lên từ phía dưới áo cô ấy – tăng thêm cường độ và hiệu ứng thị giác mạnh mẽ. Nền là một bề mặt màu xanh mòng két phẳng, có kết cấu với nhiễu và hạt poster rõ ràng. Chiếm ưu thế trong bố cục phía sau chủ thể là dòng chữ typography màu vàng đậm, tròn, cỡ lớn, đánh vần "{argument name="text" default="ROCK STAR"}" theo các dòng xếp chồng lên nhau. Các chữ cái dày, vui tươi và hơi cổ điển, lấp đầy hầu hết khung hình và bị người biểu diễn che khuất một phần để tạo chiều sâu. Đặt tên cô ấy phía sau hình ảnh.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -8058,127 +7093,17 @@ Tránh các yếu tố hiện đại, lớp phủ UI, đường viền, khung, c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204059_0knjxw_G-6FROjXwAAhlGv.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204223_htd648_G-6FhchXQAAg2v9.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204700_mp84c0_G-6FROdXEAA5Ebi.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205830_ybuinq_G-3jkdbWIAA-73-.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205613_2j0lcg_G-3iiIrWsAEbmso.jpg" width="600" alt="Tài sản trò chơi - Lời nhắc toàn cảnh hình chữ nhật 360 độ - Image 5">
+<img src="https://cms-assets.youmind.com/media/1769235980326_xgs51u_G_U02kNbAAowYZR.jpg" width="600" alt="Áp phích / Tờ rơi - Lời nhắc áp phích âm nhạc đơn sắc gai góc với điểm nhấn neon - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Aimi Kōda](https://x.com/aimikoda)
-- **Nguồn:** [Twitter Post](https://x.com/aimikoda/status/2012694679628677523)
-- **Đã xuất bản:** 18 tháng 1, 2026
+- **Tác giả:** [CaptchaPassed](https://x.com/captchapassed)
+- **Nguồn:** [Twitter Post](https://x.com/captchapassed/status/2014676995683316031)
+- **Đã xuất bản:** 23 tháng 1, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=6509)**
-
----
-
-### No. 119: Áp phích / Tờ rơi - Lời nhắc minh họa kỹ thuật số điện ảnh siêu thực
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc phức tạp để biến đổi hình ảnh đã tải lên thành một hình minh họa kỹ thuật số siêu thực, có tác động mạnh về một người đàn ông Đông Âu. Nó yêu cầu khớp 100% nhận dạng khuôn mặt, có kính râm phản chiếu màu cam đậm phản chiếu cảnh quan thành phố và sử dụng tông màu xám trầm tương phản với những nét vẽ trừu tượng màu xanh lá cây neon và xanh lam điện.
-
-#### 📝 Câu lệnh
-
-```
-Chuyển đổi hình ảnh đã tải lên thành một hình minh họa kỹ thuật số ấn tượng, sử dụng hình ảnh gốc làm tham chiếu khuôn mặt nghiêm ngặt. Khớp khuôn mặt (Nghiêm ngặt): Khớp khuôn mặt phải chính xác 100% — cấu trúc khuôn mặt, tỷ lệ, đường quai hàm, xương gò má, hình dạng mũi, môi, độ rậm râu (nếu có trong ảnh tham chiếu) và kiểu cắt, kết cấu da, đường chân tóc, kiểu tóc và nhận dạng tổng thể phải giống hệt. Không làm đẹp, cách điệu hoặc thay đổi các đặc điểm trên khuôn mặt. Chủ thể & Tư thế: Một người đàn ông trẻ gốc Đông Âu được thể hiện trong tư thế nhìn nghiêng rõ ràng (không phải nghiêng hoàn toàn), hướng về phía bên phải của khung hình. Đầu anh ấy hơi ngẩng lên, cằm hơi nhếch, thể hiện sự tự tin, tham vọng và tầm nhìn hướng về phía trước. Biểu cảm bình tĩnh và tự tin. Trang phục & Phong cách: Chủ thể mặc trang phục trang trọng, hiện đại — một chiếc áo blazer tối màu được may đo kỹ lưỡng bên ngoài một chiếc áo sơ mi phẳng phiu, tối giản và thanh lịch, củng cố hình ảnh một người chuyên nghiệp và đầy tham vọng. Không có phụ kiện gây mất tập trung. Yếu tố hình ảnh chính: Anh ấy đeo kính râm phản quang màu cam nổi bật làm điểm nhấn. Tròng kính phản chiếu một cảnh quan thành phố hiện đại chi tiết với các tòa nhà chọc trời, đường phố đô thị và cây xanh, tượng trưng cho tầm nhìn, tham vọng và mục tiêu tương lai. Màu sắc & Phong cách minh họa: Khuôn mặt và trang phục được thể hiện bằng tông màu xám trầm, với kết cấu chân thực được chuyển đổi thành phong cách minh họa kỹ thuật số tinh tế. Xung quanh chủ thể là những nét vẽ và vệt sơn trừu tượng đầy biểu cảm với màu xanh lá cây neon và xanh lam điện, tạo thêm năng lượng và độ tương phản mà không che đi các chi tiết trên khuôn mặt. Nền & Ánh sáng: Nền tối và ấn tượng, được xếp lớp với tông màu xám đậm, kết cấu tinh tế và chuyển động như tranh vẽ. Ánh sáng điện ảnh tạo sự tách biệt rõ ràng cho chủ thể, các điểm sáng sắc nét và bóng đổ được kiểm soát. Tính thẩm mỹ tổng thể: Minh họa kỹ thuật số hiện đại, điện ảnh, siêu thực với tỷ lệ cân bằng 2/3 chân thực-minh họa và 1/3 biểu cảm trừu tượng, chất lượng poster, độ tương phản cao, vẻ ngoài cao cấp. Tỷ lệ khung hình: 4:5
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063225543_rpqzbo_G_MyA0yXAAEARMl.jpg" width="600" alt="Áp phích / Tờ rơi - Lời nhắc minh họa kỹ thuật số điện ảnh siêu thực - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [K](https://x.com/ChillaiKalan__)
-- **Nguồn:** [Twitter Post](https://x.com/ChillaiKalan__/status/2014008462632796586)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7137)**
-
----
-
-### No. 120: Áp phích / Tờ rơi - Quảng cáo in hình Ferrari tối giản siêu thực
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một lời nhắc được thiết kế để tái tạo một quảng cáo in ấn ô tô hạng sang sử dụng phong cách tối giản siêu thực. Hình ảnh chính có phần mặt trước của chiếc Ferrari được kéo dài thành những vệt chrome lỏng, gợi ý thời gian bị kéo giãn trong quá trình tăng tốc. Nó nhấn mạnh nền phòng trưng bày màu trắng mờ, không gian âm lớn, ánh sáng studio và độ phân giải 8K siêu sắc nét, bao gồm các hướng dẫn cụ thể về vị trí logo và một khẩu hiệu hai từ.
-
-#### 📝 Câu lệnh
-
-```
-FERRARI
-Quảng cáo in siêu thực, tối giản, chân thực như ảnh chụp. Nhân vật chính: mặt trước của một chiếc Ferrari được kéo dài thành những vệt kim loại chrome lỏng, như thể thời gian đã kéo giãn chiếc xe khi đang tăng tốc. Tối đa một điểm nhấn. Nền trắng mờ như phòng trưng bày với không gian âm lớn. Ánh sáng studio, phản chiếu siêu nhỏ, 8K siêu sắc nét. Logo hình khiên chính thức của Ferrari ở trên cùng bên trái (vector, tỷ lệ chính xác, kết cấu mực tinh tế). Khẩu hiệu hai từ ở dưới cùng bên phải: “{argument name="slogan" default="Distort Speed"}”. Không lộn xộn, không hình mờ, không thêm văn bản.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162956_nf4wh0_G_MKA0QXgAEMuJP.jpg" width="600" alt="Áp phích / Tờ rơi - Quảng cáo in hình Ferrari tối giản siêu thực - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162967_wdgacf_G_MKIfSWgAACmvA.jpg" width="600" alt="Áp phích / Tờ rơi - Quảng cáo in hình Ferrari tối giản siêu thực - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162985_j43d95_G_MKIfRWMAAvjKd.jpg" width="600" alt="Áp phích / Tờ rơi - Quảng cáo in hình Ferrari tối giản siêu thực - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063163886_r34gzv_G_MKIfWW8AEJX6T.jpg" width="600" alt="Áp phích / Tờ rơi - Quảng cáo in hình Ferrari tối giản siêu thực - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Guillermo Castellanos](https://x.com/guicastellanos1)
-- **Nguồn:** [Twitter Post](https://x.com/guicastellanos1/status/2013965905877672139)
-- **Đã xuất bản:** 21 tháng 1, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7030)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=7281)**
 
 ---
 
@@ -8188,7 +7113,7 @@ Quảng cáo in siêu thực, tối giản, chân thực như ảnh chụp. Nhâ
 
 <div align="center">
 
-### 🎯 6298 câu lệnh khác không hiển thị ở đây
+### 🎯 6448 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8251,6 +7176,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-01-24T04:27:23.070Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-01-24T08:14:45.947Z</sub>
 
 </div>

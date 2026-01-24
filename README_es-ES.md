@@ -135,9 +135,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6418** |
+| 📝 Total de prompts | **6568** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **sábado, 24 de enero de 2026, 4:27:29 UTC** |
+| 🔄 Última actualización | **sábado, 24 de enero de 2026, 8:14:51 UTC** |
 
 </div>
 
@@ -646,7 +646,1050 @@ La relación de aspecto es de póster vertical 3:4. Incluye caligrafía japonesa
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Perfil / Avatar - Prompt para selfie en el espejo de un dormitorio íntimo y acogedor
+### No. 1: Perfil / Avatar - Prompt: Retrato editorial de un hombre seguro de sí mismo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* para Nano Banana Pro para crear un retrato editorial cinematográfico ultrarrealista de un hombre seguro de sí mismo. El *prompt* especifica la vestimenta del sujeto (jersey de cuello alto negro, gafas de sol con tinte rojo), el entorno (fondo de estudio rojo intenso) y la iluminación (suave pero direccional) para lograr una estética de fundador de tecnología moderna y de alto contraste.
+
+#### 📝 Prompt
+
+```
+Un hombre seguro de sí mismo de pie sobre un fondo de estudio rojo intenso, vistiendo un cuello alto negro ajustado y gafas de sol rectangulares con tinte rojo. Mira ligeramente de lado con una expresión tranquila y serena. Estética de moda minimalista, mandíbula definida, corte de pelo limpio, vibras de fundador de tecnología moderna. Iluminación de estudio suave pero direccional que crea sombras delicadas en la cara y el cuerpo. Alto contraste entre el atuendo negro y el fondo rojo. Estilo de retrato cinematográfico y editorial. Ultra-realista, poca profundidad de campo, enfoque nítido, aspecto de fotografía de moda premium.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236061130_283yun_G_aDKBBaAAE0JlN.jpg" width="600" alt="Perfil / Avatar - Prompt: Retrato editorial de un hombre seguro de sí mismo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Heisenberg](https://x.com/rovvmut_)
+- **Fuente:** [Twitter Post](https://x.com/rovvmut_/status/2014944897766486052)
+- **Publicado:** 24 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7395)**
+
+---
+
+### No. 2: Perfil / Avatar - Selfie en el espejo con medias y fondo de bandera.
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt JSON muy detallado para generar una selfi en el espejo fotorrealista de una mujer de Asia Oriental sentada en un sofá, vistiendo un top corto y pantimedias negras transparentes, enfatizando la precisión anatómica, los detalles de iluminación y la inclusión de una bandera estadounidense drapeada en el fondo.
+
+#### 📝 Prompt
+
+```
+{
+  "subject": {
+    "ethnicity": "Asiática oriental",
+    "description": "Una mujer joven con cabello largo y castaño oscuro.",
+    "body": {
+      "physique": "Tipo de cuerpo mesomorfo con una silueta de reloj de arena pronunciada. Excepcional relación cintura-cadera con un abdomen esbelto y tonificado y crestas ilíacas anchas.",
+      "details": "Área abdominal bien definida y cintura estrecha. Glúteos y cuádriceps tonificados visibles a través de las medias. Hombros esbeltos, clavículas delicadas y una estructura de manos y dedos anatómicamente precisa sosteniendo un dispositivo."
+    },
+    "facial_features": "Estructura facial simétrica, labios carnosos con acabado mate, mandíbula marcada y una mirada concentrada dirigida al reflejo del espejo."
+  },
+  "wardrobe": {
+    "top": "Un top corto de algodón acanalado blanco ajustado que muestra la textura del tejido y la tensión suave de la tela.",
+    "bottom": "Medias panty negras transparentes de 20 deniers de cintura alta con acabado mate, que enfatizan la definición muscular y las curvas de las piernas.",
+    "accessories": "Un collar minimalista de oro y anillos finos de oro. La modelo sostiene un smartphone blanco; la parte trasera del dispositivo presenta el logo plateado '{argument name=\"phone logo\" default=\"Apple logo\"}' y un módulo de cámara de triple lente detallado."
+  },
+  "pose_action": {
+    "description": "Una pose relajada pero elegante de selfie en el espejo mientras está sentada en un sofá.",
+    "details": "La modelo está sentada en el borde del sofá con las piernas cruzadas para acentuar la línea de las piernas y el arco del pie. Su brazo izquierdo está extendido hacia atrás para apoyarse en el cojín, mientras que la mano derecha está levantada, sosteniendo el teléfono para capturar el reflejo. Su torso está ligeramente angulado para resaltar la transición de la cintura a la cadera."
+  },
+  "scene": {
+    "location": "Interior moderno minimalista de lujo.",
+    "background_elements": "Doblada sobre el respaldo del sofá texturizado gris claro hay una bandera estadounidense (EE. UU.); la bandera no está perfectamente plana, presenta curvas naturales, ligeras arrugas y pliegues de tela realistas. A la derecha, se ve una almohada decorativa con un patrón geométrico en blanco y negro.",
+    "environment": "Grandes ventanales de suelo a techo a la izquierda con cortinas blancas transparentes que permiten una luz externa suave y difusa. La pared de fondo consiste en paneles texturizados de tonos neutros."
+  },
+  "lighting": {
+    "setup": "Luz diurna natural suave y difusa de una fuente de ventana lateral (estilo de iluminación Rembrandt).",
+    "details": "Sutiles reflejos especulares en los mechones de cabello y la fina textura de malla de las medias negras. Proyección de sombras suaves y naturales en los pliegues de la ropa y la tela del sofá para un realismo de alta profundidad."
+  },
+  "camera": {
+    "perspective": "Perspectiva de selfie en el espejo, toma a la altura de los ojos.",
+    "technical": "Tomada con un objetivo de 35 mm f/2.8 para proporciones naturales y ligera compresión del fondo. Resolución 8k, fotorrealista, calidad cinematográfica, texturas hiperdetalladas. Relación de aspecto 9:16.",
+    "reflection_integrity_rules": "El reflejo del espejo debe alinearse perfectamente con la anatomía de la modelo y la orientación del teléfono. Asegurar que el reflejo o"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236025425_o0kn76_G_YmMllXAAA68sb.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo con medias y fondo de bandera. - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Duru💝](https://x.com/Durusss13)
+- **Fuente:** [Twitter Post](https://x.com/Durusss13/status/2014840093001875694)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7341)**
+
+---
+
+### No. 3: Perfil / Avatar - Prompt de arte de garabatos caóticos abstractos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* de generación de imágenes que convierte una foto de cara subida en arte abstracto y caótico de garabatos utilizando líneas de tinta negra sueltas y dispersas. El objetivo es mantener la composición y expresión subyacentes, al tiempo que se enfatiza el caos y la abstracción.
+
+#### 📝 Prompt
+
+```
+Convierte la foto de la cara subida en un arte de garabatos muy abstracto y caótico con líneas de tinta negra muy sueltas, dispersas y extremadamente aleatorias, creando una imagen de la persona en la foto de pie en una buena pose, vistiendo una camisa y pantalones adecuados. Las líneas apenas deben delinear la cara, enfatizando el caos y la abstracción en lugar de una definición clara. Mantén la expresión y las proporciones originales como una composición subyacente general.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053820_vd5vp0_G_YjU30WUAA7aSB.jpg" width="600" alt="Perfil / Avatar - Prompt de arte de garabatos caóticos abstractos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836743057350672)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7382)**
+
+---
+
+### No. 4: Perfil / Avatar - Prompt de retrato con iluminación de acento de neón (referencia de imagen)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* para aplicar un estilo de iluminación específico —iluminación de base oscura con acentos de neón brillantes a lo largo de los bordes de la cara y el cabello— a una foto subida. Requiere estrictamente preservar la cara, el cuerpo y la textura originales sin ningún embellecimiento o cambio estructural.
+
+#### 📝 Prompt
+
+```
+utiliza a la persona de la foto subida tal cual, mantén la misma cara, cuerpo, proporciones, textura de piel y peinado, no embellezcas, no cambies la estructura facial ni la pose, iluminación base oscura con iluminación de acento de neón, reflejos de neón brillantes a lo largo de los bordes de la cara y el cabello, acentos de color vívidos contra sombras más oscuras, la iluminación es el único cambio, no normalices la iluminación ni el color, sin corrección de exposición automática, sin iluminación de belleza
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236059069_1d0mal_G_YigSnXkAAPNWk.jpg" width="600" alt="Perfil / Avatar - Prompt de retrato con iluminación de acento de neón (referencia de imagen) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014835836366274675)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7391)**
+
+---
+
+### No. 5: Perfil / Avatar - Prompt de cuadrícula de consistencia facial de nueve paneles para Nano Banana Pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Este es un *prompt* altamente detallado y estructurado, diseñado para generar una cuadrícula de 3x3 de retratos de la misma mujer, enfocados en el rostro, asegurando una consistencia facial absoluta a través de nueve ángulos y perspectivas de cabeza distintos. Está pensado para usarse con Nano Banana Pro para crear una referencia de perfil facial completa, manteniendo características, iluminación y realismo idénticos para la consistencia del personaje en la generación de imágenes.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen de referencia proporcionada como única referencia de identidad y estructura facial. Crea una cuadrícula de 3 por 3 de retratos de la misma mujer, centrados en el rostro, manteniendo idénticas las características faciales, las proporciones, la línea base de la expresión y el realismo en todos los fotogramas.
+
+Cada panel debe mostrar un ángulo de cabeza y una perspectiva facial distintos, a la vez que se mantiene la coherencia de la iluminación, el realismo de la lente y la textura natural de la piel. No debe haber cambios en el peinado, el estilo de maquillaje o la identidad facial.
+
+Desglose de la cuadrícula
+
+Fila superior
+1. Ángulo neutro frontal, ojos mirando directamente a la cámara
+2. Vista de tres cuartos mirando a la derecha, ligera inclinación de la cabeza, ojos hacia adelante
+3. Perfil lateral derecho completo, silueta limpia de nariz, labios y mandíbula
+
+Fila central
+4. Vista de tres cuartos mirando a la izquierda, ligera inclinación de la cabeza, mirada segura
+5. Ángulo ligeramente bajo mirando hacia la cámara, sutil pose de poder
+6. Ángulo ligeramente alto mirando hacia arriba, expresión relajada
+
+Fila inferior
+7. Cabeza girada a la derecha con los ojos mirando hacia la cámara
+8. Cabeza girada a la izquierda con los ojos mirando hacia la cámara
+9. Ángulo de tres cuartos casi trasero que muestra el pómulo, la mandíbula y el contorno de la oreja
+
+Requisitos técnicos y visuales
+
+Fotografía de retrato ultrarrealista
+Aspecto de lente de 85 mm, poca profundidad de campo
+Detalle facial nítido, textura de piel visible, poros naturales
+Iluminación suave de luz diurna con una suave caída de sombras
+Fondo neutro sin distracciones
+Encuadre consistente para que todas las caras se alineen limpiamente dentro de la cuadrícula
+Alta resolución, calidad editorial, estándar de moda y belleza
+
+Restricciones estrictas
+
+No alterar la estructura facial
+No estilizar ni caricaturizar
+No cambiar drásticamente la expresión
+Sin texto, sin marca de agua, sin distorsión
+La misma persona en los nueve fotogramas
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973313_e7cgal_G_X57VvXoAEhiBv.jpg" width="600" alt="Perfil / Avatar - Prompt de cuadrícula de consistencia facial de nueve paneles para Nano Banana Pro - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973397_ekhzd3_G_X57VzW8AA8y6w.jpg" width="600" alt="Perfil / Avatar - Prompt de cuadrícula de consistencia facial de nueve paneles para Nano Banana Pro - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Ajala Victor 👑 | Visual/Brand Designer](https://x.com/avstudiosng)
+- **Fuente:** [Twitter Post](https://x.com/avstudiosng/status/2014791228118745344)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7271)**
+
+---
+
+### No. 6: Perfil / Avatar - Prompt para collage de selfies de hadas caóticas de la Generación Z
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un complejo *prompt* JSON diseñado para generar un collage de cuadrícula de 2x2 de *selfies* de gran angular en el estilo de un "dump" de redes sociales espontáneo de la Generación Z, presentando a un sujeto que se asemeja a Sydney Sweeney. El *prompt* detalla meticulosamente la estructura de la imagen, la configuración de estilo global (lente de 0.5x, distorsión de ángulo alto, estética de hada caótica), los detalles del sujeto (atuendo, maquillaje, accesorios) y las expresiones y poses específicas para cada uno de los cuatro paneles (lengua fuera, boca de pato, guiño).
+
+#### 📝 Prompt
+
+```
+{
+  "image_structure": {
+    "format": "Collage de cuadrícula 2x2",
+    "total_panels": 4,
+    "layout_style": "Cuatro selfies distintas de gran angular de 0.5x dispuestas en una cuadrícula cuadrada",
+    "aspect_ratio": "Cuadrado (1:1) o relación general de 4:5 que contiene cuatro imágenes verticales de 3:4"
+  },
+  "global_style_settings": {
+    "camera_effect": "Lente ultra gran angular de 0.5x / Efecto ojo de pez",
+    "perspective": "Selfie de ángulo alto con distorsión del brazo (los brazos parecen alargados y grandes en primer plano)",
+    "lighting": "Luz ambiental interior cenital mezclada con el flash frontal de la pantalla del teléfono (brillante, tono ligeramente frío)",
+    "aesthetic": "Volcado de redes sociales espontáneo de la Generación Z, vibras de hadas caóticas"
+  },
+  "subject_universal_details": {
+    "demographics": "Mujer joven, de unos 20 años, caucásica",
+    "skin": "Tez clara/pálida con matices rosados fríos, textura de piel muy suave",
+    "hair": "Raíces rubio ceniza/castaño claro que transicionan a puntas rubias, peinado en un moño alto desordenado (topknot) con mechones sueltos que enmarcan la cara",
+    "outfit": "{argument name=\"outfit color\" default=\"Verde lima\"}/Minivestido chartreuse cubierto de grandes lentejuelas circulares, tirantes finos de espagueti",
+    "accessories": [
+      "Grandes alas de hada translúcidas de color verde claro con detalles de venas brillantes",
+      "Collar tipo gargantilla de plástico negro estilo tatuaje"
+    ],
+    "makeup": "Delineador de ojos alado negro intenso (cat eye), rímel sutil, iluminador en la punta de la nariz, rubor rosa rojizo en los pómulos altos, color de labios natural rosa/malva brillante"
+  },
+  "panel_breakdown": {
+    "top_left_panel": {
+      "expression": "Juguetona, sacando la lengua plana",
+      "gaze": "Mirando directamente a la cámara",
+      "pose": "Cabeza ligeramente inclinada, ambos brazos extendidos hacia adelante hacia la lente",
+      "specific_detail": "La lengua está extendida hacia abajo, los ojos bien abiertos"
+    },
+    "top_right_panel": {
+      "expression": "Cara de pato / Labios fruncidos",
+      "gaze": "Mirando directamente a la cámara",
+      "pose": "Pecho hacia adelante, hombros levantados, brazos enmarcando el cuerpo",
+      "specific_detail": "Labios fruncidos, expresión inocente"
+    },
+    "bottom_left_panel": {
+      "expression": "Guiñando un ojo (ojo izquierdo cerrado, ojo derecho abierto), puchero sutil",
+      "gaze": "Mirando directamente a la cámara",
+      "pose": "Cabeza inclinada hacia su derecha, ligeramente hacia atrás",
+      "specific_detail": "Un ojo bien cerrado, mandíbula definida"
+    },
+    "bottom_right_panel": {
+      "expression": "Guiñando un ojo (ojo izquierdo cerrado, ojo derecho abierto), cara de beso exagerada",
+      "gaze": "Mirando directamente a la cámara",
+      "pose": "Cabeza inclinada hacia su izquierda, cuerpo ligeramente angulado",
+      "specific_detail": "Labios fruncidos hacia adelante para un beso, cejas ligeramente levantadas"
+    }
+  },
+  "background_environment": {
+    "location": "Sala de estar suburbana",
+    "furniture": "Sofá seccional de tela gris oscuro (visible detrás de ella en todas las tomas)",
+    "architecture": "Escalera blanca con barandales visibles al fondo (específicamente en la parte superior izquierda e inferior izquierda)",
+    "decor": "Vertical de madera "
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235991833_0bnmr6_G_XSEOhbEAAdlmQ.jpg" width="600" alt="Perfil / Avatar - Prompt para collage de selfies de hadas caóticas de la Generación Z - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [sammy](https://x.com/sumiturkude007)
+- **Fuente:** [Twitter Post](https://x.com/sumiturkude007/status/2014747390084055078)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7295)**
+
+---
+
+### No. 7: Perfil / Avatar - Prompt para selfie espontánea en redes sociales (escalera mecánica)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt JSON detallado para generar una selfie espontánea con iPhone, tomada desde un ángulo alto, con una estética de influencer de redes sociales. La protagonista, una mujer joven con cabello corto y ondulado, está en una escalera mecánica en un centro comercial, haciendo una expresión juguetona de "duck face" o morritos de beso. El prompt especifica iluminación natural interior, un top de tirantes color beige crema, y detalles como la correa de un bolso de hombro de cuero negro y una scrunchie en la muñeca.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Selfie espontánea desde arriba, mujer joven con cabello corto ondulado castaño dorado, mirando hacia la cámara haciendo una expresión de boca de pato o beso, ojos gris azul claro, maquillaje natural mínimo con labios nude rosados, vistiendo una camiseta sin mangas color crema beige con tirantes finos, correa de bolso de hombro de cuero negro visible, coletero de pelo negro en la muñeca, anillo de plata en el dedo, uñas blancas manicuradas, de pie en una escalera mecánica mirando hacia arriba, escalones metálicos de la escalera mecánica visibles debajo, otra persona parcialmente visible detrás con una camisa de lunares, ambiente de centro comercial o estación de metro, perspectiva de selfie de ángulo alto cenital, iluminación natural interior, estilo callejero casual, estética de influencer de redes sociales, estilo selfie de iPhone",
+  "negative_prompt": "iluminación de estudio, naturaleza al aire libre, ropa formal, expresión seria, ángulo lateral, toma de cuerpo completo",
+  "style": "selfie callejera espontánea, contenido de redes sociales, momento casual cotidiano",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "selfie de cámara frontal de smartphone",
+    "angle": "ángulo alto cenital mirando hacia el sujeto",
+    "framing": "primer plano de cara y parte superior del cuerpo desde arriba"
+  },
+  "lighting": {
+    "type": "luz ambiental natural interior",
+    "quality": "iluminación suave y uniforme, sin sombras duras",
+    "atmosphere": "ambiente interior casual cotidiano"
+  },
+  "mood": "juguetón, divertido, casual, coqueto, espontáneo",
+  "color_palette": "cabello blanco platino, crema beige, detalles en negro, metal plateado, tonos neutros",
+  "subject_features": {
+    "hair": "{argument name=\"hair color\" default=\"castaño dorado\"}, corto hasta los hombros, ondas suaves, raya al medio",
+    "skin": "clara, limpia, natural, porcelana",
+    "eyes": "gris azul claro, mirando directamente a la cámara",
+    "lips": "rosa natural, fruncidos en boca de pato o beso",
+    "expression": "boca de pato juguetona o beso, mirando a la cámara",
+    "eyebrows": "marrón oscuro natural, bien arregladas"
+  },
+  "wardrobe": {
+    "top": "camiseta sin mangas acanalada color crema beige con tirantes finos de espagueti",
+    "accessories": "bolso de hombro de cuero negro con correa cruzada, coletero de tela negro en la muñeca, anillo de plata grueso en el dedo",
+    "nails": "manicura blanca o rosa claro"
+  },
+  "setting": {
+    "location": "escalera mecánica en centro comercial o estación de metro",
+    "background": "escalones metálicos de la escalera mecánica, pasamanos negro, otra persona detrás",
+    "context": "momento urbano casual cotidiano"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002462_s92ep6_G_W-yQXbAAElyUR.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie espontánea en redes sociales (escalera mecánica) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002381_4c9hc4_G_W-yJvbAAId-aN.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie espontánea en redes sociales (escalera mecánica) - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014726182802227430)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7307)**
+
+---
+
+### No. 8: Perfil / Avatar - Selfie espontánea con expresión de morritos en una escalera mecánica
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* muy detallado y estructurado para generar una foto *selfie* cándida y en picada de una mujer joven (parecida a Ana De Armas o Josephine Langford) haciendo un divertido puchero de beso o "duck face" mientras está en una escalera mecánica en un centro comercial, centrándose en accesorios específicos, la iluminación y una estética de *influencer* de redes sociales.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Foto selfie espontánea desde arriba, mujer joven con cabello corto ondulado castaño dorado, mirando hacia la cámara haciendo una expresión de morritos de pato, ojos gris azul claro, maquillaje natural mínimo con labios nude rosados, vistiendo un top de tirantes finos color crema beige, correa de bolso de hombro de cuero negro visible, coletero de pelo negro en la muñeca, anillo de plata en el dedo, uñas blancas manicuradas, de pie en una escalera mecánica mirando hacia arriba, escalones metálicos de la escalera mecánica visibles debajo, otra persona parcialmente visible detrás con una camisa de lunares, ambiente de centro comercial o estación de metro, perspectiva de selfie de ángulo alto cenital, iluminación natural interior, estilo callejero casual, estética de influencer de redes sociales, estilo selfie de iPhone",
+  "negative_prompt": "iluminación de estudio, naturaleza al aire libre, ropa formal, expresión seria, ángulo lateral, toma de cuerpo completo",
+  "style": "selfie callejero espontáneo, contenido de redes sociales, momento casual del día a día",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "selfie con cámara frontal de smartphone",
+    "angle": "ángulo cenital alto mirando hacia el sujeto",
+    "framing": "primer plano de la cara y la parte superior del cuerpo desde arriba"
+  },
+  "lighting": {
+    "type": "luz ambiental natural interior",
+    "quality": "iluminación suave y uniforme, sin sombras duras",
+    "atmosphere": "ambiente interior casual del día a día"
+  },
+  "mood": "juguetón, divertido, casual, coqueto, espontáneo",
+  "color_palette": "cabello blanco platino, crema beige, detalles en negro, metal plateado, tonos neutros",
+  "subject_features": {
+    "hair": "castaño dorado, corto hasta los hombros, ondas suaves, raya al medio",
+    "skin": "clara, limpia, natural, porcelana",
+    "eyes": "gris azul claro, mirando directamente a la cámara",
+    "lips": "rosa natural, fruncidos en morritos de pato",
+    "expression": "morritos de pato juguetones, mirando a la cámara",
+    "eyebrows": "marrón oscuro natural, bien arregladas"
+  },
+  "wardrobe": {
+    "top": "top de tirantes finos acanalado color crema beige",
+    "accessories": "bolso de hombro de cuero negro con correa cruzada, coletero de tela negro en la muñeca, anillo de plata grueso en el dedo",
+    "nails": "manicura blanca o rosa claro"
+  },
+  "setting": {
+    "location": "escalera mecánica en centro comercial o estación de metro",
+    "background": "escalones metálicos de la escalera mecánica, pasamanos negro, otra persona detrás",
+    "context": "momento urbano casual del día a día"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236016712_svuqb3_G_W4HuObAAASlP8.jpg" width="600" alt="Perfil / Avatar - Selfie espontánea con expresión de morritos en una escalera mecánica - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236017075_exzro2_G_W4HuSbAAUgRnZ.jpg" width="600" alt="Perfil / Avatar - Selfie espontánea con expresión de morritos en una escalera mecánica - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Sudee🥀](https://x.com/NameIsSudee)
+- **Fuente:** [Twitter Post](https://x.com/NameIsSudee/status/2014719189345599489)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7328)**
+
+---
+
+### No. 9: Perfil / Avatar - Retrato acogedor y espontáneo en primer plano con taza de café
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Una instrucción (prompt) altamente estructurada y detallada para generar un retrato fotorrealista, íntimo y en primer plano con una "sensación de iPhone espontáneo". La escena está ambientada en el sofá de una sala de estar con una cálida iluminación de tungsteno, centrándose en un sujeto que sostiene una taza de café, enfatizando texturas acogedoras, sombras suaves y un encuadre específico (relación de aspecto 4:5). Incluye numerosas instrucciones negativas (negative prompts) para garantizar el realismo y la adherencia a las restricciones de contenido.
+
+#### 📝 Prompt
+
+```
+{
+  "category": "COZY_COUCH_LAMP_CLOSEUP",
+  "subject": {
+    "clothing": {
+      "outfit": "Top corto con escote en V pronunciado (sin texto), escote de buen gusto, ajustado, ambiente acogedor de interior",
+      "texture": "Algodón acanalado o jersey suave, pliegues realistas"
+    },
+    "accessories": {
+      "jewelry": ["Pequeños aros plateados"]
+    }
+  },
+  "pose": {
+    "type": "Primer plano espontáneo",
+    "orientation": "Ángulo ligeramente superior, relajado",
+    "hands": "Una mano sosteniendo una taza cerca de la barbilla (dedos correctos)",
+    "gaze": "Contacto visual suave",
+    "expression": "Sonrisa suave, acogedora"
+  },
+  "setting": {
+    "environment": "Esquina del sofá de la sala de estar",
+    "background_elements": [
+      "Brillo cálido de lámpara naranja detrás",
+      "Textura de manta visible",
+      "Ligero desorden habitado difuminado"
+    ],
+    "depth": "Cara nítida, halo de lámpara detrás, fondo suave"
+  },
+  "camera": {
+    "shot_type": "Retrato en primer plano",
+    "angle": "Ligeramente por encima del nivel de los ojos",
+    "focal_length_equivalent": "Teléfono de 26mm o profesional de 50mm",
+    "framing": "4:5, cara dominante",
+    "focus": "Ojos nítidos"
+  },
+  "lighting": {
+    "source": "Lámpara de tungsteno cálida + tenue luz ambiental",
+    "direction": "Cálida lateral/frontal",
+    "highlights": "Brillo suave en mejillas y cabello",
+    "shadows": "Suaves, reconfortantes"
+  },
+  "mood_and_expression": {
+    "tone": "Relajado, íntimo, cercano",
+    "expression": "Sonrisa suave",
+    "atmosphere": "Cálido, táctil, hogareño"
+  },
+  "style_and_realism": {
+    "style": "Estilo fotorrealista tipo foto espontánea de iPhone",
+    "imperfections": "Grano leve, balance de blancos ligeramente imperfecto"
+  },
+  "technical_details": {
+    "aspect_ratio": "4:5",
+    "noise": "Grano leve del sensor del teléfono",
+    "motion_blur": "Ninguno en la cara"
+  },
+  "constraints": {
+    "adult_only": true,
+    "no_text": true,
+    "no_logos": true,
+    "no_watermarks": true
+  },
+  "negative_prompt": [
+    "piel de plástico",
+    "exceso de suavizado",
+    "dedos extra",
+    "taza deformada",
+    "texto legible",
+    "logo",
+    "marca de agua",
+    "desnudez",
+    "areola",
+    "pezones",
+    "tela transparente",
+    "lencería explícita"
+  ]
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041021_oh0a0c_G_WgPOoXEAAxhXA.jpg" width="600" alt="Perfil / Avatar - Retrato acogedor y espontáneo en primer plano con taza de café - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [tusina](https://x.com/tusinaai)
+- **Fuente:** [Twitter Post](https://x.com/tusinaai/status/2014692737631522816)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7363)**
+
+---
+
+### No. 10: Perfil / Avatar - Generando un Ángel Guardián con Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un usuario generó una imagen de un ángel guardián rodeado de flores y luz usando Nano Banana Pro, compartiendo el prompt en el texto ALT para que otros lo prueben.
+
+#### 📝 Prompt
+
+```
+👼🌸 Intenté convertirme en un ángel guardián con IA
+
+Un momento de paz para tu corazón…✨
+Un dulce momento rodeado de flores y luz 💐
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037652_sb9oh0_G_WY67Ha8AA30nM.jpg" width="600" alt="Perfil / Avatar - Generando un Ángel Guardián con Nano Banana Pro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ちゃろん](https://x.com/charon_artist)
+- **Fuente:** [Twitter Post](https://x.com/charon_artist/status/2014684553877877167)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7359)**
+
+---
+
+### No. 11: Perfil / Avatar - Retrato íntimo de primer plano con bloqueo de identidad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* para generar un retrato de primer plano hiperrealista e íntimo de una mujer joven, que requiere explícitamente un bloqueo de identidad facial del 100% basado en una imagen de referencia. La escena presenta una iluminación suave y etérea, un marco de cortina de encaje y se centra en los ojos azul brillante y el cabello oscuro con un flequillo desfilado de la modelo.
+
+#### 📝 Prompt
+
+```
+"100% el mismo rostro, primer plano íntimo de alta calidad, retrato hiperrealista de una mujer joven con una mirada delicada y cautivadora. Su cabeza está ligeramente inclinada y su hombro derecho está expuesto, sugiriendo un atuendo con los hombros descubiertos o de estilo *off-the-shoulder*. Está parcialmente enmarcada por una suave cortina o tela de encaje blanco en el lado izquierdo de la imagen. Tiene el cabello largo, liso y negro oscuro con un flequillo (fleco) tenue y ligeramente despeinado que enmarca su rostro. Sus impresionantes y brillantes ojos azules son el punto focal, con un sutil delineador oscuro y pestañas definidas. Sus mejillas tienen un rubor rosado suave y natural, y sus labios son carnosos con un tono rosa claro natural. Se ve un pendiente de perla en su oreja derecha. La iluminación es suave y etérea, resaltando sus rasgos y la textura del encaje. Detalles intrincados, iluminación cinematográfica, aspecto dramático, tendencia en ArtStation."
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235965177_4otomf_G_WQQJjbcAAbaGf.jpg" width="600" alt="Perfil / Avatar - Retrato íntimo de primer plano con bloqueo de identidad - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014675018643595489)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7259)**
+
+---
+
+### No. 12: Perfil / Avatar - Generar una imagen al estilo de un ídolo coreano
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un usuario creó una imagen para una historia de Instagram usando Nano Banana, solicitando específicamente que el personaje tuviera la pose y el estilo de un ídolo coreano.
+
+#### 📝 Prompt
+
+```
+La instrucción era que pareciera un ídolo coreano, jajaja.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236039917_vdekhz_G_Vj36naoAARwpY.jpg" width="600" alt="Perfil / Avatar - Generar una imagen al estilo de un ídolo coreano - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ROMI｜美容・女性向けLPデザイナー](https://x.com/hiro___design)
+- **Fuente:** [Twitter Post](https://x.com/hiro___design/status/2014626301827748311)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7361)**
+
+---
+
+### No. 13: Perfil / Avatar - Prompt para un retrato selfie hiperrealista en el baño
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt JSON altamente detallado diseñado para generar un retrato selfie de baño hiperrealista, centrándose en mantener la coherencia de la identidad, proporciones corporales específicas (busto prominente), rasgos faciales detallados (pecas, lunares) y una estética espontánea de redes sociales.
+
+#### 📝 Prompt
+
+```
+{
+  "subject": {
+    "demographics": "Mujer joven en la imagen de referencia",
+    "hair": {
+      "color": "Degradado de rubio ceniza a rubio claro.",
+      "style": "Largo, liso con ligera onda, en capas, raya casual.",
+      "texture": "Mechones suaves y naturales, ligeramente despeinados, raíces visibles.",
+      "movement": "Cae naturalmente sobre los hombros y la espalda."
+    },
+    "face": {
+      "shape": "Ovalada con mandíbula suave.",
+      "eyes": "Almendrados, iris azul claro/gris, delineador de ojos alado negro nítido y distintivo.",
+      "nose": "Nariz respingona, puente suave.",
+      "lips": "Llenos, carnosos, rosa rojizo, ligeramente entreabiertos en una expresión de puchero.",
+      "skin_details": "Pecas prominentes y abundantes en la nariz y las mejillas. Textura suave pero con grano de piel realista. Rubor natural.",
+      "micro_details": "Lunar en la parte superior derecha del pecho, lunar en el hombro izquierdo."
+    },
+    "body_proportions": {
+      "build": "Voluminosa, curvilínea, busto grande.",
+      "chest": "Gran volumen de busto, proyección frontal prominente, escote profundo visible.",
+      "waist_to_chest_ratio": "El ancho del pecho significativamente mayor que el de la cintura implica una figura de reloj de arena.",
+      "shoulders": "Suaves, redondeados, caída natural.",
+      "dominance": "El volumen del torso superior domina visualmente el encuadre."
+    },
+    "clothing": {
+      "top": "Top/camisola de punto acanalado gris jaspeado.",
+      "fit": "Ajustado, ceñido al cuerpo, estirándose sobre el volumen del pecho, escote bajo.",
+      "straps": "Tirantes gruesos, bien sujetos a los hombros."
+    },
+    "accessories": {
+      "jewelry": [
+        "Pendientes de aro pequeños de oro.",
+        "Collar de cadena de oro con un pequeño colgante de letra '{argument name=\"pendant letter\" default=\"G\"}'.",
+        "Cadena de oro fina más larga con un distintivo colgante de canguro."
+      ]
+    }
+  },
+  "pose": {
+    "type": "Perspectiva de selfie con la mano.",
+    "orientation": "Primer plano frontal, ligeramente angulado desde arriba.",
+    "head_position": "Ligeramente inclinada hacia la derecha del sujeto.",
+    "limbs": "Brazo derecho extendido hacia adelante (fuera de encuadre) indicando que sostiene la cámara.",
+    "gaze": "Contacto visual directo con la lente, seductor y seguro.",
+    "spine_curvature": "Ligero arco implícito por la prominencia del pecho."
+  },
+  "setting": {
+    "environment": "Baño doméstico.",
+    "background_elements": "Pared de azulejos brillantes de color marrón oscuro/gris, grifo de ducha cromado visible a la izquierda, parte superior del tanque del inodoro de cerámica blanca visible a la derecha.",
+    "depth": "Poca profundidad de campo, elementos de fondo ligeramente desenfocados."
+  },
+  "camera": {
+    "shot_ty": ""
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236020889_zchccm_G_Vj4ukWkAACwr9.jpg" width="600" alt="Perfil / Avatar - Prompt para un retrato selfie hiperrealista en el baño - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014626240632913940)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7334)**
+
+---
+
+### No. 14: Perfil / Avatar - Prompt para selfie de pareja en el espejo de Zootropolis
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt JSON detallado para generar una selfie de espejo ultrarrealista e hiperdetallada de una pareja en una tienda Disney, usando sombreros de lujo de gran tamaño de personajes de Zootrópolis (Nick Wilde y Judy Hopps), enfatizando el maquillaje K-beauty, accesorios específicos y un enfoque nítido.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": {
+    "scene": {
+      "type": "selfie de espejo ultrarrealista",
+      "device": "iPhone 15 Pro Max",
+      "resolution": "8K",
+      "style": "fotorrealista, hiperdetallado",
+      "aesthetic": "fandom de Zootrópolis",
+      "composition": "selfie de pareja reflejada en un espejo ovalado"
+    },
+    "subjects": {
+      "left_subject": {
+        "type": "hombre joven",
+        "identity": "usar rasgos faciales de la Foto 1",
+        "expression": "juguetón, travieso (coincidir con la expresión de referencia)",
+        "pose": "de pie en el lado izquierdo del espejo",
+        "clothing_hair": "mismo atuendo y peinado que en la Foto 1",
+        "accessories": {
+          "hat": {
+            "character": "Nick Wilde (Zootrópolis)",
+            "color": "naranja",
+            "details": "sombrero de lujo de gran tamaño de personaje de Disney con orejas de zorro grandes y ojos astutos bordados"
+          }
+        }
+      },
+      "right_subject": {
+        "type": "mujer joven",
+        "identity": "usar rasgos faciales de la Foto 2",
+        "expression": "guiño juguetón",
+        "pose": "de pie en el lado derecho del espejo, sosteniendo un teléfono amarillo brillante",
+        "nails": "esmalte de uñas metálico",
+        "hair": {
+          "style": "pelo largo y liso"
+        },
+        "clothing": {
+          "top": "top halter {argument name=\"woman's top color\" default=\"rosa fuerte\"}"
+        },
+        "accessories": {
+          "hat": {
+            "character": "Judy Hopps (Zootrópolis)",
+            "color": "gris",
+            "details": "sombrero de lujo de gran tamaño de personaje de Disney con orejas de conejo largas y rosadas y ojos grandes morados"
+          },
+          "necklace": "collar corto de perlas ajustado al cuello",
+          "rings": "múltiples anillos en los dedos"
+        },
+        "makeup": {
+          "style": "K-beauty coreano",
+          "skin": "piel de cristal",
+          "blush": "rubor natural suave",
+          "eyeliner": "delineador de ojos negro",
+          "contact_lenses": "lentillas de color (azules o grises)",
+          "lips": "pintalabios ombré rosa con tonos rojizos"
+        }
+      }
+    },
+    "environment": {
+      "location": "interior de una tienda de juguetes/souvenirs de Disney",
+      "background": {
+        "details": "estanterías borrosas llenas de juguetes de Disney",
+        "lighting": "iluminación de centro comercial festiva",
+        "ceiling": "luces colgantes decorativas"
+      }
+    },
+    "lighting": {
+      "type": "iluminación suave de centro comercial",
+      "effect": "iluminación uniforme, colores vibrantes, sin sombras duras"
+    },
+    "quality": {
+      "detail_level": "extremadamente alto",
+      "textures": "texturas realistas de lujo, fibras individuales de pelo visibles en los sombreros",
+      "color": "colores brillantes saturados",
+      "noise": "ninguno",
+      "focus": "enfoque nítido perfecto en caras y sombreros"
+    },
+    "framing": {
+      "shot_type": "selfie de espejo",
+      "mirror": "espejo ovalado",
+      "focus_priority": "caras y sombreros de personajes centrados en el encuadre"
+    }
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022299_6jacmu_G_VYQVsWQAAYCwy.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie de pareja en el espejo de Zootropolis - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022373_nq6d8j_G_VYQYNXwAEnamR.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie de pareja en el espejo de Zootropolis - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022292_hv4xih_G_VYQZCX0AAiKrR.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie de pareja en el espejo de Zootropolis - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236023410_40ijj4_G_VYQbbXMAA1vEJ.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie de pareja en el espejo de Zootropolis - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
+- **Fuente:** [Twitter Post](https://x.com/DavisonDabiri/status/2014613454212973000)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7338)**
+
+---
+
+### No. 15: Perfil / Avatar - Selfie moderno en el espejo en un apartamento minimalista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* JSON que detalla una *selfie* moderna de alta definición tomada con un espejo por una mujer joven en un apartamento minimalista por la noche. El *prompt* especifica la vestimenta de la persona (cárdigan corto gris, leggings verde bosque), el entorno (grandes puertas de cristal, muebles contemporáneos, un pequeño gato blanco) y la iluminación (luz ambiental interior suave con matices fríos).
+
+#### 📝 Prompt
+
+```
+{
+  "subject": {
+    "description": "Una mujer joven con cabello largo, liso y castaño claro tomándose una selfie en el espejo.",
+    "features": "Maquillaje natural, expresión concentrada, tez bronceada.",
+    "attire": [
+      "Cárdigan corto de manga larga gris claro con detalles de botones",
+      "Leggings de cintura alta verde bosque oscuro"
+    ],
+    "pose": "De pie, sosteniendo un smartphone verde claro, con una mano apoyada en el abdomen."
+  },
+  "environment": {
+    "setting": "Apartamento interior moderno y minimalista por la noche.",
+    "elements": [
+      "Grandes puertas corredizas de cristal",
+      "Sillón contemporáneo blanco y redondeado",
+      "Un pequeño gato blanco descansando sobre el mobiliario",
+      "Pantalla de televisión visible en el reflejo del fondo"
+    ],
+    "flooring": "Grandes baldosas de suelo gris mate."
+  },
+  "aesthetic": {
+    "lighting": "Iluminación ambiental interior suave con tonos fríos provenientes de la ventana del fondo.",
+    "composition": "Selfie vertical en el espejo, plano de cintura para arriba/cuerpo completo, sujeto centrado.",
+    "color_palette": ["Verde bosque", "Gris jaspeado", "Blanco roto", "Menta apagado"]
+  },
+  "technical": {
+    "camera_feel": "Fotografía móvil, texturas realistas, ligera profundidad de campo.",
+    "resolution": "Alta definición, líneas limpias."
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235967289_of5c05_G_VTA_CagAAN1B8.jpg" width="600" alt="Perfil / Avatar - Selfie moderno en el espejo en un apartamento minimalista - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014607688823710046)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7262)**
+
+---
+
+### No. 16: Perfil / Avatar - Prompt: Retrato hiperrealista de hombre en un resort costero
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para generar un retrato de medio cuerpo hiperrealista de un hombre sofisticado en un resort de lujo junto al mar durante la "hora azul", enfatizando ropa específica (camisa de lino verde lima), efecto bokeh de luces de hadas, y requiriendo el uso de una foto de referencia para la consistencia facial.
+
+#### 📝 Prompt
+
+```
+{
+  "image_prompt": {
+    "description": "Un retrato hiperrealista de medio cuerpo de un hombre sofisticado de 24 años con una barba afilada y bien definida y cabello oscuro y voluminoso peinado. Viste una camisa de lino de primera calidad con textura {argument name=\"shirt color\" default=\"lime-green\"} y micro-rayas blancas, con las mangas ligeramente remangadas, combinada con pantalones chinos a medida de color blanco roto. Se apoya de forma natural en una elegante y moderna barandilla de balcón en un lujoso resort junto al mar. La escena tiene lugar durante la 'hora azul' justo después del atardecer; el cielo es de un índigo profundo. En el fondo de enfoque suave, un cenador de madera está iluminado por cálidas luces de hadas doradas, creando un hermoso efecto bokeh. La iluminación del sujeto es una mezcla de suave luz ambiental del crepúsculo y un cálido resplandor lateral, resaltando la textura de la tela y el brillo metálico de un reloj de pulsera plateado. Capturado con una lente de 35 mm, f/1.8, gradación de color cinematográfica, enfoque nítido en el rostro, poros de la piel y hebras de cabello increíblemente detallados, 8k UHD." Por favor, usa mi foto en la cara
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236027268_8dk2wg_G_VQZxuXUAEnU_N.jpg" width="600" alt="Perfil / Avatar - Prompt: Retrato hiperrealista de hombre en un resort costero - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [𝗦𝗮𝗿𝗶𝗺](https://x.com/Sareem48)
+- **Fuente:** [Twitter Post](https://x.com/Sareem48/status/2014604815540605010)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7345)**
+
+---
+
+### No. 17: Perfil / Avatar - Prompt de retrato de tríptico cinematográfico fotorrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para Nano Banana Pro que utiliza una foto subida como referencia estricta de identidad para crear un tríptico cinematográfico fotorrealista (composición de tres cuadros en una sola imagen). La escena es un espacio de trabajo de artista digital futurista por la noche, renderizado con iluminación y texturas realistas inspiradas en el cyberpunk.
+
+#### 📝 Prompt
+
+```
+utiliza la foto subida como referencia exacta de identidad. mantén a la misma persona, el mismo rostro, los mismos rasgos faciales y proporciones, crea un retrato tríptico cinematográfico fotorrealista (composición de tres cuadros en una sola imagen). escena: estudio de artista digital futurista de noche, pantallas brillantes, sutiles reflejos holográficos, luces de neón de la ciudad fuera de la ventana. cuadro 1 (superior): toma cinematográfica amplia de la persona sentada en un estudio tecnológico moderno, trabajando con una interfaz digital brillante. cuadro 2 (medio): retrato de perfil con expresión concentrada, suaves reflejos de neón en el rostro. cuadro 3 (inferior): retrato emocional de primer plano de los ojos, textura de la piel, sutiles reflejos de luz. estilo: fotografía real, inspirada en el cyberpunk pero realista, sin ilustración. iluminación: luz de borde de neón cinematográfica, brillo volumétrico suave, textura de piel natural. cámara: dslr de fotograma completo, aspecto de lente de 85 mm, relación de imagen 4:5, poca profundidad de campo. ultra fotorrealista, piel natural, fotografía profesional, sin cgi, sin ilustración.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235974652_desnv7_G_VOi77bkAAPRfq.jpg" width="600" alt="Perfil / Avatar - Prompt de retrato de tríptico cinematográfico fotorrealista - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014602773720138097)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7273)**
+
+---
+
+### No. 18: Perfil / Avatar - Prompt para selfie en el espejo de un dormitorio íntimo y acogedor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +1737,7 @@ Un *prompt* detallado en formato JSON para Nano Banana Pro para generar una *sel
 
 ---
 
-### No. 2: Perfil / Avatar - Prompt para selfie en el espejo del vestidor de alta costura (estilo Bella Hadid)
+### No. 19: Perfil / Avatar - Prompt para selfie en el espejo del vestidor de alta costura (estilo Bella Hadid)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -730,1374 +1773,6 @@ Un prompt JSON extremadamente detallado para Nano Banana Pro para generar una se
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7211)**
-
----
-
-### No. 3: Perfil / Avatar - Prompt de retrato estilo Notion
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* para generar retratos al estilo de Notion, lo que indica una estética específica para fotos de perfil profesionales o personales, aunque el texto del *prompt* en sí no es completamente visible.
-
-#### 📝 Prompt
-
-```
-Retratos estilo Notion en segundos
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391716_y0s3if_G_SnZVIWkAAoaF9.jpg" width="600" alt="Perfil / Avatar - Prompt de retrato estilo Notion - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [AmirMušić](https://x.com/AmirMushich)
-- **Fuente:** [Twitter Post](https://x.com/AmirMushich/status/2014418990018261493)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7235)**
-
----
-
-### No. 4: Perfil / Avatar - Prompt para convertir un sujeto en un jugador de voleibol de playa
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un *prompt* utilizado con Nano Banana Pro para transformar a un sujeto en un jugador de voleibol de playa, enfatizando un salto potente y un remate bajo el sol.
-
-#### 📝 Prompt
-
-```
-Convertido en jugador de voleibol de playa usando IA
-
-¡Salto a toda potencia bajo el sol! ☀️
-¡Voy a hacer un buen remate! 💪
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377394_p9ix75_G_RPVE7bUAAzb4T.jpg" width="600" alt="Perfil / Avatar - Prompt para convertir un sujeto en un jugador de voleibol de playa - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ちゃろん](https://x.com/charon_artist)
-- **Fuente:** [Twitter Post](https://x.com/charon_artist/status/2014322162761642249)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7205)**
-
----
-
-### No. 5: Perfil / Avatar - Retrato de interior fotorrealista con iluminación cinematográfica cálida
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro altamente estructurado para generar un retrato de interior fotorrealista, centrado en un sujeto en el entorno de un dormitorio. Especifica atributos detallados para el sujeto (restricción de parecido, características físicas), vestuario (camisón de seda), accesorios (joyas de oro, reloj), iluminación cinematográfica cálida y composición (poca profundidad de campo, encuadre vertical).
-
-#### 📝 Prompt
-
-```
-{
-  "metadata": {
-    "version": "1.0",
-    "description": "Retrato fotorrealista de interior con sujeto, ropa, accesorios, iluminación y restricciones de composición detallados",
-    "aspect_ratio": 3.4
-  },
-  "subject": {
-    "identity": {
-      "name": "La persona que subí",
-      "likeness_constraint": "100% la misma cara y cuerpo",
-      "age_representation": "adulto"
-    },
-    "physical_attributes": {
-      "gender": "femenino",
-      "body_type": "delgado, proporcional",
-      "skin_tone": "natural, cálido",
-      "facial_expression": "suave, tranquila, relajada",
-      "hair": {
-        "color": "castaño oscuro",
-        "style": "suelto, caída natural",
-        "length": "medio a largo"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "type": "camisón",
-      "fit": "relajado pero favorecedor",
-      "material": "tela sedosa y ligera",
-      "texture": "lisa con un brillo sutil",
-      "design_details": {
-        "neckline": "escote suave y elegante",
-        "straps": "tirantes finos y delicados",
-        "length": "corto a medio muslo",
-        "color_palette": [
-          "{argument name=\"nighty color 1\" default=\"soft champagne\"}",
-          "rubor tenue",
-          "marfil claro"
-        ]
-      }
-    }
-  },
-  "accessories": {
-    "jewelry": {
-      "earrings": {
-        "type": "colgantes",
-        "material": "oro",
-        "finish": "pulido"
-      },
-      "bracelets": {
-        "type": "pulseras de cuentas apiladas",
-        "material": "cuentas mixtas",
-        "hand": "muñeca derecha"
-      },
-      "watch": {
-        "type": "reloj de pulsera clásico",
-        "material": "metal",
-        "style": "minimalista"
-      }
-    }
-  },
-  "setting": {
-    "environment": {
-      "location_type": "interior",
-      "room_type": "dormitorio",
-      "style": "moderno y acogedor"
-    },
-    "background_elements": {
-      "lighting_fixture": "lámpara de mesa",
-      "furniture": [
-        "cama",
-        "mesita de noche"
-      ],
-      "decor": "minimalista, tonos cálidos"
-    }
-  },
-  "lighting": {
-    "primary_light": {
-      "source": "lámpara",
-      "color_temperature": "cálida",
-      "intensity": "suave"
-    },
-    "secondary_light": {
-      "type": "relleno ambiental",
-      "effect": "control suave de sombras"
-    },
-    "overall_mood": "íntimo, tranquilo, cinematográfico"
-  },
-  "camera_and_composition": {
-    "camera": {
-      "angle": "a la altura de los ojos",
-      "distance": "plano medio",
-      "lens_style": "lente de retrato",
-      "depth_of_field": "poca profundidad de campo"
-    },
-    "framing": {
-      "orientation": "vertical",
-      "subject_position": "centrado",
-      "crop": "de cintura para arriba"
-    },
-    "focus": {
-      "priority": "rostro",
-      "background_blur": "bokeh suave"
-    }
-  },
-  "rendering_style": {
-    "realism_level": "fotorrealista",
-    "detail_level": "alto",
-    "skin_rendering": "textura natural, sin suavizado excesivo",
-    "color_grading": "tonos cinematográficos cálidos"
-  },
-  "constraints": {
-    "must_include": [
-      "atuendo de camisón",
-      "joyas de oro",
-      "ambiente de dormitorio interior"
-    ]
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_6hcfiv_G_RIlWYbkAALmzw.jpg" width="600" alt="Perfil / Avatar - Retrato de interior fotorrealista con iluminación cinematográfica cálida - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_fcmy1h_G_RIlWZbkAAaxqJ.jpg" width="600" alt="Perfil / Avatar - Retrato de interior fotorrealista con iluminación cinematográfica cálida - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Fuente:** [Twitter Post](https://x.com/Adam38363368936/status/2014315011225887125)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7220)**
-
----
-
-### No. 6: Perfil / Avatar - Instrucciones para un retrato de ensueño del interior de un coche
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt detallado de Nano Banana Pro para generar un retrato en primer plano fotorrealista, onírico y elegante de una mujer joven dentro de un coche, enfatizando el cabello específico al estilo coreano, los detalles del maquillaje (labios brillantes, rubor rosa) y una fuerte luz solar natural desde un lado.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "mujer joven",
-      "age": "principios de los 20",
-      "pose": {
-        "location": "dentro de un coche",
-        "attitude": "segura",
-        "gesture": "mano levantada para cubrir la boca con una sonrisa tímida",
-        "expression": "soñadora, dulce, elegante",
-        "gaze": "mirando a la cámara"
-      },
-      "hair": {
-        "color": "castaño oscuro",
-        "length": "hasta la cintura",
-        "style": "raya lateral izquierda, ondas sueltas en las puntas, pequeños mechones frontales, estilo coreano",
-        "motion": "cabello fluyendo ligeramente sobre la cara"
-      },
-      "face_makeup": {
-        "eyebrows": "color claro natural, pulcras",
-        "eyelashes": "pestañas postizas, agrupadas",
-        "cheeks": "rubor rosa nude suave en mejillas y nariz",
-        "lips": "rojo nude, brillante e hidratado"
-      },
-      "eyes": {
-        "accessory": "gafas de sol negras estilo cat-eye, puestas en la cabeza"
-      },
-      "clothing": {
-        "top": "camiseta de tirantes finos, azul con bordes ribeteados en azul",
-        "accessories": [
-          "collar plateado corto con un pequeño colgante de hoja azul",
-          "pendientes pequeños plateados con forma de hoja azul"
-        ]
-      }
-    },
-    "environment": {
-      "car_interior": "oscuro, asientos marrones al fondo",
-      "outside_view": "cielo azul brillante visible a través de la ventana derecha"
-    },
-    "lighting": {
-      "type": "luz solar natural desde la izquierda",
-      "effect": "fuertes reflejos en el cabello y la piel, ultrabrillante, natural"
-    },
-    "camera": {
-      "angle": "a la altura de los ojos, primer plano",
-      "focus": "cara, expresión y detalle del cabello"
-    },
-    "style": {
-      "realism": "fotorrealista",
-      "quality": "Ultra HD, alto detalle, texturas nítidas, colores vibrantes",
-      "mood": "soñador, dulce, elegante"
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384248_rhm1jd_G_QgJUJW4AAiW0b.jpg" width="600" alt="Perfil / Avatar - Instrucciones para un retrato de ensueño del interior de un coche - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384219_m4a9f9_G_QgJTqWkAAabG2.jpg" width="600" alt="Perfil / Avatar - Instrucciones para un retrato de ensueño del interior de un coche - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384214_gnxgrz_G_QgJP9W4AAcL7h.jpg" width="600" alt="Perfil / Avatar - Instrucciones para un retrato de ensueño del interior de un coche - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384986_v3mgme_G_QgJXBWwAIumXF.jpg" width="600" alt="Perfil / Avatar - Instrucciones para un retrato de ensueño del interior de un coche - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Fuente:** [Twitter Post](https://x.com/DavisonDabiri/status/2014270293431161076)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7219)**
-
----
-
-### No. 7: Perfil / Avatar - Prompt para convertir un sujeto en un Arcángel
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un *prompt* utilizado con Nano Banana Pro para transformar a un sujeto en un "Gran Arcángel" con luz divina y una temática de mensajero del cielo.
-
-#### 📝 Prompt
-
-```
-Convertido en un Gran Arcángel usando IA
-
-¡Un mensajero del cielo...! 🕊️
-Purifica todo con luz sagrada ✨
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149376546_e0ztqt_G_QYZbMbIAAJesG.jpg" width="600" alt="Perfil / Avatar - Prompt para convertir un sujeto en un Arcángel - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ちゃろん](https://x.com/charon_artist)
-- **Fuente:** [Twitter Post](https://x.com/charon_artist/status/2014261765518094438)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7204)**
-
----
-
-### No. 8: Perfil / Avatar - Instrucciones detalladas para la generación de imágenes de Nano Banana Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Este es un prompt JSON altamente detallado y estructurado, diseñado para un modelo de generación de imágenes llamado 'Nano banana pro'. Especifica la edad y el género del sujeto, características faciales detalladas (cabello, piel, maquillaje), vestimenta, pose, expresión y un complejo escenario de baño moderno, junto con detalles técnicos de iluminación y composición. Está destinado a generar una imagen de plano medio-corto de una mujer joven inclinada sobre un mostrador.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": {
-    "subject": {
-      "age": {
-        "argument name": "age",
-        "default": "20"
-      },
-      "gender": "female",
-      "hair": {
-        "color": "blonde",
-        "style": "two high pigtails secured with light pink scrunchies",
-        "length": "medium-long",
-        "texture": "straight with some waves"
-      },
-      "skin": {
-        "tone": "fair, with a warm, golden undertone",
-        "texture": "smooth, glowing"
-      },
-      "face": {
-        "eyes": {
-          "color": "light blue/green",
-          "makeup": "subtle eyeliner, mascara"
-        },
-        "brows": {
-          "color": "dark blonde",
-          "shape": "defined arch"
-        },
-        "nose": {
-          "shape": "slender, defined"
-        },
-        "lips": {
-          "color": "natural pink",
-          "fullness": "full, glossy"
-        },
-        "cheeks": {
-          "color": "rosy, with subtle highlight"
-        }
-      }
-    },
-    "clothing_and_accessories": {
-      "top": {
-        "type": "crop top",
-        "color": "white",
-        "fabric": "ribbed cotton",
-        "details": "short sleeves, low scoop neck"
-      },
-      "bottoms": {
-        "type": "high-waisted shorts",
-        "color": "white",
-        "fabric": "ribbed cotton"
-      },
-      "jewelry": {
-        "necklace": "small white pearl strand",
-        "bracelet": "gold chain and large silver watch on left wrist"
-      }
-    },
-    "pose_and_expression": {
-      "pose": "leaning forward over a white counter with hands resting on it, body angled away, looking over shoulder directly at camera",
-      "expression": "seductive gaze, slightly parted lips"
-    },
-    "setting_and_background": {
-      "location": "modern bathroom",
-      "counter": "white quartz/marble",
-      "shower": "glass enclosure with gold fixtures, tile wall",
-      "towel_rack": {
-        "material": "wooden floor stand",
-        "contents": [
-          {
-            "type": "robe",
-            "color": "white terry cloth",
-            "details": "embroidered script on back"
-          },
-          {
-            "type": "towel",
-            "color": "red"
-          },
-          {
-            "type": "towel",
-            "color": "white"
-          }
-        ]
-      },
-      "door": "black frame, white panel"
-    },
-    "technical_details": {
-      "lighting": "bright, natural daylight",
-      "shot_type": "medium-close-up",
-      "focus": "sharp on subject, slightly blurred background"
-    }
-  },
-  "aspect_ratio": "4:5"
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149378052_okkgag_G_Pv8-TaIAA7hlp.jpg" width="600" alt="Perfil / Avatar - Instrucciones detalladas para la generación de imágenes de Nano Banana Pro - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [sammy](https://x.com/sumiturkude007)
-- **Fuente:** [Twitter Post](https://x.com/sumiturkude007/status/2014217296445837380)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7207)**
-
----
-
-### No. 9: Perfil / Avatar - Prompt para una selfie de espejo de cuatro poses con bikini y coletas
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* para generar una *selfie* de espejo de varios paneles de una mujer rubia en un bikini floral azul. Especifica cuatro poses distintas, detalla sus accesorios (coletas trenzadas, aros dorados, gafas de sol con persiana) y el entorno minimalista del dormitorio, buscando una estética segura, juguetona y casual.
-
-#### 📝 Prompt
-
-```
-Mujer rubia adulta, selfie en el espejo, dos trenzas, bikini floral azul con ribete amarillo, pendientes de aro dorados, gafas de sol en la cabeza, chanclas amarillas, cuatro poses lado a lado: en cuclillas sosteniendo el teléfono, sentada sosteniendo una trenza, de pie con una pierna doblada, inclinada hacia adelante con las manos en los muslos, puchero juguetón, dormitorio minimalista, alfombra beige claro, puertas de armario blancas con persianas, paredes color crema, espejo de cuerpo entero con marco dorado, luz natural, iluminación suave y uniforme, reflejo del smartphone a la altura de los ojos, variaciones de cuerpo entero, texturas nítidas, tonos de piel realistas, segura, juguetona, casual, paleta azul, amarillo, beige, blanco y dorado --ar 16:9
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063187349_uzlamq_G_NLw8PaIAM6vIC.jpg" width="600" alt="Perfil / Avatar - Prompt para una selfie de espejo de cuatro poses con bikini y coletas - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Feyber | AI & WEB3](https://x.com/woleswoosh)
-- **Fuente:** [Twitter Post](https://x.com/woleswoosh/status/2014097170786373696)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7072)**
-
----
-
-### No. 10: Perfil / Avatar - Selfie en el espejo del gimnasio fotorrealista (JSON estructurado)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt JSON altamente detallado y estructurado para generar una selfie fotorrealista en el espejo de un gimnasio. Especifica la composición (vista trasera de tres cuartos), las características del sujeto (complexión atlética, cabello negro, ropa específica como un top corto amarillo y pantalones cortos verdes) y el entorno moderno del gimnasio. El prompt busca una alta calidad técnica, un enfoque nítido y un ambiente casual y seguro después del entrenamiento.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt_type": "selfie de espejo de gimnasio fotorrealista",
-  "main_composition": "selfie de espejo de una sola mujer joven de espaldas en tres cuartos, de pie con confianza en un gimnasio moderno sobre una zona de césped verde, sosteniendo su iPhone en la mano derecha para la foto con el reflejo mostrando su parte frontal y una expresión neutra sutil, pose casual relajada con una ligera inclinación de cadera y el peso en una pierna enfatizando las curvas atléticas, iluminación interior brillante con máquinas de cardio y grandes ventanas al fondo",
-  "subject": {
-    "description": "mujer joven hermosa de unos 20 años, rasgos femeninos atractivos con maquillaje natural ligero (delineador definido, pestañas largas, contorno sutil, labios brillantes), ojos grandes y expresivos visibles en el reflejo del espejo, piel clara bronceada y suave con un brillo saludable y una figura atlética tonificada en forma de reloj de arena",
-    "clothing": "top corto amarillo de manga larga ajustado con orificios para los pulgares y textura sutil, shorts deportivos verdes lima sin costuras de cintura alta con detalle fruncido en la parte trasera y una pequeña marca blanca en la cintura, calcetines blancos a media pantorrilla, zapatillas deportivas bajas blancas limpias",
-    "details": "cabello negro largo, suelto y ondulado peinado en una coleta alta con volumen natural y mechones sueltos que enmarcan la cara, expresión neutra sutil y segura en el reflejo del espejo mirando el teléfono, uñas neutras cuidadas visibles sosteniendo el teléfono con una funda de patrón colorido (blanca con salpicaduras negras o diseño abstracto), postura relajada con confianza corporal natural"
-  },
-  "environment": {
-    "foreground": "zona de colchoneta de césped artificial verde bajo los pies",
-    "midground": "gran espejo de gimnasio que refleja la vista frontal completa y los detalles del teléfono",
-    "background": "gimnasio moderno y espacioso con filas de máquinas de cardio negras (elípticas con pantallas digitales), una con una toalla blanca colgada sobre el asa, grandes ventanas que permiten la luz nocturna con vista exterior borrosa, ambiente de gimnasio limpio y profesional"
-  },
-  "lighting_and_atmosphere": "iluminación de gimnasio interior brillante y uniforme con luz nocturna natural de grandes ventanas que crea un brillo suave y cálido en la piel, el cabello, la tela verde azulado y la funda brillante del teléfono, brillo sutil en los leggings y los detalles de las zapatillas, ambiente casual y seguro después del entrenamiento con alto contraste entre el atuendo colorido y el equipo oscuro, detalle fotorrealista",
-  "technical_quality": "altamente detallado, enfoque nítido en el sujeto con texturas de tela realistas (elástico del top corto de manga larga, brillo de los shorts sin costuras), movimiento del cabello, brillo de la piel, patrón de la funda del teléfono y precisión del reflejo del espejo, resolución 8k, estilo de fotografía de selfie de espejo profesional con profundidad de campo natural que difumina suavemente las máquinas y ventanas distantes",
-  "negative_prompt_suggestions": "borroso, deforme, extremidades adicionales, pantalla del teléfono visible, distorsión o desalineación del espejo, ventanas sobreexpuestas, detalles del atuendo subexpuestos, baja calidad, dibujos animados, anime, marca de agua de texto, personas extra"
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162837_jpq584_G_N9IGRWcAAqVmZ.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo del gimnasio fotorrealista (JSON estructurado) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162722_dv7qqq_G_N9ICjXIAAQmN8.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo del gimnasio fotorrealista (JSON estructurado) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162573_utftys_G_N9IL4WEAAX3l8.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo del gimnasio fotorrealista (JSON estructurado) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063164262_idbkts_G_N9IRPXUAAtuc8.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo del gimnasio fotorrealista (JSON estructurado) - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Fuente:** [Twitter Post](https://x.com/KeorUnreal/status/2014091052764758102)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7031)**
-
----
-
-### No. 11: Perfil / Avatar - Retrato selfie tatuado fotorrealista (JSON estructurado)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt JSON detallado y estructurado para generar un retrato selfie fotorrealista en primer plano de una mujer joven con tatuajes extensos. Especifica el estilo alternativo de la modelo, incluyendo un vestido de mezclilla blanco con un tirante caído para revelar grandes tatuajes en el pecho y el brazo. El escenario es una sala de estar interior acogedora y llena de plantas con iluminación ambiental cálida, enfatizando un enfoque nítido en el delineado y los colores de los tatuajes.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt_type": "retrato selfie fotorrealista",
-  "main_composition": "vista de selfie en primer plano de una joven sosteniendo su teléfono con el brazo extendido, mirando directamente a la cámara con una sutil expresión de confianza, una de las correas de su vestido de peto desabrochada y caída sobre su hombro revelando extensos tatuajes en el pecho y los brazos, pose casual relajada en un acogedor espacio interior lleno de plantas, iluminación ambiental cálida con exuberante vegetación y muebles en un fondo suavemente difuminado",
-  "subject": {
-    "description": "hermosa joven de unos 20 años, atractivos rasgos femeninos con un maquillaje alternativo atrevido (delineador de ojos alado oscuro y afilado, pestañas largas, pómulos contorneados, labios nude o rosados brillantes), ojos grandes y expresivos, piel clara y suave con un brillo saludable, cabello largo, suelto, ondulado, castaño oscuro o negro con volumen natural y ligeramente despeinado cayendo sobre los hombros",
-    "clothing": "minivestido de peto de mezclilla blanco con un delicado estampado floral pequeño por todas partes, tirantes finos con hebillas metálicas —un tirante intencionalmente desabrochado y caído del hombro exponiendo la parte superior del pecho, sin top visible debajo",
-    "details": "extensos tatuajes coloridos visibles que incluyen un gran diseño floral de daga/rosa en el pecho, flores y patrones detallados de estilo tradicional en ambos brazos completos y manos, un pequeño tatuaje en el cuello, un piercing de septum plateado, manos cuidadas con uñas pintadas de oscuro sosteniendo el teléfono, un sutil puchero o sonrisa de confianza con contacto visual directo, cabello naturalmente ondulado con mechones suaves enmarcando el rostro"
-  },
-  "environment": {
-    "foreground": "brazos de la mujer y teléfono en enfoque nítido, detalles de tatuajes visibles",
-    "midground": "mujer centrada en el encuadre",
-    "background": "acogedora sala de estar o solárium interior moderno lleno de exuberantes plantas de interior verdes (monstera, enredaderas, variedades en maceta), sofá oscuro con cojín amarillo a la izquierda, elementos de madera e iluminación ambiental cálida que sugieren una atmósfera hogareña relajada, sin desorden en el enfoque"
-  },
-  "lighting_and_atmosphere": "iluminación ambiental interior suave y cálida (probablemente de una ventana o lámparas fuera de cuadro) creando un suave brillo dorado en la piel, el cabello, la tela de mezclilla blanca y los colores de los tatuajes, sombras sutiles que realzan los contornos faciales y las curvas del cuerpo, ambiente íntimo, casual y confiado con alto contraste entre el sujeto brillante y el fondo acogedor más oscuro, detalle fotorrealista que evoca una belleza alternativa relajada",
-  "technical_quality": "altamente detallado, enfoque nítido en los colores y el delineado de la tinta del tatuaje, textura de la tela de mezclilla con estampado floral, mechones de cabello, brillo de la piel, reflejo del piercing de la nariz y detalles de la funda del teléfono, resolución 8k, brillo de material realista en la mezclilla y sutiles detalles de maquillaje, estilo de fotografía selfie profesional con una profundidad de campo natural que difumina suavemente las plantas y los muebles del fondo",
-  "negative_prompt_suggestions": "borroso, deforme, extremidades adicionales, iluminación de flash dura, piel sobreexpuesta, tatuajes subexpuestos, baja calidad, caricatura, anime, marca de agua de texto"
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168050_j02hz2_G_NUON7XkAAT8aB.jpg" width="600" alt="Perfil / Avatar - Retrato selfie tatuado fotorrealista (JSON estructurado) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168042_p4ck39_G_NUOJ5WsAAJWD8.jpg" width="600" alt="Perfil / Avatar - Retrato selfie tatuado fotorrealista (JSON estructurado) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168085_zrd8u5_G_NUODYX0AAeYaP.jpg" width="600" alt="Perfil / Avatar - Retrato selfie tatuado fotorrealista (JSON estructurado) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168787_b192jg_G_NUOMJXQAAsweA.jpg" width="600" alt="Perfil / Avatar - Retrato selfie tatuado fotorrealista (JSON estructurado) - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Fuente:** [Twitter Post](https://x.com/KeorUnreal/status/2014046077612085611)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7045)**
-
----
-
-### No. 12: Perfil / Avatar - Selfie divertido en el espejo con orejas de gato y corsé de brocado rosa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt JSON estructurado para generar una selfie de espejo juguetona de una mujer joven vestida con un atuendo muy específico y estilizado (corsé de brocado rosa, minifalda de cuadros vichy, calcetines hasta el muslo y diadema blanca de orejas de gato esponjosas). La escena es un apartamento moderno y luminoso con grandes ventanales, enfatizando la luz natural del día y una pose divertida y expresiva (sacando la lengua, mirando hacia arriba).
-
-#### 📝 Prompt
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "femenino",
-        "age_group": "adulta joven",
-        "skin_tone": "clara"
-      },
-      "hair": {
-        "color": "rubio",
-        "length": "largo",
-        "style": "liso/ondulado",
-        "accessory": "diadema blanca con orejas de gato esponjosas"
-      },
-      "face": {
-        "expression": {
-          "mood": "juguetón",
-          "mouth": "sacando la lengua, ligera sonrisa",
-          "gaze": "mirando hacia arriba y a la izquierda"
-        },
-        "makeup": {
-          "eyes": "maquillaje ligero con delineador alado",
-          "lips": "color rosa",
-          "cheeks": "rosados",
-          "features": "nariz definida"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "corsé",
-          "material": "brocado",
-          "color": "rosa",
-          "details": ["cordones delanteros", "ribete"]
-        },
-        "lower_body": {
-          "item": "minifalda",
-          "pattern": "cuadros vichy",
-          "color": "rosa",
-          "details": ["capas con volantes", "ribete de encaje blanco"]
-        },
-        "leg_wear": {
-          "item": "calcetines hasta el muslo",
-          "color": "blanco",
-          "details": "rayas rosas en la parte superior"
-        },
-        "accessories": {
-          "neck": "gargantilla de cuello rosa con pequeña campana plateada",
-          "ears": "pendientes pequeños de botón",
-          "wrist": "pulsera dorada delicada"
-        }
-      },
-      "pose": {
-        "action": "tomándose una selfie en el espejo",
-        "hand_position": "sosteniendo el teléfono en la mano derecha",
-        "posture": "de pie"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "interior de apartamento moderno",
-        "flooring": "suelo de tablones de madera gris",
-        "walls": "sección de pared de azulejos grises"
-      },
-      "lighting": {
-        "source": "luz natural del día",
-        "direction": "desde ventanas de suelo a techo",
-        "quality": "brillante"
-      },
-      "background_elements": {
-        "windows": "grandes ventanas de suelo a techo, mostrando un paisaje urbano diurno brillante y el cielo",
-        "furniture": {
-          "left": "oso de peluche grande marrón apoyado contra la pared",
-          "right": [
-            "sillón tapizado blanco",
-            "mesa auxiliar de madera",
-            "jarrón de cristal transparente en estante"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "planta de hiedra artificial verde colgando",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "blanco",
-          "position": "superpuesto al fondo cerca de la silla"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "fotografía",
-      "sub_genre": "selfie en el espejo",
-      "device_prop": "iPhone blanco",
-      "composition": "reflejo mostrando al sujeto y el contexto de la habitación",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167910_ctazh4_G_NLz5sXgAA0Osl.jpg" width="600" alt="Perfil / Avatar - Selfie divertido en el espejo con orejas de gato y corsé de brocado rosa - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Crystal](https://x.com/Cicily_aura)
-- **Fuente:** [Twitter Post](https://x.com/Cicily_aura/status/2014036824105074724)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7040)**
-
----
-
-### No. 13: Perfil / Avatar - Prompt para la generación de avatares 3D al estilo Pixar
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt para crear un avatar 3D de alta calidad basado en una imagen subida. Especifica un rostro alegre y expresivo con una sonrisa cálida y rasgos suaves, renderizado con una estética al estilo Pixar, con texturas suaves, proporciones exageradas y una iluminación de estudio suave y uniforme.
-
-#### 📝 Prompt
-
-```
-Crea un avatar 3D de alta calidad de la persona en la imagen subida con una cara alegre y expresiva. El personaje debe tener una sonrisa cálida, ojos brillantes y rasgos faciales suaves que transmitan amabilidad y cercanía. Renderiza con una estética al estilo Pixar, con texturas suaves, sombreado sutil de la piel y proporciones ligeramente exageradas para un aspecto animado y adorable. La iluminación debe ser suave y uniforme, creando un aspecto de estudio limpio con sombras tenues para dar profundidad.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="Perfil / Avatar - Prompt para la generación de avatares 3D al estilo Pixar - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Harboriis](https://x.com/harboriis)
-- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7061)**
-
----
-
-### No. 14: Perfil / Avatar - Selfie hiperrealista en el espejo con vitíligo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Este es un prompt de estilo viral estructurado en formato JSON para generar una selfie de espejo de estilo de vida hiperrealista de una mujer con vitíligo. Detalla meticulosamente la apariencia de la modelo (cabello rubio platino, cuerpo en forma, bikini rosa), el acogedor ambiente del dormitorio y las condiciones de iluminación (hora dorada cálida) para asegurar que las manchas de vitíligo se destaquen naturalmente, creando un hermoso patrón de contraste en la piel. El resultado se especifica como un collage vertical de cuatro paneles.
-
-#### 📝 Prompt
-
-```
-{
-"type": "image_prompt",
-"style": "selfie de espejo de estilo de vida realista",
-"scene": {
-"location": "dormitorio acogedor",
-"flooring": "suelo de madera cálida o alfombra suave",
-"background": [
-"cama deshecha con ropa de cama y almohadas texturizadas",
-"paredes de color beige cálido o gris suave",
-"luces de guirnalda o iluminación ambiental cálida",
-"mesita de noche con libros o velas",
-"quizás plantas o elementos decorativos acogedores",
-"espejo de cuerpo entero apoyado en la pared o montado"
-],
-"lighting": "luz natural diurna cálida mezclada con iluminación ambiental acogedora, sensación de hora dorada suave, sin sombras duras, resalta el patrón de piel de vitíligo de forma natural"
-},
-"subject": {
-"description": "mujer adulta tomándose selfies en el espejo",
-"hair": {
-"color": "rubio platino",
-"style": "dos trenzas"
-},
-"skin": {
-"condition": "vitíligo con parches despigmentados distintivos",
-"distribution": "parches visibles en brazos, manos, piernas, muslos, abdomen, torso, hombros - distribuidos naturalmente",
-"base_tone": "tez media a bronceada con subtonos cálidos",
-"texture": "textura de piel natural, los parches de vitíligo crean hermosos patrones de contraste en la piel visible",
-"lighting_interaction": "la iluminación cálida y acogedora resalta maravillosamente el patrón único de la piel, los parches captan la luz creando profundidad y dimensión"
-},
-"face": {
-"features": "bonita - ojos grandes e inocentes de cierva, nariz pequeña, labios carnosos, algunos parches sutiles de vitíligo pueden ser visibles en la zona de la cara/cuello",
-"makeup": "mínimo, natural, brillo de labios, maquillaje 'sin maquillaje'"
-},
-"body": {
-"type": "atlética y con curvas",
-"waist": "cintura pequeña",
-"thighs": "muslos gruesos, suaves",
-"overall": "físico atlético pero femenino"
-},
-"outfit": {
-"top": "parte superior de bikini rosa",
-"bottom": "parte inferior de bikini rosa a juego",
-"note": "el bikini revela extensos patrones de vitíligo en el abdomen, costados, espalda, brazos, piernas y muslos",
-"accessories": [
-"pendientes de aro dorados",
-"gafas de sol apoyadas en la cabeza"
-]
-},
-"pose_variations": [
-"pose en cuclillas sosteniendo el teléfono - vitíligo visible en brazos, manos, piernas, muslos",
-"pose sentada en el suelo sosteniendo una trenza - patrones de vitíligo visibles en torso, piernas, brazos",
-"pose de pie con una pierna doblada - patrón de vitíligo de cuerpo completo visible",
-"pose inclinada hacia adelante con las manos en los muslos - vitíligo en brazos, manos, piernas prominente"
-],
-"expression": "expresión de puchero juguetón, ojos inocentes de cierva, segura de su belleza única",
-"camera": {
-"device": "smartphone (iPhone)",
-"angle": "reflejo en el espejo a la altura de los ojos",
-"framing": "variaciones de cuerpo completo y medio cuerpo",
-"quality": "calidad de selfie de iPhone realista, captura la textura de la piel de forma auténtica"
-}
-},
-"composition": {
-"layout": "cuatro tomas de espejo verticales una al lado de la otra",
-"focus": "sujeto centrado en el espejo, patrón de vitíligo claramente visible",
-"depth_of_field": "primer plano nítido, fondo acogedor ligeramente suave"
-},
-"color_palette": [
-"rosa",
-"beige cálido",
-"gris suave",
-"tonos de madera cálidos",
-"dorado",
-"tonos de piel cálidos con parches de vitíligo más claros creando contraste natural"
-],
-"mood": "
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063160146_hhuyzd_G_MURrNWMAAmWRi.jpg" width="600" alt="Perfil / Avatar - Selfie hiperrealista en el espejo con vitíligo - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [KEVIN](https://x.com/aimodelabuser)
-- **Fuente:** [Twitter Post](https://x.com/aimodelabuser/status/2013975771681841303)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7027)**
-
----
-
-### No. 15: Perfil / Avatar - Prompt para un retrato selfie de espejo fotorrealista (maillot de gimnasia)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON detallado para que Nano Banana Pro genere un retrato de selfie de espejo hiperrealista de una joven atlética con un maillot de gimnasia azul real, centrándose en la textura natural de la piel, detalles específicos de la pose (sosteniendo el teléfono, mano detrás de la cabeza) y una relación de aspecto de 4:5.
-
-#### 📝 Prompt
-
-```
-{
-  "image_type": "retrato selfie en espejo fotorrealista",
-  "subject_age": 19,
-  "gender": "femenino",
-  "ethnicity": "apariencia caucásica de piel clara",
-  "aspect_ratio": "4:5",
-  "resolution": "resolución ultra alta, enfoque nítido, textura de piel natural",
-
-  "camera": {
-    "device_type": "cámara trasera de smartphone",
-    "angle": "a la altura de los ojos ligeramente elevada",
-    "shot_type": "selfie de cuerpo completo en espejo",
-    "lens": "lente gran angular de smartphone"
-  },
-
-  "lighting": {
-    "type": "iluminación ambiental suave de interior",
-    "shadows": "sombras naturales suaves"
-  },
-
-  "subject": {
-    "face": {
-      "shape": "ovalada",
-      "skin_tone": "beige cálido claro con matices rosados",
-      "texture": "piel suave y juvenil",
-      "expression": "sonrisa suave con la boca cerrada",
-      "eyes": "ojos almendrados de color marrón oscuro con maquillaje ligero"
-    },
-
-    "hair": {
-      "color": "{argument name=\"hair color\" default=\"light blonde\"}" con raíces más oscuras",
-      "style": "cola de caballo alta con secciones trenzadas",
-      "accessory": "coletero con lazo morado"
-    },
-
-    "body": {
-      "build": "atlético, tonificado",
-      "pose": "cadera ligeramente desplazada hacia un lado",
-      "arms": {
-        "left": "sosteniendo el teléfono",
-        "right": "mano detrás de la cabeza"
-      }
-    },
-
-    "outfit": {
-      "type": "maillot de gimnasia",
-      "color": "{argument name=\"leotard color\" default=\"deep royal blue\"}" con brillo metálico",
-      "design": "sin mangas, cuello alto",
-      "details": "maillot liso sin texto, sin logotipos, sin símbolos"
-    }
-  },
-
-  "background": {
-    "location": "pasillo interior o corredor de hotel",
-    "elements": ["espejo de cuerpo entero", "paredes neutras"],
-    "depth": "ligero desenfoque de fondo"
-  },
-
-  "mood": "segura, juvenil, atlética",
-  "style": "retrato de estilo de vida hiperrealista",
-
-  "negative_prompt": [
-    "texto",
-    "logotipos",
-    "letras",
-    "símbolos",
-    "marcas de agua",
-    "texto reflejado",
-    "texto invertido",
-    "dibujos animados",
-    "anime",
-    "anatomía distorsionada",
-    "extremidades extra",
-    "desenfoque"
-  ]
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063240217_9yk5dh_G_LwK6ybYAAF9Yg.jpg" width="600" alt="Perfil / Avatar - Prompt para un retrato selfie de espejo fotorrealista (maillot de gimnasia) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [sammy](https://x.com/sumiturkude007)
-- **Fuente:** [Twitter Post](https://x.com/sumiturkude007/status/2013936062541042006)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7160)**
-
----
-
-### No. 16: Perfil / Avatar - Retrato de estilo de vida de cafetería ultrarrealista con prompt de bloqueo de identidad
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* altamente restrictivo para generar un retrato de estilo de vida ultrarrealista en una cafetería moderna, que exige una precisión facial del 100 % y la preservación de la textura real de la piel de una imagen cargada. Especifica la pose del sujeto dentro de un marco de madera circular con iluminación LED, enfatizando el realismo puro y una estética cálida y limpia.
-
-#### 📝 Prompt
-
-```
-Crea un retrato de estilo de vida ultra realista y de alta gama de un solo sujeto adulto, capturado en un ambiente de cafetería tranquilo, elegante y moderno. El sujeto está sentado casualmente dentro de un marco circular de madera incrustado con iluminación LED cálida, rodeado de exuberante follaje verde y una suave decoración floral. La pose es relajada y natural: una pierna cruzada sobre la otra, el cuerpo ligeramente inclinado, los hombros relajados, las manos apoyadas de forma natural mientras sostiene un pequeño ramo de flores frescas. El ambiente general es cálido, limpio, elegante, juvenil y accesible — solo puro realismo. Sin estilización, sin fantasía, sin exageración cinematográfica.
-
-Usa mi imagen facial cargada como ÚNICA referencia de identidad facial.
-
-Mantén el 100% de precisión facial: estructura ósea exacta, forma de los ojos, pliegue del párpado, forma de las cejas, puente y punta de la nariz, forma de los labios, línea de la mandíbula, barbilla, volumen de las mejillas, línea del cabello y proporciones faciales.
-
-La identidad debe permanecer perfectamente consistente desde todos los ángulos (frontal, 3/4, lateral, pose sentada, ligera inclinación de la cabeza).
-
-Sin mezcla de caras, sin embellecimiento, sin corrección de simetría.
-
-Sin deriva facial por IA.
-
-Preserva la textura real de la piel: poros, líneas finas, imperfecciones naturales.
-
-Expresión: sonrisa suave y natural, relajada y genuina.
-
-Top de punto de manga larga en color pastel suave (rosa empolvado / tono rosa apagado).
-
-Pantalones de corte recto de cintura alta en beige o crema.
-
-Zapatillas deportivas blancas gruesas y limpias.
-
-Solo accesorios mínimos (pendientes sencillos, smartwatch o accesorio de muñeca minimalista).
-
-Cabello peinado de forma ordenada, natural, recogido o suavemente atado.
-
-Maquillaje natural: tonos de piel realistas, sin retoques pesados.
-
-Interior de cafetería moderna o estudio de estilo de vida.
-
-Estructura circular de madera con anillo de luz LED cálida incrustado.
-
-Plantas verdes y arreglos florales integrados en el marco.
-
-Fondo con bokeh suave y luz ambiental cálida.
-
-Entorno limpio y despejado con profundidad y realismo.
-
-Retrato vertical de cuerpo entero o 3/4 de cuerpo.
-
-Ángulo de cámara a la altura de los ojos.
-
-Aspecto de lente de 50mm–85mm.
-
-Perspectiva natural, sin distorsión.
-
-Sujeto centrado dentro del marco circular.
-
-Poca profundidad de campo, fondo suavemente desenfocado.
-
-Iluminación suave, cálida y difusa.
-
-Luz de contorno LED delineando suavemente el marco circular.
-
-Iluminación facial uniforme con caída de sombras natural.
-
-Sin reflejos duros, sin blancos quemados.
-
-Reflejos y profundidad de piel realistas.
-
-Prompt negativo:
-
-Sin estilización.
-
-Sin gradación de color cinematográfica.
-
-Sin filtros de belleza.
-
-Sin piel suave o plástica.
-
-Sin proporciones exageradas.
-
-Sin aspecto pictórico o ilustrado.
-
-Sin brillo artificial.
-
-Sin transformación facial o cambio de identidad.
-
-Ultra fotorrealista.
-
-Calidad de fotografía editorial de estilo de vida.
-
-Colores naturales, tonos de piel fieles a la realidad.
-
-La identidad permanece inalterada y precisa desde todos los ángulos.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063184530_y5bs4o_G_LiM0JakAAUQ2O.jpg" width="600" alt="Perfil / Avatar - Retrato de estilo de vida de cafetería ultrarrealista con prompt de bloqueo de identidad - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2013920696460816540)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7068)**
-
----
-
-### No. 17: Perfil / Avatar - Retrato Flash Ultra Realista con Estilo "Old Money"
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* detallado para generar un retrato editorial de alta costura ultrarrealista, utilizando fotografía con flash y grano cinematográfico. Especifica un escenario dramático (pared de cuero rojo, entorno oscuro), el atuendo del sujeto (corsé *strapless* beige con bordados rojos) y detalles de maquillaje (iluminador intenso, labios brillantes). El *prompt* enfatiza el peinado "Old Money" y el uso del flash para crear alto contraste y dramatismo, adecuado para portadas de revistas.
-
-#### 📝 Prompt
-
-```
-"Efecto cinematográfico con grano añadido. Un retrato ultrarrealista de una mujer de pie contra una pared texturizada de cuero rojo con líneas verticales. Lleva un corsé beige sin tirantes con bordados rojos. Su piel está iluminada. Tiene un maquillaje brillante, pestañas postizas y sus labios están cubiertos de brillo transparente. Su cabello es liso, brillante y largo, al estilo "Old Money", de un rojo oscuro brillante. Iluminador intenso en sus mejillas. Una mano ajusta suavemente su cabello. Mira directamente a la cámara. Mirada segura y juguetona, boca ligeramente abierta. Un espejo es parcialmente visible detrás de ella en el borde del encuadre. Foto tomada con flash. El entorno es oscuro."
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167025_5pi880_G_KucySaoAAheay.jpg" width="600" alt="Perfil / Avatar - Retrato Flash Ultra Realista con Estilo "Old Money" - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2013863796604113351)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7038)**
-
----
-
-### No. 18: Perfil / Avatar - Prompt para selfie divertido en el espejo (diadema de orejas de gato)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON detallado para que Nano Banana Pro genere una selfie de espejo fotorrealista de una mujer joven con una expresión juguetona (sacando la lengua), vistiendo un corsé de brocado amarillo, una minifalda de cuadros vichy y una diadema blanca de orejas de gato peludas, con detalles específicos sobre el fondo y la iluminación.
-
-#### 📝 Prompt
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "femenino",
-        "age_group": "adulto joven",
-        "skin_tone": "clara"
-      },
-      "hair": {
-        "color": "{argument name=\"hair color\" default=\"blonde\"}",
-        "length": "largo",
-        "style": "liso/ondulado",
-        "accessory": "diadema con orejas de gato blancas y esponjosas"
-      },
-      "face": {
-        "expression": {
-          "mood": "juguetón",
-          "mouth": "sacando la lengua, ligera sonrisa",
-          "gaze": "mirando hacia arriba y a la izquierda"
-        },
-        "makeup": {
-          "eyes": "maquillaje ligero con delineador alado",
-          "lips": "color rosa"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "corsé",
-          "material": "brocado",
-          "color": "{argument name=\"corset color\" default=\"yellow\"}",
-          "details": ["cordones delanteros", "ribete"]
-        },
-        "lower_body": {
-          "item": "minifalda",
-          "pattern": "cuadros vichy",
-          "color": "amarillo",
-          "details": ["capas con volantes", "ribete de encaje blanco"]
-        },
-        "leg_wear": {
-          "item": "medias hasta el muslo",
-          "color": "blanco",
-          "details": "rayas amarillas en la parte superior"
-        },
-        "accessories": {
-          "neck": "gargantilla de cuello amarilla con pequeña campana plateada",
-          "ears": "pendientes pequeños de botón",
-          "wrist": "pulsera delicada de oro"
-        }
-      },
-      "pose": {
-        "action": "tomándose una selfie en el espejo",
-        "hand_position": "sosteniendo el teléfono en la mano derecha",
-        "posture": "de pie"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "interior de apartamento moderno",
-        "flooring": "suelo de tablones de madera gris",
-        "walls": "sección de pared con azulejos grises"
-      },
-      "lighting": {
-        "source": "luz natural del día",
-        "direction": "desde ventanas de suelo a techo",
-        "quality": "brillante"
-      },
-      "background_elements": {
-        "windows": "grandes ventanas de suelo a techo, mostrando un paisaje urbano diurno brillante y el cielo",
-        "furniture": {
-          "left": "oso de peluche grande marrón apoyado contra la pared",
-          "right": [
-            "sillón tapizado blanco",
-            "mesa auxiliar de madera",
-            "jarrón de cristal transparente en estante"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "planta de hiedra artificial verde colgando",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "blanco",
-          "position": "superpuesto al fondo cerca de la silla"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "fotografía",
-      "sub_genre": "selfie en el espejo",
-      "device_prop": "iPhone blanco",
-      "composition": "reflejo mostrando al sujeto y el contexto de la habitación",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063241284_bgweit_G_Jc-TGawAAsTzX.jpg" width="600" alt="Perfil / Avatar - Prompt para selfie divertido en el espejo (diadema de orejas de gato) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Fuente:** [Twitter Post](https://x.com/Adam38363368936/status/2013774223526019132)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7164)**
-
----
-
-### No. 19: Perfil / Avatar - Selfie en el espejo de un hotel de lujo seductor (JSON detallado)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt extremadamente detallado y estructurado para generar una seductora selfie de espejo de alta costura en un tocador de un hotel de lujo. Especifica la apariencia de la modelo (cabello oscuro, piel aceitunada, maquillaje dramático), la vestimenta (minivestido de satén negro escotado, tacones de tiras), la pose (sentada, reclinada) y la iluminación íntima nocturna, enfatizando la calidad fotorrealista, la textura del satén y el aspecto crudo de un flash de teléfono.
-
-#### 📝 Prompt
-
-```
-{
-  "main_prompt": "selfie seductora en el espejo de un dormitorio de hotel de lujo, mujer joven deslumbrante de veintitantos años con cabello largo, sedoso y castaño oscuro cayendo sobre los hombros, piel oliva bronceada con un brillo radiante, maquillaje dramático: delineador de ojos alado negro afilado, pestañas largas y voluminosas, pómulos contorneados, labios rosados nude profundos y brillantes en un suave puchero, expresión sensual y segura con la cabeza ligeramente inclinada hacia atrás mirando a la cámara a través del reflejo, vistiendo un minivestido ajustado de satén negro con escote en V profundo y tirantes finos, lados de corte alto que muestran muslos y caderas tonificados, el vestido ligeramente subido enfatizando las curvas, sandalias de tacón alto negras con tiras, puntera abierta y correa en el tobillo, delicado collar dorado visible, posando sentada en el suelo de baldosas recostada sobre una mano, piernas extendidas y cruzadas por los tobillos llenando la parte inferior del encuadre, interior de una lujosa suite de hotel moderna: paredes y suelo de mármol beige cálido, armario y gabinetes de madera oscura al fondo, gran espejo de cuerpo entero que la refleja perfectamente, iluminación suave y cálida del techo y apliques de pared creando una luz de contorno dorada en el cabello, hombros y piernas, sutil flash del teléfono que añade reflejos fríos en la cara y el vestido, ambiente íntimo nocturno, gradación de color cinematográfica con tonos de piel cálidos y sombras profundas, fotorrealista, brillo y textura de tela de satén ultra detallados, poros de piel realistas y brillo sutil, reflejo preciso en el espejo con ligera distorsión, tomada con un iPhone 14 Pro con flash en modo retrato, poca profundidad de campo enfocada en el sujeto con un suave bokeh en el fondo, ambiente de glamour boudoir de alta costura, energía de selfie de lujo cruda y sin filtros --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "borroso, baja resolución, manos deformes, dedos extra, dedos fusionados, mala anatomía, cara mal dibujada, malas proporciones, extremidades extra, manos mutadas, feo, desfigurado, mosaico, fuera de encuadre, artefactos jpeg, firma, marca de agua, texto, error, mal recortado, peor calidad, baja calidad, dibujos animados, render 3d, piel de plástico, aspecto de muñeca, piel aerografiada, flash sobreexpuesto, sombras duras, piel pálida, sin maquillaje, filtro pesado, cara de instagram, labios de pato, sonriendo feliz, anciana, niña, hombre, toma de grupo, luz diurna brillante, habitación de hotel barata, decoración minimalista moderna, teléfono completo visible bloqueando la cara, reflejo deforme, primer plano desordenado, iluminación fría dominante, colores desaturados, telas mate, sin brillo en el satén, aspecto sintético, costuras visibles poco naturales, cabello corto, cabello rubio",
-  "style_tags": [
-    "fotorrealista",
-    "selfie en espejo de hotel de lujo",
-    "minivestido de satén negro con escote pronunciado",
-    "sandalias de tacón alto con tiras",
-    "iluminación íntima nocturna",
-    "énfasis en escote profundo y muslos",
-    "glamour boudoir cinematográfico",
-    "ambiente de flash de teléfono crudo",
-    "pose sensual y segura",
-    "editorial de moda de alta gama",
-    "contraste cálido-frío melancólico"
-  ],
-  "technical": {
-    "aspect_ratio": "3:4 o 9:16 (estilo selfie de espejo de teléfono vertical)",
-    "lighting": "luces ambientales cálidas de apliques/techo de hotel (~3200K) + flash de teléfono frío, fuerte luz de contorno"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063165502_oqr9dh_G_JUrIrWcAAkUB7.jpg" width="600" alt="Perfil / Avatar - Selfie en el espejo de un hotel de lujo seductor (JSON detallado) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Lex](https://x.com/katmanai)
-- **Fuente:** [Twitter Post](https://x.com/katmanai/status/2013765086859391127)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7034)**
 
 ---
 
@@ -2151,7 +1826,689 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos
+### No. 21: Publicación en redes sociales - Retrato de piscina con efecto mojado ultra fotorrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de generación de imágenes altamente detallado para un retrato ultra fotorrealista de una mujer en una piscina, enfatizando una estética de "aspecto mojado". El prompt especifica un físico atlético de reloj de arena, piel húmeda y brillante con gotas de agua visibles, y un bikini minimalista azul marino. Los detalles técnicos incluyen luz solar intensa de mediodía para un alto contraste, una lente de 85 mm a f/2.8 para el bokeh, y una velocidad de obturación rápida (1/4000s) para congelar las salpicaduras dinámicas de agua, buscando un estilo editorial de Vogue.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt_structure": {
+    "subject": {
+      "appearance": "Mujer joven muy hermosa y atractiva con un físico atlético y curvilíneo, tono de piel oliva con textura y poros realistas, cabello castaño oscuro peinado con un 'efecto mojado' y peinado hacia atrás, lejos de la cara.",
+      "facial_features": "Rostro simétrico, llamativos ojos {argument name=\"eye color\" default=\"hazel-green\"} mirando directamente a la cámara, cejas naturales, labios rosa suave, expresión serena y segura.",
+      "skin_details": "Piel húmeda y brillante, gotas de agua distintivas adheridas a los hombros y el pecho, efecto de dispersión subsuperficial en la piel bajo la luz del sol."
+    },
+    "apparel": {
+      "item": "Bikini minimalista de dos piezas.",
+      "color": "{argument name=\"bikini color\" default=\"navy blue\"}.",
+      "fit": "Ajuste ceñido, tirantes finos de espagueti, top con escote pronunciado, braguita de corte alto.",
+      "texture": "Textura de tela mojada adherida al cuerpo."
+    },
+    "pose_and_action": {
+      "posture": "De pie, con el agua hasta la cintura en una piscina, inclinándose ligeramente hacia adelante con el peso apoyado en los brazos. Con una mirada seductora.",
+      "hands": "Manos firmemente apoyadas en el borde de piedra de textura rugosa de la piscina, colocación simétrica.",
+      "framing": "Plano medio diagonal, capturado justo por encima de la línea del agua."
+    },
+    "environment": {
+      "location": "Lujosa piscina exterior.",
+      "background": "Jardín tropical suavemente desenfocado con exuberantes hojas de palma verdes y follaje (efecto bokeh), pilares de piedra visibles en la distancia.",
+      "elements": "Salpicaduras de agua dinámicas congeladas en el aire alrededor del sujeto, agua de piscina turquesa brillante, borde de piscina de piedra travertino beige."
+    },
+    "lighting": {
+      "source": "Luz diurna natural brillante e intensa (sol de mediodía).",
+      "characteristics": "Alto contraste, reflejos especulares en la piel mojada y las gotas de agua, sombras distintas que definen la musculatura, iluminación de contorno en el agua salpicada."
+    },
+    "camera_settings": {
+      "type": "Cámara profesional DSLR o sin espejo.",
+      "lens": "Objetivo de retrato de 85 mm.",
+      "aperture": "f/2.8 (para lograr una separación de fondo cremosa).",
+      "shutter_speed": "1/4000s (velocidad de obturación rápida para congelar las gotas de agua nítidamente).",
+      "focus": "Enfoque nítido en los ojos y la cara."
+    },
+    "quality_modifiers": [
+      "Ultra fotorrealista",
+      "Resolución 8k",
+      "Foto RAW",
+      "Iluminación cinematográfica",
+      "Hiperdetallado",
+      "Obra maestra",
+      "Renderizado basado en la física (PBR)",
+      "Estilo editorial de Vogue"
+    ]
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052260_sigakz_G_ZdpA5aoAAQd2z.jpg" width="600" alt="Publicación en redes sociales - Retrato de piscina con efecto mojado ultra fotorrealista - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052265_o0hr61_G_W8-scXMAAlVBA.jpg" width="600" alt="Publicación en redes sociales - Retrato de piscina con efecto mojado ultra fotorrealista - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [AIARTGALLARY](https://x.com/AIARTGALLARY)
+- **Fuente:** [Twitter Post](https://x.com/AIARTGALLARY/status/2014900856064537011)
+- **Publicado:** 24 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7379)**
+
+---
+
+### No. 22: Publicación en redes sociales - Prompt para un retrato hiperrealista de una surfista brasileña
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON detallado para Nano Banana Pro que describe un retrato hiperrealista de una joven surfista mulata brasileña. El prompt especifica detalles anatómicos extremos, centrándose en la simetría facial, piel bronceada, cabello ondulado natural y una silueta de reloj de arena exagerada con músculos glúteos pronunciados.
+
+#### 📝 Prompt
+
+```
+{
+  "subject": {
+    "description": "Una joven mulata brasileña con cabello ondulado natural, despeinado por la playa y aclarado por el sol, con textura salada, llevando gafas de sol deportivas subidas a la cabeza, con un tono de piel bronceado y besado por el sol que muestra sutiles líneas de bronceado.",
+    "face": {
+      "beauty_priority": "Máxima belleza facial con rasgos hiperrealistas de chica surfista",
+      "structure": "Rostro perfectamente simétrico con proporciones armoniosas; pómulos altos y definidos; mandíbula suave y atlética; estructura ósea delicada y femenina con vitalidad sana y deportiva.",
+      "skin": "Tez radiante y besada por el sol con subtonos dorados cálidos; brillo natural y saludable por la exposición al océano y al sol; sutiles pecas en la nariz y las mejillas; textura fina visible que muestra realismo pero cero imperfecciones; acabado húmedo en los pómulos y el puente de la nariz; bronceado natural.",
+      "eyes": "Ojos grandes y expresivos en forma de almendra con blancos brillantes y claros; iris ricos y cálidos de color avellana o marrón claro con profundidad natural y destellos que reflejan el océano y el cielo; pestañas largas y gruesas, naturalmente decoloradas por el sol; cejas naturales perfectamente arregladas con un arco suave; anillo limbal visible para la definición del ojo; mirada enérgica y aventurera.",
+      "nose": "Nariz elegante y proporcionada con puente suave; punta refinada; fosas nasales simétricas; suave resalte en el puente; sutiles pecas besadas por el sol.",
+      "lips": "Labios llenos y bien definidos con arco de Cupido natural; textura suave con un sutil brillo natural; tono rosa coral saludable por la exposición al sol y la sal; simetría perfecta.",
+      "smile": "Sonrisa de surfista cálida, genuina y despreocupada que muestra dientes blancos bellamente alineados; líneas de expresión naturales que realzan el encanto; felicidad besada por el sol que irradia de la expresión.",
+      "overall": "Rostro sorprendentemente hermoso con ese magnetismo natural de chica de playa; belleza atlética y saludable que irradia vitalidad y energía oceánica."
+    },
+    "hair": {
+      "style": "Cabello de playa voluminoso, ondulado natural con rizos sueltos y textura despeinada por el viento; reflejos aclarados por el sol en todo el cabello; apariencia ligeramente húmeda como si acabara de salir del agua.",
+      "color": "Base castaño oscuro rica con vetas y reflejos naturales rubio dorado por el sol; textura de sal y sol.",
+      "volume": "Ondas de playa grandes, llenas y despeinadas con movimiento y cuerpo naturales."
+    },
+    "body": {
+      "physique": "Silueta de reloj de arena hiperpronunciada con una relación cintura-cadera extrema; complexión atlética de surfista con brazos y hombros tonificados.",
+      "anatomy": "Músculos glúteos (glúteo mayor) extremadamente grandes y voluminosos con peso realista y textura de piel suave; cintura atlética estrecha y ceñida; muslos fuertes y tonificados con definición muscular visible; curva lumbar bien definida (arco de la parte inferior de la espalda); hombros y brazos atléticos. Alta precisión anatómica en las piernas y los pies, mostrando textura de la planta del pie y alineación de los dedos realistas.",
+      "details": "Poros de la piel visibles, pliegues naturales de la piel en la cintura, tono de piel besado por el sol con sutiles líneas de bronceado, realista"
+    }
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236060988_ut98mx_G_Y9ghMXgAAzdZC.jpg" width="600" alt="Publicación en redes sociales - Prompt para un retrato hiperrealista de una surfista brasileña - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Sotoshi Nikomito](https://x.com/SotoshiNikomito)
+- **Fuente:** [Twitter Post](https://x.com/SotoshiNikomito/status/2014865550971638014)
+- **Publicado:** 24 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7394)**
+
+---
+
+### No. 23: Publicación en redes sociales - Retrato cinematográfico de interior con referencia de identidad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* detallado para generar un retrato cinematográfico de interior de una mujer joven con características específicas (ojos verdes, cabello oscuro) y que lleva una prenda escultural gris de cuello alto. El *prompt* incluye un *negative prompt* para evitar fallos de generación comunes y requiere explícitamente el uso de una imagen de referencia subida para detalles específicos como el color de ojos, el volumen del cabello, el diseño de la prenda y la expresión facial.
+
+#### 📝 Prompt
+
+```
+{
+  "main_prompt": "Retrato cinematográfico de interior de una impresionante mujer joven con una larga y voluminosa melena castaño oscuro que cae sobre sus hombros, llamativos ojos verdes penetrantes con una mirada cautivadora e intensa directamente a la cámara, textura de piel natural con un acabado mate suave, vistiendo una sofisticada prenda gris estructurada sin mangas de cuello alto estilo cruzado, un moderno corpiño escultural de moda con un diseño de cuello cruzado, estética minimalista y limpia, luz natural suave del día proveniente del lateral creando sombras delicadas, fondo interior de tonos neutros, lente de retrato de 85mm, fotorrealista, detalle de iris y tejido de la tela hiperdetallados --ar 3:4 --stylize 300 --v 6 --q 2",
+  "negative_prompt": "borroso, deformado, mala anatomía, feo, sobreexpuesto, sombras duras, maquillaje pesado, sonriendo, luz del día brillante, aspecto sintético, caricatura, dibujo, habitación desordenada, baja calidad, colores vibrantes, piel de plástico",
+  "style_tags": ["moda minimalista moderna", "editorial de alta gama", "mirada penetrante", "ropa escultural", "paleta neutra"],
+  "technical": {
+    "aspect_ratio": "3:4",
+    "lighting": "iluminación lateral natural suave",
+    "camera": "lente profesional de 85mm f/1.8"
+  },
+  "extra_parameters": {
+    "recommended_model": "Flux.1 [dev]",
+    "guidance_scale": "7.0",
+    "steps": "40",
+    "image_reference": "usar la referencia subida para el color específico de los ojos verdes, el volumen del cabello castaño largo, el diseño único de la prenda gris de cuello cruzado y la expresión facial intensa"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235954914_0mh76v_G_Yt0vmWIAAcXMJ.jpg" width="600" alt="Publicación en redes sociales - Retrato cinematográfico de interior con referencia de identidad - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Stark](https://x.com/katmanai)
+- **Fuente:** [Twitter Post](https://x.com/katmanai/status/2014848270548226189)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7246)**
+
+---
+
+### No. 24: Publicación en redes sociales - Personaje de dibujos animados 3D de Pixar/Disney con nombre tejido
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un *prompt* completo de generación de imágenes para crear un personaje de chica de dibujos animados en 3D de cuerpo entero, renderizado al estilo de Pixar o Disney. El *prompt* se centra en detalles específicos de la ropa, incluyendo un suéter de punto de gran tamaño con el nombre 'NOOR' tejido en la tela, enfatizando el realismo del punto de hilo y una paleta de colores cálidos sobre un fondo amarillo sólido.
+
+#### 📝 Prompt
+
+```
+Un personaje de chica de dibujos animados en 3D de cuerpo completo, con un renderizado al estilo Pixar/Disney, de pie con confianza sobre un fondo sólido y brillante de color {argument name="background color" default="yellow"}. Tiene grandes y expresivos ojos marrones, una cara sonriente y linda, y cabello castaño claro rizado recogido en un moño alto desordenado, con gafas redondas blancas apoyadas en su cabeza. Viste un suéter de punto oversize a rayas crema y amarillo mostaza, con el nombre "{argument name="name on sweater" default="NOOR"}" claramente tejido en la tela a la altura del pecho (textura de hilo tejido, no impreso). Pantalones cargo de punto beige holgados con bolsillos laterales, zapatillas deportivas blancas gruesas con sutiles detalles amarillos. Iluminación de estudio suave, texturas lisas, realismo de hilo de punto de alto detalle, paleta de colores cálidos, pose juguetona con los brazos ligeramente extendidos, altísima calidad, 4K, enfoque nítido, fondo limpio, personaje centrado.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047994_6hve1z_G_YpkkWW0AAhN1Y.jpg" width="600" alt="Publicación en redes sociales - Personaje de dibujos animados 3D de Pixar/Disney con nombre tejido - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014843601067643131)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7372)**
+
+---
+
+### No. 25: Publicación en redes sociales - Prompt de dibujo abstracto de faro y velero
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* para generar un dibujo abstracto de una escena de río con un faro, un velero y barcos amarrados en la orilla. Especifica un gran sol blanco y una estética cálida de estilo arte digital.
+
+#### 📝 Prompt
+
+```
+Dibujo abstracto de un faro y un velero en un río, con un árbol en primer plano, barcos amarrados en la orilla y gente caminando por el terraplén. Un gran sol blanco brilla sobre el horizonte, creando una escena cálida con un estilo de arte digital. Relación de aspecto 6:9
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057253_yxv7r1_G_Yo1p0XQAAH9dH.jpg" width="600" alt="Publicación en redes sociales - Prompt de dibujo abstracto de faro y velero - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014842801008341184)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7388)**
+
+---
+
+### No. 26: Publicación en redes sociales - Prompt de pose de actitud de hombre elegante (referencia de imagen)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* ultrarrealista y de alta resolución que requiere una imagen de referencia subida para capturar a un joven elegante en una pose dominante de pasarela. Especifica una chaqueta acolchada verde pastel, un chaleco blanco sin mangas, pantalones holgados y un entorno de estudio minimalista.
+
+#### 📝 Prompt
+
+```
+Imagen de alta resolución ultrarrealista inspirada en la imagen subida. Joven elegante en una pose de actitud audaz: centrado, cuerpo ligeramente angulado, una mano en el bolsillo del pantalón, la otra agarrando el cuello de la chaqueta acolchada, barbilla levantada, expresión dominante de pasarela. Atuendo: chaqueta acolchada verde pastel (abierta), chaleco blanco sin mangas, pantalones blancos holgados, cabello voluminoso y texturizado. Estudio interior limpio y minimalista, pared sutil de paneles verticales detrás (desplazada a la derecha), diagonal suave.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055364_dy9r37_G_YoUJzWEAAbdet.jpg" width="600" alt="Publicación en redes sociales - Prompt de pose de actitud de hombre elegante (referencia de imagen) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014842219040047311)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7387)**
+
+---
+
+### No. 27: Publicación en redes sociales - Plantilla de prompt para infografías de objetos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una plantilla de prompt reutilizable para Nano Banana Pro diseñada para crear una imagen infográfica de un objeto genérico. El prompt instruye a la IA para que combine una representación fotorrealista del objeto con superposiciones de anotaciones técnicas, utilizando dibujos lineales en tinta negra, etiquetas, medidas y diagramas esquemáticos sobre un fondo blanco puro, buscando una estética de manual de ingeniería educativa. Esta es una versión generalizada del prompt anterior.
+
+#### 📝 Prompt
+
+```
+“Crea una imagen infográfica de [{argument name="object" default="OBJECT"}], combinando una fotografía realista o un render fotorrealista del objeto con superposiciones de anotaciones técnicas colocadas directamente encima.
+
+Utiliza dibujos lineales y texto en estilo tinta negra (aspecto de bolígrafo técnico / boceto arquitectónico) sobre un fondo de estudio blanco puro, incluyendo:
+• Etiquetas de componentes clave
+• Contornos de corte interno o vista explosionada
+• Medidas, dimensiones y marcadores de escala
+• Llamadas de materiales y cantidades
+• Flechas que indican función, fuerza o flujo (aire, sonido, potencia, presión)
+• Diagramas esquemáticos o seccionales simples cuando sea relevante
+
+Coloca el título [OBJECT] dentro de un cuadro de anotación técnica dibujado a mano en una esquina.
+
+Reglas de estilo y diseño:
+• El objeto real permanece claramente visible debajo de las anotaciones
+• Las anotaciones se sienten esbozadas, técnicas y arquitectónicas
+• Composición limpia con espacio negativo equilibrado
+• Ambiente educativo, de exposición de museo / manual de ingeniería
+
+Estilo visual:
+Estética de ilustración técnica mínima, trabajo lineal negro sobre imágenes realistas, sensación precisa pero ligeramente dibujada a mano.
+
+Paleta de colores:
+Fondo blanco, líneas de anotación y texto solo en negro. Sin colores.
+
+Salida:
+1080×1080, ultra nítido, optimizado para redes sociales, sin marca de agua.”
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050335_96kh9m_G_Yj8SGX0AAa9YM.jpg" width="600" alt="Publicación en redes sociales - Plantilla de prompt para infografías de objetos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014837408374706372)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7376)**
+
+---
+
+### No. 28: Publicación en redes sociales - Prompt para collage de fotos de peinados
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para generar un collage de fotos de alta calidad que muestre a la misma persona con rasgos faciales y expresión consistentes en múltiples recuadros, cada uno mostrando un peinado diferente (por ejemplo, corte pixie, corona trenzada, moño despeinado). Especifica un diseño de cuadrícula de 4x3 y un estilo de belleza editorial.
+
+#### 📝 Prompt
+
+```
+Un collage de fotos de alta calidad con la misma persona con idénticas facciones y expresión, mostrada en múltiples recuadros con diferentes peinados. Cada panel muestra un peinado único como {argument name="hairstyle 1" default="pelo largo y liso"}, {argument name="hairstyle 2" default="cola de caballo alta"}, {argument name="hairstyle 3" default="moño despeinado"}, corte pixie, trenza de corona, ondas suaves, bob corto con flequillo, moño bajo, trenza lateral y rizos sueltos. Atuendo y maquillaje neutros consistentes en todas las imágenes, iluminación de estudio suave, fondo cálido y difuminado, textura de piel realista, consistencia facial simétrica, ultra detallado, look de belleza editorial, diseño de cuadrícula de 4x3, fotografía de retrato profesional.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057568_mwc36t_G_YjnB2W0AA8KiL.jpg" width="600" alt="Publicación en redes sociales - Prompt para collage de fotos de peinados - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014837052383363498)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7390)**
+
+---
+
+### No. 29: Publicación en redes sociales - Retrato digital de un hombre joven en papercraft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Este prompt es para generar un retrato digital de papiroflexia ultradetallado de un hombre joven utilizando un estilo de escultura de papel geométrico de baja poli. Se centra en texturas de papel realistas, bordes afilados y tonos marrones cálidos para la piel y el cabello, lo que resulta en una estética de escultura de arte moderno con iluminación de estudio profesional.
+
+#### 📝 Prompt
+
+```
+Retrato digital de papiroflexia HD ultradetallado de un hombre joven, estilo de escultura de papel geométrico de baja poli, formas de papel dobladas en capas que forman la cara y el cabello, tonos de papel cálidos {argument name="paper color" default="brown"} para la piel y el cabello, barba y bigote sutiles, gafas redondas finas, sonrisa suave y segura, textura de papel altamente realista, bordes afilados y pliegues limpios, iluminación de estudio, sombras suaves, composición centrada, {argument name="background style" default="white minimal background"}, aspecto de escultura de arte moderno, enfoque hiperclaro, resolución 4K, alto contraste, renderizado de arte profesional
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236048305_6anbbp_G_YjdHiWEAA_dIK.jpg" width="600" alt="Publicación en redes sociales - Retrato digital de un hombre joven en papercraft - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836886536110579)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7373)**
+
+---
+
+### No. 30: Publicación en redes sociales - Indicación de fotografía de alimentos: Gofres belgas a la altura de los ojos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* de fotografía de alimentos para generar una imagen a la altura de los ojos de gofres belgas dorados cubiertos con frambuesas y arándanos frescos. Enfatiza el jarabe de arce goteando, la luz natural suave y una profundidad de campo reducida.
+
+#### 📝 Prompt
+
+```
+Imagen de comida a la altura de los ojos, dos gofres belgas dorados en un plato blanco y regordete, cubiertos con frambuesas y arándanos frescos, con sirope de arce goteando y derramándose sobre el plato, rodeados de más frambuesas, luz natural suave y poca profundidad de campo.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053833_yjclhv_G_YjLiiXcAEVMpy.jpg" width="600" alt="Publicación en redes sociales - Indicación de fotografía de alimentos: Gofres belgas a la altura de los ojos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836577084588445)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7383)**
+
+---
+
+### No. 31: Publicación en redes sociales - Prompt de fotografía de alimentos: hamburguesa de ternera macro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* de fotografía macro de alimentos centrado en una jugosa hamburguesa de ternera con queso cheddar derretido goteando, grasa brillante y gotas de agua fresca en la lechuga. Especifica un pan brioche tostado, vapor, un fondo de mesa de madera y luz de ventana.
+
+#### 📝 Prompt
+
+```
+Fotografía macro de alimentos de una jugosa hamburguesa de ternera con queso cheddar derretido goteando por el lateral, grasa brillante, un pan brioche tostado y gotas de agua fresca en la lechuga. El vapor sube suavemente. Fondo de mesa de madera, iluminación de ventana. Relación de aspecto 6:9
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055214_1nzjlw_G_YjDX1XcAEsxAa.jpg" width="600" alt="Publicación en redes sociales - Prompt de fotografía de alimentos: hamburguesa de ternera macro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836442158268541)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7385)**
+
+---
+
+### No. 32: Publicación en redes sociales - Retrato de primer plano con pañuelo en la cabeza y joyas (referencia de imagen)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* que requiere una imagen subida para convertir al sujeto en un retrato de primer plano ultrarrealista. Detalla un maquillaje específico, un pañuelo en la cabeza con estampado blanco y negro decorado con monedas de oro, y joyas de oro gruesas, al tiempo que garantiza que se conserven los rasgos faciales originales.
+
+#### 📝 Prompt
+
+```
+Convierte la imagen subida en una mujer deslumbrante en un retrato de primer plano, sosteniendo un mechón de su cabello castaño ondulado frente a sus labios. Tiene unos cautivadores ojos gris-azulados, un maquillaje suave y glamuroso con sombra de ojos melocotón, pestañas largas, delineador atrevido, colorete rosado y labios mate de color melocotón-rosa. Lleva un pañuelo en la cabeza con estampado blanco y negro decorado con monedas y cadenas doradas colgantes. Unos pendientes largos de cadena dorada enmarcan su rostro. Lleva un anillo de oro grueso en el dedo, claramente visible ya que su mano está levantada cerca de su cara. El fondo es neutro, con tonos beige suavemente difuminados. Ultra-realista, detalle 8K, enfoque nítido en los ojos, textura de piel suave, iluminación cinematográfica. Las características faciales permanecen iguales.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057389_fwh6e0_G_Yi786XMAA9CiG.jpg" width="600" alt="Publicación en redes sociales - Retrato de primer plano con pañuelo en la cabeza y joyas (referencia de imagen) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836311484727440)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7389)**
+
+---
+
+### No. 33: Publicación en redes sociales - Foto realista con el doppelgänger de Minecraft de vóxeles
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Este es un *prompt* de generación de imágenes diseñado para crear una foto altamente realista de una persona de pie en un paisaje montañoso nevado, vistiendo una chaqueta acolchada gruesa. El elemento único es la inclusión de un personaje de vóxeles 3D de Minecraft de tamaño real de la misma persona de pie a su lado, que coincide perfectamente con el atuendo de la persona real. El *prompt* enfatiza la iluminación cinematográfica, la calidad 8K y un contraste entre los estilos artísticos fotorrealistas y de vóxeles limpios. Requiere explícitamente una imagen de referencia para preservar la identidad de la persona.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen de referencia adjunta para crear una foto realista de la misma persona, con la identidad perfectamente conservada y sin cambios faciales.
+La persona está de pie en un paisaje montañoso nevado, sin gafas de sol, vistiendo una chaqueta de plumas gruesa de {argument name="jacket color" default="color aleatorio"}.
+A su lado, se encuentra una versión del mismo personaje de Minecraft en 3D a tamaño real, hecha completamente de bloques (estilo vóxel), vistiendo exactamente la misma chaqueta de plumas del mismo {argument name="jacket color 2" default="color aleatorio"}, que coincide perfectamente con el atuendo real.
+La iluminación es cinematográfica y natural, con sombras y reflejos realistas.
+Alta resolución, calidad 8K.
+Estilo fotorrealista para la persona real, contrastado con un arte vóxel limpio para el personaje de Minecraft.
+Enfoque nítido, gradación de color profesional.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236046609_yambru_G_YixvHWEAEGdC1.jpg" width="600" alt="Publicación en redes sociales - Foto realista con el doppelgänger de Minecraft de vóxeles - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014836135130788042)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7370)**
+
+---
+
+### No. 34: Publicación en redes sociales - Prompt para retrato de estudio con chaqueta de cuero color cerceta
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para un retrato de estudio profesional en alta definición de un hombre elegante que lleva una chaqueta de cuero de carreras de color verde azulado vibrante y gafas de aviador a juego con cristales tintados en verde azulado. Enfatiza una iluminación cinematográfica con reflejos nítidos y un fondo sólido y limpio de color verde azulado.
+
+#### 📝 Prompt
+
+```
+Un retrato de estudio profesional de alta definición de un hombre elegante con cabello cuidado y barba de tres días. Viste una chaqueta de cuero de motociclista de un vibrante color {argument name="jacket color" default="teal"} y gafas de sol de aviador de primera calidad con lentes reflectantes tintadas en color {argument name="lens color" default="teal"}. La iluminación es cinematográfica con reflejos nítidos en su rostro y en la textura de la chaqueta. El fondo es de un color sólido y limpio {argument name="background color" default="teal"} que combina con la chaqueta. Ultra realista, resolución 8k, enfoque nítido, estilo de fotografía de moda, sin texto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055304_xphtwn_G_Yio-dXMAA-w63.jpg" width="600" alt="Publicación en redes sociales - Prompt para retrato de estudio con chaqueta de cuero color cerceta - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014835994646790366)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7386)**
+
+---
+
+### No. 35: Infografía / Visual Educativo - Plantilla de prompt para infografía de partes del cuerpo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una plantilla de prompt reutilizable para Nano Banana Pro diseñada para crear una imagen infográfica de una parte específica del cuerpo (por defecto, 'Ojo'). El prompt instruye a la IA para que combine una representación fotorrealista del objeto con superposiciones de anotaciones técnicas, utilizando dibujos lineales de tinta negra, etiquetas, medidas y diagramas esquemáticos sobre un fondo blanco puro, buscando una estética de manual de ingeniería educativa.
+
+#### 📝 Prompt
+
+```
+Crea una imagen infográfica de [{argument name="body part" default="Eye"}], combinando una fotografía realista o un render fotorrealista del objeto con superposiciones de anotaciones técnicas colocadas directamente encima.
+
+Utiliza dibujos lineales y texto en estilo tinta negra (aspecto de bolígrafo técnico / boceto arquitectónico) sobre un fondo de estudio blanco puro, incluyendo:
+• Etiquetas de componentes clave
+• Contornos de corte interno o vista explosionada
+• Medidas, dimensiones y marcadores de escala
+• Llamadas de materiales y cantidades
+• Flechas que indican función, fuerza o flujo (aire, sonido, potencia, presión)
+• Diagramas esquemáticos o seccionales simples cuando sea relevante
+
+Coloca el título [BODY PART] dentro de un cuadro de anotación técnica dibujado a mano en una esquina.
+
+Reglas de estilo y diseño:
+• El objeto real permanece claramente visible debajo de las anotaciones
+• Las anotaciones parecen bocetos, técnicas y arquitectónicas
+• Composición limpia con espacio negativo equilibrado
+• Ambiente educativo, de exposición de museo / manual de ingeniería
+
+Estilo visual:
+Estética de ilustración técnica mínima, líneas negras sobre imágenes realistas, sensación precisa pero ligeramente dibujada a mano.
+
+Paleta de colores:
+Fondo blanco, solo líneas de anotación y texto en negro. Sin colores.
+
+Salida:
+1080×1080, ultra nítido, optimizado para redes sociales, sin marca de agua.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050189_5px1mr_G_YaM8_W0AAX6Ox.jpg" width="600" alt="Infografía / Visual Educativo - Plantilla de prompt para infografía de partes del cuerpo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014826718733664702)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7374)**
+
+---
+
+### No. 36: Infografía / Visual Educativo - Visualización de la Percepción de IA (Nano Banana Pro)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un *prompt* utilizado para pedir a Nano Banana Pro que visualice su percepción del estilo de instrucción del usuario a lo largo del tiempo, lo que resulta en una imagen o diagrama.
+
+#### 📝 Prompt
+
+```
+Por favor, crea una imagen o diagrama que ilustre lo que has sentido sobre la forma en que te he dado instrucciones hasta ahora.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034469_y371dm_G_U5mezbsAA1060.jpg" width="600" alt="Infografía / Visual Educativo - Visualización de la Percepción de IA (Nano Banana Pro) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ベルベット（velvet404）](https://x.com/velvet404mv)
+- **Fuente:** [Twitter Post](https://x.com/velvet404mv/status/2014580055549345848)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7356)**
+
+---
+
+### No. 37: Infografía / Visual Educativo - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2191,19 +2548,19 @@ Iluminación de estudio suave y natural, textura minimalista o fondo degradado, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365945_udfdac_G_UwGembAAMhvYC.jpg" width="600" alt="Publicación en redes sociales - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236038509_lzpvtc_G_UwDe5bAAMnnjC.jpg" width="600" alt="Infografía / Visual Educativo - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365953_0bio7a_G_UwDe5bAAMnnjC.jpg" width="600" alt="Publicación en redes sociales - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236038496_j3vdbq_G_UwD2VXMAISyxA.jpg" width="600" alt="Infografía / Visual Educativo - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365955_gl1mud_G_UwD2VXMAISyxA.jpg" width="600" alt="Publicación en redes sociales - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 3">
+<img src="https://cms-assets.youmind.com/media/1769236038555_oqzsrn_G_UwGembAAMhvYC.jpg" width="600" alt="Infografía / Visual Educativo - Plantilla de ingeniero de prompts de IA para infografías de fotografía de alimentos - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -2217,955 +2574,7 @@ Iluminación de estudio suave y natural, textura minimalista o fondo degradado, 
 
 ---
 
-### No. 22: Publicación en redes sociales - Prompt de retrato de moda de Ana de Armas (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON detallado para generar un retrato de moda fotorrealista de Ana de Armas con un vestido de noche dorado metálico, en cuclillas en un elegante patio exterior, enfatizando una profundidad de campo reducida y un alto nivel de detalle.
-
-#### 📝 Prompt
-
-```
-Una mujer {argument name="Celebrity Name" default="Ana de Armas"} posando en un elegante patio exterior con arcos de piedra y escalones anchos al fondo. Está agachada, mirando por encima del hombro hacia la cámara con una expresión de confianza y picardía. Viste un deslumbrante vestido de noche dorado metálico con la espalda abierta, tirantes finos y aberturas laterales altas que caen hasta el suelo, combinado con tacones altos a juego. Su cabello ondulado está peinado de forma suelta con un accesorio decorativo dorado en un lado. Poca profundidad de campo suave, alto detalle. Relación 3.4
-
-JSON = Prompt
-
-{
-  "prompt_type": "photorealistic_fashion_portrait",
-  "subject": {
-    "identity": {
-      "entity_type": "human",
-      "gender": "female",
-      "public_figure": true,
-      "name": "Ana de Armas"
-    },
-    "pose": {
-      "body_position": "squat",
-      "height_level": "low",
-      "torso_orientation": "forward",
-      "head_orientation": "turned_back_over_shoulder"
-    },
-    "expression": {
-      "primary": "confident",
-      "secondary": "playful"
-    },
-    "eye_direction": "toward_camera"
-  },
-  "environment": {
-    "scene_type": "outdoor",
-    "location_style": "elegant_courtyard",
-    "architectural_features": {
-      "arches": {
-        "material": "stone",
-        "style": "classical"
-      },
-      "stairs": {
-        "type": "wide_steps",
-        "material": "stone"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "category": "evening_gown",
-      "color": "gold",
-      "finish": "metallic_shimmer",
-      "structure": {
-        "back": "open",
-        "straps": "thin",
-        "length": "floor_length",
-        "side_slits": "high"
-      }
-    },
-    "footwear": {
-      "type": "high_heels",
-      "color": "gold",
-      "match_with_outfit": true
-    }
-  },
-  "styling": {
-    "hair": {
-      "texture": "wavy",
-      "arrangement": "loose",
-      "accessories": {
-        "type": "hair_accessory",
-        "material": "gold",
-        "placement": "one_side"
-      }
-    }
-  },
-  "camera": {
-    "shot_type": "portrait",
-    "angle": "eye_level",
-    "framing": "medium_full_body",
-    "focus": {
-      "depth_of_field": "shallow",
-      "subject_focus": "sharp",
-      "background_blur": "soft"
-    }
-  },
-  "lighting": {
-    "quality": "soft",
-    "style": "natural",
-    "contrast": "moderate"
-  },
-  "rendering": {
-    "detail_level": "high",
-    "realism": "photorealistic",
-    "texture_emphasis": [
-      "fabric",
-      "skin",
-      "stone"
-    ]
-  },
-  "composition": {
-    "aspect_ratio": {
-      "width": 3,
-      "height": 4
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149392243_qdfrpe_G_Uz8z1XwAApHV3.jpg" width="600" alt="Publicación en redes sociales - Prompt de retrato de moda de Ana de Armas (JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393225_g36s7b_G_Uz8z7XEAAYY0D.jpg" width="600" alt="Publicación en redes sociales - Prompt de retrato de moda de Ana de Armas (JSON) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393227_ftetgx_G_Uz8z1XsAA9wak.jpg" width="600" alt="Publicación en redes sociales - Prompt de retrato de moda de Ana de Armas (JSON) - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Yaseen Khan Gul](https://x.com/YaseenK7212)
-- **Fuente:** [Twitter Post](https://x.com/YaseenK7212/status/2014573715837587486)
-- **Publicado:** 23 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7237)**
-
----
-
-### No. 23: Publicación en redes sociales - Prompt de Retrato Elegante y Lujoso para Nano Pro
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* fotorrealista y detallado para Nano Pro, diseñado para generar un retrato elegante y lujoso de una mujer joven. El *prompt* especifica mantener la fidelidad facial a una imagen de referencia, un estilismo detallado (cabello castaño largo y ondulado, maquillaje sofisticado), un atuendo específico (vestido de cuello alto color rojo vino, cinturón ancho negro) y un escenario cinematográfico dentro de una moderna habitación de hotel de lujo con iluminación suave y dramática, capturando una pose de autorretrato segura.
-
-#### 📝 Prompt
-
-```
-Fotorrealista, alta definición 8K, retrato de moda. Una mujer joven cuyas facciones son estrictamente consistentes con la imagen de referencia.
-
-Tiene {argument name="hair style" default="el pelo largo, ondulado y castaño"}, con un maquillaje impecable y exquisito, destacando un delineador de ojos impactante y un color de labios brillante.
-
-Viste un {argument name="attire" default="elegante vestido midi de cuello alto y manga larga color rojo vino"} con una falda plisada, combinado con un cinturón ancho negro con hebilla dorada, y delicados collares y pulseras de plata.
-
-Ambientada en una moderna habitación de hotel de lujo, la imagen incorpora sutilmente reflejos de espejo.
-
-La iluminación es suave y dramática, la postura de la modelo es segura, sosteniendo un teléfono como si se estuviera tomando una selfie. Gradación de color cinematográfica, detalles ultra altos, calidad de imagen nítida.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149363626_9y0n7c_G_UnwmSWsAAMOXo.jpg" width="600" alt="Publicación en redes sociales - Prompt de Retrato Elegante y Lujoso para Nano Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149364337_0yal0e_G_UnwmSWcAAbkVC.jpg" width="600" alt="Publicación en redes sociales - Prompt de Retrato Elegante y Lujoso para Nano Pro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [行者AI视频](https://x.com/joshesye)
-- **Fuente:** [Twitter Post](https://x.com/joshesye/status/2014560230773031355)
-- **Publicado:** 23 de enero de 2026
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7190)**
-
----
-
-### No. 24: Publicación en redes sociales - Retrato Editorial Indie Grunge Chic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* de retrato de moda editorial altamente específico, centrado en una estética cruda y melancólica. Describe a una mujer joven con un peinado *wolf-cut* despeinado, pecas naturales y una mirada etérea, vistiendo una chaqueta de cuero oscuro desgastada sobre una tela rosa transparente. El *prompt* enfatiza una iluminación interior natural y suave, texturas hiperdetalladas (la veta del cuero y los mechones de cabello), e incluye una nota para usar una imagen de referencia cargada para detalles específicos.
-
-#### 📝 Prompt
-
-```
-{
-  "main_prompt": "Retrato de moda editorial de una impresionante mujer joven con un peinado castaño desordenado y despeinado {argument name=\"hair style\" default=\"wolf-cut\"} y microflequillo corto y entrecortado, piel clara con pecas naturales en la nariz y las mejillas, ojos azul claro con una mirada profunda, melancólica y etérea, labios rojos apagados y brillantes, vistiendo una chaqueta {argument name=\"jacket material\" default=\"leather\"} de cuero marrón oscuro desgastado con detalles de cremalleras visibles sobre una tela rosa pastel suave y transparente drapeada alrededor del cuello, un elegante collar con colgante en forma de llave plateada, estilo de moda de cuello abierto, iluminación interior suave y natural con sombras delicadas, estética cruda, lente de 85mm, fotorrealista, grano de cuero e hilos de cabello hiperdetallados --ar 9:16 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "borroso, deforme, extremidades extra, anatomía deficiente, feo, sobreexpuesto, iluminación dura, sonriendo, luz diurna brillante, colores saturados, aspecto sintético, caricatura, boceto, mucho maquillaje, piel limpia",
-  "style_tags": ["indie grunge chic", "estética wolf cut", "textura de cuero desgastado", "editorial melancólico", "pecas naturales"],
-  "technical": {
-    "aspect_ratio": "9:16",
-    "lighting": "luz interior suave y natural",
-    "camera": "lente de retrato de 85mm"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "6.5",
-    "steps": "40",
-    "image_reference": "usar la referencia subida para el peinado wolf-cut exacto, el collar de llave, el patrón de pecas y la composición específica de la chaqueta de cuero oscuro sobre tela rosa"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149396475_f1g28p_G_UQ27FX0AAMHOP.jpg" width="600" alt="Publicación en redes sociales - Retrato Editorial Indie Grunge Chic - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Stark](https://x.com/katmanai)
-- **Fuente:** [Twitter Post](https://x.com/katmanai/status/2014534947445313895)
-- **Publicado:** 23 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7241)**
-
----
-
-### No. 25: Publicación en redes sociales - Retrato Cinematográfico Neon Noir
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una instrucción detallada para la generación de imágenes que crea un retrato cinematográfico y de alto contraste de una mujer joven con cabello plateado platino. El escenario es un interior oscuro y alicatado con superficies reflectantes y un espejo distorsionado. Especifica un "aspecto húmedo y brillante", iluminación de borde de neón mezclada con tungsteno cálido, grano de película vintage pesado, e incluye instrucciones negativas para asegurar la calidad y la adherencia al estilo.
-
-#### 📝 Prompt
-
-```
-{
-  "main_prompt": "Retrato cinematográfico de gran angular en un interior oscuro con azulejos y superficies reflectantes, mirando a un espejo distorsionado, una joven deslumbrante de unos 20 años con cabello ondulado {argument name=\"hair color\" default=\"plateado platino\"}, maquillaje dramático de alto contraste con un delineador de ojos oscuro y afilado y labios brillantes, una mirada intensa y enigmática entrecerrada, vistiendo un top de moda oscuro ajustado, tatuajes artísticos de líneas finas visibles en los brazos, un brillo atmosférico en la piel y el cabello que sugiere humedad, una tenue iluminación de neón azul-verde mezclada con reflejos cálidos de tungsteno, un fuerte grano de película vintage y viñeta, fotorrealista, textura de piel y mechones de cabello hiperdetallados --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "borroso, deforme, extremidades extra, anatomía mala, feo, sobreexpuesto, flash fuerte, piel pálida y seca, sonriendo, luz del día brillante, fondo desordenado, aspecto sintético, caricatura, boceto, fumando, cigarrillo",
-  "style_tags": ["retrato cinematográfico", "cabello plateado platino", "aspecto brillante y húmedo", "neon noir", "grano de película vintage", "distorsión de gran angular"],
-  "technical": {
-    "aspect_ratio": "3:4",
-    "lighting": "mezcla de tungsteno cálido + neón frío",
-    "camera": "lente gran angular con distorsión"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "7.0",
-    "steps": "40"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395836_hg97uy_G_UN8_rXYAABUzC.jpg" width="600" alt="Publicación en redes sociales - Retrato Cinematográfico Neon Noir - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Stark](https://x.com/katmanai)
-- **Fuente:** [Twitter Post](https://x.com/katmanai/status/2014531753646395630)
-- **Publicado:** 23 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7240)**
-
----
-
-### No. 26: Publicación en redes sociales - Prompt para la imagen de Turtle Talk Show
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt detallado que instruye a Nano Banana para generar una imagen que recuerde a la atracción "Turtle Talk with Crush" de Disney, con una tortuga marina levantando ambas aletas y diciendo: "¡Sois los mejores!".
-
-#### 📝 Prompt
-
-```
-Una imagen que recuerda a Turtle Talk de Disneyland, con una tortuga marina levantando ambas aletas y diciendo: "{argument name="line" default="¡Sois los mejores!"}"
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377984_er8wom_G_TdU3kbAAALuZ2.jpg" width="600" alt="Publicación en redes sociales - Prompt para la imagen de Turtle Talk Show - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Kanyamaさま](https://x.com/KarmanasaK)
-- **Fuente:** [Twitter Post](https://x.com/KarmanasaK/status/2014478301096734988)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7206)**
-
----
-
-### No. 27: Publicación en redes sociales - Flash Patch Realism Portrait Prompt (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt JSON altamente específico para generar un retrato con una estética de "realismo de parche de flash", que presenta a una mujer apoyada en un Lamborghini en un entorno de lujo ilícito a altas horas de la noche, detallando el atuendo, la pose y los efectos de iluminación de flash intenso.
-
-#### 📝 Prompt
-
-```
-{
-  "style": "elegante, liso, acabado efecto mojado",
-  "details": "metido detrás de las orejas, cayendo sobre los hombros, muy reflectante bajo el flash"
-},
-
-"face": {
-  "structure": "pómulos definidos, mandíbula fuerte",
-  "expression": "impasible, con una leve mirada arrogante y entrecerrada hacia la cámara",
-  "eyes": "marrón oscuro, mirada intensa, ligero reflejo de ojos rojos por el flash",
-  "mouth": "labios carnosos, nude y brillantes",
-  "makeup": "contorno marcado, iluminador potente que resalta bajo el flash, cejas definidas"
-}
-},
-
-"pose": {
-  "overall": "apoyado casualmente contra la puerta de un Lamborghini gris oscuro",
-
-  "lower_body": {
-    "legs": "cruzadas por los tobillos",
-    "stance": "peso apoyado en la carrocería del coche"
-  },
-
-  "torso": {
-    "angle": "ligeramente girado hacia la cámara",
-    "posture": "hombros relajados pero seguros"
-  },
-
-  "arms": {
-    "one_arm": "apoyado en el techo del coche",
-    "other_arm": "mano cerca del gancho de la cintura, sosteniendo un smartphone con una funda brillante"
-  },
-
-  "head": {
-    "tilt": "barbilla ligeramente levantada",
-    "gaze": "mirando directamente al objetivo"
-  }
-},
-
-"outfit": {
-  "clothing": {
-    "top": {
-      "type": "top corto estructurado estilo corsé",
-      "color": "satén negro",
-      "fit": "ajustado, push-up",
-      "details": "tejido reflectante bajo el flash, copas definidas"
-    },
-    "layer": {
-      "type": "chaqueta de cuero de carreras vintage extragrande",
-      "color": "negra con parches blancos y rojos",
-      "style": "abierta, cayendo de los hombros"
-    },
-    "bottom": {
-      "type": "pantalones cargo paracaídas holgados de tiro bajo",
-      "color": "carbón oscuro",
-      "fit": "pierna ancha, caídos en las caderas",
-      "details": "cordones colgando, ligero brillo en la tela"
-    },
-    "shoes": {
-      "type": "zapatillas de diseñador gruesas",
-      "details": "detalles reflectantes que captan la luz"
-    }
-  },
-  "accessories": {
-    "items": ["collar de cadena plateada gruesa", "pendientes de aro grandes"],
-    "details": "joyas metálicas que deslumbran bajo el flash"
-  }
-},
-
-"camera_perspective": {
-  "pov": "amigo tomando una instantánea rápida",
-  "angle": "ángulo ligeramente bajo apuntando hacia arriba",
-  "distance": "plano medio (de rodillas para arriba)",
-  "framing": "sujeto centrado, detalles del coche y hormigón llenando el encuadre",
-  "composition": "sensación cruda, sin posar, ligero desenfoque de movimiento en los bordes"
-},
-
-"vibe": {
-  "mood": "lujo ilícito, arrogante, noche",
-  "energy": "frialdad despreocupada, secretismo costoso",
-  "aesthetic": "realismo de flash, niños ricos del underground"
-},
-
-"rules": [
-  "debe parecer tomada con un iPhone con flash fuerte",
-  "enfatizar el brillo de la piel sudorosa/grasa",
-  "sin desnudez explícita",
-  "mantener una textura cruda y granulada",
-  "sombras realistas proyectadas por el flash"
-]
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391875_5gfykq_G_TPtOeW8AAZaVo.jpg" width="600" alt="Publicación en redes sociales - Flash Patch Realism Portrait Prompt (JSON) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Duru💝](https://x.com/Durusss13)
-- **Fuente:** [Twitter Post](https://x.com/Durusss13/status/2014464532115292632)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7236)**
-
----
-
-### No. 28: Publicación en redes sociales - Prompt de Retrato Editorial de Café Parisino con Bloqueo Facial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* de Nano Banana Pro altamente estructurado para generar un retrato editorial ultra fotorrealista de una mujer en un café parisino, vistiendo un vestido rojo con hombros descubiertos y sosteniendo una copa de vino. Este *prompt* destaca por su requisito explícito de una imagen de referencia para fijar la identidad facial del sujeto y preservar características faciales específicas, asegurando una alta autenticidad y realismo.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_cafe_editorial_portrait",
-      "version": "v1.0_PARIS_CAFE_RED_DRESS_WINE_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "es"
-    },
-    "references": {
-      "reference_image_face": {
-        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
-        "purpose": "FACE_IDENTITY_LOCK",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true,
-        "preserve_moles_freckles_scars": true,
-        "preserve_eye_shape": true,
-        "preserve_nose_shape": true,
-        "preserve_lip_shape": true,
-        "preserve_jawline": true
-      },
-      "reference_image_style": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "STYLE_COMPOSITION_ANCHOR",
-        "strict_lock": false,
-        "preserve_lighting": true,
-        "preserve_palette": true,
-        "preserve_vibe": true,
-        "preserve_composition": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_luxury_editorial_candid",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_golden_afternoon",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "retrato espontáneo de moda callejera de 50mm, poca profundidad de campo, perspectiva natural, enfoque en la cara y las manos",
-      "lighting_language": "luz solar de café de última hora de la tarde a través de la ventana, reflejos suaves, sombras delicadas, sin flash fuerte",
-      "authenticity_markers": "textura de piel realista, manos y dedos precisos, pliegues de tela realistas, sin brillo de IA, sin HDR, la identidad debe coincidir exactamente con la referencia"
-    },
-    "creative_prompt": {
-      "scene_summary": "Un retrato editorial espontáneo fotorrealista de una mujer adulta (rostro EXACTAMENTE igual a la referencia) sentada en una mesa de un clásico café parisino. Viste un elegante minivestido {argument name=\"dress color\" default=\"red\"} sin hombros con un detalle de lazo frontal y una falda de estructura suave (misma silueta que la foto de referencia). Sostiene una copa de vino con tallo llena de vino tinto, acercándola a sus labios como si fuera a beber. Sillas de café elegantes con patrón tejido rojo-verde, pequeña mesa redonda de mármol, reflejos cálidos en la ventana, sutil multitud detrás del cristal. Sin texto en ninguna parte.",
-      "wardrobe_and_style": {
-        "outfit": "minivestido rojo sin hombros con lazo en la parte delantera, corpiño ajustado, falda corta, ta"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381649_nqck24_G_THrxsXIAEY4QB.jpg" width="600" alt="Publicación en redes sociales - Prompt de Retrato Editorial de Café Parisino con Bloqueo Facial - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Özge Döner](https://x.com/astronomerozge1)
-- **Fuente:** [Twitter Post](https://x.com/astronomerozge1/status/2014454515249119357)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7212)**
-
----
-
-### No. 29: Publicación en redes sociales - Retrato melancólico con poca luz y cabello rizado voluminoso
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* fotorrealista muy detallado para generar un retrato íntimo y melancólico con poca luz de una mujer joven con cabello rizado castaño oscuro y voluminoso y piel aceitunada. El *prompt* especifica una iluminación compleja (luz de tungsteno cálida de contorno + luz de luna fría de relleno), vestuario (vestido escotado con cuello *halter*) y detalles estéticos de película para una atmósfera editorial cruda, sensual y de alta costura.
-
-#### 📝 Prompt
-
-```
-{
-  "main_prompt": "retrato íntimo y melancólico con poca luz de una despampanante joven de veintitantos años con piel cálida de oliva a bronceado medio y un brillo natural y húmedo, cabello rizado castaño oscuro largo y voluminoso con rizos definidos y apretados que caen salvajemente sobre los hombros y el pecho, rizos naturales ligeramente despeinados y voluminosos, maquillaje sutil y glamuroso con cejas arqueadas definidas, delineador de ojos alado oscuro, pestañas largas y tupidas, labios nude-rosa oscuro brillantes en un suave y seductor puchero, expresión soñadora y sensual con ojos entrecerrados mirando directamente a la cámara, cabeza ligeramente inclinada hacia abajo y hacia un lado, vistiendo un minivestido negro ajustado con cuello halter, escote pronunciado y aberturas laterales que revelan un abdomen y caderas tonificados, delicado collar y pulsera de cadena de oro visibles, posando en un dormitorio o habitación de hotel con poca luz por la noche, luz cálida de lámpara de tungsteno (~2800K) desde un lado creando una fuerte luz de borde dorada en los rizos del cabello, pómulos, clavícula y hombros, luz de luna fría o luz de ventana de relleno desde atrás añadiendo suaves sombras azul-púrpura, sutil flash de teléfono de relleno para los puntos de luz en los ojos, estética de cámara de película vintage con fugas de luz en las esquinas, ligero tinte de color naranja, bordes de viñeta, ligero grano de película y suave bokeh, fotorrealista, textura de piel ultra detallada con poros realistas, pecas e imperfecciones naturales, hebras de cabello rizado individuales captando luz cálida-fría con dispersión subsuperficial, gradación de color cinematográfica con tonos de piel dorados cálidos, sombras profundas y contraste tenue, tomada con iPhone en modo noche retrato con flash o película de 35 mm vintage, poca profundidad de campo enfocada en la cara y el cabello con un bokeh cremoso sobre un fondo oscuro, energía de dormitorio íntima y soñadora a altas horas de la noche, ambiente sensual crudo y sin filtros, editorial de alta costura que se encuentra con la estética de un selfie espontáneo --ar 3:4 --stylize 350 --v 6 --q 2",
-  "negative_prompt": "borroso, baja resolución, manos deformes, dedos extra, dedos fusionados, mala anatomía, cara mal dibujada, malas proporciones, extremidades extra, manos mutadas, feo, desfigurado, mosaico, fuera de encuadre, artefactos jpeg, firma, marca de agua, texto, error, mal recortado, peor calidad, baja calidad, caricatura, render 3d, piel de plástico, aspecto de muñeca, piel aerografiada, flash sobreexpuesto, sombras duras, piel pálida, exceso de maquillaje, cara de instagram, labios de pato, expresión sonriente y feliz, anciana, niña, hombre, toma de grupo, luz diurna brillante, habitación limpia y minimalista, sin rizos, cabello liso, colores desaturados, tonos azules fríos dominantes, aspecto sintético, cara simétrica perfecta, sin grano, filtro moderno de alta resolución, teléfono visible en el encuadre, primer plano desordenado, sin vestido halter",
-  "style_tags": [
-    "fotorrealista",
-    "retrato íntimo melancólico con poca luz",
-    "foco en cabello rizado oscuro voluminoso",
-    "mezcla de tungsteno cálido + luz de luna fría",
-    "ambiente nocturno sensual crudo",
-    "gradación cinematográfica cálida",
-    "grano de película y fugas de luz",
-    "expresión soñadora y sensual",
-    "editorial de alta costura se encuentra con lo espontáneo",
-    "vestido halter de escote pronunciado",
-    "luz de borde dorada en los rizos"
-  ],
-  "technical": {
-    "aspe": "3:4",
-    "stylize": 350,
-    "version": "6",
-    "quality": 2
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149389860_9szkid_G_S2wQMXAAAyrNu.jpg" width="600" alt="Publicación en redes sociales - Retrato melancólico con poca luz y cabello rizado voluminoso - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Stark](https://x.com/katmanai)
-- **Fuente:** [Twitter Post](https://x.com/katmanai/status/2014435876978274635)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7231)**
-
----
-
-### No. 30: Publicación en redes sociales - Prompt de Escena Romántica Cándida Ultra-Fotorrealista (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON altamente detallado diseñado para la herramienta Nano Banana Pro para generar una imagen fija de película ultrarrealista y espontánea de una pareja riendo al aire libre durante la hora dorada, centrándose en texturas naturales y microexpresiones auténticas.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_romance_outdoors",
-      "version": "v2.4_KADIKOY_GRASS_HUG_LAUGH_ULTRA_WARM_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "true_to_life_golden_hour_warm",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-
-    "global_rules": {
-      "camera_language": "equivalente a lente de 35mm, a la altura de los ojos, sensación de documental grabado a mano, encuadre imperfecto como si lo hubiera capturado un amigo, enfoque en los ojos y la risa cuando los rostros son visibles",
-      "lighting_language": "solo luz natural motivada (puesta de sol en la hora dorada + relleno de cielo), sin flash, sin aspecto de estudio",
-      "authenticity_markers": "textura de piel real, arrugas de tela reales, cabellos sueltos naturales, solo un ligero desenfoque de movimiento en el fondo, sin HDR, sin brillo de IA"
-    },
-
-    "creative_prompt": {
-      "scene_summary": "{argument name=\"Scene Summary\" default=\"Césped de la orilla de Kadıköy a la hora dorada. La pareja yace/se sienta en el césped muy juntos, riendo incontrolablemente por algo tonto. Es extremadamente íntimo pero totalmente inocente —pura alegría, como si un mejor amigo lo hubiera filmado.\"}",
-      
-      "subjects": {
-        "count": 2,
-        "description": "el mismo hombre y mujer jóvenes (veintitantos), normales y reales, no como modelos; rostros claramente visibles y nítidos",
-        "expression": "grandes risas genuinas, ojos ligeramente llorosos por la risa, sonrisas amplias y cálidas, microexpresiones preservadas",
-        "skin_and_face": "textura de piel natural, sin retoques de belleza, ligeras sombras bajo los ojos, imperfecciones reales"
-      },
-
-      "wardrobe_and_props": {
-        "female": "atuendo casual sencillo (suéter ligero o cárdigan + jeans o falda suave), maquillaje mínimo, cabello largo y ondulado ligeramente despeinado por el viento, sin logotipos",
-        "male": "camiseta lisa + jeans/chinos, ligeramente arrugados, sin logotipos",
-        "props": "dos vasos de papel (té/café) colocados en el césped, una bolsa de tela sencilla, un pequeño paquete de migas de simit o servilletas, sin marcas"
-      },
-
-      "micro_action": "se abrazan fuertemente mientras ríen; ella esconde su rostro brevemente en su hombro; él levanta la mano para apartarle el cabello de la cara; se miran y ríen de nuevo",
-      
-      "environment_details": {
-        "location": "ambiente de césped junto al mar / frente marítimo de Kadıköy",
-        "background": "horizonte marino suavemente desenfocado, siluetas de ferry distantes, algunas personas lejanas fuera de foco, gaviotas en el cielo, sin señales legibles",
-        "ground_details": "textura de césped real con pequeñas hojas y algunos parches irregulares, no limpiado para la escena"
-      },
-
-      "lighting": "luz solar cálida de la hora dorada con relleno de cielo suave, luz de contorno delicada en los bordes del cabello, halación sutil en los reflejos del sol, d"
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149390460_vbt2hi_G_S2rMQWAAAMFSY.jpg" width="600" alt="Publicación en redes sociales - Prompt de Escena Romántica Cándida Ultra-Fotorrealista (JSON) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Özge Döner](https://x.com/astronomerozge1)
-- **Fuente:** [Twitter Post](https://x.com/astronomerozge1/status/2014435800742842721)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7233)**
-
----
-
-### No. 31: Publicación en redes sociales - Retrato de belleza de alta costura hiperrealista
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt estructurado diseñado para generar un retrato en primerísimo plano e hiperrealista de una glamurosa joven influencer con cabello rubio dorado y piel bronceada por el sol, enfatizando la estética de belleza de alta costura, resolución 8k e iluminación cinematográfica en un lujoso entorno interior.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "mujer joven",
-      "age": "veintitantos",
-      "aesthetic": "influencer glamurosa, belleza de alta costura",
-      "expression": "segura, seductora, lista para la cámara",
-      "features": {
-        "face": "perfectamente simétrica, proporciones refinadas",
-        "skin": {
-          "tone": "bronceado besado por el sol",
-          "finish": "radiante, impecable"
-        },
-        "eyes": {
-          "color": "azul verdoso claro",
-          "makeup": "delineador sutil, sombra de ojos dorada, pestañas largas y voluminosas"
-        },
-        "brows": "cejas oscuras esculpidas",
-        "cheeks": "rubor melocotón cálido",
-        "lips": {
-          "color": "rosa nude",
-          "finish": "llenos, brillantes"
-        }
-      },
-      "hair": {
-        "color": "rubio dorado",
-        "length": "extremadamente largo",
-        "volume": "muy voluminoso",
-        "style": "ondas playeras sueltas que caen por los hombros y la espalda",
-        "texture": "mechones brillantes y saludables con sutiles reflejos"
-      },
-      "accessories": {
-        "earrings": "pequeños aros dorados",
-        "bracelet": "delicada pulsera dorada",
-        "nails": "uñas almendradas de color rosa nude claro, manicuradas"
-      },
-      "clothing": {
-        "top": "top oscuro sin mangas",
-        "details": "hombros descubiertos visibles"
-      }
-    },
-    "environment": {
-      "location": "apartamento interior moderno y lujoso",
-      "background": "interior limpio y elegante, suavemente desenfocado"
-    },
-    "lighting": {
-      "type": "luz natural suave combinada con iluminación cinematográfica",
-      "effect": "brillo realzado, reflejos suaves, sombras dimensionales"
-    },
-    "camera": {
-      "shot_type": "retrato selfie en primerísimo primer plano",
-      "focus": "enfoque nítido en la cara, ojos, labios y detalles del cabello"
-    },
-    "style": {
-      "genre": "retrato de belleza de alta costura",
-      "realism": "hiperrealista, fotorrealista",
-      "quality": "resolución 8k, detalles ultra nítidos"
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386490_poopfc_G_SlLH3WEAEFxSA.jpg" width="600" alt="Publicación en redes sociales - Retrato de belleza de alta costura hiperrealista - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386737_6v47fd_G_SlLLsXAAAg9CU.jpg" width="600" alt="Publicación en redes sociales - Retrato de belleza de alta costura hiperrealista - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386449_2gv6go_G_SlOwcW8AA9bPC.jpg" width="600" alt="Publicación en redes sociales - Retrato de belleza de alta costura hiperrealista - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149387391_ukuwu5_G_SlLICXsAEAVVo.jpg" width="600" alt="Publicación en redes sociales - Retrato de belleza de alta costura hiperrealista - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Fuente:** [Twitter Post](https://x.com/DavisonDabiri/status/2014416617132744847)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7224)**
-
----
-
-### No. 32: Publicación en redes sociales - Prompt de romance callejero cándido (Metro de Estambul)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt estructurado de Nano Banana Pro diseñado para generar una fotografía callejera ultrarrealista y espontánea que capture un micromomento de cuidado entre una pareja en la entrada del metro de Estambul, centrándose en texturas realistas, iluminación natural y una sensación documental.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_street_romance",
-      "version": "v2.0_METRO_ENTRANCE_SCARF_FIX_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_street_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "restrained_realism_city",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "equivalente a lente de 35mm, encuadre espontáneo a mano alzada, sensación documental",
-      "lighting_language": "luz diurna motivada de la ciudad + luces prácticas de la entrada del metro, sin flash",
-      "authenticity_markers": "energía real de la multitud, solo un ligero desenfoque de fondo, sin brillo de IA"
-    },
-    "creative_prompt": {
-      "scene_summary": "Entrada del metro de {argument name=\"location\" default=\"Estambul\"} en un día frío. La pareja se detiene. Él le arregla suavemente la bufanda. Un micromomento de cuidado en público.",
-      "subjects": {
-        "count": 2,
-        "description": "la misma pareja (veintitantos años), común, caras visibles y nítidas",
-        "expression": "concentración suave y calidez tímida, solo microexpresiones",
-        "skin_and_face": "textura real, sin retoques, ligeras sombras bajo los ojos"
-      },
-      "wardrobe_and_props": {
-        "clothing": "abrigos/chaquetas sencillos en tonos neutros, ligeramente arrugados, sin logotipos",
-        "props": "una tarjeta de metro en la mano, una correa de mochila, sin marcas"
-      },
-      "micro_action": "él le ajusta la bufanda; ella mira hacia arriba por un segundo; el contacto visual persiste y luego se rompe naturalmente",
-      "environment_details": {
-        "location": "ambiente de entrada del metro de Estambul",
-        "background": "escaleras hacia abajo, barandillas, viajeros borrosos, textura de la ciudad, sin texto legible"
-      },
-      "composition": "plano medio a la altura de los ojos, encuadre imperfecto, caras nítidas, fondo que se difumina naturalmente",
-      "mood": "cuidado silencioso, amor sin artificios"
-    },
-    "negative_prompt": [
-      "iluminación de estudio",
-      "flash",
-      "retoque de belleza",
-      "piel de plástico",
-      "caras de modelo",
-      "simetría perfecta",
-      "HDR",
-      "brillo de IA",
-      "texto",
-      "logo",
-      "marca de agua"
-    ]
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383360_7lyh3t_G_SbEd5W8AEfZSe.jpg" width="600" alt="Publicación en redes sociales - Prompt de romance callejero cándido (Metro de Estambul) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Özge Döner](https://x.com/astronomerozge1)
-- **Fuente:** [Twitter Post](https://x.com/astronomerozge1/status/2014405479473283467)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7216)**
-
----
-
-### No. 33: Publicación en redes sociales - Hombre en estudio de fitness - Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* estructurado para que Nano Banana Pro genere una imagen ultrarrealista de un hombre musculoso posando en un estudio de fitness con poca luz, enfatizando rasgos definidos, ropa específica y un reflejo en el espejo.
-
-#### 📝 Prompt
-
-```
-Asunto: Hombre posando en un gimnasio. Rasgos faciales: definidos
-Piel: clara
-Labios: carnosos
-Ojos: enfocados en la cámara
-Pelo: ondulado y despeinado
-Cuerpo: músculos definidos, venas prominentes, {argument name="weight" default="80 kg"}
-Vestimenta: torso desnudo, pantalones de chándal negros con {argument name="clothing print" default="estampado de escritura china"}
-
-Escenario: gimnasio, equipo negro, sin gente, iluminación tenue, iluminación de techo LED blanca, cartel "Your only limit is you" (luz LED blanca)
-
-Pose: Una mano tocando su abdomen, la otra detrás de su cabeza, seguro de sí mismo, espejo detrás de él
-
-Fotografía: 8k ultra-realista, relación de aspecto 3:4, fotografía de influencer, exposición ligeramente baja
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381627_4ghlwl_G_Sa76sWgAA33jA.jpg" width="600" alt="Publicación en redes sociales - Hombre en estudio de fitness - Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381615_xw1nco_G_Sa72KW8AAkKkb.jpg" width="600" alt="Publicación en redes sociales - Hombre en estudio de fitness - Prompt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381833_ov2929_G_Sa72YWMAAVfno.jpg" width="600" alt="Publicación en redes sociales - Hombre en estudio de fitness - Prompt - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Busra](https://x.com/promptLab0)
-- **Fuente:** [Twitter Post](https://x.com/promptLab0/status/2014405309272621113)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7213)**
-
----
-
-### No. 34: Infografía / Visual Educativo - Función de generación de documentos de diapositivas
+### No. 38: Infografía / Visual Educativo - Función de generación de documentos de diapositivas
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3216,7 +2625,7 @@ Solo tienes que introducir la información y pulsar el botón "Slide Document", 
 
 ---
 
-### No. 35: Infografía / Visual Educativo - Tablero de documentación del investigador de campo científico
+### No. 39: Infografía / Visual Educativo - Tablero de documentación del investigador de campo científico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3268,7 +2677,7 @@ Un tablero de documentación de un investigador de campo para {argument name="an
 
 ---
 
-### No. 36: Infografía / Visual Educativo - Prompt para diorama del universo de productos educativos
+### No. 40: Infografía / Visual Educativo - Prompt para diorama del universo de productos educativos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3341,7 +2750,7 @@ Objetivo: Diorama Educativo "Universo de la Materia Prima".
 
 ---
 
-### No. 37: Infografía / Visual Educativo - Ilusión óptica de movimiento ilusorio
+### No. 41: Infografía / Visual Educativo - Ilusión óptica de movimiento ilusorio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3380,7 +2789,7 @@ imagen de ilusión óptica movimiento ilusorio
 
 ---
 
-### No. 38: Infografía / Visual Educativo - Indicación de visualización médica cibernética
+### No. 42: Infografía / Visual Educativo - Indicación de visualización médica cibernética
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3433,7 +2842,7 @@ NUNCA incluyas texto, marcas de agua o superposiciones de líneas.
 
 ---
 
-### No. 39: Infografía / Visual Educativo - Plantilla de estilo de luminografía de rayos X blandos
+### No. 43: Infografía / Visual Educativo - Plantilla de estilo de luminografía de rayos X blandos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3481,7 +2890,7 @@ Una plantilla de prompt reutilizable para generar imágenes artísticas en blanc
 
 ---
 
-### No. 40: Infografía / Visual Educativo - Superposición de infografía técnica en una imagen de portátil
+### No. 44: Infografía / Visual Educativo - Superposición de infografía técnica en una imagen de portátil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3540,7 +2949,7 @@ Salida:
 
 ---
 
-### No. 41: Infografía / Visual Educativo - Prompt para la conversión de bocetos a arte lineal estilo CAD
+### No. 45: Infografía / Visual Educativo - Prompt para la conversión de bocetos a arte lineal estilo CAD
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3593,7 +3002,7 @@ Por favor, finaliza este boceto preliminar de la misma manera.
 
 ---
 
-### No. 42: Infografía / Visual Educativo - LLM Prompt: Análisis de la explotación de la IA y el efecto Matilda
+### No. 46: Infografía / Visual Educativo - LLM Prompt: Análisis de la explotación de la IA y el efecto Matilda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3631,21 +3040,18 @@ Por favor, recuerda firmar tu creación.
 
 ---
 
-### No. 43: Infografía / Visual Educativo - Estilo de infografía de ingeniería hardcore
+### No. 47: Miniatura de YouTube - Prompt de portada de revista usando la extensión Nano Banana
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Descripción
 
-Un conjunto conciso de instrucciones de Nano Banana Pro para crear infografías técnicas de bordes definidos. El proceso implica seleccionar un objeto, asegurar una claridad realista y superponer anotaciones de ingeniería dibujadas a mano en negro (etiquetas, dimensiones, materiales, secciones transversales, flechas) para lograr una textura de "Manual de Ingeniería + Placa de Exposición".
+Un usuario demuestra cómo usar una extensión de Chrome para Nano Banana para acceder fácilmente a varias indicaciones, incluida una indicación de "portada de revista", que utilizó para crear una imagen al estilo de "Revista Semanal", sugiriendo su utilidad para el diseño de redes sociales.
 
 #### 📝 Prompt
 
 ```
-1️⃣ Selecciona {argument name="object" default="OBJECT"}
-2️⃣ Mantén la imagen realista clara y visible
-3️⃣ Superpón anotaciones de ingeniería dibujadas a mano en negro (etiquetas, dimensiones, materiales, secciones transversales, flechas)
+Intenté crear un estilo de "Revista Semanal" usando el prompt de portada de revista.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3653,91 +3059,21 @@ Un conjunto conciso de instrucciones de Nano Banana Pro para crear infografías 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354692_uld7pr_G_FPIhZXoAAWNO9.jpg" width="600" alt="Infografía / Visual Educativo - Estilo de infografía de ingeniería hardcore - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354776_ixurg7_G_FOxEhWAAA-KpM.jpg" width="600" alt="Infografía / Visual Educativo - Estilo de infografía de ingeniería hardcore - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354694_575d12_G_FPHprXoAEw3bb.jpg" width="600" alt="Infografía / Visual Educativo - Estilo de infografía de ingeniería hardcore - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977355873_54ki9x_G_FPbWLXEAAeA6k.jpg" width="600" alt="Infografía / Visual Educativo - Estilo de infografía de ingeniería hardcore - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236039813_e8v3j0_G_T9M_TagAA54Xy.jpg" width="600" alt="Miniatura de YouTube - Prompt de portada de revista usando la extensión Nano Banana - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Dean](https://x.com/kuaijierun)
-- **Fuente:** [Twitter Post](https://x.com/kuaijierun/status/2013477972104147411)
-- **Publicado:** 20 de enero de 2026
-- **Idiomas:** zh
+- **Autor:** [るう l AI × Canva先生](https://x.com/roosanai)
+- **Fuente:** [Twitter Post](https://x.com/roosanai/status/2014513338823409825)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7006)**
-
----
-
-### No. 44: Infografía / Visual Educativo - Estudio anatómico renacentista de un flamenco
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt conciso para generar una imagen al estilo de un estudio anatómico renacentista. Especifica el sujeto como un flamenco de pie sobre una pata, representado con grafito fino y sombreado cruzado con tinta, con superposiciones de tejido transparente que muestran la estructura ósea y muscular, todo sobre papel pergamino amarillento. Incluye prompts negativos estrictos para asegurar que el sujeto se dibuje solo una vez y esté completo.
-
-#### 📝 Prompt
-
-```
-Composición: {argument name="subject" default="flamenco, de pie sobre 1 pata"}
-
-Estilo artístico: Un estudio anatómico renacentista
-- ilustrado con finas líneas de grafito y tinta entrecruzadas
-- con capas de papel de seda transparente que muestran huesos y músculos
-- sobre papel pergamino amarillento/grisáceo
-
-Evitar:
-- No dibujar el sujeto dos veces, *solo una vez*
-- No omitir partes del cuerpo, debe estar completo
-- Nada de texto
-
-Relación de aspecto: 3:4
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372426_bjk9g6_G_FG87xXEAAnMEK.jpg" width="600" alt="Infografía / Visual Educativo - Estudio anatómico renacentista de un flamenco - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372831_glcsw6_G7OgKJAaMAAUKqv.jpg" width="600" alt="Infografía / Visual Educativo - Estudio anatómico renacentista de un flamenco - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Brendan Graetz 🥷](https://x.com/bguiz)
-- **Fuente:** [Twitter Post](https://x.com/bguiz/status/2013469317548134903)
-- **Publicado:** 20 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7022)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7362)**
 
 ---
 
-### No. 45: Miniatura de YouTube - Generación de imágenes llamativas a partir de la transcripción de un video
+### No. 48: Miniatura de YouTube - Generación de imágenes llamativas a partir de la transcripción de un video
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3770,7 +3106,7 @@ Usa la transcripción de este video como prompt para que Nano Banana cree una im
 
 ---
 
-### No. 46: Miniatura de YouTube - Mahira Khan 2x2 Collage: Pregunta para la entrevista del pódcast
+### No. 49: Miniatura de YouTube - Mahira Khan 2x2 Collage: Pregunta para la entrevista del pódcast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3803,7 +3139,7 @@ Un simple prompt JSON para crear un collage de 2x2 de Mahira Khan basado en una 
 
 ---
 
-### No. 47: Miniatura de YouTube - Composición creativa para la promoción del botón "Seguir"
+### No. 50: Miniatura de YouTube - Composición creativa para la promoción del botón "Seguir"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3910,7 +3246,7 @@ Un *prompt* JSON complejo diseñado para una edición compuesta creativa, superp
 
 ---
 
-### No. 48: Miniatura de YouTube - Evolución de un prompt de IA multi-concepto
+### No. 51: Miniatura de YouTube - Evolución de un prompt de IA multi-concepto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4052,7 +3388,7 @@ Un prompt JSON complejo y de varias partes diseñado para generar tres imágenes
 
 ---
 
-### No. 49: Miniatura de YouTube - Prompt compuesto para promoción en redes sociales
+### No. 52: Miniatura de YouTube - Prompt compuesto para promoción en redes sociales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4147,7 +3483,7 @@ Un prompt de Nano Banana Pro altamente estructurado diseñado para crear una ima
 
 ---
 
-### No. 50: Miniatura de YouTube - Prompt Maestro para Promociones en la Arena de las Finales de la NBA
+### No. 53: Miniatura de YouTube - Prompt Maestro para Promociones en la Arena de las Finales de la NBA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4186,7 +3522,7 @@ Un "Master Prompt" desarrollado por un usuario para el modelo Nano Banana PRO, d
 
 ---
 
-### No. 51: Miniatura de YouTube - Foto de entrevista a celebridad estilo programa de entrevistas
+### No. 54: Miniatura de YouTube - Foto de entrevista a celebridad estilo programa de entrevistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4223,7 +3559,7 @@ Mantén una precisión facial del 100%, una textura de piel realista y una níti
 
 ---
 
-### No. 52: Miniatura de YouTube - Ana de Armas: Prompts para retratos en la alfombra roja (vestido amarillo y rojo)
+### No. 55: Miniatura de YouTube - Ana de Armas: Prompts para retratos en la alfombra roja (vestido amarillo y rojo)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4313,7 +3649,7 @@ Dos *prompts* JSON altamente detallados para generar retratos ultrarrealistas de
 
 ---
 
-### No. 53: Miniatura de YouTube - Prompt de imagen de portada estilo Dan
+### No. 56: Miniatura de YouTube - Prompt de imagen de portada estilo Dan
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4347,7 +3683,7 @@ Una imagen de portada muy detallada, profesional y visualmente impactante para u
 
 ---
 
-### No. 54: Miniatura de YouTube - Conversión de imagen a estilo Berserker
+### No. 57: Miniatura de YouTube - Conversión de imagen a estilo Berserker
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4381,7 +3717,7 @@ Un *prompt* utilizado con Nano Banana Pro para convertir una imagen existente a 
 
 ---
 
-### No. 55: Miniatura de YouTube - Conversión de imagen a estilo de vestido Berry Tart
+### No. 58: Miniatura de YouTube - Conversión de imagen a estilo de vestido Berry Tart
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4415,7 +3751,7 @@ Un *prompt* utilizado con Nano Banana Pro para convertir una imagen existente a 
 
 ---
 
-### No. 56: Miniatura de YouTube - Nano Banana Pro: Prompt para la generación de imágenes de encabezado de artículos de X
+### No. 59: Miniatura de YouTube - Nano Banana Pro: Prompt para la generación de imágenes de encabezado de artículos de X
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,7 +3793,7 @@ Título: {argument name="title" default="[Introducir título del artículo]"}
 
 ---
 
-### No. 57: Miniatura de YouTube - Retrato compuesto y gráfico de estadísticas de un jugador de críquet
+### No. 60: Miniatura de YouTube - Retrato compuesto y gráfico de estadísticas de un jugador de críquet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4491,7 +3827,7 @@ Un retrato compuesto dinámico del jugador de críquet indio {argument name="cri
 
 ---
 
-### No. 58: Miniatura de YouTube - Primer plano extremo de Sophie Turner como Lara Croft
+### No. 61: Miniatura de YouTube - Primer plano extremo de Sophie Turner como Lara Croft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4526,7 +3862,7 @@ La iluminación es de alto contraste y cinematográfica, con una luz clave níti
 
 ---
 
-### No. 59: Miniatura de YouTube - Miniatura de YouTube: Reacción a Trump vs. Chatham House
+### No. 62: Miniatura de YouTube - Miniatura de YouTube: Reacción a Trump vs. Chatham House
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4560,7 +3896,7 @@ Miniatura de YouTube de alto impacto. Estructura visual: Lado derecho: Un recort
 
 ---
 
-### No. 60: Miniatura de YouTube - Plantilla de Horario Semanal para VTubers
+### No. 63: Miniatura de YouTube - Plantilla de Horario Semanal para VTubers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4610,7 +3946,7 @@ Acabado:
 
 ---
 
-### No. 61: Miniatura de YouTube - Generador de Dioramas de Libros Pop-Up para Maestros Creadores de Atrezzo
+### No. 64: Miniatura de YouTube - Generador de Dioramas de Libros Pop-Up para Maestros Creadores de Atrezzo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4673,19 +4009,21 @@ Salida: UNA imagen, relación de aspecto 16:9, fotografía cinematográfica en m
 
 ---
 
-### No. 62: Miniatura de YouTube - Retrato cinematográfico de un astronauta indio
+### No. 65: Cómic / Guion gráfico - Nano Banana Pro: Prompts de escenas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Un prompt para crear un retrato cinematográfico ultra realista en 8K, centrado en un astronauta indio dentro de una nave espacial, mirando la Tierra, enfatizando el traje espacial de la ISRO, una iluminación azul suave y una expresión de asombro y orgullo nacional.
+Una lista de cuatro ángulos de cámara o tipos de plano específicos utilizados como *prompts* para generar imágenes de escenas con Nano Banana Pro, incluyendo primer plano extremo, ángulo bajo, a ras de suelo y vistas de espaldas a la cámara.
 
 #### 📝 Prompt
 
 ```
-Crea un retrato cinematográfico 8K ultrarrealista de un astronauta dentro de una nave espacial india, mirando por la ventana circular a la Tierra, con el subcontinente indio claramente visible. Viste un moderno traje espacial blanco y azafrán de la ISRO con el emblema de la bandera india en el hombro.
-La expresión es de asombro y orgullo silencioso. La suave luz azul de la Tierra ilumina el rostro, mientras que los complejos botones y pantallas de la cabina brillan tenuemente en el fondo. El ambiente es patriótico, futurista y profundamente inspirador. Mantén el rostro y los rasgos exactamente iguales.
+1. Primerísimo primer plano
+2. Ángulo bajo
+3. Vista a ras de suelo
+4. De espaldas a la cámara
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4693,94 +4031,50 @@ La expresión es de asombro y orgullo silencioso. La suave luz azul de la Tierra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768466938551_v2x8mq_G-iodCLbAAELb4l.jpg" width="600" alt="Miniatura de YouTube - Retrato cinematográfico de un astronauta indio - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236042895_azikpa_G_W2i5SXkAAtiug.jpg" width="600" alt="Cómic / Guion gráfico - Nano Banana Pro: Prompts de escenas - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042805_vpjoh4_G_W2i5fXwAA0_JA.jpg" width="600" alt="Cómic / Guion gráfico - Nano Banana Pro: Prompts de escenas - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042904_58jiwd_G_W2i5rXgAAllWR.jpg" width="600" alt="Cómic / Guion gráfico - Nano Banana Pro: Prompts de escenas - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236044088_j7re22_G_W3_PkXYAABKXS.jpg" width="600" alt="Cómic / Guion gráfico - Nano Banana Pro: Prompts de escenas - Image 4">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [simeon-sanai](https://x.com/Naiknelofar788)
-- **Fuente:** [Twitter Post](https://x.com/Naiknelofar788/status/2011042457748922442)
-- **Publicado:** 13 de enero de 2026
+- **Autor:** [Vlad Sydor](https://x.com/vlad_sydor)
+- **Fuente:** [Twitter Post](https://x.com/vlad_sydor/status/2014719544510579025)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=5828)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7366)**
 
 ---
 
-### No. 63: Miniatura de YouTube - Monje dando consejos de vida, fotograma de vídeo, prompt
+### No. 66: Cómic / Guion gráfico - Instrucciones para la transición de robot transformador a tanque
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Un prompt estructurado para generar una imagen fija de video 4K realista de un monje budista anciano dando consejos de vida en el patio de un templo tradicional de Asia Oriental. El prompt especifica la apariencia del monje, la vestimenta, los objetos (escritura, vela) y la configuración de la cámara (iPhone 17 Pro, vertical 9:16) para imitar la estética de un video viral de redes sociales.
+Un *prompt* para generar una imagen de un proceso de transición de 6 pasos, que muestre a un robot Transformer transformándose en un tanque. Especifica un diseño de 3x2 y requiere mantener el mismo estilo sin contornos.
 
 #### 📝 Prompt
 
 ```
-{
-  "scene_type": "patio_de_ensenanza_espiritual",
-  "setting": {
-    "location": "patio exterior de templo budista",
-    "background": {
-      "architecture": "templo tradicional de Asia Oriental con intrincadas tallas de madera, pilares rojos y tejas curvas",
-      "nature": "frondosos árboles verdes a la izquierda",
-      "ground": "pavimento de piedra gris",
-      "weather": "nublado a luz natural suave"
-    }
-  },
-  "subject": {
-    "type": "monje_anciano",
-    "position": "sentado con las piernas cruzadas en el suelo",
-    "pose": "sentado detrás de una mesa baja, hablando directamente a la cámara",
-    "expression": "serio, sabio e instructivo",
-    "appearance": {
-      "hair": {
-        "style": "afeitado/calvo",
-        "color": "ninguno"
-      },
-      "skin_features": "piel envejecida con arrugas profundas",
-      "eye_color": "oscuro"
-    },
-    "clothing": {
-      "top": "túnica interior gris claro con túnica exterior amarillo azafrán drapeada sobre el hombro",
-      "bottom": "tela de túnica amarillo azafrán cubriendo las piernas"
-    },
-    "accessories": []
-  },
-  "objects": [
-    {
-      "type": "mueble",
-      "name": "mesa_baja_de_madera",
-      "material": "madera clara",
-      "position": "primer plano frente al monje"
-    },
-    {
-      "type": "libro",
-      "name": "escritura_abierta_grande",
-      "state": "abierta con columnas de texto visibles",
-      "position": "sobre la mesa de madera"
-    },
-    {
-      "type": "fuente_de_luz",
-      "name": "vela",
-      "color": "cera blanca",
-      "state": "encendida con pequeña llama amarilla",
-      "position": "sobre la mesa junto al libro"
-    }
-  ],
-  "camera": {
-    "device": "iPhone 17 Pro",
-    "angle": "a_la_altura_de_los_ojos",
-    "framing": "plano_medio",
-    "orientation": "vertical_retrato_9:16",
-    "quality": "fotograma_de_video_4k, alta_definicion, enfoque_nitido"
-  },
-  "mood": "sereno, filosofico, didactico",
-  "lighting": "luz_natural_suave_y_difusa",
-  "image_style": "video_viral_de_redes_sociales, realista",
-  "activity": "monje_dando_consejos_de_vida"
-}
+Muestra el proceso de transición de este robot Transformer transformándose en un tanque en 6 (3 x 2) pasos. Usa el mismo estilo sin contornos.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -4788,21 +4082,95 @@ Un prompt estructurado para generar una imagen fija de video 4K realista de un m
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768319143757_f02xwd_G-cqsRYaAAA-kBL.jpg" width="600" alt="Miniatura de YouTube - Monje dando consejos de vida, fotograma de vídeo, prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236008713_nnsqsw_G_WLHZhXAAA_Bdr.jpg" width="600" alt="Cómic / Guion gráfico - Instrucciones para la transición de robot transformador a tanque - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Lore](https://x.com/l_w_lorenzen)
-- **Fuente:** [Twitter Post](https://x.com/l_w_lorenzen/status/2010622716475482593)
-- **Publicado:** 12 de enero de 2026
+- **Autor:** [Michael Rabone](https://x.com/michaelrabone)
+- **Fuente:** [Twitter Post](https://x.com/michaelrabone/status/2014669511236919698)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=5680)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7316)**
 
 ---
 
-### No. 64: Cómic / Guion gráfico - Caza de monstruos de una chica de secundaria al estilo OVA de los 2000
+### No. 67: Cómic / Guion gráfico - Imagen de colaboración de Wizardry x Genba Neko
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un usuario generó una imagen de colaboración "Wizardry x Genba Neko" (gato del sitio) usando Nano Banana, solicitando específicamente un "personaje gato-humano". La imagen resultante muestra al personaje haciendo una señal de "OK", lo que requirió cinco dedos y almohadillas en las patas, destacando una característica específica de la salida de la IA.
+
+#### 📝 Prompt
+
+```
+¡En respeto a la colaboración entre Wizardry y Genba Neko (el gato de la obra), reemplacé urgentemente el contenido de la publicación planificada!
+
+Como especifiqué un "personaje gato-humano", el tercer panel muestra cinco dedos + almohadillas, lo cual es típico de la salida de IA, pero dado que la pata de un gato no puede hacer una señal de "OK", ¡esto está bien!
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037149_gv12ts_G_WHtmfWgAAK70H.jpg" width="600" alt="Cómic / Guion gráfico - Imagen de colaboración de Wizardry x Genba Neko - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [pt2012](https://x.com/pt20121)
+- **Fuente:** [Twitter Post](https://x.com/pt20121/status/2014665641819832790)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7360)**
+
+---
+
+### No. 68: Cómic / Guion gráfico - Prompt para la creación de un guion gráfico visual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Una llamada a la acción para que los usuarios reciban un *prompt* diseñado para crear un guion gráfico visual de marca para la presentación de productos usando Nano Banana Pro, a menudo compartido bajo petición.
+
+#### 📝 Prompt
+
+```
+Crea un guion gráfico visual de marca para presentar tu producto con Nano Banana Pro:
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041775_9t1xug_G_Vo48obAAEqLl7.jpg" width="600" alt="Cómic / Guion gráfico - Prompt para la creación de un guion gráfico visual - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041776_p5rv2q_G-3QbGvX0AEEEEI.jpg" width="600" alt="Cómic / Guion gráfico - Prompt para la creación de un guion gráfico visual - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Tushar Pandey](https://x.com/TUSHARPAND0848)
+- **Fuente:** [Twitter Post](https://x.com/TUSHARPAND0848/status/2014631739239629253)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7365)**
+
+---
+
+### No. 69: Cómic / Guion gráfico - Caza de monstruos de una chica de secundaria al estilo OVA de los 2000
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4856,7 +4224,7 @@ La composición enfatiza la tensión justo antes de la batalla.
 
 ---
 
-### No. 65: Cómic / Guion gráfico - Prompt de maqueta de guion gráfico de producto de 9 paneles
+### No. 70: Cómic / Guion gráfico - Prompt de maqueta de guion gráfico de producto de 9 paneles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4927,7 +4295,7 @@ Una cuadrícula limpia de 3×3 sin bordes, sin texto, sin subtítulos y sin marc
 
 ---
 
-### No. 66: Cómic / Guion gráfico - Prompt detallado de guion gráfico para elementos visuales de marca
+### No. 71: Cómic / Guion gráfico - Prompt detallado de guion gráfico para elementos visuales de marca
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4999,7 +4367,7 @@ Una cuadrícula limpia de 3x3 sin bordes, texto, subtítulos o marcas de agua.
 
 ---
 
-### No. 67: Cómic / Guion gráfico - Generación de *prompts* para cuadrículas de guiones gráficos
+### No. 72: Cómic / Guion gráfico - Generación de *prompts* para cuadrículas de guiones gráficos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5032,7 +4400,7 @@ prompt para crear la cuadrícula del guion gráfico a continuación
 
 ---
 
-### No. 68: Cómic / Guion gráfico - Tema de manga con IA: prueba y error
+### No. 73: Cómic / Guion gráfico - Tema de manga con IA: prueba y error
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5065,7 +4433,7 @@ Intenté crear un manga. El tema es "Prueba y error".
 
 ---
 
-### No. 69: Cómic / Guion gráfico - Manga de 4 paneles de Gemini Nano Banana Pro: Episodio del control remoto
+### No. 74: Cómic / Guion gráfico - Manga de 4 paneles de Gemini Nano Banana Pro: Episodio del control remoto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5098,7 +4466,7 @@ Intenté crear un manga de 4 paneles sobre la vida diaria reciente. Episodio de 
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Guion gráfico de anuncio comercial para equipaje de lujo
+### No. 75: Cómic / Guion gráfico - Guion gráfico de anuncio comercial para equipaje de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5131,7 +4499,7 @@ Crea un guion gráfico adictivamente intrigante en una cuadrícula de 3x3 con 9 
 
 ---
 
-### No. 71: Cómic / Guion gráfico - Plantilla YAML para la creación de manga web usando Gemini (Nano Banana Pro)
+### No. 76: Cómic / Guion gráfico - Plantilla YAML para la creación de manga web usando Gemini (Nano Banana Pro)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5232,7 +4600,7 @@ Storyboard:
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Prompt para la creación de un manga de más de 10 páginas
+### No. 77: Cómic / Guion gráfico - Prompt para la creación de un manga de más de 10 páginas
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5265,7 +4633,7 @@ Prompt para crear un manga de más de 10 páginas usando nanobanana pro.
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Transforma tu foto en 4 estilos de personajes dinámicos
+### No. 78: Cómic / Guion gráfico - Transforma tu foto en 4 estilos de personajes dinámicos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5298,7 +4666,7 @@ Transforma la foto original en un conjunto dramático, fotorrealista y ultradeta
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Personas Reales Transformándose en Personajes de Cómic en una Ciudad Futurista
+### No. 79: Cómic / Guion gráfico - Personas Reales Transformándose en Personajes de Cómic en una Ciudad Futurista
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5331,7 +4699,7 @@ Hombres y mujeres reales son absorbidos por un cómic, se transforman en persona
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Sutil transformación de cíborg en el metro
+### No. 80: Cómic / Guion gráfico - Sutil transformación de cíborg en el metro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5439,7 +4807,7 @@ Un prompt muy detallado para generar una imagen cinematográfica ultra realista 
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Transferencia de estilo de novela gráfica de Frank Miller Sin City
+### No. 81: Cómic / Guion gráfico - Transferencia de estilo de novela gráfica de Frank Miller Sin City
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5472,7 +4840,7 @@ Los sujetos de la imagen subida, representados en un estilo de novela gráfica c
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Transformación de Selfie a Claymation
+### No. 82: Cómic / Guion gráfico - Transformación de Selfie a Claymation
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5511,7 +4879,7 @@ Un primer plano de un hombre con tijeras, animación de plastilina (claymation),
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Prompt de cuadrícula narrativa con estética de cine independiente
+### No. 83: Cómic / Guion gráfico - Prompt de cuadrícula narrativa con estética de cine independiente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5597,21 +4965,19 @@ Un *prompt* JSON complejo y estructurado, diseñado para generar una cuadrícula
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Comparación de la generación de escenas de combate
+### No. 84: Marketing de producto - Retrato cinematográfico de primer plano de un atleta de deportes de invierno
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Este es un *prompt* utilizado para generar una escena de combate, comparando la calidad de la salida entre GPT-image y Nano Banana Pro, usando el mismo *prompt* y la misma imagen de referencia.
+Un *prompt* para Nano Banana Pro diseñado para generar un retrato cinematográfico en primer plano hiperrealista de una atleta de deportes de invierno. El *prompt* especifica que la sujeto lleva gafas de nieve y un casco, con escarcha y cristales de hielo visibles, utilizando una dramática gradación de color azul-verde azulado y naranja, y enfatizando el detalle extremo, el enfoque nítido y un aspecto de póster deportivo profesional.
 
 #### 📝 Prompt
 
 ```
-Uso GPT-image para dibujar escenas de combate ( ´∀｀)
-Izquierda: GPT-image
-Derecha: nano banana pro
-Mismo prompt, misma imagen de referencia
+Un retrato cinematográfico en primer plano hiperrealista de una atleta de deportes de invierno, de perfil, con gafas de nieve y casco, expresión intensa y concentrada. Escarcha, cristales de hielo y partículas de nieve en las gafas y el rostro, aliento frío visible. {argument name="color grading" default="Azul-verde azulado y naranja"} etalonaje cinematográfico, iluminación suave dramática con poca profundidad de campo. Textura de piel ultradetallada, enfoque ocular nítido reflejado en las gafas, ambiente invernal melancólico, nevada en primer plano, alto contraste, aspecto de póster deportivo profesional, 8K, HDR, fotorrealista, fotografía cinematográfica, detalle extremo, calidad de estudio.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -5619,154 +4985,165 @@ Mismo prompt, misma imagen de referencia
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587307_p310qo_G-1AcEUacAAylS6.jpg" width="600" alt="Cómic / Guion gráfico - Comparación de la generación de escenas de combate - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587316_ack784_G-1AcEfbEAE_rQP.jpg" width="600" alt="Cómic / Guion gráfico - Comparación de la generación de escenas de combate - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236052022_38kier_G_YkhU_XsAA9Q-6.jpg" width="600" alt="Marketing de producto - Retrato cinematográfico de primer plano de un atleta de deportes de invierno - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [TomoHiko｜AI art](https://x.com/TomoHiko250220)
-- **Fuente:** [Twitter Post](https://x.com/TomoHiko250220/status/2012335464406299026)
-- **Publicado:** 17 de enero de 2026
-- **Idiomas:** ja
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014838051332100142)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6490)**
-
----
-
-### No. 80: Cómic / Guion gráfico - Negative Prompting para la generación de manga en NanoBanana Pro
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Una plantilla para "Artículos prohibidos" (negative prompts) específicamente diseñada para generar paneles de manga en NanoBanana Pro, asegurando el orden de lectura, el idioma y el formato correctos.
-
-#### 📝 Prompt
-
-```
-[Artículos prohibidos]
-- Se prohíbe la composición de lectura de izquierda a derecha y de abajo a arriba
-- Se prohíben los diálogos en inglés
-- Se prohíbe la escritura horizontal de diálogos
-- Se prohíben los monocromos, el blanco y negro y el arte lineal
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631214624_w9za9y_G-yIakbbwAA4iDd.jpg" width="600" alt="Cómic / Guion gráfico - Negative Prompting para la generación de manga en NanoBanana Pro - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [健太｜AI活用で個人ビジネスを仕組み化｜無在庫1000人超指導](https://x.com/kenta_business)
-- **Fuente:** [Twitter Post](https://x.com/kenta_business/status/2012133143843922078)
-- **Publicado:** 16 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6367)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7378)**
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Diorama en miniatura de LEGO del set de la película de terror 'La Monja'
+### No. 85: Marketing de producto - Prompt para retrato de estudio de hombre con estilo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Un *prompt* JSON creativo para generar una escena de diorama en miniatura de LEGO que represente el set de rodaje de la película de terror "La Monja". Incluye descripciones detalladas del interior gótico de piedra, el personaje de la monja LEGO y varios miembros del equipo de minifiguras LEGO (operador de cámara, micrófono de pértiga, director) interactuando con el equipo de filmación, todo ello renderizado con una iluminación cinematográfica dramática y de alto contraste.
+Un *prompt* para generar un retrato de estudio cinematográfico ultrarrealista de un hombre elegante y seguro de sí mismo con un traje azul marino a medida. Detalla accesorios como un reloj de pulsera de oro de lujo y gafas de sol de aviador oscuras, enfatizando una iluminación suave y cálida y un estilo de editorial de moda.
+
+#### 📝 Prompt
+
+```
+Un hombre elegante y seguro de sí mismo, vestido con un traje azul marino a medida y una camisa de vestir blanca impecable ligeramente desabotonada, ajustándose el puño. Tiene el cabello oscuro cuidadosamente peinado, una barba completa y bien cuidada, y lleva gafas de sol de aviador oscuras. En su muñeca izquierda se ve un reloj de pulsera de lujo dorado. Fotografía de estudio con iluminación suave y cálida, fondo degradado marrón liso, poca profundidad de campo, enfoque nítido, alto nivel de detalle, ambiente cinematográfico y elegante, estilo editorial de moda, ultrarrealista, calidad 4K.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053974_dzpxjs_G_YZ4W6X0AAAsdM.jpg" width="600" alt="Marketing de producto - Prompt para retrato de estudio de hombre con estilo - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014826355708272922)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7384)**
+
+---
+
+### No. 86: Marketing de producto - Retrato de moda ciberpunk con piel azul eléctrico
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Este es un prompt detallado de generación de imágenes para crear un retrato de moda futurista ultracontrastado y ultraestilizado. La modelo es una mujer con piel azul eléctrico, que lleva gafas de sol amarillas llamativas y un gorro naranja texturizado. El prompt especifica una estética ciberpunk de neón, iluminación de estudio, detalles hiperrealistas y enumera explícitamente prompts negativos para garantizar un aspecto editorial limpio y de alta calidad.
+
+#### 📝 Prompt
+
+```
+Retrato de moda futurista ultraestilizado de una mujer, tono de piel azul eléctrico, con atrevidas gafas de sol extragrandes de color {argument name="sunglasses color" default="amarillo"} con lentes {argument name="lens color" default="naranjas reflectantes"}, sombra de ojos naranja vibrante y pestañas largas y dramáticas, labios azul mate, expresión minimalista, cabeza ligeramente inclinada hacia arriba, con un gorro naranja texturizado. Paleta de colores de alto contraste (azul y naranja), estética ciberpunk de neón, iluminación de estudio, textura de piel suave, hiperrealista, enfoque ultra nítido, resolución 8K, fotografía de moda editorial, estilo de arte moderno, fondo limpio, iluminación cinematográfica, ambiente de moda de lujo.
+desenfoque, baja resolución, grano, ruido, distorsión, cara asimétrica, extremidades adicionales, marca de agua, texto, logotipo, sobreenfoque.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047762_4nv109_G_YZtE6WoAA3lhI.jpg" width="600" alt="Marketing de producto - Retrato de moda ciberpunk con piel azul eléctrico - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **Fuente:** [Twitter Post](https://x.com/brightcoding/status/2014826156831473981)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7371)**
+
+---
+
+### No. 87: Marketing de producto - Generación de Moodboard de Marca de Calidad Profesional para Diseñadores
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt sencillo y de alto nivel para Nano Banana Pro, diseñado para generar un moodboard de marca sofisticado y de calidad de diseñador. Se centra en conceptos abstractos como el diseño de cuadrícula, texturas táctiles, fotografía editorial y una paleta de colores premium apagados, buscando una estética profesional para una presentación interna.
+
+#### 📝 Prompt
+
+```
+Moodboard de marca curado para una marca de tecnología moderna.
+Diseño de cuadrícula equilibrado, texturas táctiles,
+referencias de fotografía editorial,
+paleta de colores premium apagados,
+composición centrada en la tipografía,
+elaborado como una presentación interna de un diseñador de marca sénior.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235982712_ekqbiv_G_I8ofcXYAAwpny.jpg" width="600" alt="Marketing de producto - Generación de Moodboard de Marca de Calidad Profesional para Diseñadores - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [SRKDAN](https://x.com/SRKDAN)
+- **Fuente:** [Twitter Post](https://x.com/SRKDAN/status/2014825721517244464)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7283)**
+
+---
+
+### No. 88: Marketing de producto - Editorial de Moda Hiperrealista en las Termas Romanas Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un *prompt* altamente detallado para generar una imagen editorial de moda de altísima gama de un sujeto en unas antiguas termas romanas, vistiendo un vestido dorado ceñido y mojado, con un tatuaje de serpiente, y enfatizando una expresión fría y dominante y una iluminación físicamente correcta.
 
 #### 📝 Prompt
 
 ```
 {
-  "scene_overview": {
-    "setting": "Interior gótico de piedra que se asemeja a un decorado de iglesia o catedral",
-    "environment_style": "Diorama en miniatura de LEGO",
-    "location_type": "Set de filmación / producción de cine detrás de cámaras",
-    "time_of_day": "Interior, iluminación controlada (ambiente cinematográfico nocturno)",
-    "atmosphere": "Cinemática, inquietante, teatral, controlada",
-    "mood": "Humor negro, espeluznante, juguetón, creativo",
-    "genre_influence": ["Terror", "Rodaje detrás de cámaras", "Fantasía"]
+  "prompt": "Foto de moda editorial hiperrealista de Ana de Armas en unas antiguas termas romanas, agua poco profunda, presencia dominante e imponente, expresión fría e intocable, vestido dorado mojado ceñido con escote en V profundo, tatuaje de serpiente en la pierna izquierda, objetivo de 85 mm, poca profundidad de campo, 3:4",
+  "style": "Fotografía de moda ultra-premium hiperrealista, realismo editorial cinematográfico, óptica natural, iluminación físicamente correcta, cero estilización, puramente fotográfico",
+  "aspect_ratio": "3:4",
+  "resolution": "8k",
+  "lighting": "Luz diurna suave, brillante y controlada, reflejos naturales, sombras suaves, sutiles reflejos del agua, exposición limpia",
+  "camera_angle": "Ligeramente por debajo del nivel del pecho, de medio-cerca a medio-cuerpo, objetivo de 85 mm, poca profundidad de campo",
+  "subject": {
+    "name": "{argument name=\"subject name\" default=\"Ana de Armas\"}",
+    "face": "Rasgos fríos, dominantes y simétricos, piel de porcelana con una sutil calidez",
+    "expression": "Calma depredadora, mirada directa y fija, sin sonrisa, labios cerrados y relajados, autoridad intocable",
+    "makeup": "Mínimo y esculpido, énfasis en la estructura de los ojos y los huesos",
+    "hair": "Largo y liso, raíces oscuras a puntas más claras, ligeramente húmedo, raya limpia",
+    "physique": "Femenino elegante y poderoso, postura fuerte y segura",
+    "skin": "Clara y luminosa, brillo húmedo realista en la parte inferior del cuerpo, tatuaje de serpiente detallado y envolvente en la pierna izquierda",
+    "outfit": "Híbrido de vestido de baño fino dorado con escote en V profundo y drapeado, mitad inferior empapada y ceñida, escote pronunciado",
+    "jewelry": "Pendientes de diamantes, collares finos de oro en capas, brazalete de oro",
+    "pose": "Tumbada con los codos en el agua poco profunda, una pierna doblada y otra extendida hacia adelante, torso ligeramente hacia atrás, caderas apoyadas, dominando el espacio"
   },
-  "primary_subject": {
-    "type": "Personaje de minifigura LEGO",
-    "role": "Monja / personaje de terror",
-    "appearance": {
-      "outfit": "Hábito de monja negro con cuello blanco",
-      "face": "Cara blanca pálida, ojos oscuros y hundidos, expresión inquietante",
-      "accessories": "Collar con crucifijo",
-      "pose": "De pie, mirando al frente"
-    },
-    "positioning": {
-      "location": "Centrada dentro de un gran arco de piedra",
-      "background": "Alcoba o cámara iluminada con un resplandor azul"
-    }
+  "environment": {
+    "location": "Antiguas termas romanas, columnas y arquitectura clásicas de piedra pálida",
+    "atmosphere": "Luz diurna suave y difusa, majestuosa pero secundaria al sujeto",
+    "background": "Estructuras clásicas de piedra suavemente difuminadas"
   },
-  "supporting_characters": {
-    "crew_members": [
-      {
-        "role": "Operador de cámara",
-        "object_interaction": "Operando una gran cámara de cine LEGO",
-        "position": "Parte delantera izquierda, sentado en un carro de cámara"
-      },
-      {
-        "role": "Operador de micrófono de pértiga",
-        "object_interaction": "Sosteniendo un micrófono de pértiga extendido hacia el sujeto",
-        "position": "Parte superior izquierda del primer plano"
-      },
-      {
-        "role": "Técnico de iluminación",
-        "object_interaction": "Sosteniendo un reflector de luz rectangular",
-        "position": "Lado derecho, elevado sobre un soporte"
-      },
-      {
-        "role": "Operador de claqueta",
-        "object_interaction": "Sosteniendo una claqueta",
-        "position": "Centro-derecha del primer plano"
-      },
-      {
-        "role": "Director / Supervisor de guion",
-        "object_interaction": "Sosteniendo un portapapeles y papeles",
-        "position": "Parte inferior derecha del primer plano"
-      }
-    ],
-    "style": "Todos los personajes son minifiguras LEGO con tono de piel amarillo y diferentes peinados"
-  },
-  "props_and_equipment": {
-    "film_equipment": [
-      "Cámara de cine LEGO",
-      "Carro de cámara sobre rieles",
-      "Micrófono de pértiga con paravientos peludo",
-      "Panel reflector de iluminación",
-      "Claqueta",
-      "Pantalla de monitor que muestra el personaje de la monja",
-      "Cables enrollados en el suelo"
-    ],
-    "architectural_elements": [
-      "Paredes de ladrillo de piedra",
-      "Gran puerta arqueada",
-      "Alcoba empotrada",
-      "Suelo de baldosas de piedra"
-    ]
-  },
-  "lighting": {
-    "primary_light": "Fuerte resplandor cian-azul detrás de la monja",
-    "secondary_lighting": "Iluminación de estudio neutra cálida sobre el equipo y el primer plano",
-    "contrast": "Alto contraste entre el fondo azul frío y los tonos cálidos del primer plano",
-    "style": "Iluminación cinematográfica, dramática, inspirada en el terror"
-  },
-  "color_palette": {
-    "dominant_colors": ["Gris oscuro", "Negro", "Azul cian"],
-    "accent_colors": ["Amarillo cálido ("]
+  "image_quality": {
+    "detail_level": "Micro-detalle de la piel hiperrealista, brillo húmedo natural, tatuaje detallado",
+    "overall_vibe": "Elegancia agresiva, superioridad peligrosa y tranquila, autoridad pura y confianza sexual"
   }
 }
 ```
@@ -5776,111 +5153,46 @@ Un *prompt* JSON creativo para generar una escena de diorama en miniatura de LEG
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631179842_bt4bpk_G-wvqjobQAIEqnQ.jpg" width="600" alt="Cómic / Guion gráfico - Diorama en miniatura de LEGO del set de la película de terror 'La Monja' - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Chandan Singh](https://x.com/cbsingh_oo3)
-- **Fuente:** [Twitter Post](https://x.com/cbsingh_oo3/status/2012035545812385829)
-- **Publicado:** 16 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6323)**
-
----
-
-### No. 82: Cómic / Guion gráfico - Intento de cuadrícula de diferencias de expresión de heroínas
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un *prompt* en japonés que intenta usar Nano Banana Pro para generar una cuadrícula de 16 paneles mostrando diferentes expresiones faciales (diferencias de expresión) de una heroína, basándose en una imagen de referencia. El *prompt* especifica que el panel superior izquierdo debe ser la imagen original, y los 15 paneles restantes deben mostrar variaciones manteniendo el estilo artístico, similar a la funcionalidad de pseudo-referencia en modelos anteriores.
-
-#### 📝 Prompt
-
-```
-Crea diferentes expresiones para la heroína. Muéstralas en una pantalla de 16 paneles. El panel superior izquierdo debe ser la imagen original tal cual. Los 15 paneles restantes deben mostrar variaciones de diferentes expresiones.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877373_9olwvv_G-rYHaibQAEAX1W.jpg" width="600" alt="Cómic / Guion gráfico - Intento de cuadrícula de diferencias de expresión de heroínas - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236022995_yfpu5p_G_YNWuFXIAAuKiq.jpg" width="600" alt="Marketing de producto - Editorial de Moda Hiperrealista en las Termas Romanas Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877331_a78rtk_G-rYOXja4AA4LhO.jpg" width="600" alt="Cómic / Guion gráfico - Intento de cuadrícula de diferencias de expresión de heroínas - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236022667_7xe4o1_G_YNWlUXYAA7FSE.jpg" width="600" alt="Marketing de producto - Editorial de Moda Hiperrealista en las Termas Romanas Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022869_c7pqle_G_YNWruWUAEyfhl.jpg" width="600" alt="Marketing de producto - Editorial de Moda Hiperrealista en las Termas Romanas Prompt - Image 3">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [SenY](https://x.com/YuuriAmemiya)
-- **Fuente:** [Twitter Post](https://x.com/YuuriAmemiya/status/2011658251960721685)
-- **Publicado:** 15 de enero de 2026
-- **Idiomas:** ja
+- **Autor:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Fuente:** [Twitter Post](https://x.com/KeorUnreal/status/2014812579600662753)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6228)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7337)**
 
 ---
 
-### No. 83: Marketing de producto - Prompt de retrato de estudio dramático y heroico (JSON)
+### No. 89: Marketing de producto - Foto espontánea estilo paparazzi de una mujer en Nueva York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* JSON altamente estructurado para generar un retrato de estudio heroico y dramático con iluminación naranja-rojiza saturada y alto contraste (claroscuro), que requiere la preservación crítica de los rasgos faciales y la vestimenta del sujeto a partir de una foto de referencia.
+Un prompt detallado para generar una toma de cuerpo completo fotorrealista, espontánea y estilo paparazzi de una mujer joven (parecida a Anya Taylor Joy) caminando por una concurrida acera de la ciudad de Nueva York, especificando su atuendo (crop top con texto, minifalda de cuero, botas hasta la rodilla) y los elementos del fondo urbano y crudo.
 
 #### 📝 Prompt
 
 ```
 {
-  "meta": {
-    "title": "Retrato de estudio dramático y heroico",
-    "role": "Fotógrafo de talla mundial especializado en retratos editoriales",
-    "aesthetic": "Iluminación de estudio dramática y saturada con una sensación heroica"
-  },
-  "constraints": {
-    "identity_anchor": {
-      "source": "FOTO DE REFERENCIA ADJUNTA",
-      "strictness": "Crítica",
-      "instruction": "Preservar perfectamente las características faciales exactas, el tono de piel, el peinado y el parecido natural sin cambios."
-    },
-    "clothing_anchor": {
-      "source": "EXACTAMENTE COMO EN LA FOTO DE REFERENCIA",
-      "strictness": "Crítica",
-      "instruction": "El estilo, el color, el material y el ajuste deben corresponder completamente con el original sin estilización."
-    }
-  },
-  "subject_details": {
-    "expression": "Serio, tenso, concentrado",
-    "gaze": "Dirigido lejos de la cámara, hacia el espacio superior",
-    "universality": "Iluminación y ángulo aplicables independientemente del género"
-  },
-  "composition": {
-    "background": "Fondo liso saturado {argument name=\"Background Color\" default=\"orange-red\"}, degradados intensos y suaves, sin patrones, atmósfera 'cálida'",
-    "camera_angle": "Ángulo bajo (tomado de abajo hacia arriba) para crear dominancia",
-    "framing": "Primer plano medio, énfasis en la cara y los hombros"
-  },
-  "lighting": {
-    "palette": "Naranjas brillantes y tonos rojos intensos dominantes",
-    "key_light": "Fuente direccional fuerte, sombras dramáticas profundas (claroscuro), enfatizando la estructura facial",
-    "backlight": "Potente luz de contorno expresiva o halo de color que separa al sujeto del fondo",
-    "mood": "Misterioso, tenso, alto contraste"
-  },
-  "technical_specs": {
-    "style": "Fotorrealismo, alto detalle",
-    "focus": "Enfoque nítido en la cara frente a un fondo de degradado suave",
-    "texture_quality": "Preservar los poros naturales y la textura de la piel"
-  },
-  "combined_prompt_text": "Retrato editorial de talla mundial, iluminación de estudio dramática, sensación heroica. [IDENTIDAD DE LA FOTO DE REFERENCIA PRESERVADA]: Características faciales exactas, tono de piel, peinado. [ROPA EXACTAMENTE IGUAL]: Sin cambios en el ajuste o el material. Expresión: seria, tensa, concentrada, mirando hacia arriba y lejos. Fondo: Naranja-rojo sólido saturado, degradados intensos y suaves, atmósfera cálida. Ángulo de la cámara: Ángulo bajo tomado desde abajo para dominancia. Encuadre: Primer plano medio. Iluminación: Paleta de naranjas brillantes y rojos intensos, luz clave de claroscuro direccional fuerte, potente luz de contorno que separa al sujeto del fondo. Técnica: Fotorrealista, alto detalle, enfoque nítido en la cara, textura y poros naturales de la piel."
+  "prompt": "Una toma fotorrealista espontánea, estilo paparazzi, de cuerpo entero de una mujer joven con cabello largo, liso y rubio platino, caminando por una concurrida acera de la ciudad de Nueva York. Viste un crop top blanco ajustado con el texto '{argument name=\"shirt text\" default=\"I <3 COWBOYS\"}' en una fuente rosa brillante, una minifalda corta de cuero negro y botas negras hasta la rodilla. Lleva gafas de sol oscuras de ojo de gato y agarra un bolso negro y un teléfono. El fondo presenta un paisaje urbano típico que incluye andamios de construcción, una camioneta de reparto blanca, un cubo de basura y peatones borrosos, fotografiado con luz natural y textura de alta resolución."
 }
 ```
 
@@ -5889,164 +5201,114 @@ Un *prompt* JSON altamente estructurado para generar un retrato de estudio heroi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393910_5tmt5z_G_U227dWAAAtzmu.jpg" width="600" alt="Marketing de producto - Prompt de retrato de estudio dramático y heroico (JSON) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236015549_68ope1_G_YLLHOXMAAawSQ.jpg" width="600" alt="Marketing de producto - Foto espontánea estilo paparazzi de una mujer en Nueva York - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149394137_4f0bt5_G_U227hW4AAt5g0.jpg" width="600" alt="Marketing de producto - Prompt de retrato de estudio dramático y heroico (JSON) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236015432_u98lsv_G_YLLHQXUAAtZRD.jpg" width="600" alt="Marketing de producto - Foto espontánea estilo paparazzi de una mujer en Nueva York - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395002_se9oog_G_U227eWMAE4UIl.jpg" width="600" alt="Marketing de producto - Prompt de retrato de estudio dramático y heroico (JSON) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393956_fx7yl0_G_U227gXYAAWGwr.jpg" width="600" alt="Marketing de producto - Prompt de retrato de estudio dramático y heroico (JSON) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236015528_wxq254_G_YM5CVW0AE3iWV.jpg" width="600" alt="Marketing de producto - Foto espontánea estilo paparazzi de una mujer en Nueva York - Image 3">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Lex](https://x.com/lexx_aura)
-- **Fuente:** [Twitter Post](https://x.com/lexx_aura/status/2014576740492869761)
+- **Autor:** [jennieee:3](https://x.com/jenniebae_ai)
+- **Fuente:** [Twitter Post](https://x.com/jenniebae_ai/status/2014812283508011295)
 - **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7238)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7327)**
 
 ---
 
-### No. 84: Marketing de producto - Representación de Conceptos Arquitectónicos: Del Boceto al Fotorrealismo
+### No. 90: Marketing de producto - Retrato editorial de moda en un sofá moderno Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* muy detallado para generar una representación de concepto arquitectónico de un escaparate de cafetería moderna. El concepto central es fusionar la estética de un boceto técnico limpio (líneas de lápiz, sombreado, anotaciones) con un fotorrealismo de alta gama. Especifica la composición (fachada simétrica, ventana con marco negro), detalles interiores (iluminación cálida, plantas, mostrador) y elementos exteriores (lámpara, cartel de sándwich), enfatizando el contraste entre las líneas monocromáticas del boceto y los acentos de color selectivos.
-
-#### 📝 Prompt
-
-```
-"Representación de un concepto arquitectónico de la fachada de una cafetería moderna, ultradetallada, que combina un boceto técnico limpio con un fotorrealismo de alta gama. La composición presenta una ventana y una puerta de cristal enmarcadas en {argument name="window frame color" default="negro"} perfectamente simétricas, insertadas en una impecable fachada blanca minimalista con una textura sutil. A través de la ventana central, se vislumbra un interior de cafetería cálidamente iluminado y acogedor, con suaves lámparas colgantes, exuberantes plantas verdes, un mostrador de madera compacto, algunos taburetes y toques de personas difuminadas en el fondo para dar una sensación de vida. Alrededor de la ventana, delicadas líneas de boceto a lápiz, marcas de dimensión, sombreados, cuadrículas de construcción y pequeñas anotaciones arquitectónicas escritas a mano se superponen en la pared y el plano del suelo, fusionando a la perfección la estética del dibujo con la realidad terminada. Añade detalles exteriores realistas como una pequeña lámpara de metal negro centrada sobre el arco o el dintel, un cartel de caballete cuidadosamente diseñado en la acera con una tenue escritura de tiza, y dos plantas en maceta de buen gusto flanqueando la entrada en maceteros modernos y sencillos. Enfatiza un contraste equilibrado entre los nítidos contornos monocromáticos del boceto y los acentos de color selectivos y refinados: una cálida iluminación ambiental amarilla en el interior, un único póster amarillo llamativo en la ventana, follaje verde natural y sombras suaves y direccionales en el pavimento. El ambiente general es elegante, creativo y conceptual, evocando una visualización arquitectónica de alta gama que parece pasar gradualmente de las líneas del plano en los bordes a un realismo fotográfico completamente realizado en el centro."
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398050_z57bix_G_TVR_IX0AAxOw1.jpg" width="600" alt="Marketing de producto - Representación de Conceptos Arquitectónicos: Del Boceto al Fotorrealismo - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [FutureToolsAI](https://x.com/FutureToolsAI)
-- **Fuente:** [Twitter Post](https://x.com/FutureToolsAI/status/2014473439164104858)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7242)**
-
----
-
-### No. 85: Marketing de producto - Ana de Armas: Retrato Urbano en Cuclillas con Bloqueo de Identidad
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON altamente específico para generar un retrato cinematográfico ultrarrealista de Ana de Armas en cuclillas dentro de un estacionamiento urbano. Fundamentalmente, este prompt utiliza reglas de "identity lock" y "pose lock", lo que requiere que la IA se adhiera estrictamente a imágenes de referencia externas para la cara, el cabello, la pose, la escena y la iluminación, mientras aplica un atuendo de moda urbana moderna.
+Un prompt JSON detallado para generar un retrato editorial de moda fotorrealista y de ultra alta resolución. Presenta a una mujer elegante sentada en un sofá moderno de color gris claro, vistiendo un minivestido de tartán rojo, un blazer negro y medias negras transparentes. El prompt especifica una toma de cuerpo completo desde un ángulo alto con iluminación de estudio suave, enfatizando el alto detalle y el enfoque nítido, al tiempo que requiere una estricta preservación de la identidad facial a partir de una imagen de referencia.
 
 #### 📝 Prompt
 
 ```
 {
-  "scene_description": {
-    "environment": "Estacionamiento cubierto, suelo de hormigón, tuberías industriales en el techo, columnas, arquitectura de infraestructura urbana",
-    "background": "Amplia y vacía zona de estacionamiento, profundidad en perspectiva, atmósfera industrial",
-    "floor": "Suelo de asfalto/hormigón, textura natural, ligeros reflejos",
-    "mood": "urbano, cinematográfico, minimalista, moderno"
+  "description": "Una mujer adulta elegante sentada en un sofá moderno gris claro en una sala de estar contemporánea, vistiendo un minivestido {argument name=\"dress pattern\" default=\"red tartan\"}, un blazer negro, medias negras transparentes y tacones de aguja negros. La pose es relajada y elegante con las piernas extendidas y cruzadas, un brazo apoyado en el respaldo del sofá y la otra mano en el muslo. El ambiente es minimalista con cortinas grises, una alfombra beige, un reloj de mesa retro rojo y una lámpara de mesa de latón en el fondo. Iluminación de estudio suave y natural, estilo de fotografía de moda editorial, alto detalle, enfoque nítido.",
+  
+  "face_reference": "Usar la imagen de referencia subida solo para la cara, no modificar la estructura facial ni la identidad.",
+  
+  "camera": {
+    "angle": "ángulo alto ligeramente inclinado",
+    "framing": "retrato de cuerpo entero",
+    "lens": "equivalente a 35mm-50mm",
+    "depth_of_field": "poca a media, fondo ligeramente borroso"
   },
-  "subject": {
-    "gender": "femenino",
-    "identity_source": "reference_1",
-    "identity_lock": {
-      "face": true,
-      "hair_color": true,
-      "hair_texture": true,
-      "hair_style": true,
-      "hair_density": true,
-      "hairline": true
+  
+  "lighting": {
+    "type": "iluminación de estudio suave",
+    "mood": "luz natural diurna, bajo contraste",
+    "shadows": "sombras suaves, sin iluminación dura"
+  },
+  
+  "clothing": {
+    "dress": {
+      "color": "rojo",
+      "pattern": "tartán a cuadros con líneas blancas y negras",
+      "length": "mini",
+      "fit": "ajustado, ceñido al cuerpo"
     },
-    "pose": {
-      "body_position": "Mujer en cuclillas (posición de sentadilla), talones en el suelo, rodillas dobladas",
-      "posture": "Postura de sentadilla equilibrada y estética",
-      "head_pose": "Cabeza ligeramente inclinada hacia un lado",
-      "gaze": "Contacto visual directo con la cámara",
-      "expression": "Expresión facial tranquila, serena, ligeramente misteriosa"
+    "blazer": {
+      "color": "negro",
+      "style": "entallado, de un solo botón"
     },
-    "hands": {
-      "hand_position": "Una mano apoyada en la barbilla, la otra mano en posición relajada"
+    "tights": {
+      "color": "negro",
+      "type": "transparentes"
+    },
+    "shoes": {
+      "type": "tacones de aguja",
+      "color": "negro",
+      "toe": "puntiagudos",
+      "detail": "panel de puntera ligeramente transparente"
     }
   },
-  "outfit": {
-    "top": "Sudadera extragrande de color claro",
-    "bottom": "Falda corta / minifalda ({argument name=\"skirt color\" default=\"tono caqui\"})",
-    "bag": "Bolso de hombro ({argument name=\"bag color\" default=\"Rojo\"}), correa cruzada, diseño moderno",
-    "shoes": "Sandalias de tacón alto ({argument name=\"shoe color\" default=\"Rojo\"})",
-    "style": "chic urbano, moda callejera moderna",
-    "fabric_detail": "texturas de telas naturales, superficies mate"
-  },
-  "composition": {
-    "framing": "Encuadre vertical",
-    "camera_angle": "Perspectiva ligeramente en contrapicado",
-    "lens": "Perspectiva natural de 50mm",
-    "depth_of_field": "Nitidez de rango medio, fondo ligeramente borroso",
-    "focus": "Mujer como enfoque principal, profundidad de fondo cinematográfica"
-  },
-  "lighting": {
-    "main_light": "Luz frontal suave",
-    "ambient_light": "Iluminación artificial natural dentro del estacionamiento",
-    "shadow": "Sombras suaves",
-    "mood": "iluminación urbana cinematográfica"
-  },
-  "style": {
-    "realism": "ultra realista",
-    "texture": "texturas de alto detalle",
-    "color_grading": "etalonaje cinematográfico",
-    "contrast": "contraste medio a alto",
-    "vibe": "urbano, estético, moderno, editorial"
-  },
-  "rules": {
-    "identity": "La cara y el cabello deben tomarse exactamente de reference_1",
-    "pose_lock": "La pose debe ser exactamente la misma que en reference_2",
-    "scene_lock": "La ubicación, el ángulo, la iluminación y la composición deben conservarse exactamente como en reference_2",
-    "no_changes": [
-      "el color del cabello no debe cambiar",
-      "la forma del cabello no debe cambiar",
-      "la textura del cabello no debe cambiar",
-      "la pose no debe cambiar",
-      "el ángulo de la cámara no debe cambiar",
-      "la configuración de la iluminación no debe cambiar",
-      "la ubicación no debe cambiar",
-      "la composición no debe cambiar"
+  
+  "environment": {
+    "location": "sala de estar moderna",
+    "sofa": "sofá de tela gris claro",
+    "curtains": "grises",
+    "floor": "alfombra beige",
+    "props": [
+      "reloj de mesa retro rojo",
+      "lámpara de mesa de latón con pantalla blanca"
     ]
   },
-  "quality": {
-    "resolution": "8K",
-    "detail_level": "detalle ultra alto",
-    "photorealism": true
+  "style": {
+    "genre": "fotografía editorial de moda",
+    "quality": "resolución ultra alta, detalle 8k",
+    "realism": "fotorrealista",
+    "noise": "bajo",
+    "sharpness": "alto"
   },
+  
   "negative_prompt": [
-    "color de cabello incorrecto",
-    "estilo de cabello incorrecto"
+    "modificación facial",
+    "borroso",
+    "baja resolución",
+    "sobreenfocado",
+    "extremidades extra",
+    "cuerpo distorsionado",
+    "dibujos animados",
+    "anime",
+    "sobreexpuesto",
+    "sombras duras"
   ]
 }
 ```
@@ -6056,134 +5318,229 @@ Un prompt JSON altamente específico para generar un retrato cinematográfico ul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398255_zaad9r_G_R9EG7WoAEsXlh.jpg" width="600" alt="Marketing de producto - Ana de Armas: Retrato Urbano en Cuclillas con Bloqueo de Identidad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236002476_w185di_G_YM9gGXwAA1fqM.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en un sofá moderno Prompt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398465_pj0kgx_G_R9EJoXcAAGmdI.jpg" width="600" alt="Marketing de producto - Ana de Armas: Retrato Urbano en Cuclillas con Bloqueo de Identidad - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149399500_a9rcaj_G_R9EQsXoAAlUnU.jpg" width="600" alt="Marketing de producto - Ana de Armas: Retrato Urbano en Cuclillas con Bloqueo de Identidad - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398328_1ksw6p_G_SUxK9WYAAOLD_.jpg" width="600" alt="Marketing de producto - Ana de Armas: Retrato Urbano en Cuclillas con Bloqueo de Identidad - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236002488_4nyhhl_G_YNCGMXwAAJJjE.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en un sofá moderno Prompt - Image 2">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [manolya](https://x.com/manolyaai)
-- **Fuente:** [Twitter Post](https://x.com/manolyaai/status/2014399224809439301)
-- **Publicado:** 22 de enero de 2026
+- **Autor:** [Emma](https://x.com/emmagpt0)
+- **Fuente:** [Twitter Post](https://x.com/emmagpt0/status/2014812242244513978)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7243)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7308)**
 
 ---
 
-### No. 86: Marketing de producto - Retrato estilo pintura renacentista en un palacio italiano
+### No. 91: Marketing de producto - Prompt para retrato de estudio hiperrealista con accesorio de anillo flotante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* de generación de imágenes altamente detallado, diseñado para crear un retrato fotorrealista de una mujer con un minivestido rosa de margaritas, con un estilo que evoca una pintura renacentista ambientada en una galería de un *palazzo* italiano. El *prompt* especifica ángulos de cámara, iluminación, pose y detalles físicos para un *look* editorial de alta costura.
+Una plantilla de prompt para Nano Banana Pro para generar un retrato de estudio de cuerpo entero hiperrealista que presenta a un personaje rodeado por un anillo flotante inclinado en diagonal. El prompt permite la personalización del personaje, el atuendo, el material del anillo y el degradado del fondo del estudio, enfatizando la iluminación cinematográfica y el enfoque nítido en el sujeto y el anillo.
+
+#### 📝 Prompt
+
+```
+Un retrato de cuerpo entero hiperrealista de estudio de {argument name="character" default="[CHARACTER]"} con {argument name="outfit description" default="[OUTFIT DESCRIPTION]"} en una [POSE]. Su cuerpo entero es completamente visible de pies a cabeza, de pie sobre un suelo de estudio reflectante [FLOOR TYPE], con ambos pies claramente visibles en el encuadre. La cámara está posicionada a la altura del cuerpo entero, de frente, asegurando una composición limpia y una fuerte simetría.
+
+Rodeando al sujeto, [RING TYPE] dispuesto con precisión alrededor del área del torso medio. [RING CONTENT] (repetir sin interrupciones si es texto). El anillo está inclinado diagonalmente en perspectiva y flota naturalmente alrededor del cuerpo con un claro espacio, sin tocar la ropa/piel. Renderizado del anillo: {argument name="ring material" default="[MATERIAL/STYLE: metallic / chrome / dot-matrix LED / anime ink]"} con [EXTRUSION or GLOW], sombras profundas y reflejos brillantes.
+
+Fondo: un degradado de estudio limpio de [COLOR 1] a [COLOR 2], uniformemente iluminado y minimalista. Iluminación: iluminación de estudio cinematográfica suave, [KEY LIGHT direction/quality] creando sombras dramáticas suaves a través de [materials]. Una sutil luz de fondo / luz de contorno realza la profundidad y la separación del fondo, mientras que los suaves reflejos especulares enfatizan los contornos, la textura y el realismo premium. Ambiente: [FINAL MOOD LINE] [STYLE INTERPRETATION]. Composición ultradetallada, cinematográfica, enfoque nítido
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235990133_6gfcfy_G_YNBm7XMAAffYp.jpg" width="600" alt="Marketing de producto - Prompt para retrato de estudio hiperrealista con accesorio de anillo flotante - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [ΛRMIN | AI](https://x.com/Arminn_Ai)
+- **Fuente:** [Twitter Post](https://x.com/Arminn_Ai/status/2014812228307058857)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7294)**
+
+---
+
+### No. 92: Marketing de producto - Prompt editorial para uniforme de oficinista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON estructurado para generar una imagen fotorrealista de una joven mujer asiática con un seductor uniforme de Office Lady (camisa blanca ajustada, minifalda, medias hasta el muslo) sentada en un escritorio de oficina, con un interior corporativo moderno y el horizonte de la ciudad de fondo.
 
 #### 📝 Prompt
 
 ```
 {
-  "scene_type": "Galería de palacio italiano, minivestido de margaritas {argument name=\"dress color\" default=\"rosa\"}, cabello platino semirecogido, murales toscanos y esculturas de mármol",
-
-  "camera_perspective": {
-    "pov": "fotógrafo de pie a su lado/frente",
-    "angle": "a la altura de los ojos, capturando su perfil lateral a vista de 3/4",
-    "distance": "plano medio - desde la parte superior del muslo hasta por encima de la cabeza",
-    "framing": "vertical 4:5, ella llena el centro-izquierda, el interior del palacio se extiende detrás",
-    "lens": "lente de retrato estándar, perspectiva natural"
-  },
-
-  "subject": {
-    "action": "de pie en la galería del palacio, girada de lado, mirando hacia atrás por encima del hombro IZQUIERDO a la cámara",
-    
-    "pose": {
-      "overall_position": "de pie, PERFIL LATERAL a vista de 3/4, mirando hacia atrás a la cámara",
-      
-      "body_angle": {
-        "orientation": "cuerpo mirando a la derecha, girado aproximadamente 70-80 grados con respecto a la cámara",
-        "twist": "cabeza girada a la IZQUIERDA para mirar hacia atrás por encima del hombro a la cámara",
-        "posture": "elegante, de pie natural"
-      },
-      
-      "upper_body": {
-        "shoulders": "desnudos excepto por finos tirantes con lazos",
-        "chest": "visible de perfil, corpiño de vestido ajustado",
-        "posture": "recta, elegante"
-      },
-      
-      "lower_body": {
-        "hips": "mostrando curva de perfil",
-        "dress": "minifalda acampanada mostrando forma",
-        "stockings": "medias blancas de encaje hasta el muslo asomando por debajo del dobladillo"
-      },
-      
-      "arms": {
-        "position": "relajados a los lados",
-        "hands": "una mano cerca del muslo/dobladillo del vestido",
-        "effect": "natural, elegante"
-      },
-      
-      "head_and_neck": {
-        "turn": "mirando hacia atrás por encima del hombro IZQUIERDO a la cámara",
-        "rotation": "cabeza girada significativamente hacia la cámara",
-        "chin": "neutra, ángulo suave",
-        "direction": "contacto visual directo con la cámara"
-      },
-      
-      "overall": "elegante perfil lateral con una mirada por encima del hombro en un gran escenario"
+  "prompt_data": {
+    "subject": {
+      "basics": "1 chica, sola",
+      "demographics": "Impresionante mujer asiática de 20 años con estilo de ídolo, proporciones de modelo de alta costura",
+      "hair": "Cabello negro liso muy largo con flequillo completo",
+      "eyes": "Ojos grandes, redondos y penetrantes",
+      "skin": "Piel pálida impecable",
+      "expression": "Expresión linda pero seductora mirando al espectador"
     },
-    
-    "expression": {
-      "eyes": {
-        "color": "AZULES - azul claro, llamativos, claros",
-        "direction": "directos a la cámara",
-        "state": "suaves, tranquilos, ligeramente intensos, comprometidos",
-        "energy": "seguros pero suaves, conocedores"
+    "attire": {
+      "main_outfit": {
+        "item": "Uniforme seductor de Oficinista (Office Lady)",
+        "details": [
+          "Camisa blanca ajustada con botones",
+          "Micro-minifalda negra",
+          "Dobladillo de la falda cortado extremadamente alto",
+          "Silueta profesional pero atractiva"
+        ],
+        "branding": "Ninguno"
       },
-      "mouth": {
-        "lips": "llenos, rosa natural, suaves",
-        "expression": "relajada, neutra, suave puchero natural",
-        "state": "cerrada, suave"
-      },
-      "skin": {
-        "face": "clara, natural, limpia, húmeda",
-        "makeup": "mínimo/natural - rostro fresco, quizás un labial ligero"
-      },
-      "overall": "confianza suave, belleza natural, calma editorial"
+      "legwear": [
+        "Medias hasta el muslo azul oscuro transparentes",
+        "Intricado patrón de encaje floral en las medias",
+        "Liguero de encaje azul oscuro con tirantes"
+      ]
     },
+    "accessories": {
+      "style": "Accesorios de oro lujosos",
+      "items": [
+        "Reloj de oro delgado",
+        "Delicado collar de cadena de oro con colgante de rubí",
+        "Pendientes largos de cadena de oro"
+      ]
+    },
+    "pose_and_action": {
+      "posture": "Sentada con gracia en el borde de un escritorio de oficina",
+      "interaction": "Piernas cruzadas elegantemente"
+    },
+    "environment": {
+      "setting": "Interior de una oficina corporativa moderna de alta gama",
+      "background_elements": "Horizonte de la ciudad borroso a través de ventanales de suelo a techo, mobiliario de oficina elegante"
+    },
+    "style_and_technical": [
+      "Sombras sutiles",
+      "Iluminación suave cinematográfica",
+      "Rostro y ojos muy detallados",
+      "Materiales realistas",
+      "Fotorrealista",
+      "Enfoque nítido",
+      "8k",
+      "3:4"
+    ]
+  }
+}
+```
 
-    "physical": {
-      "age": "principios de los 20",
-      
-      "face": {
-        "structure": "rasgos de modelo, pómulos definidos, mandíbula suave",
-        "shape": "ovalada, equilibrada",
-        "skin": "clara, de porcelana, natural, sana",
-        "makeup": "mínimo - natural, fresco, húmedo"
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236023824_aqdj6j_G_XXhabbAAE9SaU.jpg" width="600" alt="Marketing de producto - Prompt editorial para uniforme de oficinista - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **Fuente:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2014753385518661906)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7339)**
+
+---
+
+### No. 93: Marketing de producto - Prompt para retrato editorial de lujo en bar, ultra fotorrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt JSON altamente estructurado para generar un retrato editorial de lujo ultra fotorrealista en un bar. Exige un bloqueo estricto de la identidad facial utilizando una imagen de referencia y detalla la escena: una mujer sentada en un taburete de bar en un elegante bar de cócteles vintage, vistiendo un vestido de noche de satén verde esmeralda. El prompt especifica una iluminación cálida ámbar/tungsteno, una relación de aspecto de 4:5, y enfatiza la textura real de la piel y el rango dinámico natural, prohibiendo explícitamente el brillo o retoque de IA.
+
+#### 📝 Prompt
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_bar_editorial_portrait",
+      "version": "v1.0_LUXURY_BAR_GREEN_SATIN_DRESS_NO_TEXT_EN",
+      "priority": "highest",
+      "language": "es"
+    },
+    "references": {
+      "reference_image_face": {
+        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
+        "purpose": "FACE_IDENTITY_LOCK",
+        "strict_lock": true,
+        "face_similarity_priority": "MAX",
+        "no_identity_blending": true,
+        "no_beautify": true,
+        "no_age_shift": true,
+        "preserve_skin_texture": true,
+        "preserve_facial_proportions": true
       },
-      
-      "body": {
-        "type": "delgada, femenina, proporciones de modelo",
-        "profile": "curvas elegantes visibles de perfil",
-        "w": ""
+      "reference_image_style": {
+        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
+        "purpose": "STYLE_COMPOSITION_ANCHOR",
+        "strict_lock": false,
+        "preserve_lighting": true,
+        "preserve_palette": true,
+        "preserve_vibe": true
+      }
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_nudity": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_luxury_editorial",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "very_subtle",
+      "color_grade": "warm_amber_bar_lighting",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "global_rules": {
+      "camera_language": "retrato editorial de bar de 35-50 mm, cuerpo completo sentado, poca profundidad de campo, prioridad de rostro + textura satinada",
+      "lighting_language": "luz de bar ámbar/tungsteno cálida, relleno suave, reflejos satinados, sin flash fuerte",
+      "authenticity_markers": "sin brillo AI/HDR, textura de piel real, manos correctas, anatomía limpia, la identidad debe coincidir"
+    },
+    "creative_prompt": {
+      "scene_summary": "Retrato editorial fotorrealista de lujo en un bar de la misma mujer adulta (coincidencia EXACTA de rostro), sentada en un taburete de bar en un bar de cócteles vintage de lujo. Botellas retroiluminadas en estantes de vidrio (sin etiquetas legibles), madera cálida + barra de mármol. Viste un vestido de noche de satén {argument name=\"dress color\" default=\"emerald\"}/verde oliva con un escote de buen gusto y una abertura alta (sin escote excesivo). Pose sentada con las piernas cruzadas, tacones elegantes, joyas mínimas. Mirada glamurosa y segura. Sin texto.",
+      "wardrobe_and_style": {
+        "outfit": "vestido de noche de satén verde esmeralda/oliva, corpiño ajustado, abertura alta, caída elegante",
+        "shoes": "tacones neutros",
+        "accessories": "anillos mínimos, pendientes delicados",
+        "makeup": "maquillaje de noche glamuroso, ojos ahumados suaves, labios nude-rosa",
+        "hair": "pelo oscuro liso, flequillo suave"
+      },
+      "composition": {
+        "framing": "cuerpo completo sentado 4:5, rostro nítido, pliegues de satén visibles, fondo suavemente desenfocado",
+        "background": "estantes de bar de lujo, botellas/cristalería, sin letreros"
       }
     }
   }
@@ -6195,165 +5552,76 @@ Un *prompt* de generación de imágenes altamente detallado, diseñado para crea
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149400727_h1s4c5_G_SSua9W4AAkYDj.jpg" width="600" alt="Marketing de producto - Retrato estilo pintura renacentista en un palacio italiano - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235992196_x3isgl_G_XWeAGWMAEanwo.jpg" width="600" alt="Marketing de producto - Prompt para retrato editorial de lujo en bar, ultra fotorrealista - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Nilisty](https://x.com/nilisty)
-- **Fuente:** [Twitter Post](https://x.com/nilisty/status/2014396478815449327)
-- **Publicado:** 22 de enero de 2026
+- **Autor:** [Özge Döner](https://x.com/astronomerozge1)
+- **Fuente:** [Twitter Post](https://x.com/astronomerozge1/status/2014752227303330027)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7245)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7296)**
 
 ---
 
-### No. 87: Marketing de producto - Prompts de generación de diseño en varios pasos para la marca "Lovart"
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un flujo de trabajo integral de varios pasos que utiliza el agente de diseño "Lovart" (probablemente integrado con Nano Banana Pro) para generar una identidad de marca completa, comenzando con un logotipo y extendiéndose a las directrices de diseño, la interfaz de usuario, el sitio web, el stand de exposición y el merchandising. Esto demuestra un enfoque estructurado para la generación de diseños.
-
-#### 📝 Prompt
-
-```
-Un logotipo para una empresa llamada "{argument name="company name" default="Lovart"}" con un degradado de color base de {argument name="color 1" default="verde esmeralda"} vibrante y {argument name="color 2" default="azul"} vibrante.
-
-Generar una paleta de colores y directrices de diseño de fuentes a partir de este logotipo.
-
-Generar el diseño de la interfaz de usuario de la aplicación para este servicio. Versión para PC y versión para smartphone.
-
-Diseñar un sitio web para presentar este servicio. Versión para PC y versión para smartphone.
-
-Diseñar la imagen de un stand de exposición para este servicio.
-
-Diseño de merchandising para este servicio. Camiseta, sudadera con capucha, gorra, cuaderno, pegatina.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149373823_avjhxj_G_QiCWtawAAkGgW.jpg" width="600" alt="Marketing de producto - Prompts de generación de diseño en varios pasos para la marca "Lovart" - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [KAWAI](https://x.com/kawai_design)
-- **Fuente:** [Twitter Post](https://x.com/kawai_design/status/2014272630833226237)
-- **Publicado:** 22 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7199)**
-
----
-
-### No. 88: Marketing de producto - Prompt para selfie nocturno cinematográfico en la calle con bloqueo de identidad
+### No. 94: Imagen principal de e-commerce - Prompt de foto de producto de estudio para lata de té de boba (duplicado)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* altamente detallado y estructurado para Nano Banana Pro en Higgsfield, diseñado para crear una *selfie* callejera nocturna cinematográfica ultrarrealista con una "estética de crimen de editorial de moda". El *prompt* exige una estricta preservación de la identidad utilizando una referencia facial cargada, que represente a una mujer asomándose por la ventanilla de un coche durante una persecución a alta velocidad, enfatizando la iluminación dinámica (sirenas, farolas) y el desenfoque de movimiento.
+Un prompt JSON detallado diseñado para generar una fotografía de producto de estudio comercial premium de una lata de bebida, específicamente BOBAco Popping Bubble Tea. El prompt especifica una estética limpia y minimalista con un fondo rosa pastel, iluminación suave y difusa, y una profundidad de campo reducida, centrándose en detalles hiperrealistas como la condensación y frambuesas frescas como guarnición.
 
 #### 📝 Prompt
 
 ```
 {
-  "type": "image_generation_prompt",
-  "style": "selfie cinematográfico nocturno ultra realista en la calle, estética editorial de moda criminal",
-  "identity_lock": {
-    "use_uploaded_face_only": true,
-    "strict_identity_preservation": true,
-    "notes": "Preservar la identidad facial original al 100% sin cambios en la estructura facial, proporciones o características únicas. Rostro bloqueado."
-  },
-  "subject": {
-    "gender": "femenino",
-    "pose": {
-      "description": "asomándose por la ventanilla de un coche durante una huida a alta velocidad",
-      "arm_position": "un brazo completamente extendido hacia la cámara sosteniendo el teléfono",
-      "head_position": "cabeza ligeramente inclinada hacia atrás",
-      "gesture": "provocador y juguetón",
-      "attitude": "audaz, segura, rebelde"
+  "scene": {
+    "type": "foto de producto de estudio",
+    "background": {
+      "color": "{argument name=\"background color\" default=\"rosa pastel\"}",
+      "surface": "lisa"
     },
-    "face_and_skin": {
-      "skin_quality": "suave y luminosa",
-      "details": [
-        "textura de piel realista con poros visibles",
-        "reflejos brillantes de la luz de la calle",
-        "pómulos suavemente esculpidos",
-        "labios brillantes ligeramente entreabiertos"
-      ],
-      "eyes": "ojos expresivos parcialmente ocultos detrás de gafas de sol rectangulares negras y estrechas"
+    "lighting": {
+      "key": "difusa suave",
+      "rim": "sutil"
     },
-    "hair": {
-      "style": "despeinado por la velocidad y el aire nocturno",
-      "movement": "dinámico, fluyendo naturalmente"
-    },
-    "outfit_and_accessories": {
-      "outerwear": "abrigo tipo blazer azul marino elegantemente colocado sobre los hombros",
-      "top": "camiseta blanca",
-      "jewelry": "anillos de plata minimalistas",
-      "prop": "taza de {argument name=\"prop\" default=\"Costa Coffee\"} sostenida en la mano"
+    "camera": {
+      "lens": "85mm",
+      "depth_of_field": "poca profundidad de campo"
     }
   },
-  "environment": {
-    "setting": "calle de ciudad nocturna lluviosa",
-    "ground": "asfalto mojado con largas estelas reflectantes",
-    "background_action": [
-      "coche de policía persiguiendo detrás",
-      "sirenas rojas y azules intermitentes",
-      "faros borrosos",
-      "profundidad urbana cinematográfica"
-    ],
-    "visual_effects": [
-      "desenfoque de movimiento dramático",
-      "círculos bokeh dorados de farolas",
-      "destellos de luces de policía",
-      "reflejos que se extienden por la carretera empapada por la lluvia"
-    ]
+  "subject": {
+    "type": "lata de bebida",
+    "brand": "{argument name=\"brand name\" default=\"BOBAco Popping Bubble Tea\"}",
+    "color": "blanco",
+    "position": "centrada",
+    "details": {
+      "condensation": true,
+      "focus": "etiqueta"
+    },
+    "garnish": {
+      "main": {
+        "type": "frambuesa",
+        "position": "en el borde de la lata"
+      },
+      "foreground": {
+        "type": "frambuesas",
+        "quantity": "múltiples",
+        "ripeness": "maduras"
+      }
+    }
   },
-  "lighting": {
-    "sources": [
-      "farolas de sodio cálidas",
-      "luces de policía azules frías",
-      "destellos de sirena rojos"
-    ],
-    "style": "alto contraste",
-    "effects": [
-      "reflejos brillantes en la piel",
-      "reflejos en el cristal y la carrocería del coche",
-      "reflejos en la calle mojada"
-    ]
-  },
-  "mood": {
-    "vibe": "caos rebelde, juguetón y glamuroso",
-    "energy": "vida nocturna llena de adrenalina",
-    "tone": "fuga de lujo moderno"
-  },
-  "camera_and_style": {
-    "perspective": "selfie de smartphone de gran angular",
-    "depth_of_field": "poca profundidad de campo",
-    "motion_effects": "fuerte desenfoque de movimiento de fondo y estelas de luz",
-    "image_quality": [
-      "detalle ultra alto",
-      "grano de película realista",
-      "gradación de color cinematográfica"
-    ]
-  },
-  "constraints": [
-    "Sin alteración de la identidad facial",
-    "Sin cambios en las proporciones faciales",
-    "Sin rostro estilizado por IA",
-    "Sin aspecto de dibujos animados o CGI"
-  ],
-  "output_goal": "Crear un selfie cinematográfico nocturno ultra realista en la calle de una mujer segura de sí misma"
+  "style": {
+    "aesthetic": "limpio minimalista",
+    "photography": "fotografía comercial de bebidas premium",
+    "post_processing": "retoque de alta gama",
+    "text": false,
+    "watermark": false
+  }
 }
 ```
 
@@ -6362,21 +5630,124 @@ Un *prompt* altamente detallado y estructurado para Nano Banana Pro en Higgsfiel
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383502_gv187y_G_PDz5saEAAoL96.jpg" width="600" alt="Marketing de producto - Prompt para selfie nocturno cinematográfico en la calle con bloqueo de identidad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236008629_0cmhs1_G_WHO2MaAAAIvDX.jpg" width="600" alt="Imagen principal de e-commerce - Prompt de foto de producto de estudio para lata de té de boba (duplicado) - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **Fuente:** [Twitter Post](https://x.com/saniaspeaks_/status/2014168771741855965)
-- **Publicado:** 22 de enero de 2026
+- **Autor:** [Sharon Riley](https://x.com/Just_sharon7)
+- **Fuente:** [Twitter Post](https://x.com/Just_sharon7/status/2014665115883471125)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7217)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7315)**
 
 ---
 
-### No. 89: Imagen principal de e-commerce - Instrucciones para imágenes premium con Nano Banana Pro
+### No. 95: Imagen principal de e-commerce - Maqueta de identidad de marca insignia (Nano Banana Pro)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un *prompt* altamente estructurado y detallado para que Nano Banana Pro genere una maqueta completa y en plano de un ecosistema de marca insignia (Lovart), que incluya empaques, artículos esenciales para el comedor, uniformes para el personal y mercancía, utilizando un tema visual específico de Navidad japonesa/minimalismo.
+
+#### 📝 Prompt
+
+```
+“task_description”:
+“Generar una maqueta de identidad de marca de nivel insignia que soporte categorías completas”
+“prompt_structure”: {
+“subject”:
+“Disposición plana de un ecosistema de marca a gran escala y ultra detallado”
+“brand_info”: {
+“{argument name="brand name" default="Lovart"}”,
+“visual_theme”: “{argument name="visual theme" default="Navidad japonesa, minimalismo, tonos cálidos"}”
+},
+“item_categories”: {
+“packaging”: "Bolsas de compra (S/M/L), caja de pastel, bolsa de granos de café, caja de sándwich, caja de repostería",
+“dining_essentials”: "Vaso de café con funda, servilleta de papel, sobre de azúcar, papel para bandeja, carta de menú",
+“staff_uniform”: "Delantal verde doblado, gorra de béisbol bordada, identificación de personal",
+“merchandise”: "Bolsa de tela, taza de cerámica, cuaderno de marca, bolígrafo"
+},
+“visual_style”: {
+“art_style”: “Maqueta vectorial limpia con mapeo de textura realista”,
+“color_palette”: "Verde bosque (principal), blanco mate (secundario), marrón papel kraft (textura), beige (acento)",
+“logo_style”: “Logotipo de ciervo minimalista de arte lineal”
+},
+“composition”: {“type”: “Disposición densa, sin superposiciones”,
+“background”: “Carbón oscuro sólido (#1A1A1A)”,
+“perspective”: “Vista cenital de 90 grados (vista ortográfica)”}
+“negative_prompt”:“Recargado, desordenado, superpuesto, distorsión de perspectiva 3D, reflejo fotorrealista excesivo, plástico brillante, colores neón, manos humanas, marca de agua, baja resolución”
+“generation_params”: {
+“aspect_ratio”: “3:4”,
+“detail_level”: “Alto”,
+“texture_quality”: “Premium”}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034649_tx34lj_G_VgYm5bEAAKtxW.jpg" width="600" alt="Imagen principal de e-commerce - Maqueta de identidad de marca insignia (Nano Banana Pro) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034854_whekav_G_Vnq6bbAAgL_Ru.jpg" width="600" alt="Imagen principal de e-commerce - Maqueta de identidad de marca insignia (Nano Banana Pro) - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
+- **Fuente:** [Twitter Post](https://x.com/lovart_jp/status/2014639253016449173)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7357)**
+
+---
+
+### No. 96: Imagen principal de e-commerce - Prompt para vídeo de producto de gravedad cero (Strawberry Soda)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para generar un video de producto surrealista y de gravedad cero, protagonizado por una lata de refresco de fresa. La escena se desarrolla en un estudio de tonos rojo-rosados suaves donde la lata, las fresas, los cubitos de hielo y el líquido flotan lentamente, enfatizando una estética ingrávida y de espacio exterior para la toma del producto.
+
+#### 📝 Prompt
+
+```
+Un video de producto surrealista de gravedad cero que muestra una lata de refresco de fresa flotando en un suave espacio de estudio rojo rosado.
+
+ESCENA 1 — INTRODUCCIÓN FLOTANTE EN EL ESPACIO:
+La lata de refresco está suspendida en el aire, ligeramente inclinada, sin gravedad visible. A su alrededor hay fresas, cubitos de hielo y líquido rojo fluyendo, todo flotando lentamente como si estuviera en el espacio exterior. Ningún objeto cae, todo flota suavemente en diferentes direcciones.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235995156_76im06_G_U0e55a4AAMRZK.jpg" width="600" alt="Imagen principal de e-commerce - Prompt para vídeo de producto de gravedad cero (Strawberry Soda) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **Fuente:** [Twitter Post](https://x.com/Vishnudxe/status/2014574116767256988)
+- **Publicado:** 23 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7299)**
+
+---
+
+### No. 97: Imagen principal de e-commerce - Instrucciones para imágenes premium con Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6422,7 +5793,7 @@ Una fotografía de un {argument name="product" default="grano de café de alta c
 
 ---
 
-### No. 90: Imagen principal de e-commerce - Prompt de anuncio de producto de lata de refresco hiperrealista
+### No. 98: Imagen principal de e-commerce - Prompt de anuncio de producto de lata de refresco hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6476,7 +5847,7 @@ El ángulo de la cámara es ligeramente bajo y diagonal, encuadre de medio prime
 
 ---
 
-### No. 91: Imagen principal de e-commerce - Conversión de maquetas de imagen a bebida
+### No. 99: Imagen principal de e-commerce - Conversión de maquetas de imagen a bebida
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6528,7 +5899,7 @@ Foto publicitaria del producto tomada en un estudio profesional. La botella tien
 
 ---
 
-### No. 92: Imagen principal de e-commerce - Anuncio de producto conceptual surrealista para la pastilla para dormir 'PILLow'
+### No. 100: Imagen principal de e-commerce - Anuncio de producto conceptual surrealista para la pastilla para dormir 'PILLow'
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6575,7 +5946,7 @@ escena desordenada, iluminación dura, textura plástica, bajo contraste, sombra
 
 ---
 
-### No. 93: Imagen principal de e-commerce - Prompt para miniaturas abstractas de paisajes chinos
+### No. 101: Imagen principal de e-commerce - Prompt para miniaturas abstractas de paisajes chinos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6626,7 +5997,7 @@ Paisaje en miniatura, toma de primer plano, paisaje chino abstracto, concepto es
 
 ---
 
-### No. 94: Imagen principal de e-commerce - Prompt para un anuncio de barra de chocolate ultrarrealista
+### No. 102: Imagen principal de e-commerce - Prompt para un anuncio de barra de chocolate ultrarrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6666,7 +6037,7 @@ Utiliza la imagen del producto subida como referencia. Crea una imagen comercial
 
 ---
 
-### No. 95: Imagen principal de e-commerce - Fotografía Minimalista de Alimentos Comerciales con Vista Despiezada
+### No. 103: Imagen principal de e-commerce - Fotografía Minimalista de Alimentos Comerciales con Vista Despiezada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6739,7 +6110,7 @@ Un *prompt* JSON para generar fotografía comercial de alimentos de alta gama en
 
 ---
 
-### No. 96: Imagen principal de e-commerce - Instrucción para la generación de objetos de hilo tejido
+### No. 104: Imagen principal de e-commerce - Instrucción para la generación de objetos de hilo tejido
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6793,7 +6164,7 @@ Fotografiado sobre un acogedor fondo de estilo de vida o en un estudio limpio co
 
 ---
 
-### No. 97: Imagen principal de e-commerce - Primer plano macro de un salpicadura de un comercial de refresco de cereza
+### No. 105: Imagen principal de e-commerce - Primer plano macro de un salpicadura de un comercial de refresco de cereza
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6868,7 +6239,7 @@ Cámara y estilo: Aspecto de lente macro de 85 mm, poca profundidad de campo, en
 
 ---
 
-### No. 98: Imagen principal de e-commerce - Fotografía de Pralinés de Alto Detalle
+### No. 106: Imagen principal de e-commerce - Fotografía de Pralinés de Alto Detalle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6902,158 +6273,88 @@ Pralinés variados apilados de forma suelta en el centro sobre un soporte de oro
 
 ---
 
-### No. 99: Imagen principal de e-commerce - Generador de visuales clave para productos de cuidado de la piel
+### No. 107: Activo de juego - Escena de acción de ciencia ficción oscura con un simbionte similar a Venom
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Una plantilla de prompt personalizable para generar imágenes clave ultra realistas de productos de cuidado de la piel de primera calidad. Utiliza marcadores de posición para el producto, los colores de fondo y los ingredientes clave, centrándose en una iluminación de estudio limpia, reflejos nítidos y elementos flotantes (botánicos, espirales de gel, gotas de agua) para una estética comercial de alta gama.
-
-#### 📝 Prompt
-
-```
-centrado {argument name="product type" default="FACEWASH_PACKAGING"} sobre un degradado audaz {argument name="background color 1" default="BG_COLOR_1"}→{argument name="background color 2" default="BG_COLOR_2"}, iluminación de estudio moderna, reflejos nítidos + sombra suave y difuminada. Texto de la etiqueta perfectamente legible: "{argument name="brand name" default="BRAND"} {argument name="product name" default="PRODUCT_NAME"}" solamente. Rodeado de KEY_INGREDIENT_1, KEY_INGREDIENT_2, BOTANICAL flotando en una disposición de anillo equilibrada, además de remolinos de cinta de gel/espuma brillantes (lazos suaves), microgotas de agua + neblina ligera. Enfoque ultra nítido, poca profundidad de campo, 85 mm, HDR, ISO100, espacio negativo limpio, sin desorden, sin marca de agua. Salida {ASPECT} (1:1/4:5/9:16).
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669960_389lzs_G_A1y5CXIAANTX2.jpg" width="600" alt="Imagen principal de e-commerce - Generador de visuales clave para productos de cuidado de la piel - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669812_67410t_G_A1zAVX0AAJa21.jpg" width="600" alt="Imagen principal de e-commerce - Generador de visuales clave para productos de cuidado de la piel - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890670260_lu04jb_G_A1y1wWgAAyNDH.jpg" width="600" alt="Imagen principal de e-commerce - Generador de visuales clave para productos de cuidado de la piel - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890671110_l4u0yi_G_A1zA8XQAAPvm1.jpg" width="600" alt="Imagen principal de e-commerce - Generador de visuales clave para productos de cuidado de la piel - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **Fuente:** [Twitter Post](https://x.com/DavisonDabiri/status/2013168193196449941)
-- **Publicado:** 19 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6744)**
-
----
-
-### No. 100: Imagen principal de e-commerce - Fotografía de Producto Cinematográfica 8K (Perfume)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt modular y altamente detallado para generar fotografía cinematográfica de producto en 8K de frascos de perfume. Incluye dos módulos distintos: uno para un frasco con temática de bosque y otro para una escena de salpicaduras acuáticas, especificando iluminación, materiales y microdetalles extremos.
+Un prompt JSON altamente detallado para generar una escena de acción cinematográfica ultrarrealista en 16K, ambientada en un oscuro almacén industrial. El prompt se centra en una mujer joven (con bloqueo de identidad habilitado) en una pose de acción dinámica, de cuya espalda emerge un simbionte alienígena violento, negro brillante, similar a Venom, enfatizando el alto contraste, la iluminación de contorno cálida y un encuadre dramático en ángulo bajo.
 
 #### 📝 Prompt
 
 ```
 {
-  "global_settings": {
-    "resolution": "8K",
-    "aspect_ratio": "3:4",
-    "style": "fotografía de producto cinematográfica fotorrealista",
-    "detail_level": "micro-detalle extremo",
-    "sharpness": "ultra nítido",
-    "noise": "ninguno",
-    "compression_artifacts": "ninguno",
-    "color_depth": "color intenso de 16 bits",
-    "render_quality": "grado comercial de lujo",
-    "ai_finish": "realismo limpio mejorado con IA"
+  "identity_lock": {
+    "reference_image": "uploaded_reference_image",
+    "face_editing": "disabled",
+    "preserve_facial_features": true,
+    "preserve_proportions": true
   },
-
-  "module_1": {
-    "scene_identity": "perfume_verde_bosque",
-    "environment": {
-      "setting": "ambiente de bosque denso",
-      "background": "follaje verde suave y borroso con separación de profundidad",
-      "foreground": "suelo de bosque natural con tierra, musgo y pequeños escombros",
-      "props": [
-        "plataforma de piedra natural plana",
-        "roca irregular colocada ligeramente detrás de la botella",
-        "ramas de pino con agujas visibles en el lado derecho"
-      ],
-      "atmosphere": "humo o niebla suave a la deriva que se eleva detrás de la botella"
-    },
-    "product": {
-      "object_type": "frasco de perfume",
-      "material": "vidrio translúcido acanalado",
-      "color": "líquido verde esmeralda intenso",
-      "shape": "cilíndrico con ranuras verticales",
-      "cap": {
-        "material": "metal",
-        "finish": "oro pulido",
-        "shape": "cilíndrico liso"
-      },
-      "label": "sin texto de marca visible"
-    },
-    "lighting": {
-      "key_light": "luz natural difusa suave desde la parte frontal izquierda",
-      "fill_light": "luz ambiental sutil del bosque",
-      "highlights": "reflejos suaves en las nervaduras de vidrio y la tapa dorada",
-      "shadows": "sombras suaves y realistas debajo de la botella y las rocas"
-    },
-    "camera": {
-      "angle": "ángulo de producto a la altura de los ojos",
-      "focus": "enfoque nítido en la botella, poca profundidad de campo",
-      "lens_effect": "fondo con bokeh natural"
-    },
-    "mood": "fresco, amaderado, tranquilo, premium, inspirado en la naturaleza"
+  "scene": {
+    "description": "Escena de acción cinematográfica ultrarrealista",
+    "resolution": "16K",
+    "style": "Póster de película de acción de Hollywood",
+    "genre": "acción de ciencia ficción oscura"
   },
-
-  "module_2": {
-    "scene_identity": "perfume_salpicadura_agua_azul",
-    "environment": {
-      "setting": "escena de estudio acuático oscuro",
-      "background": "degradado de azul marino oscuro a negro",
-      "surface": "agua ondulante con reflejos",
-      "motion_elements": [
-        "gran salpicadura de agua ascendente detrás de la botella",
-        "gotas de agua flotando suspendidas en el aire"
-      ],
-      "props": [
-        "rodajas de limón (pulpa amarilla visible)",
-        "rodaja de cítrico verde",
-        "pequeñas bayas rojas",
-        "ramitas de hierbas verdes"
-      ]
+  "subject": {
+    "person": "la misma joven de la referencia",
+    "pose": {
+      "stance": "acción dinámica",
+      "body_position": "ligeramente agachada hacia adelante",
+      "legs": "una rodilla doblada",
+      "hands": {
+        "left_hand": "apoyada en el suelo",
+        "right_hand": "extendida hacia afuera"
+      }
     },
-    "product": {
-      "object_type": "frasco de perfume",
-      "material": "vidrio opaco",
-      "color": "azul noche intenso",
-      "shape": "rectangular con bordes afilados",
-      "cap": {
-        "material": "vidrio oscuro a juego",
-        "shape": "cilíndrico"
-      },
-      "text_visible": [
-        "BLEU DE CHANEL",
-        "EAU DE PARFUM"
-      ]
-    },
+    "expression": "concentrada e intensa",
+    "motion": "en plena acción, a punto de saltar o atacar"
+  },
+  "symbiote": {
+    "type": "{argument name=\"symbiote type\" default=\"simbionte alienígena tipo Venom\"}",
+    "origin": "saliendo de su espalda",
+    "features": [
+      "grandes y amenazantes tentáculos",
+      "cara agresiva y gruñendo por encima del hombro"
+    ],
+    "material": "textura orgánica negra brillante",
+    "behavior": "expansión y movimiento violentos"
+  },
+  "environment": {
+    "location": "almacén industrial oscuro",
+    "atmosphere": [
+      "neblinoso",
+      "lleno de humo",
+      "partículas de polvo flotantes"
+    ],
     "lighting": {
-      "key_light": "luz direccional fuerte desde la parte superior frontal",
-      "rim_light": "reflejos fríos en la salpicadura de agua",
-      "reflections": "reflejos especulares"
+      "primary": "rayos de luz cinematográficos nítidos que atraviesan la niebla",
+      "highlights": "iluminación de contorno cálida en el sujeto y el simbionte"
     }
+  },
+  "camera": {
+    "angle": "ángulo bajo",
+    "tilt": "ligeramente inclinado",
+    "lens": "lente gran angular cinematográfica",
+    "depth_of_field": "poca profundidad de campo",
+    "motion_blur": "desenfoque direccional sutil"
+  },
+  "post_processing": {
+    "effects": [
+      "destellos de lente",
+      "luces cálidas",
+      "gradación de color cinematográfica",
+      "grano de película sutil"
+    ],
+    "contrast": "alto",
+    "sharpness": "ultradetallado"
+  },
+  "mood": {
+    "energy": "alta intensidad",
+    "tone": "oscuro, potente, agresivo",
+    "cinematic_feel": "épico y dramático"
   }
 }
 ```
@@ -7063,293 +6364,21 @@ Un prompt modular y altamente detallado para generar fotografía cinematográfic
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638679_0rbo6y_G_Auiz5WgAEqfUY.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de Producto Cinematográfica 8K (Perfume) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890639096_qd2s06_G_AuizDWQAA9keU.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de Producto Cinematográfica 8K (Perfume) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638950_22nc5e_G_Aui3fXEAENHXC.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de Producto Cinematográfica 8K (Perfume) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890640110_sd69rb_G_Aui9WWwAANyRn.jpg" width="600" alt="Imagen principal de e-commerce - Fotografía de Producto Cinematográfica 8K (Perfume) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235965535_jrzyig_G_XKm0ZbIAAcxlL.jpg" width="600" alt="Activo de juego - Escena de acción de ciencia ficción oscura con un simbionte similar a Venom - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **Fuente:** [Twitter Post](https://x.com/meng_dagg695/status/2013160227835933059)
-- **Publicado:** 19 de enero de 2026
+- **Autor:** [Sharon Riley](https://x.com/Just_sharon7)
+- **Fuente:** [Twitter Post](https://x.com/Just_sharon7/status/2014739187241800019)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6696)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7260)**
 
 ---
 
-### No. 101: Imagen principal de e-commerce - Collage de visualización de producto de timbre inteligente (Smart Doorbell)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt estructurado detallado para Nano Banana Pro diseñado para generar un collage de visualización comercial de múltiples fotogramas para un timbre inteligente. Especifica las características del producto, define nueve fotogramas distintos (Hero Shot, Close Up, Brand Environment, In Use, Isometric Grid, Levitating, Detail Extreme, Editorial Unexpected, Wide Use Scenario) y establece parámetros de estilo de cámara como la paleta de colores y el ambiente.
-
-#### 📝 Prompt
-
-```
-{
-  "ProductReference": "{argument name=\"Product Features\" default=\"Timbre inteligente con reconocimiento facial, audio bidireccional, visión nocturna, detección de movimiento, resistente a la intemperie, diseño elegante, control por aplicación\"}",
-  "Frame1_HeroShot": {
-    "Product": "Timbre montado en la entrada, lente centrada",
-    "Background": "Entrada moderna gris sin juntas"
-  },
-  "Frame2_CloseUp": {
-    "Focus": "Claridad de la lente de la cámara, rejilla del micrófono, mecanismo del botón, sello hermético, luces indicadoras LED, soporte de montaje"
-  },
-  "Frame3_BrandEnvironment": {
-    "Setting": "Estética de entrada de hogar inteligente, seguridad moderna",
-    "Props": {
-      "Background": "Textura de la puerta principal",
-      "Surface": "Área del porche"
-    }
-  },
-  "Frame4_InUse": {
-    "Interaction": "Propietario recibiendo notificación en el teléfono, gesto de conversación bidireccional",
-    "Styling": "Interacción de seguridad de hogar inteligente"
-  },
-  "Frame5_IsometricGrid": {
-    "Count": "Timbre con pantalla de interfaz de aplicación",
-    "Arrangement": "Formación de sistema de entrada inteligente"
-  },
-  "Frame6_Levitating": {
-    "Concept": "Timbre flotando con visualización de zona de seguridad"
-  },
-  "Frame7_DetailExtreme": {
-    "Focus": "Sensor de reconocimiento facial, calidad del micrófono, salida del altavoz, batería de respaldo, antena WiFi, rango del sensor de movimiento"
-  },
-  "Frame8_EditorialUnexpected": {
-    "Concept": "Timbre como guardián del hogar, visualización de red de seguridad",
-    "Materials": "Ecosistema de seguridad inteligente"
-  },
-  "Frame9_WideUseScenario": {
-    "Location": "Entrada completa de hogar inteligente con seguridad",
-    "Props": ["Cerradura inteligente", "Luz de entrada", "Felpudo", "Macetas", "Herrajes de puerta", "Cámara de seguridad"]
-  },
-  "CameraStyle": {
-    "ColorPalette": "Timbre negro, lente de cámara azul, luces LED, color de la puerta",
-    "Mood": "Seguridad inteligente, entrada del hogar, comodidad moderna"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890714990_8c7kb2_G_ATVFcXAAAsNMj.jpg" width="600" alt="Imagen principal de e-commerce - Collage de visualización de producto de timbre inteligente (Smart Doorbell) - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [松果先森](https://x.com/songguoxiansen)
-- **Fuente:** [Twitter Post](https://x.com/songguoxiansen/status/2013130384897421728)
-- **Publicado:** 19 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6812)**
-
----
-
-### No. 102: Imagen principal de e-commerce - Escultura de superdeportivo de cristal transparente en capas. Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* JSON altamente técnico para generar una imagen fotorrealista y con trazado de rayos de un superdeportivo. El coche se representa como una escultura topológica rebanada hecha de vidrio acrílico de grado óptico en capas, con detalles mecánicos internos visibles. El *prompt* enfatiza la iluminación (iluminación de contorno, brillo interno, cáusticas) sobre un fondo de vacío completamente negro, creando una estética de vista explosionada.
-
-#### 📝 Prompt
-
-```
-{
-  "prompt_configuration": {
-    "parameters": {
-      "car_model": "{argument name=\"car model\" default=\"SUPERCAR MODEL\"}",
-      "material_color": "{argument name=\"material color\" default=\"ámbar cálido y naranja intenso\"}"
-    },
-    "aspect_ratio": "16:9",
-    "viewpoint": "ángulo frontal 3/4, visibilidad completa del vehículo"
-  },
-  "prompt_payload": {
-    "subject_definition": {
-      "core_subject": "{car_model}",
-      "representation_style": "escultura topológica en rodajas, construida a partir de láminas paralelas apiladas de material translúcido"
-    },
-    "material_physics": {
-      "medium": "vidrio acrílico de grado óptico en capas",
-      "texture": "bordes cortados con láser, transparencia volumétrica, dispersión subsuperficial",
-      "color_palette": "degradado translúcido {material_color}, refracción interna brillante"
-    },
-    "technical_details": {
-      "structure": "estructura laminar nervada, planos de sección transversal, detalles mecánicos internos visibles a través de las capas (bloque motor, suspensión, transmisión)",
-      "fidelity": "hiperdetallado, precisión tipo CAD, estética de vista explosionada pero ensamblada"
-    },
-    "lighting_and_atmosphere": {
-      "environment": "fondo de vacío completamente negro, estudio oscuro infinito",
-      "lighting_setup": "iluminación de contorno para resaltar los bordes del vidrio, brillo volumétrico interno, cáusticas, alto contraste cinematográfico"
-    },
-    "rendering_engine": {
-      "style": "Octane Render, trazado de rayos, resolución 8k, propiedades de material fotorrealistas, profundidad de campo de macrofotografía"
-    }
-  },
-  "negative_prompt": [
-    "carrocería de metal sólido",
-    "pintura opaca",
-    "dibujos animados",
-    "ilustración",
-    "ruedas distorsionadas",
-    "marco recortado",
-    "luz diurna",
-    "reflejo del fotógrafo"
-  ]
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263037_da8uj6_G--zMlXXYAEyetJ.jpg" width="600" alt="Imagen principal de e-commerce - Escultura de superdeportivo de cristal transparente en capas. Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263002_8omzrs_G--zMqUWEAADVF1.jpg" width="600" alt="Imagen principal de e-commerce - Escultura de superdeportivo de cristal transparente en capas. Prompt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263805_3sf4w4_G--zMlfXMAAav79.jpg" width="600" alt="Imagen principal de e-commerce - Escultura de superdeportivo de cristal transparente en capas. Prompt - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804264278_z57ws5_G--zMiCW8AAx8Ze.jpg" width="600" alt="Imagen principal de e-commerce - Escultura de superdeportivo de cristal transparente en capas. Prompt - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Lloyd Creates](https://x.com/lloydcreates)
-- **Fuente:** [Twitter Post](https://x.com/lloydcreates/status/2013024593246568485)
-- **Publicado:** 18 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6587)**
-
----
-
-### No. 103: Imagen principal de e-commerce - Prompt de toma de héroe de producto de lujo general
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Una instrucción simple y general para crear una toma de héroe de producto de lujo, lo que implica que el usuario debe proporcionar los detalles del producto.
-
-#### 📝 Prompt
-
-```
-Crea una toma principal de un producto de lujo usando esta instrucción 👇
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205123_px1nxv_G-9TgfNbgAA8ntT.jpg" width="600" alt="Imagen principal de e-commerce - Prompt de toma de héroe de producto de lujo general - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Amira Zairi](https://x.com/azed_ai)
-- **Fuente:** [Twitter Post](https://x.com/azed_ai/status/2012919379575570766)
-- **Publicado:** 18 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6508)**
-
----
-
-### No. 104: Imagen principal de e-commerce - Instrucciones para el diseño industrial de tejidos acogedores
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Este prompt está diseñado para representar cualquier objeto especificado como si estuviera completamente tejido a mano con lana gruesa, mezclando la estética hygge escandinava con el diseño industrial. Enfatiza los puntos visibles, los patrones de ochos, la iluminación cálida y la resolución ultra alta para resaltar la textura suave del hilo.
-
-#### 📝 Prompt
-
-```
-Un {argument name="object" default="[OBJECT]"} representado como si estuviera completamente tejido a mano con lana gruesa, con un aspecto imposiblemente funcional a pesar de ser una artesanía suave. Puntos visibles, patrones de ochos en las zonas de agarre, punto elástico donde se necesita flexibilidad, y los extremos del hilo cuidadosamente metidos. Colocado sobre un acogedor fondo de estilo de vida o un estudio limpio con textura de lana. El hygge escandinavo se encuentra con el diseño industrial. Iluminación cálida y suave que enfatiza la textura del hilo, la calidad artesanal, la absurda comodidad de la maquinaria. Enfoque nítido en el detalle de los puntos, colores de fibra cálidos y saturados, estética de producto de estilo de vida, resolución ultra alta, lo duro hecho suave.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224845_ln7rbo_G-7ORciXsAAtAR7.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para el diseño industrial de tejidos acogedores - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224837_cp3qvl_G-7OWw3XUAAzd1l.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para el diseño industrial de tejidos acogedores - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224863_8ssifo_G-7Ogj5XgAAlFtT.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para el diseño industrial de tejidos acogedores - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804226001_g1x8cv_G-7OpVTWwAAYDCQ.jpg" width="600" alt="Imagen principal de e-commerce - Instrucciones para el diseño industrial de tejidos acogedores - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Alexandra Aisling](https://x.com/AllaAisling)
-- **Fuente:** [Twitter Post](https://x.com/AllaAisling/status/2012909092210381048)
-- **Publicado:** 18 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6537)**
-
----
-
-### No. 105: Activo de juego - Prompt de diseño de personaje estilizado 3D ultradetallado
+### No. 108: Activo de juego - Prompt de diseño de personaje estilizado 3D ultradetallado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7386,7 +6415,40 @@ Renderizado en 3D de ultra alta calidad, iluminación de estudio suave, gradient
 
 ---
 
-### No. 106: Activo de juego - Arte de silueta de fantasía cinematográfica con prompt de piel metálica
+### No. 109: Activo de juego - Prompt para la generación de avatares 3D al estilo Pixar
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para crear un avatar 3D de alta calidad basado en una imagen subida. Especifica un rostro alegre y expresivo con una sonrisa cálida y rasgos suaves, renderizado con una estética al estilo Pixar, con texturas suaves, proporciones exageradas y una iluminación de estudio suave y uniforme.
+
+#### 📝 Prompt
+
+```
+Crea un avatar 3D de alta calidad de la persona en la imagen subida con una cara alegre y expresiva. El personaje debe tener una sonrisa cálida, ojos brillantes y rasgos faciales suaves que transmitan amabilidad y cercanía. Renderiza con una estética al estilo Pixar, con texturas suaves, sombreado sutil de la piel y proporciones ligeramente exageradas para un aspecto animado y adorable. La iluminación debe ser suave y uniforme, creando un aspecto de estudio limpio con sombras tenues para dar profundidad.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="Activo de juego - Prompt para la generación de avatares 3D al estilo Pixar - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Harboriis](https://x.com/harboriis)
+- **Fuente:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
+- **Publicado:** 21 de enero de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7061)**
+
+---
+
+### No. 110: Activo de juego - Arte de silueta de fantasía cinematográfica con prompt de piel metálica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7495,7 +6557,7 @@ Un prompt JSON altamente estructurado para generar una silueta cinematográfica 
 
 ---
 
-### No. 107: Activo de juego - Nano Banana Pro prompt para el estilo Cross Dimensions
+### No. 111: Activo de juego - Nano Banana Pro prompt para el estilo Cross Dimensions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7529,7 +6591,7 @@ Cruzando dimensiones, un {argument name="subject" default="samurái cibernético
 
 ---
 
-### No. 108: Activo de juego - Prompt para la generación de stickers de LINE (estilo arcilla 3D)
+### No. 112: Activo de juego - Prompt para la generación de stickers de LINE (estilo arcilla 3D)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7569,7 +6631,7 @@ Diseño de personaje 3D, estilo "blind box", diseño estilo Pop Mart, C4D, rende
 
 ---
 
-### No. 109: Activo de juego - Nobleza cinematográfica y dragón (Prompt)
+### No. 113: Activo de juego - Nobleza cinematográfica y dragón (Prompt)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7607,7 +6669,7 @@ grano de película, resolución 8k, hiperrealista, estilo {argument name="style"
 
 ---
 
-### No. 110: Activo de juego - Ilustración 3D 8K de abejas antropomórficas (en el gimnasio y relajándose)
+### No. 114: Activo de juego - Ilustración 3D 8K de abejas antropomórficas (en el gimnasio y relajándose)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7739,7 +6801,7 @@ Un *prompt* complejo estructurado en dos módulos para generar ilustraciones 3D 
 
 ---
 
-### No. 111: Activo de juego - Flujo de trabajo para la transferencia de estilo y la generación de guiones gráficos
+### No. 115: Activo de juego - Flujo de trabajo para la transferencia de estilo y la generación de guiones gráficos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7784,7 +6846,7 @@ imagen realista de mi personaje + imagen de referencia de un personaje "inflado"
 
 ---
 
-### No. 112: Activo de juego - Generación de avatares 3D al estilo Pixar
+### No. 116: Activo de juego - Generación de avatares 3D al estilo Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7817,7 +6879,7 @@ Crea un avatar 3D de alta calidad de la persona de la imagen subida con una cara
 
 ---
 
-### No. 113: Activo de juego - Transferencia de estilo de renderizado de videojuegos de principios de los 2000
+### No. 117: Activo de juego - Transferencia de estilo de renderizado de videojuegos de principios de los 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7859,7 +6921,7 @@ Bajo poligonaje, texturas de baja resolución
 
 ---
 
-### No. 114: Activo de juego - Generación de hojas de referencia de personajes
+### No. 118: Activo de juego - Generación de hojas de referencia de personajes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7892,58 +6954,98 @@ Por favor, crea una hoja de rotación de tres vistas para la chica adjunta.
 
 ---
 
-### No. 115: Activo de juego - Prompt para la transformación dramática de un personaje
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* de Nano Banana Pro diseñado para transformar una foto original en cuatro estilos de personajes fotorrealistas y ultradetallados diferentes, utilizando tomas de ángulo amplio en primer plano medio y ángulos de cámara extremos y dinámicos.
-
-#### 📝 Prompt
-
-```
-Transforma la foto original en un conjunto dramático, fotorrealista y ultradetallado de 4 personajes con estilos diferentes, cada uno en un primer plano medio con gran angular y un ángulo de cámara extremo y dinámico, posicionados justo al lado del objetivo y que parecen enormes.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342437_nu8lid_G-67I_KW0AA-y2h.jpg" width="600" alt="Activo de juego - Prompt para la transformación dramática de un personaje - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342494_29ks18_G-62zL4WAAEtkio.jpg" width="600" alt="Activo de juego - Prompt para la transformación dramática de un personaje - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **Fuente:** [Twitter Post](https://x.com/Ankit_patel211/status/2012751932407107585)
-- **Publicado:** 18 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6688)**
-
----
-
-### No. 116: Activo de juego - Diorama isométrico 3D de un objeto doméstico como arquitectura
+### No. 119: Póster / Folleto - Retrato cinematográfico en el vestíbulo de un cine de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* para generar un diorama isométrico 3D limpio y minimalista donde un objeto doméstico específico se transforma en una pequeña estructura arquitectónica. Enfatiza materiales realistas, iluminación de estudio suave y un estilo de maqueta arquitectónica en miniatura.
+Un prompt JSON detallado para generar un retrato cinematográfico de cuerpo entero de un joven elegante en el vestíbulo de un cine de lujo, enfatizando el bloqueo de identidad (la cara debe permanecer 100% idéntica a la foto de referencia). La escena incluye detalles específicos sobre el atuendo, el entorno de fondo (suelo de mármol, iluminación cálida) y un póster de película de '{argument name="movie title" default="BORDER 2"}' claramente visible junto al sujeto.
 
 #### 📝 Prompt
 
 ```
-Un diorama isométrico 3D limpio y minimalista que transforma un {argument name="household object" default="HOUSEHOLD OBJECT"} en una pequeña estructura arquitectónica. Los elementos funcionales se abstraen en puertas, ventanas y volúmenes, materiales realistas, iluminación de estudio suave, bordes redondeados, estilo de maqueta arquitectónica en miniatura, fondo neutro.
+{
+  "aspect_ratio": "3:4",
+  "main_subject": {
+    "description": "Un joven elegante de pie con confianza dentro del vestíbulo de un cine moderno, misma pose que en la imagen de referencia.",
+    "pose": {
+      "hand": "Una mano casualmente dentro del bolsillo de los jeans",
+      "body": "Cuerpo ligeramente inclinado",
+      "head": "Cabeza girada hacia un lado con una expresión de confianza",
+      "face": "La cara debe permanecer 100% idéntica a la foto de referencia",
+      "additional": "De pie casualmente junto a un marco de póster de película, sosteniendo el boleto de la película Border 2 con ambas manos"
+    },
+    "appearance": {
+      "sunglasses": "Gafas de sol rectangulares negras",
+      "jawline": "Mandíbula definida",
+      "beard": "Barba bien cuidada",
+      "hairstyle": "Peinado voluminoso"
+    },
+    "outfit": {
+      "shirt": "Camisa casual blanca de manga corta, corte holgado",
+      "jeans": "Jeans anchos gris oscuro",
+      "shoes": "Zapatillas blancas estilo Adidas con rayas negras",
+      "accessories": "Pulsera y anillo plateados en la mano, reloj inteligente Apple negro, sin accesorios adicionales"
+    }
+  },
+  "background_environment": {
+    "location": "Vestíbulo de una sala de cine de lujo",
+    "flooring": "Suelo de mármol con reflejos cálidos",
+    "lighting": "Iluminación interior suave y amarilla",
+    "details": "Mostrador de comida visible al fondo, marco de póster de película claramente visible junto al sujeto"
+  },
+  "poster_details": {
+    "title": "{argument name=\"movie title\" default=\"BORDER 2\"}",
+    "release_date": "23 January 2026",
+    "actors_visible": [
+      "Sunny Deol",
+      "Varun Dhawan",
+      "Ahan Shetty",
+      "Diljit Dosanjh"
+    ],
+    "style": "Cinemático, oficial, con gran detalle",
+    "lighting": "La iluminación del póster coincide con el ambiente interior"
+  },
+  "camera_composition": {
+    "shot": "Plano de cuerpo entero",
+    "quality": "Calidad DSLR",
+    "focus": "Enfoque nítido",
+    "placement": "Sujeto ligeramente descentrado",
+    "poster": "Póster claramente legible junto a él"
+  },
+  "image_quality": {
+    "resolution": "Ultra HD",
+    "sharpness": "Extremadamente nítida",
+    "skin_texture": "Textura de piel natural",
+    "motion": "Sin desenfoque, sin desenfoque de movimiento",
+    "look": "Aspecto limpio y realista"
+  },
+  "color_grading": {
+    "tones": "Tonos cinematográficos naturales",
+    "highlights": "Luces cálidas",
+    "contrast": "Contraste equilibrado",
+    "aesthetic": "Estética de centro comercial de lujo"
+  },
+  "style_mood": {
+    "vibe": "Ambiente de estreno de película, con confianza y estilo",
+    "moment": "Momento de fan con la cultura del cine"
+  },
+  "negative_prompt": [
+    "desenfoque",
+    "baja calidad",
+    "dibujos animados",
+    "anime",
+    "piel demasiado suave",
+    "dedos extra",
+    "cara distorsionada",
+    "marca de agua",
+    "logotipo",
+    "ruido",
+    "desenfoque cinematográfico"
+  ]
+}
 ```
 
 #### 🖼️ Imágenes generadas
@@ -7951,107 +7053,39 @@ Un diorama isométrico 3D limpio y minimalista que transforma un {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300421_dnjx48_G-6zqv-XgAAiRfz.jpg" width="600" alt="Activo de juego - Diorama isométrico 3D de un objeto doméstico como arquitectura - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235959066_fpcede_G_WpBdnXwAAyOc9.jpg" width="600" alt="Póster / Folleto - Retrato cinematográfico en el vestíbulo de un cine de lujo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300228_vgyh8m_G-6zn0XaUAAJDSL.jpg" width="600" alt="Activo de juego - Diorama isométrico 3D de un objeto doméstico como arquitectura - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300310_bxodc0_G-6zoUpWwAA3YBF.jpg" width="600" alt="Activo de juego - Diorama isométrico 3D de un objeto doméstico como arquitectura - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804301814_rfw4oq_G-6zsnAXwAAyVnh.jpg" width="600" alt="Activo de juego - Diorama isométrico 3D de un objeto doméstico como arquitectura - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235958910_ta0ons_G_WpBdAbQAAdScU.jpg" width="600" alt="Póster / Folleto - Retrato cinematográfico en el vestíbulo de un cine de lujo - Image 2">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Aleena Amir](https://x.com/aleenaamiir)
-- **Fuente:** [Twitter Post](https://x.com/aleenaamiir/status/2012743833902370831)
-- **Publicado:** 18 de enero de 2026
+- **Autor:** [Abhishek Singh](https://x.com/2abhisheknaks)
+- **Fuente:** [Twitter Post](https://x.com/2abhisheknaks/status/2014702316553961931)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6636)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7252)**
 
 ---
 
-### No. 117: Activo de juego - Generación de una ilustración de habitación isométrica basada en un concepto de personaje
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un *prompt* utilizado con Nano Banana Pro para generar una ilustración isométrica de una habitación que refleja la personalidad de un personaje específico, excluyendo explícitamente al personaje de la imagen.
-
-#### 📝 Prompt
-
-```
-Por favor, describe la habitación de este personaje en una ilustración isométrica imaginaria.
-No se solicita la representación de la persona.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg" width="600" alt="Activo de juego - Generación de una ilustración de habitación isométrica basada en un concepto de personaje - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg" width="600" alt="Activo de juego - Generación de una ilustración de habitación isométrica basada en un concepto de personaje - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [十三不塔](https://x.com/shiisanpuutaa13)
-- **Fuente:** [Twitter Post](https://x.com/shiisanpuutaa13/status/2012729009126416430)
-- **Publicado:** 18 de enero de 2026
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6680)**
-
----
-
-### No. 118: Activo de juego - Prompt de panorama equirectangular de 360 grados
+### No. 120: Póster / Folleto - Póster Musical Monocromático Arenoso con Acentos de Neón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* altamente técnico diseñado para generar una imagen panorámica equirectangular de 360 grados sin interrupciones, optimizada para una iluminación y composición consistentes en toda la vista esférica. Especifica una escena histórica e incluye reglas para evitar artefactos visuales como costuras o sombras direccionales, lo que lo hace ideal para entornos de realidad virtual.
+Un *prompt* para Nano Banana Pro para crear un póster de música llamativo y vertical que presente a una cantante actuando en vivo. La imagen debe tener un tratamiento monocromático crudo con un sutil granulado, pero incluir vibrantes acentos de color verde neón pintados sobre la imagen, sobre un fondo texturizado de color verde azulado con tipografía amarilla de gran tamaño que deletree "ROCK STAR".
 
 #### 📝 Prompt
 
 ```
-[ESCENA] = {argument name="descripción de la escena" default="Troya, Anatolia, aprox. siglo XII a.C. Los momentos posteriores a que el Caballo de Troya es introducido dentro de las murallas de la ciudad."}
-
-Crea un panorama equirectangular de 360 grados con una relación de aspecto de 21:9.
-Renderiza la escena como un panorama esférico completo con la proyección equirectangular correcta.
-Establece todo el entorno estrictamente basado en [ESCENA].
-Coloca la cámara en el centro exacto de la escena con un punto de vista fijo.
-Diseña el entorno como un mundo continuo y circular sin borde izquierdo o derecho.
-Asegúrate de que los bordes horizontales primero y último se alineen perfectamente.
-Distribuye la arquitectura, las personas y los objetos de manera uniforme alrededor de la vista completa de 360°.
-Utiliza iluminación, materiales y comportamiento físico realistas.
-Mantén un enfoque nítido en todo el panorama.
-Utiliza luz diurna natural uniforme sin una dirección de luz dominante.
-Asegúrate de que la intensidad y el color de la iluminación permanezcan constantes en todo el panorama de 360°.
-Trata el entorno como iluminado por una cúpula de cielo difusa uniformemente en lugar de una única fuente solar.
-Aplica sombras globales suaves que no favorezcan ninguna dirección horizontal.
-Evita los gradientes de luz solar direccionales que puedan causar desajustes de iluminación en las uniones.
-Evita elementos modernos, superposiciones de interfaz de usuario, bordes, marcos, vistas recortadas, estilo de fantasía o uniones de panorama rotas.
+Crea un póster musical vertical, audaz y enérgico, con una joven cantante actuando en vivo en el escenario. Está capturada en plena actuación, sosteniendo un micrófono cerca de su boca, sonriendo con confianza y carisma. Su cabello está peinado en moños espaciales despeinados con mechones sueltos, y lleva una camiseta negra de gran tamaño combinada con collares de cadena gruesos, lo que le da una presencia escénica rebelde y desenfadada. El retrato está tratado en monocromo granulado con sutiles granos y textura, mientras que los acentos de color verde neón están pintados sobre partes de la imagen —especialmente formas gráficas similares a llamas que surgen de la parte inferior de su camiseta— añadiendo intensidad y un impacto visual. El fondo es una superficie plana de color verde azulado texturizado con ruido visible y grano de póster. Dominando la composición detrás de la figura, hay una tipografía amarilla grande, redondeada y audaz que deletrea "{argument name="text" default="ROCK STAR"}" en líneas apiladas. Las letras son gruesas, divertidas y ligeramente retro, llenando la mayor parte del encuadre y parcialmente oscurecidas por la artista para crear profundidad. Coloca su nombre detrás de la figura.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -8059,127 +7093,17 @@ Evita elementos modernos, superposiciones de interfaz de usuario, bordes, marcos
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204059_0knjxw_G-6FROjXwAAhlGv.jpg" width="600" alt="Activo de juego - Prompt de panorama equirectangular de 360 grados - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204223_htd648_G-6FhchXQAAg2v9.jpg" width="600" alt="Activo de juego - Prompt de panorama equirectangular de 360 grados - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204700_mp84c0_G-6FROdXEAA5Ebi.jpg" width="600" alt="Activo de juego - Prompt de panorama equirectangular de 360 grados - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205830_ybuinq_G-3jkdbWIAA-73-.jpg" width="600" alt="Activo de juego - Prompt de panorama equirectangular de 360 grados - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205613_2j0lcg_G-3iiIrWsAEbmso.jpg" width="600" alt="Activo de juego - Prompt de panorama equirectangular de 360 grados - Image 5">
+<img src="https://cms-assets.youmind.com/media/1769235980326_xgs51u_G_U02kNbAAowYZR.jpg" width="600" alt="Póster / Folleto - Póster Musical Monocromático Arenoso con Acentos de Neón - Image 1">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Aimi Kōda](https://x.com/aimikoda)
-- **Fuente:** [Twitter Post](https://x.com/aimikoda/status/2012694679628677523)
-- **Publicado:** 18 de enero de 2026
+- **Autor:** [CaptchaPassed](https://x.com/captchapassed)
+- **Fuente:** [Twitter Post](https://x.com/captchapassed/status/2014676995683316031)
+- **Publicado:** 23 de enero de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=6509)**
-
----
-
-### No. 119: Póster / Folleto - Prompt de ilustración digital cinematográfica surrealista
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un *prompt* complejo para transformar una imagen subida en una ilustración digital surrealista y de alto impacto de un hombre de Europa del Este. Exige una coincidencia del 100 % de la identidad facial, presenta gafas de sol reflectantes de color naranja intenso que reflejan un paisaje urbano y utiliza tonos grises apagados contrastados con pinceladas abstractas de color verde neón y azul eléctrico.
-
-#### 📝 Prompt
-
-```
-Transforma la imagen subida en una ilustración digital de alto impacto utilizando la imagen como referencia facial estricta. Coincidencia facial (estricta): La coincidencia facial debe ser 100 % exacta: estructura facial, proporciones, línea de la mandíbula, pómulos, forma de la nariz, labios, densidad y recorte de la barba (si está disponible en la imagen de referencia), textura de la piel, línea del cabello, peinado e identidad general idénticos. No embellezcas, estilices ni alteres los rasgos faciales. Sujeto y pose: Se muestra a un joven de Europa del Este en una pose limpia de perfil lateral (no de perfil extremo), mirando hacia el lado derecho del encuadre. Su cabeza está ligeramente levantada, la barbilla suavemente elevada, transmitiendo confianza, ambición y visión de futuro. La expresión es tranquila y segura de sí misma. Vestimenta y estilo: El sujeto viste ropa formal y moderna: un blazer oscuro a medida sobre una camisa impecable, minimalista y elegante, lo que refuerza una personalidad profesional y ambiciosa. Sin accesorios que distraigan. Elemento visual clave: Lleva gafas de sol reflectantes de color naranja intenso como punto focal. Los cristales reflejan un paisaje urbano moderno y detallado con rascacielos, carreteras urbanas y árboles verdes, simbolizando visión, ambición y metas futuras. Color y estilo de ilustración: La cara y la ropa se representan en tonos grises apagados, con una textura realista traducida a un estilo de ilustración digital refinado. Alrededor del sujeto hay pinceladas abstractas expresivas y salpicaduras en verde neón y azul eléctrico, que añaden energía y contraste sin cubrir los detalles faciales. Fondo e iluminación: El fondo es oscuro y dramático, con capas de tonos grises profundos, textura sutil y movimiento pictórico. La iluminación cinematográfica crea una fuerte separación del sujeto, reflejos limpios y sombras controladas. Estética general: Ilustración digital moderna, cinematográfica y surrealista con un equilibrio de 2/3 fotorrealista y 1/3 de expresión abstracta, calidad de póster, alto contraste, aspecto premium. Relación de aspecto: 4:5
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063225543_rpqzbo_G_MyA0yXAAEARMl.jpg" width="600" alt="Póster / Folleto - Prompt de ilustración digital cinematográfica surrealista - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [K](https://x.com/ChillaiKalan__)
-- **Fuente:** [Twitter Post](https://x.com/ChillaiKalan__/status/2014008462632796586)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7137)**
-
----
-
-### No. 120: Póster / Folleto - Anuncio Impreso Surrealista y Minimalista de Ferrari
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* diseñado para recrear un anuncio impreso de automóviles de lujo utilizando un estilo minimalista surrealista. La imagen principal presenta la parte frontal de un Ferrari extruida en vetas alargadas de cromo líquido, lo que sugiere un tiempo estirado durante la aceleración. Enfatiza un fondo de galería blanco mate, un espacio negativo masivo, iluminación de estudio y una resolución 8K ultra nítida, incluyendo instrucciones específicas para la ubicación del logotipo y un eslogan de dos palabras.
-
-#### 📝 Prompt
-
-```
-FERRARI
-Anuncio impreso fotorrealista, surrealista y minimalista. Héroe: el frontal de un Ferrari extruido en vetas alargadas de metal cromado líquido, como si el tiempo estirara el vehículo en plena aceleración. Un acento como máximo. Fondo blanco mate de galería con un espacio negativo masivo. Iluminación de estudio, micro reflejos, 8K ultra nítido. Logotipo oficial del escudo de Ferrari en la parte superior izquierda (vectorial, proporciones precisas, textura de tinta sutil). Eslogan de dos palabras en la parte inferior derecha: "{argument name="slogan" default="Distort Speed"}". Sin desorden, sin marca de agua, sin texto adicional.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162956_nf4wh0_G_MKA0QXgAEMuJP.jpg" width="600" alt="Póster / Folleto - Anuncio Impreso Surrealista y Minimalista de Ferrari - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162967_wdgacf_G_MKIfSWgAACmvA.jpg" width="600" alt="Póster / Folleto - Anuncio Impreso Surrealista y Minimalista de Ferrari - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162985_j43d95_G_MKIfRWMAAvjKd.jpg" width="600" alt="Póster / Folleto - Anuncio Impreso Surrealista y Minimalista de Ferrari - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063163886_r34gzv_G_MKIfWW8AEJX6T.jpg" width="600" alt="Póster / Folleto - Anuncio Impreso Surrealista y Minimalista de Ferrari - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Guillermo Castellanos](https://x.com/guicastellanos1)
-- **Fuente:** [Twitter Post](https://x.com/guicastellanos1/status/2013965905877672139)
-- **Publicado:** 21 de enero de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7030)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=7281)**
 
 ---
 
@@ -8189,7 +7113,7 @@ Anuncio impreso fotorrealista, surrealista y minimalista. Héroe: el frontal de 
 
 <div align="center">
 
-### 🎯 6298 prompts más no mostrados aquí
+### 🎯 6448 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8252,6 +7176,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-01-24T04:27:29.875Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-01-24T08:14:51.323Z</sub>
 
 </div>

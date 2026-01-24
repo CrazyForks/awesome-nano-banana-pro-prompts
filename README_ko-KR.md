@@ -135,9 +135,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **6418** |
+| 📝 총 프롬프트 수 | **6568** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 1월 24일 토요일 오전 4시 27분 16초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 1월 24일 토요일 오전 8시 14분 40초 UTC** |
 
 </div>
 
@@ -646,7 +646,1050 @@ Grok 검색 결과
 
 > 📝 게시일 기준 정렬(최신순)
 
-### No. 1: 프로필 / 아바타 - 친밀하고 아늑한 침실 거울 셀카 프롬프트
+### No. 1: 프로필 / 아바타 - 자신감 있는 남자의 에디토리얼 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+자신감 넘치는 남성의 초현실적이고 시네마틱한 에디토리얼 인물 사진을 만들기 위한 Nano Banana Pro 프롬프트입니다. 피사체의 복장(검은색 터틀넥, 붉은색 선글라스), 배경(짙은 붉은색 스튜디오 배경), 조명(부드럽지만 지향성)을 지정하여 고대비의 현대적인 테크 창업가 미학을 구현합니다.
+
+#### 📝 프롬프트
+
+```
+짙은 빨간색 스튜디오 배경에 기대어 서 있는 자신감 넘치는 남성. 몸에 잘 맞는 검은색 터틀넥과 붉은색 직사각형 선글라스를 착용하고 있다. 차분하고 침착한 표정으로 살짝 옆을 보고 있다. 미니멀리스트 패션 미학, 날카로운 턱선, 깔끔한 헤어컷, 현대적인 테크 창업가 분위기. 부드러우면서도 방향성 있는 스튜디오 조명이 얼굴과 몸에 은은한 그림자를 드리운다. 검은색 의상과 빨간색 배경 사이의 높은 대비. 시네마틱, 에디토리얼 인물 사진 스타일. 초현실적, 얕은 피사계 심도, 선명한 초점, 프리미엄 패션 사진 느낌.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236061130_283yun_G_aDKBBaAAE0JlN.jpg" width="600" alt="프로필 / 아바타 - 자신감 있는 남자의 에디토리얼 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Heisenberg](https://x.com/rovvmut_)
+- **출처:** [Twitter Post](https://x.com/rovvmut_/status/2014944897766486052)
+- **게시일:** 2026년 1월 24일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7395)**
+
+---
+
+### No. 2: 프로필 / 아바타 - 스타킹과 깃발 배경으로 거울 셀카 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+소파에 앉아 크롭 탱크탑과 시스루 검은색 팬티스타킹을 입은 동아시아 여성의 사실적인 거울 셀카를 생성하기 위한 매우 상세한 JSON 프롬프트. 해부학적 정확성, 조명 디테일, 배경에 걸린 미국 국기를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "subject": {
+    "ethnicity": "동아시아인",
+    "description": "길고 짙은 갈색 머리를 가진 젊은 여성.",
+    "body": {
+      "physique": "모래시계형 실루엣이 뚜렷한 중배엽 체형. 가늘고 탄탄한 허리선과 넓은 장골능이 특징인 뛰어난 허리-엉덩이 비율.",
+      "details": "선명하게 드러난 복부와 가는 허리. 스타킹을 통해 보이는 탄탄한 둔근과 대퇴사두근. 가느다란 어깨, 섬세한 쇄골, 그리고 기기를 들고 있는 해부학적으로 정확한 손과 손가락 구조."
+    },
+    "facial_features": "좌우 대칭적인 얼굴 구조, 매트한 마감의 도톰한 입술, 날렵한 턱선, 거울 속 반사상에 집중된 시선."
+  },
+  "wardrobe": {
+    "top": "직물 결이 살아있고 부드러운 직물 장력이 느껴지는 몸에 꼭 맞는 흰색 골지 면 크롭 탱크톱.",
+    "bottom": "근육의 선명함과 다리 곡선을 강조하는 매트한 마감의 하이웨이스트, 비치는 검은색 20데니어 팬티스타킹.",
+    "accessories": "미니멀한 금색 목걸이와 얇은 금색 반지. 피사체는 흰색 스마트폰을 들고 있으며, 기기 뒷면에는 은색 '{argument name=\"phone logo\" default=\"Apple logo\"}' 로고와 정교한 트리플 렌즈 카메라 모듈이 있다."
+  },
+  "pose_action": {
+    "description": "소파에 앉아 편안하면서도 균형 잡힌 거울 셀카 자세.",
+    "details": "피사체는 다리 라인과 발 아치를 강조하기 위해 다리를 꼬고 소파 가장자리에 앉아 있다. 왼팔은 쿠션에 기대어 지지하고 있고, 오른손은 거울 속 모습을 촬영하기 위해 휴대폰을 들고 있다. 몸통은 허리-엉덩이 전환을 강조하기 위해 약간 기울어져 있다."
+  },
+  "scene": {
+    "location": "고급스러운 미니멀리스트 현대식 인테리어.",
+    "background_elements": "밝은 회색 질감의 소파 등받이에는 미국(USA) 국기가 걸려 있다. 국기는 완벽하게 평평하지 않고 자연스러운 곡선, 약간의 주름, 사실적인 직물 주름이 특징이다. 오른쪽에는 흑백 기하학적 패턴의 장식용 베개가 보인다.",
+    "environment": "왼쪽에는 천장부터 바닥까지 이어지는 큰 창문이 있고, 얇은 흰색 커튼을 통해 부드럽고 확산된 외부 빛이 들어온다. 배경 벽은 중성 톤의 질감 있는 패널로 구성되어 있다."
+  },
+  "lighting": {
+    "setup": "측면 창문에서 들어오는 부드럽게 확산된 자연광 (렘브란트 조명 스타일).",
+    "details": "머리카락 가닥과 검은색 타이츠의 미세한 망사 질감에 미묘한 스페큘러 하이라이트. 옷과 소파 직물의 주름에 자연스러운 부드러운 그림자가 드리워져 깊이감 있는 사실감을 더한다."
+  },
+  "camera": {
+    "perspective": "거울 셀카 시점, 눈높이 촬영.",
+    "technical": "자연스러운 비율과 약간의 배경 압축을 위해 35mm f/2.8 렌즈로 촬영. 8k 해상도, 사실적, 영화 같은 품질, 매우 섬세한 질감. 화면 비율 9:16.",
+    "reflection_integrity_rules": "거울 반사상은 피사체의 해부학적 구조와 휴대폰의 방향과 완벽하게 일치해야 한다. 반사상이"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236025425_o0kn76_G_YmMllXAAA68sb.jpg" width="600" alt="프로필 / 아바타 - 스타킹과 깃발 배경으로 거울 셀카 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Duru💝](https://x.com/Durusss13)
+- **출처:** [Twitter Post](https://x.com/Durusss13/status/2014840093001875694)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7341)**
+
+---
+
+### No. 3: 프로필 / 아바타 - 추상적인 혼란스러운 낙서 예술 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 얼굴 사진을 느슨하고 흩뿌려진 검은색 잉크 선을 사용하여 추상적이고 혼란스러운 낙서 예술로 변환하는 이미지 생성 프롬프트. 혼돈과 추상성을 강조하면서도 기본적인 구성과 표정을 유지하는 것이 목표입니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 얼굴 사진을 매우 추상적이고 혼란스러운 낙서 예술로 변환하되, 매우 느슨하고 흩어져 있으며 극도로 무작위적인 검은색 잉크 선을 사용하여 사진 속 인물이 좋은 자세로 서서 적절한 셔츠와 바지를 입고 있는 이미지를 만드세요. 선들은 얼굴을 겨우 알아볼 수 있을 정도로만 표현하여, 명확한 정의보다는 혼돈과 추상성을 강조해야 합니다. 원래의 표정과 비율은 전반적인 기본 구성으로 유지하세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053820_vd5vp0_G_YjU30WUAA7aSB.jpg" width="600" alt="프로필 / 아바타 - 추상적인 혼란스러운 낙서 예술 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836743057350672)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7382)**
+
+---
+
+### No. 4: 프로필 / 아바타 - 네온 악센트 조명 인물 사진 프롬프트 (이미지 참조)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 사진에 특정 조명 스타일(얼굴과 머리카락 가장자리를 따라 밝은 네온 악센트가 있는 어두운 기본 조명)을 적용하는 프롬프트. 원본 얼굴, 몸, 질감을 미화하거나 구조적 변경 없이 엄격하게 보존해야 합니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 사진의 인물을 있는 그대로 사용하고, 얼굴, 몸, 비율, 피부 질감, 헤어스타일을 유지하며, 미화하지 말고, 얼굴 구조나 포즈를 변경하지 마세요. 어두운 기본 조명에 네온 악센트 조명을 사용하고, 얼굴과 머리카락 가장자리를 따라 밝은 네온 하이라이트를 적용하며, 어두운 그림자에 선명한 색상 악센트를 더하세요. 조명만 변경하고, 조명이나 색상을 정규화하지 마세요. 자동 노출 보정이나 뷰티 조명은 사용하지 마세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236059069_1d0mal_G_YigSnXkAAPNWk.jpg" width="600" alt="프로필 / 아바타 - 네온 악센트 조명 인물 사진 프롬프트 (이미지 참조) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014835836366274675)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7391)**
+
+---
+
+### No. 5: 프로필 / 아바타 - Nano Banana Pro용 9분할 얼굴 일관성 그리드 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+이것은 동일한 여성의 얼굴에 초점을 맞춘 3x3 그리드 초상화를 생성하도록 설계된 매우 상세하고 구조화된 프롬프트로, 9가지의 뚜렷한 머리 각도와 관점 전반에 걸쳐 절대적인 얼굴 일관성을 보장합니다. 이 프롬프트는 Nano Banana Pro와 함께 사용하여 이미지 생성 시 캐릭터 일관성을 위해 동일한 특징, 조명 및 사실감을 유지하면서 포괄적인 얼굴 프로필 참조를 만드는 것을 목표로 합니다.
+
+#### 📝 프롬프트
+
+```
+제공된 참고 이미지를 유일한 신원 및 얼굴 구조 기준으로 사용하세요. 동일한 여성의 얼굴에 초점을 맞춘 초상화 3x3 그리드를 만드세요. 모든 프레임에서 동일한 얼굴 특징, 비율, 표정 기준선 및 사실감을 유지해야 합니다.
+
+각 패널은 조명 일관성, 렌즈 사실감 및 자연스러운 피부 질감을 유지하면서도 뚜렷한 머리 각도와 얼굴 원근감을 보여야 합니다. 헤어스타일, 메이크업 스타일 또는 얼굴 신원은 변경하지 마세요.
+
+그리드 구성
+
+맨 위 줄
+1. 정면을 향한 중립 각도, 카메라를 직접 응시하는 눈
+2. 오른쪽을 향한 쿼터 뷰, 약간 기울어진 머리, 정면을 응시하는 눈
+3. 완전한 오른쪽 측면 프로필, 코, 입술, 턱선의 깔끔한 실루엣
+
+가운데 줄
+4. 왼쪽을 향한 쿼터 뷰, 부드럽게 기울어진 머리, 자신감 있는 시선
+5. 카메라를 향해 약간 아래로 내려다보는 낮은 각도, 미묘한 파워 포즈
+6. 위를 향해 올려다보는 약간 높은 각도, 편안한 표정
+
+맨 아래 줄
+7. 머리를 오른쪽으로 돌리고 카메라를 뒤돌아보는 눈
+8. 머리를 왼쪽으로 돌리고 카메라를 뒤돌아보는 눈
+9. 광대뼈, 턱선, 귀 윤곽을 보여주는 거의 후면 쿼터 각도
+
+기술 및 시각적 요구 사항
+
+초현실적인 인물 사진
+85mm 렌즈 느낌, 얕은 피사계 심도
+선명한 얼굴 디테일, 보이는 피부 질감, 자연스러운 모공
+부드러운 그림자 낙하가 있는 부드러운 주광 조명
+방해 요소가 없는 중립적인 배경
+모든 얼굴이 그리드 내에서 깔끔하게 정렬되도록 일관된 프레임
+고해상도, 편집 품질, 패션 및 뷰티 표준
+
+엄격한 제약 조건
+
+얼굴 구조를 변경하지 마세요.
+양식화하거나 만화화하지 마세요.
+표정을 급격하게 바꾸지 마세요.
+텍스트 없음, 워터마크 없음, 왜곡 없음
+아홉 프레임 모두 동일한 인물
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973313_e7cgal_G_X57VvXoAEhiBv.jpg" width="600" alt="프로필 / 아바타 - Nano Banana Pro용 9분할 얼굴 일관성 그리드 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235973397_ekhzd3_G_X57VzW8AA8y6w.jpg" width="600" alt="프로필 / 아바타 - Nano Banana Pro용 9분할 얼굴 일관성 그리드 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Ajala Victor 👑 | Visual/Brand Designer](https://x.com/avstudiosng)
+- **출처:** [Twitter Post](https://x.com/avstudiosng/status/2014791228118745344)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7271)**
+
+---
+
+### No. 6: 프로필 / 아바타 - Z세대 혼돈의 요정 셀카 콜라주 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+시드니 스위니(Sydney Sweeney)를 닮은 피사체를 Gen Z의 솔직한 소셜 미디어 덤프 스타일로 담아낸 초광각 셀카 2x2 격자 콜라주를 생성하도록 설계된 복잡한 JSON 프롬프트입니다. 이 프롬프트는 이미지 구조, 전반적인 스타일 설정(0.5배 렌즈, 하이 앵글 왜곡, 혼란스러운 요정 미학), 피사체 세부 정보(의상, 메이크업, 액세서리), 그리고 네 개의 패널 각각에 대한 특정 표정과 포즈(혀 내밀기, 오리 입술, 윙크)를 세심하게 설명합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "image_structure": {
+    "format": "2x2 그리드 콜라주",
+    "total_panels": 4,
+    "layout_style": "정사각형 그리드에 배열된 4개의 0.5배 광각 셀카",
+    "aspect_ratio": "정사각형 (1:1) 또는 4개의 수직 3:4 이미지를 포함하는 전체 4:5 비율"
+  },
+  "global_style_settings": {
+    "camera_effect": "0.5배 초광각 렌즈 / 어안 효과",
+    "perspective": "팔 왜곡이 있는 하이 앵글 셀카 (팔이 길고 전경에서 크게 보임)",
+    "lighting": "실내 주변 천장 조명과 전면 휴대폰 플래시 혼합 (밝고 약간 차가운 톤)",
+    "aesthetic": "Z세대 솔직한 소셜 미디어 덤프, 혼란스러운 요정 분위기"
+  },
+  "subject_universal_details": {
+    "demographics": "20세 정도의 젊은 백인 여성",
+    "skin": "차가운 핑크빛 언더톤의 밝고 창백한 피부톤, 매우 매끄러운 피부결",
+    "hair": "더티 블론드/밝은 갈색 뿌리에서 블론드 길이로 이어지며, 얼굴을 감싸는 얇은 머리카락이 있는 지저분한 하이 번 (탑노트) 스타일",
+    "outfit": "{argument name=\"outfit color\" default=\"Lime green\"}/샤르트뢰즈 미니 드레스, 큰 원형 스팽글로 덮여 있으며 얇은 스파게티 스트랩",
+    "accessories": [
+      "반투명한 연두색 요정 날개, 반짝이는 혈관 디테일",
+      "검은색 플라스틱 타투 스타일 초커 목걸이"
+    ],
+    "makeup": "짙은 검은색 날개형 아이라이너 (캣 아이), 은은한 마스카라, 코끝 하이라이터, 높은 광대뼈에 장밋빛 핑크 블러셔, 글로시한 모브/핑크 내추럴 립 컬러"
+  },
+  "panel_breakdown": {
+    "top_left_panel": {
+      "expression": "장난스럽게 혀를 납작하게 내밀고 있음",
+      "gaze": "카메라를 직접 응시",
+      "pose": "머리를 살짝 기울이고 양팔을 렌즈를 향해 앞으로 뻗음",
+      "specific_detail": "혀가 아래로 뻗어 있고 눈이 크게 떠져 있음"
+    },
+    "top_right_panel": {
+      "expression": "오리 입술 / 삐죽거리는 입술",
+      "gaze": "카메라를 정면으로 응시",
+      "pose": "가슴을 앞으로 내밀고 어깨를 올리고 팔로 몸을 감쌈",
+      "specific_detail": "입술을 오므리고 순진한 표정"
+    },
+    "bottom_left_panel": {
+      "expression": "윙크 (왼쪽 눈 감고, 오른쪽 눈 뜨고), 은은한 삐죽거림",
+      "gaze": "카메라를 정면으로 응시",
+      "pose": "머리를 오른쪽으로 기울이고 살짝 뒤로 기대고 있음",
+      "specific_detail": "한쪽 눈을 꽉 감고 턱선이 뚜렷함"
+    },
+    "bottom_right_panel": {
+      "expression": "윙크 (왼쪽 눈 감고, 오른쪽 눈 뜨고), 과장된 뽀뽀 얼굴",
+      "gaze": "카메라를 정면으로 응시",
+      "pose": "머리를 왼쪽으로 기울이고 몸을 살짝 비스듬히 함",
+      "specific_detail": "뽀뽀를 위해 입술을 앞으로 내밀고 눈썹을 살짝 올림"
+    }
+  },
+  "background_environment": {
+    "location": "교외 거실",
+    "furniture": "짙은 회색 패브릭 섹션 소파 (모든 샷에서 그녀 뒤에 보임)",
+    "architecture": "난간이 있는 흰색 계단이 배경에 보임 (특히 왼쪽 상단 및 왼쪽 하단)",
+    "decor": "나무 수직 "
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235991833_0bnmr6_G_XSEOhbEAAdlmQ.jpg" width="600" alt="프로필 / 아바타 - Z세대 혼돈의 요정 셀카 콜라주 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [sammy](https://x.com/sumiturkude007)
+- **출처:** [Twitter Post](https://x.com/sumiturkude007/status/2014747390084055078)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7295)**
+
+---
+
+### No. 7: 프로필 / 아바타 - 솔직한 소셜 미디어 셀카 프롬프트 (에스컬레이터)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+솔직하고 하이 앵글의 아이폰 셀카를 소셜 미디어 인플루언서 미학으로 생성하기 위한 상세한 JSON 프롬프트입니다. 짧은 웨이브 머리를 한 젊은 여성이 쇼핑몰 에스컬레이터에서 장난기 넘치는 오리 입술/키스 표정을 짓고 있습니다. 프롬프트는 자연스러운 실내 조명, 크림 베이지색 탱크톱, 그리고 검은색 가죽 숄더백 스트랩과 손목에 있는 헤어 스크런치 같은 세부 사항을 명시합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt": "위에서 찍은 솔직한 셀카 사진, 갈색 금발의 짧은 웨이브 머리를 한 젊은 여성, 카메라를 올려다보며 오리 입술 키스 삐죽거리는 표정을 짓고 있음, 연한 청회색 눈, 핑크 누드 립의 자연스러운 최소한의 메이크업, 얇은 끈이 있는 크림 베이지색 탱크톱 착용, 검은색 가죽 숄더백 스트랩 보임, 손목에 검은색 헤어 스크런치, 손가락에 은색 반지, 흰색 매니큐어 손톱, 에스컬레이터에 서서 위를 올려다보고 있음, 아래에 금속 에스컬레이터 계단 보임, 뒤에 물방울무늬 셔츠를 입은 다른 사람 부분적으로 보임, 쇼핑몰 또는 지하철역 배경, 머리 위 높은 각도 셀카 시점, 자연스러운 실내 조명, 캐주얼 스트리트 스타일, 소셜 미디어 인플루언서 미학, iPhone 셀카 스타일",
+  "negative_prompt": "스튜디오 조명, 야외 자연, 격식 있는 옷, 진지한 표정, 옆 각도, 전신 샷",
+  "style": "솔직한 길거리 셀카, 소셜 미디어 콘텐츠, 캐주얼한 일상 순간",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "스마트폰 전면 카메라 셀카",
+    "angle": "피사체를 내려다보는 높은 오버헤드 각도",
+    "framing": "위에서 본 얼굴과 상반신 클로즈업"
+  },
+  "lighting": {
+    "type": "자연스러운 실내 주변광",
+    "quality": "부드럽고 균일한 조명, 강한 그림자 없음",
+    "atmosphere": "캐주얼한 일상 실내 환경"
+  },
+  "mood": "장난기 넘치는, 재미있는, 캐주얼한, 유혹적인, 즉흥적인",
+  "color_palette": "플래티넘 화이트 헤어, 크림 베이지, 블랙 악센트, 실버 메탈, 뉴트럴 톤",
+  "subject_features": {
+    "hair": "{argument name=\"hair color\" default=\"brown goldish\"}, 짧은 어깨 길이, 부드러운 웨이브, 가르마 중간",
+    "skin": "하얗고 깨끗한, 자연스러운, 도자기 같은",
+    "eyes": "연한 청회색, 카메라를 똑바로 올려다보고 있음",
+    "lips": "자연스러운 핑크색, 키스 삐죽거리는 오리 입술 모양",
+    "expression": "장난기 넘치는 오리 입술 키스 삐죽거리는 표정, 카메라를 보고 있음",
+    "eyebrows": "자연스러운 짙은 갈색, 잘 정돈됨"
+  },
+  "wardrobe": {
+    "top": "얇은 스파게티 스트랩이 있는 크림 베이지색 골지 탱크톱",
+    "accessories": "어깨에 스트랩이 걸린 검은색 가죽 숄더백, 손목에 검은색 패브릭 헤어 스크런치, 손가락에 은색 청키 반지",
+    "nails": "흰색 또는 연한 핑크색 매니큐어"
+  },
+  "setting": {
+    "location": "쇼핑몰 또는 지하철역 에스컬레이터",
+    "background": "금속 에스컬레이터 계단, 검은색 난간, 뒤에 다른 사람",
+    "context": "캐주얼한 일상 도시의 순간"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002462_s92ep6_G_W-yQXbAAElyUR.jpg" width="600" alt="프로필 / 아바타 - 솔직한 소셜 미디어 셀카 프롬프트 (에스컬레이터) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236002381_4c9hc4_G_W-yJvbAAId-aN.jpg" width="600" alt="프로필 / 아바타 - 솔직한 소셜 미디어 셀카 프롬프트 (에스컬레이터) - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014726182802227430)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7307)**
+
+---
+
+### No. 8: 프로필 / 아바타 - 에스컬레이터에서 오리 입술 표정을 한 솔직한 셀카 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+쇼핑몰 에스컬레이터에서 장난기 넘치는 '오리 입술' 키스 표정을 짓고 있는 젊은 여성(아나 데 아르마스 또는 조세핀 랭포드와 닮은)의 솔직하고 하이 앵글 셀카 사진을 생성하기 위한 매우 상세하고 구조화된 프롬프트로, 특정 액세서리, 조명, 소셜 미디어 인플루언서 미학에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt": "위에서 찍은 솔직한 셀카 사진, 갈색 금발의 짧은 웨이브 머리를 한 젊은 여성, 카메라를 올려다보며 오리 입술 키스 삐죽거리는 표정을 짓고 있음, 연한 파란색 회색 눈, 핑크 누드 립의 자연스러운 최소한의 메이크업, 얇은 스트랩이 있는 크림 베이지색 탱크탑 착용, 검은색 가죽 숄더백 스트랩 보임, 손목에 검은색 헤어 스크런치, 손가락에 은색 반지, 흰색 매니큐어 손톱, 에스컬레이터에 서서 위를 올려다보고 있음, 아래에 금속 에스컬레이터 계단 보임, 뒤에 물방울무늬 셔츠를 입은 다른 사람이 부분적으로 보임, 쇼핑몰 또는 지하철역 배경, 오버헤드 하이 앵글 셀카 시점, 자연스러운 실내 조명, 캐주얼 스트리트 스타일, 소셜 미디어 인플루언서 미학, iPhone 셀카 스타일",
+  "negative_prompt": "스튜디오 조명, 야외 자연, 격식 있는 옷, 진지한 표정, 옆모습, 전신 사진",
+  "style": "솔직한 길거리 셀카, 소셜 미디어 콘텐츠, 캐주얼한 일상 순간",
+  "aspect_ratio": "3:4",
+  "camera": {
+    "type": "스마트폰 전면 카메라 셀카",
+    "angle": "피사체를 내려다보는 높은 오버헤드 앵글",
+    "framing": "위에서 찍은 클로즈업 얼굴 및 상반신"
+  },
+  "lighting": {
+    "type": "자연스러운 실내 주변광",
+    "quality": "부드럽고 균일한 조명, 강한 그림자 없음",
+    "atmosphere": "캐주얼한 일상 실내 분위기"
+  },
+  "mood": "장난기 넘치는, 재미있는, 캐주얼한, 유혹적인, 즉흥적인",
+  "color_palette": "플래티넘 화이트 헤어, 크림 베이지, 검은색 악센트, 은색 금속, 뉴트럴 톤",
+  "subject_features": {
+    "hair": "갈색 금발, 짧은 어깨 길이, 부드러운 웨이브, 가르마",
+    "skin": "하얗고 깨끗한, 자연스러운, 도자기 같은",
+    "eyes": "연한 파란색 회색, 카메라를 똑바로 올려다보고 있음",
+    "lips": "자연스러운 핑크색, 키스 삐죽거리는 오리 입술",
+    "expression": "장난기 넘치는 오리 입술 키스 삐죽거리는 표정, 카메라를 보고 있음",
+    "eyebrows": "자연스러운 짙은 갈색, 잘 정리된"
+  },
+  "wardrobe": {
+    "top": "얇은 스파게티 스트랩이 있는 크림 베이지색 골지 탱크탑",
+    "accessories": "어깨에 스트랩이 있는 검은색 가죽 숄더백, 손목에 검은색 패브릭 헤어 스크런치, 손가락에 은색 청키 반지",
+    "nails": "흰색 또는 연한 핑크색 매니큐어"
+  },
+  "setting": {
+    "location": "쇼핑몰 또는 지하철역 에스컬레이터",
+    "background": "금속 에스컬레이터 계단, 검은색 난간, 뒤에 다른 사람",
+    "context": "캐주얼한 일상 도시 순간"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236016712_svuqb3_G_W4HuObAAASlP8.jpg" width="600" alt="프로필 / 아바타 - 에스컬레이터에서 오리 입술 표정을 한 솔직한 셀카 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236017075_exzro2_G_W4HuSbAAUgRnZ.jpg" width="600" alt="프로필 / 아바타 - 에스컬레이터에서 오리 입술 표정을 한 솔직한 셀카 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Sudee🥀](https://x.com/NameIsSudee)
+- **출처:** [Twitter Post](https://x.com/NameIsSudee/status/2014719189345599489)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7328)**
+
+---
+
+### No. 9: 프로필 / 아바타 - 커피 머그잔과 함께 아늑하고 솔직한 클로즈업 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+'솔직한 iPhone 느낌'이 나는 사진 같은 친밀한 클로즈업 인물 사진을 생성하기 위한 고도로 구조화되고 상세한 프롬프트입니다. 따뜻한 텅스텐 조명이 있는 거실 소파를 배경으로 커피 머그잔을 들고 있는 인물을 중심으로 아늑한 질감, 부드러운 그림자, 특정 프레이밍(4:5 화면 비율)을 강조합니다. 사실성과 콘텐츠 제약을 준수하기 위해 광범위한 부정 프롬프트가 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "category": "COZY_COUCH_LAMP_CLOSEUP",
+  "subject": {
+    "clothing": {
+      "outfit": "로우컷 브이넥 크롭탑 (텍스트 없음), 적절한 클리비지, 몸에 피트되는, 아늑한 실내 분위기",
+      "texture": "골지 면 또는 부드러운 저지, 사실적인 주름"
+    },
+    "accessories": {
+      "jewelry": ["작은 실버 후프 귀걸이"]
+    }
+  },
+  "pose": {
+    "type": "클로즈업 솔직한 모습",
+    "orientation": "약간 위쪽 각도, 편안한 자세",
+    "hands": "턱 근처에서 머그컵을 들고 있는 한 손 (손가락 정확하게 표현)",
+    "gaze": "부드러운 눈맞춤",
+    "expression": "부드러운 미소, 아늑함"
+  },
+  "setting": {
+    "environment": "거실 소파 코너",
+    "background_elements": [
+      "뒤에서 따뜻한 주황색 램프 불빛",
+      "담요 질감 보임",
+      "약간 흐릿한 생활감 있는 어수선함"
+    ],
+    "depth": "얼굴은 선명하고, 뒤쪽 램프 불빛은 번지고, 배경은 부드럽게 처리"
+  },
+  "camera": {
+    "shot_type": "클로즈업 인물 사진",
+    "angle": "눈높이보다 약간 위",
+    "focal_length_equivalent": "26mm 휴대폰 또는 50mm 전문가용",
+    "framing": "4:5 비율, 얼굴이 지배적",
+    "focus": "눈은 선명하게"
+  },
+  "lighting": {
+    "source": "따뜻한 텅스텐 램프 + 희미한 주변광",
+    "direction": "측면/전면 따뜻한 조명",
+    "highlights": "뺨과 머리카락에 부드러운 하이라이트",
+    "shadows": "부드럽고 편안한 그림자"
+  },
+  "mood_and_expression": {
+    "tone": "편안하고 친밀하며 공감 가는",
+    "expression": "부드러운 미소",
+    "atmosphere": "따뜻하고 촉각적이며 가정적인"
+  },
+  "style_and_realism": {
+    "style": "포토리얼리스틱 아이폰 솔직한 분위기",
+    "imperfections": "약간의 노이즈, 약간 불완전한 화이트 밸런스"
+  },
+  "technical_details": {
+    "aspect_ratio": "4:5",
+    "noise": "약간의 휴대폰 센서 노이즈",
+    "motion_blur": "얼굴에 모션 블러 없음"
+  },
+  "constraints": {
+    "adult_only": true,
+    "no_text": true,
+    "no_logos": true,
+    "no_watermarks": true
+  },
+  "negative_prompt": [
+    "플라스틱 피부",
+    "과도한 스무딩",
+    "손가락 추가",
+    "뒤틀린 머그컵",
+    "읽을 수 있는 텍스트",
+    "로고",
+    "워터마크",
+    "누드",
+    "유륜",
+    "유두",
+    "비치는 천",
+    "노골적인 란제리"
+  ]
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041021_oh0a0c_G_WgPOoXEAAxhXA.jpg" width="600" alt="프로필 / 아바타 - 커피 머그잔과 함께 아늑하고 솔직한 클로즈업 인물 사진 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [tusina](https://x.com/tusinaai)
+- **출처:** [Twitter Post](https://x.com/tusinaai/status/2014692737631522816)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7363)**
+
+---
+
+### No. 10: 프로필 / 아바타 - Nano Banana Pro로 수호천사 만들기
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+한 사용자가 Nano Banana Pro를 사용하여 꽃과 빛에 둘러싸인 수호천사 이미지를 생성했으며, 다른 사람들이 시도해 볼 수 있도록 ALT 텍스트에 프롬프트를 공유했습니다.
+
+#### 📝 프롬프트
+
+```
+👼🌸 AI로 수호천사가 되어 보았다
+
+당신의 마음에 평화를…✨
+꽃과 빛에 둘러싸인 온화한 시간 💐
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037652_sb9oh0_G_WY67Ha8AA30nM.jpg" width="600" alt="프로필 / 아바타 - Nano Banana Pro로 수호천사 만들기 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [ちゃろん](https://x.com/charon_artist)
+- **출처:** [Twitter Post](https://x.com/charon_artist/status/2014684553877877167)
+- **게시일:** 2026년 1월 23일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7359)**
+
+---
+
+### No. 11: 프로필 / 아바타 - Identity Lock이 적용된 클로즈업 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+참조 이미지를 기반으로 100% 얼굴 동일성을 유지하며 초현실적이고 친밀한 젊은 여성의 클로즈업 초상화를 생성하는 프롬프트입니다. 부드럽고 신비로운 조명, 레이스 커튼 프레임이 특징이며, 피사체의 밝은 파란색 눈과 흩날리는 앞머리가 있는 어두운 머리카락에 초점을 맞춥니다.
+
+#### 📝 프롬프트
+
+```
+"100% 동일한 얼굴, 고품질, 친밀한 클로즈업, 섬세하고 매혹적인 시선을 가진 젊은 여성의 극사실주의 초상화. 그녀는 고개를 살짝 기울이고 있으며, 오른쪽 어깨가 드러나 있어 맨어깨 또는 오프숄더 의상을 입었음을 암시합니다. 이미지 왼쪽에 부드러운 흰색 레이스 커튼 또는 천으로 부분적으로 둘러싸여 있습니다. 길고 곧은 짙은 검은색 머리카락에 얼굴을 감싸는 가볍고 살짝 흐트러진 앞머리가 있습니다. 그녀의 눈부시게 밝은 파란색 눈이 초점이며, 은은한 다크 아이라이너와 또렷한 속눈썹이 특징입니다. 그녀의 뺨에는 부드럽고 자연스러운 분홍빛 홍조가 있으며, 입술은 자연스러운 연분홍색을 띠고 도톰합니다. 오른쪽 귀에는 진주 드롭 귀걸이가 하나 보입니다. 조명은 부드럽고 신비로워 그녀의 특징과 레이스의 질감을 돋보이게 합니다. 정교한 디테일, 시네마틱 조명, 드라마틱한 모습, ArtStation에서 유행 중."
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235965177_4otomf_G_WQQJjbcAAbaGf.jpg" width="600" alt="프로필 / 아바타 - Identity Lock이 적용된 클로즈업 인물 사진 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014675018643595489)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7259)**
+
+---
+
+### No. 12: 프로필 / 아바타 - K-POP 아이돌 스타일 이미지 생성하기
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+한 사용자가 Nano Banana를 이용해 인스타그램 스토리에 올릴 이미지를 만들었는데, 캐릭터가 K-팝 아이돌처럼 포즈를 취하고 스타일링되도록 특별히 요청했습니다.
+
+#### 📝 프롬프트
+
+```
+프롬프트는 한국 아이돌처럼 보이게 만드는 거였어요 ㅋㅋㅋ
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236039917_vdekhz_G_Vj36naoAARwpY.jpg" width="600" alt="프로필 / 아바타 - K-POP 아이돌 스타일 이미지 생성하기 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [ROMI｜美容・女性向けLPデザイナー](https://x.com/hiro___design)
+- **출처:** [Twitter Post](https://x.com/hiro___design/status/2014626301827748311)
+- **게시일:** 2026년 1월 23일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7361)**
+
+---
+
+### No. 13: 프로필 / 아바타 - 초현실적인 욕실 셀카 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+극도로 사실적인 욕실 셀카 인물 사진 생성을 위해 고안된 매우 상세한 JSON 프롬프트로, 인물 정체성의 일관성, 특정 신체 비율(풍만한 가슴), 세부적인 얼굴 특징(주근깨, 점), 솔직하고 소셜 미디어적인 미학을 유지하는 데 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "subject": {
+    "demographics": "참고 이미지 속 젊은 여성",
+    "hair": {
+      "color": "더티 블론드에서 라이트 블론드로 그라데이션",
+      "style": "길고, 약간 웨이브진 스트레이트 헤어, 레이어드, 캐주얼한 가르마",
+      "texture": "부드럽고 자연스러운 머리카락, 약간 헝클어진 듯, 뿌리 부분 보임",
+      "movement": "어깨와 등 위로 자연스럽게 흘러내림"
+    },
+    "face": {
+      "shape": "부드러운 턱선을 가진 타원형",
+      "eyes": "아몬드 모양, 밝은 파란색/회색 홍채, 선명하고 날카로운 블랙 윙 아이라이너",
+      "nose": "오뚝한 코, 부드러운 콧대",
+      "lips": "도톰하고 통통한 장밋빛 핑크 입술, 약간 삐죽거리는 표정으로 살짝 벌어져 있음",
+      "skin_details": "코와 뺨에 눈에 띄는 짙은 주근깨. 매끄러운 질감이지만 사실적인 피부결. 자연스러운 블러셔",
+      "micro_details": "오른쪽 가슴 위와 왼쪽 어깨에 점"
+    },
+    "body_proportions": {
+      "build": "풍만하고 곡선미 있는, 큰 가슴",
+      "chest": "큰 가슴 볼륨, 앞으로 돌출된 모습, 깊은 가슴골이 보임",
+      "waist_to_chest_ratio": "허리보다 훨씬 넓은 가슴 너비는 모래시계형 몸매를 암시함",
+      "shoulders": "부드럽고 둥근, 자연스러운 경사",
+      "dominance": "상체 볼륨이 시각적으로 화면을 지배함"
+    },
+    "clothing": {
+      "top": "헤더 그레이 골지 니트 탱크탑/캐미솔",
+      "fit": "타이트하고 몸에 밀착되며, 가슴 볼륨에 맞춰 늘어나고, 낮은 스쿱 넥라인",
+      "straps": "두꺼운 스트랩, 어깨에 안정적으로 고정됨"
+    },
+    "accessories": {
+      "jewelry": [
+        "작은 골드 링 귀걸이",
+        "작은 '{argument name=\"pendant letter\" default=\"G\"}' 글자 펜던트가 달린 골드 체인 목걸이",
+        "독특한 캥거루 펜던트가 달린 더 긴 얇은 골드 체인"
+      ]
+    }
+  },
+  "pose": {
+    "type": "손으로 찍은 셀카 시점",
+    "orientation": "정면 클로즈업, 위에서 약간 비스듬하게",
+    "head_position": "피사체의 오른쪽으로 살짝 기울어짐",
+    "limbs": "카메라를 들고 있음을 나타내듯 오른팔이 앞으로 뻗어 있음 (프레임 밖)",
+    "gaze": "렌즈와 직접적인 시선 접촉, 매혹적이고 자신감 있는",
+    "spine_curvature": "가슴의 돌출로 인해 약간의 아치가 암시됨"
+  },
+  "setting": {
+    "environment": "가정집 욕실",
+    "background_elements": "짙은 갈색/회색 유광 타일 벽, 왼쪽에 크롬 샤워기 비품 보임, 오른쪽에 흰색 세라믹 변기 탱크 상단 보임",
+    "depth": "얕은 피사계 심도, 배경 요소는 약간 초점이 흐림"
+  },
+  "camera": {
+    "shot_ty": ""
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236020889_zchccm_G_Vj4ukWkAACwr9.jpg" width="600" alt="프로필 / 아바타 - 초현실적인 욕실 셀카 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014626240632913940)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7334)**
+
+---
+
+### No. 14: 프로필 / 아바타 - 주토피아 커플 거울 셀카 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+디즈니 스토어에서 초현실적이고 매우 섬세한 커플 거울 셀카를 생성하기 위한 상세 JSON 프롬프트. 이들은 고급스러운 오버사이즈 주토피아 캐릭터 모자(닉 와일드와 주디 홉스)를 착용하고 있으며, K-뷰티 메이크업, 특정 액세서리, 선명한 초점을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt": {
+    "scene": {
+      "type": "초현실적인 거울 셀카",
+      "device": "iPhone 15 Pro Max",
+      "resolution": "8K",
+      "style": "실사풍, 극도로 섬세한",
+      "aesthetic": "주토피아 팬덤",
+      "composition": "타원형 거울에 비친 커플 셀카"
+    },
+    "subjects": {
+      "left_subject": {
+        "type": "젊은 남성",
+        "identity": "사진 1의 얼굴 특징 사용",
+        "expression": "장난기 넘치고 개구진 (참고 표정과 일치)",
+        "pose": "거울 왼쪽에 서 있음",
+        "clothing_hair": "사진 1과 동일한 의상 및 헤어스타일",
+        "accessories": {
+          "hat": {
+            "character": "닉 와일드 (주토피아)",
+            "color": "오렌지색",
+            "details": "커다란 여우 귀와 자수된 교활한 눈이 있는 고급스러운 오버사이즈 디즈니 캐릭터 모자"
+          }
+        }
+      },
+      "right_subject": {
+        "type": "젊은 여성",
+        "identity": "사진 2의 얼굴 특징 사용",
+        "expression": "장난기 넘치는 윙크",
+        "pose": "거울 오른쪽에 서서 밝은 노란색 휴대폰을 들고 있음",
+        "nails": "메탈릭 네일 폴리시",
+        "hair": {
+          "style": "길고 곧은 머리"
+        },
+        "clothing": {
+          "top": "{argument name=\"woman's top color\" default=\"hot pink\"} 홀터넥 탑"
+        },
+        "accessories": {
+          "hat": {
+            "character": "주디 홉스 (주토피아)",
+            "color": "회색",
+            "details": "긴 분홍색 토끼 귀와 커다란 보라색 눈이 있는 고급스러운 오버사이즈 디즈니 캐릭터 모자"
+          },
+          "necklace": "목에 딱 맞는 짧은 진주 목걸이",
+          "rings": "손가락에 여러 개의 반지"
+        },
+        "makeup": {
+          "style": "한국 K-뷰티",
+          "skin": "유리 피부",
+          "blush": "부드러운 자연스러운 블러셔",
+          "eyeliner": "검은색 아이라이너",
+          "contact_lenses": "컬러 렌즈 (파란색 또는 회색)",
+          "lips": "붉은 톤의 핑크 옴브레 립스틱"
+        }
+      }
+    },
+    "environment": {
+      "location": "디즈니 장난감 / 기념품 매장 내부",
+      "background": {
+        "details": "디즈니 장난감으로 가득 찬 흐릿한 선반",
+        "lighting": "홀리데이 쇼핑몰 조명",
+        "ceiling": "장식용 매달린 조명"
+      }
+    },
+    "lighting": {
+      "type": "부드러운 상업 쇼핑몰 조명",
+      "effect": "균일한 조명, 생생한 색상, 거친 그림자 없음"
+    },
+    "quality": {
+      "detail_level": "극도로 높은",
+      "textures": "고급스러운 사실적인 질감, 모자에 보이는 개별 털 섬유",
+      "color": "밝고 채도 높은 색상",
+      "noise": "없음",
+      "focus": "얼굴과 모자에 완벽하게 선명한 초점"
+    },
+    "framing": {
+      "shot_type": "거울 셀카",
+      "mirror": "타원형 거울",
+      "focus_priority": "프레임 중앙에 위치한 얼굴과 캐릭터 모자"
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022299_6jacmu_G_VYQVsWQAAYCwy.jpg" width="600" alt="프로필 / 아바타 - 주토피아 커플 거울 셀카 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022373_nq6d8j_G_VYQYNXwAEnamR.jpg" width="600" alt="프로필 / 아바타 - 주토피아 커플 거울 셀카 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022292_hv4xih_G_VYQZCX0AAiKrR.jpg" width="600" alt="프로필 / 아바타 - 주토피아 커플 거울 셀카 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236023410_40ijj4_G_VYQbbXMAA1vEJ.jpg" width="600" alt="프로필 / 아바타 - 주토피아 커플 거울 셀카 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
+- **출처:** [Twitter Post](https://x.com/DavisonDabiri/status/2014613454212973000)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7338)**
+
+---
+
+### No. 15: 프로필 / 아바타 - 미니멀리스트 아파트의 모던 거울 셀카
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+밤에 미니멀리스트 아파트에서 젊은 여성이 찍은 현대적인 고화질 거울 셀카를 상세히 묘사하는 JSON 프롬프트. 이 프롬프트는 피사체의 의상(회색 크롭 가디건, 포레스트 그린 레깅스), 환경(큰 유리문, 현대적인 가구, 작은 흰 고양이), 조명(차가운 톤의 부드러운 실내 주변 조명)을 명시합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "subject": {
+    "description": "길고 곧은 연갈색 머리를 가진 젊은 여성이 거울 셀카를 찍고 있습니다.",
+    "features": "자연스러운 메이크업, 집중된 표정, 그을린 피부.",
+    "attire": [
+      "버튼 디테일이 있는 연회색 크롭 긴팔 가디건",
+      "하이웨이스트 짙은 포레스트 그린 레깅스"
+    ],
+    "pose": "서서 연두색 스마트폰을 들고 있으며, 한 손은 허리에 얹고 있습니다."
+  },
+  "environment": {
+    "setting": "밤에 현대적이고 미니멀한 실내 아파트.",
+    "elements": [
+      "커다란 유리 미닫이문",
+      "흰색 둥근 현대적인 라운지 의자",
+      "가구 위에서 쉬고 있는 작은 흰색 고양이",
+      "배경 반사로 보이는 텔레비전 화면"
+    ],
+    "flooring": "커다란 무광 회색 바닥 타일."
+  },
+  "aesthetic": {
+    "lighting": "배경 창문에서 들어오는 차가운 톤의 부드러운 실내 주변 조명.",
+    "composition": "세로 거울 셀카, 허리 위/전신 샷, 중앙에 위치한 피사체.",
+    "color_palette": ["포레스트 그린", "헤더 그레이", "오프 화이트", "뮤티드 민트"]
+  },
+  "technical": {
+    "camera_feel": "모바일 사진, 사실적인 질감, 약간의 피사계 심도.",
+    "resolution": "고화질, 깔끔한 선."
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235967289_of5c05_G_VTA_CagAAN1B8.jpg" width="600" alt="프로필 / 아바타 - 미니멀리스트 아파트의 모던 거울 셀카 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014607688823710046)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7262)**
+
+---
+
+### No. 16: 프로필 / 아바타 - 해변 리조트의 남자 초현실주의 초상화 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+'블루 아워'에 고급 해변 리조트에서 촬영한 세련된 남성의 하이퍼리얼리스틱 미디엄 샷 인물 사진을 생성하기 위한 상세 프롬프트. 라임 그린 린넨 셔츠 등 특정 의상, 요정 조명의 보케 효과를 강조하고, 얼굴 일관성을 위해 참조 사진 사용을 요구합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "image_prompt": {
+    "description": "24세의 세련된 남성이 선명하고 잘 다듬어진 수염과 스타일링된 풍성한 검은색 머리를 하고 있는 하이퍼리얼리즘 미디엄 샷 인물 사진. 그는 고급스러운 질감의 {argument name=\"shirt color\" default=\"lime-green\"} 색상과 흰색 미세 스트라이프 리넨 셔츠를 입고 있으며, 소매는 살짝 걷어 올리고 맞춤형 오프화이트 치노 팬츠를 매치했다. 그는 럭셔리 해변 리조트의 매끄럽고 현대적인 발코니 난간에 자연스럽게 기대어 있다. 장면은 해가 진 직후 '블루 아워'에 펼쳐지며, 하늘은 짙은 남색이다. 부드럽게 초점이 흐려진 배경에는 따뜻하고 황금빛 요정 조명으로 빛나는 나무 가제보가 아름다운 보케 효과를 만들어낸다. 피사체의 조명은 부드러운 주변 황혼과 측면에서 비추는 따뜻한 빛이 어우러져 원단 질감과 은색 손목시계의 금속성 광택을 강조한다. 35mm 렌즈, f/1.8, 시네마틱 색 보정, 얼굴에 선명한 초점, 놀랍도록 섬세한 피부 모공과 머리카락, 8k UHD로 촬영. 내 사진을 얼굴에 사용해 주세요."
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236027268_8dk2wg_G_VQZxuXUAEnU_N.jpg" width="600" alt="프로필 / 아바타 - 해변 리조트의 남자 초현실주의 초상화 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [𝗦𝗮𝗿𝗶𝗺](https://x.com/Sareem48)
+- **출처:** [Twitter Post](https://x.com/Sareem48/status/2014604815540605010)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7345)**
+
+---
+
+### No. 17: 프로필 / 아바타 - 실사 영화 같은 삼면화 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 사진을 엄격한 신원 참조로 사용하여 사실적인 시네마틱 삼면화(하나의 이미지에 세 프레임 구성)를 만드는 Nano Banana Pro용 프롬프트. 장면은 미래형 디지털 아티스트 작업 공간의 밤이며, 사이버펑크에서 영감을 받았지만 사실적인 조명과 질감으로 렌더링됩니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 사진을 정확한 신원 참조 자료로 사용하세요. 동일 인물, 동일 얼굴, 동일 얼굴 특징 및 비율을 유지하고, 사진처럼 사실적인 시네마틱 삼면화(triptych) 인물 사진(한 이미지에 세 프레임 구성)을 만드세요. 장면: 밤의 미래형 디지털 아티스트 작업 공간, 빛나는 스크린, 은은한 홀로그램 반사, 창밖의 네온 도시 불빛. 프레임 1 (상단): 현대적인 기술 스튜디오에 앉아 빛나는 디지털 인터페이스로 작업하는 인물의 와이드 시네마틱 샷. 프레임 2 (중간): 옆모습 인물 사진, 집중된 표정, 얼굴에 부드러운 네온 반사. 프레임 3 (하단): 클로즈업 감성 인물 사진, 눈, 피부 질감, 은은한 빛 반사. 스타일: 실제 사진, 사이버펑크에서 영감을 받았지만 사실적이며 일러스트레이션 아님. 조명: 시네마틱 네온 림 라이트, 부드러운 볼류메트릭 글로우, 자연스러운 피부 질감. 카메라: 풀프레임 DSLR, 85mm 렌즈 느낌, 이미지 비율 4:5, 얕은 피사계 심도. 초고화질, 자연스러운 피부, 전문 사진, CGI 없음, 일러스트레이션 없음.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235974652_desnv7_G_VOi77bkAAPRfq.jpg" width="600" alt="프로필 / 아바타 - 실사 영화 같은 삼면화 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014602773720138097)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7273)**
+
+---
+
+### No. 18: 프로필 / 아바타 - 친밀하고 아늑한 침실 거울 셀카 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -694,7 +1737,7 @@ Grok 검색 결과
 
 ---
 
-### No. 2: 프로필 / 아바타 - 하이패션 드레싱룸 거울 셀카 프롬프트 (벨라 하디드 스타일)
+### No. 19: 프로필 / 아바타 - 하이패션 드레싱룸 거울 셀카 프롬프트 (벨라 하디드 스타일)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -732,1375 +1775,6 @@ Grok 검색 결과
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7211)**
-
----
-
-### No. 3: 프로필 / 아바타 - Notion 스타일의 인물 사진 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-Notion 스타일의 인물 사진을 생성하기 위한 프롬프트입니다. 프롬프트 텍스트가 완전히 보이지는 않지만, 전문적이거나 개인적인 프로필 사진을 위한 특정 미학을 나타냅니다.
-
-#### 📝 프롬프트
-
-```
-몇 초 만에 Notion 스타일의 인물 사진을.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391716_y0s3if_G_SnZVIWkAAoaF9.jpg" width="600" alt="프로필 / 아바타 - Notion 스타일의 인물 사진 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [AmirMušić](https://x.com/AmirMushich)
-- **출처:** [Twitter Post](https://x.com/AmirMushich/status/2014418990018261493)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7235)**
-
----
-
-### No. 4: 프로필 / 아바타 - 주제를 비치 발리볼 선수로 변환하기 위한 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-Nano Banana Pro를 사용하여 피사체를 햇볕 아래에서 강력한 점프와 스파이크를 강조하는 비치 발리볼 선수로 변환하는 데 사용된 프롬프트.
-
-#### 📝 프롬프트
-
-```
-AI로 비치 발리볼 선수로 변신!
-
-태양 아래서 힘껏 점프! ☀️
-멋진 스파이크를 날려줄게! 💪
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377394_p9ix75_G_RPVE7bUAAzb4T.jpg" width="600" alt="프로필 / 아바타 - 주제를 비치 발리볼 선수로 변환하기 위한 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [ちゃろん](https://x.com/charon_artist)
-- **출처:** [Twitter Post](https://x.com/charon_artist/status/2014322162761642249)
-- **게시일:** 2026년 1월 22일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7205)**
-
----
-
-### No. 5: 프로필 / 아바타 - 따뜻한 시네마틱 조명의 사실적인 실내 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-실내 인물 사진 생성을 위한 고도로 구조화된 Nano Banana Pro 프롬프트로, 침실 환경에 있는 피사체에 초점을 맞춥니다. 피사체(유사성 제약, 신체적 특징), 의상(실크 나이트 가운), 액세서리(골드 주얼리, 시계), 따뜻한 시네마틱 조명, 구도(얕은 피사계 심도, 수직 프레이밍)에 대한 세부 속성을 지정합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "metadata": {
-    "version": "1.0",
-    "description": "피사체, 의류, 액세서리, 조명 및 구도 제약 조건이 상세하게 표현된 실내 인물 사진",
-    "aspect_ratio": 3.4
-  },
-  "subject": {
-    "identity": {
-      "name": "내가 업로드한 사람",
-      "likeness_constraint": "100% 동일한 얼굴과 몸매",
-      "age_representation": "성인"
-    },
-    "physical_attributes": {
-      "gender": "여성",
-      "body_type": "날씬하고 균형 잡힌",
-      "skin_tone": "자연스럽고 따뜻한",
-      "facial_expression": "부드럽고 차분하며 편안한",
-      "hair": {
-        "color": "짙은 갈색",
-        "style": "느슨하고 자연스러운 흐름",
-        "length": "중간에서 긴 길이"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "type": "나이트 가운",
-      "fit": "편안하면서도 돋보이는",
-      "material": "실키하고 가벼운 원단",
-      "texture": "은은한 광택이 있는 부드러운",
-      "design_details": {
-        "neckline": "부드럽고 우아한 네크라인",
-        "straps": "얇고 섬세한 스트랩",
-        "length": "짧은 길이에서 허벅지 중간 길이",
-        "color_palette": [
-          "{argument name=\"nighty color 1\" default=\"soft champagne\"}",
-          "차분한 블러쉬",
-          "밝은 아이보리"
-        ]
-      }
-    }
-  },
-  "accessories": {
-    "jewelry": {
-      "earrings": {
-        "type": "드롭형",
-        "material": "금",
-        "finish": "광택"
-      },
-      "bracelets": {
-        "type": "겹쳐진 비즈 팔찌",
-        "material": "혼합 비즈",
-        "hand": "오른쪽 손목"
-      },
-      "watch": {
-        "type": "클래식 손목시계",
-        "material": "금속",
-        "style": "미니멀리스트"
-      }
-    }
-  },
-  "setting": {
-    "environment": {
-      "location_type": "실내",
-      "room_type": "침실",
-      "style": "모던하고 아늑한"
-    },
-    "background_elements": {
-      "lighting_fixture": "테이블 램프",
-      "furniture": [
-        "침대",
-        "협탁"
-      ],
-      "decor": "미니멀하고 따뜻한 톤"
-    }
-  },
-  "lighting": {
-    "primary_light": {
-      "source": "램프",
-      "color_temperature": "따뜻한",
-      "intensity": "부드러운"
-    },
-    "secondary_light": {
-      "type": "주변 채움",
-      "effect": "부드러운 그림자 제어"
-    },
-    "overall_mood": "친밀하고 차분하며 영화 같은"
-  },
-  "camera_and_composition": {
-    "camera": {
-      "angle": "눈높이",
-      "distance": "미디엄 샷",
-      "lens_style": "인물용 렌즈",
-      "depth_of_field": "얕은"
-    },
-    "framing": {
-      "orientation": "수직",
-      "subject_position": "중앙",
-      "crop": "허리 위"
-    },
-    "focus": {
-      "priority": "얼굴",
-      "background_blur": "부드러운 보케"
-    }
-  },
-  "rendering_style": {
-    "realism_level": "사실적인",
-    "detail_level": "높음",
-    "skin_rendering": "자연스러운 질감, 과도한 스무딩 없음",
-    "color_grading": "따뜻한 영화적 톤"
-  },
-  "constraints": {
-    "must_include": [
-      "나이트 가운 의상",
-      "금 액세서리",
-      "실내 침실 배경"
-    ]
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_6hcfiv_G_RIlWYbkAALmzw.jpg" width="600" alt="프로필 / 아바타 - 따뜻한 시네마틱 조명의 사실적인 실내 인물 사진 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149385324_fcmy1h_G_RIlWZbkAAaxqJ.jpg" width="600" alt="프로필 / 아바타 - 따뜻한 시네마틱 조명의 사실적인 실내 인물 사진 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **출처:** [Twitter Post](https://x.com/Adam38363368936/status/2014315011225887125)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7220)**
-
----
-
-### No. 6: 프로필 / 아바타 - 꿈결 같은 자동차 인테리어 인물 사진 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-차 안에 있는 젊은 여성의 사진처럼 사실적이고 몽환적이며 우아한 클로즈업 초상화를 생성하기 위한 상세한 Nano Banana Pro 프롬프트. 한국 스타일의 헤어, 메이크업 디테일(글로시 립, 핑크 블러셔), 측면에서 비추는 강렬한 자연광을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "젊은 여성",
-      "age": "20대 초반",
-      "pose": {
-        "location": "차 안",
-        "attitude": "자신감 있는",
-        "gesture": "수줍은 미소를 지으며 입을 가리려고 손을 올린",
-        "expression": "몽환적이고, 부드럽고, 우아한",
-        "gaze": "카메라를 응시하는"
-      },
-      "hair": {
-        "color": "짙은 갈색",
-        "length": "허리 길이",
-        "style": "왼쪽 가르마, 끝부분에 느슨한 웨이브, 작은 앞머리 가닥, 한국 스타일",
-        "motion": "머리카락이 얼굴을 살짝 스치는"
-      },
-      "face_makeup": {
-        "eyebrows": "자연스러운 연한 색, 깔끔한",
-        "eyelashes": "인조 속눈썹, 뭉쳐진",
-        "cheeks": "볼과 코에 부드러운 누드 핑크 블러셔",
-        "lips": "누드 레드, 광택 있고 촉촉한"
-      },
-      "eyes": {
-        "accessory": "검은색 캣아이 선글라스, 머리에 착용한"
-      },
-      "clothing": {
-        "top": "얇은 스파게티 스트랩 탱크톱, 파란색 테두리",
-        "accessories": [
-          "작은 파란색 잎 펜던트가 달린 짧은 은색 목걸이",
-          "파란색 잎 모양의 작은 은색 귀걸이"
-        ]
-      }
-    },
-    "environment": {
-      "car_interior": "어두운, 배경에 갈색 시트",
-      "outside_view": "오른쪽 창문 너머로 보이는 밝은 파란색 하늘"
-    },
-    "lighting": {
-      "type": "왼쪽에서 들어오는 자연 햇빛",
-      "effect": "머리카락과 피부에 강한 하이라이트, 매우 밝고 자연스러운"
-    },
-    "camera": {
-      "angle": "눈높이, 클로즈업",
-      "focus": "얼굴, 표정, 머리카락 디테일"
-    },
-    "style": {
-      "realism": "사진처럼 사실적인",
-      "quality": "울트라 HD, 고화질, 선명한 질감, 생생한 색상",
-      "mood": "몽환적이고, 부드럽고, 우아한"
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384248_rhm1jd_G_QgJUJW4AAiW0b.jpg" width="600" alt="프로필 / 아바타 - 꿈결 같은 자동차 인테리어 인물 사진 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384219_m4a9f9_G_QgJTqWkAAabG2.jpg" width="600" alt="프로필 / 아바타 - 꿈결 같은 자동차 인테리어 인물 사진 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384214_gnxgrz_G_QgJP9W4AAcL7h.jpg" width="600" alt="프로필 / 아바타 - 꿈결 같은 자동차 인테리어 인물 사진 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149384986_v3mgme_G_QgJXBWwAIumXF.jpg" width="600" alt="프로필 / 아바타 - 꿈결 같은 자동차 인테리어 인물 사진 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **출처:** [Twitter Post](https://x.com/DavisonDabiri/status/2014270293431161076)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7219)**
-
----
-
-### No. 7: 프로필 / 아바타 - 주제를 대천사로 변환하는 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-Nano Banana Pro를 사용하여 피사체를 신성한 빛과 천국의 사자 테마를 지닌 '위대한 대천사'로 변모시키는 데 사용된 프롬프트.
-
-#### 📝 프롬프트
-
-```
-AI로 위대한 대천사가 되다
-
-천국에서 온 사자...! 🕊️
-성스러운 빛으로 모든 것을 정화합니다 ✨
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149376546_e0ztqt_G_QYZbMbIAAJesG.jpg" width="600" alt="프로필 / 아바타 - 주제를 대천사로 변환하는 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [ちゃろん](https://x.com/charon_artist)
-- **출처:** [Twitter Post](https://x.com/charon_artist/status/2014261765518094438)
-- **게시일:** 2026년 1월 22일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7204)**
-
----
-
-### No. 8: 프로필 / 아바타 - Nano Banana Pro를 위한 상세 이미지 생성 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-이것은 'Nano banana pro'라는 이미지 생성 모델을 위해 설계된 매우 상세하고 구조화된 JSON 프롬프트입니다. 피사체의 나이, 성별, 상세한 얼굴 특징(머리카락, 피부, 메이크업), 의상, 자세, 표정, 복잡한 현대식 욕실 배경, 그리고 조명 및 구도에 대한 기술적 세부 사항을 명시하고 있습니다. 카운터에 기대어 있는 젊은 여성의 미디엄 클로즈업 이미지를 생성하는 것을 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt": {
-    "subject": {
-      "age": {
-        "argument name": "age",
-        "default": "20"
-      },
-      "gender": "female",
-      "hair": {
-        "color": "blonde",
-        "style": "연분홍색 스크런치로 묶은 두 개의 높은 양갈래 머리",
-        "length": "중간 길이",
-        "texture": "약간의 웨이브가 있는 직모"
-      },
-      "skin": {
-        "tone": "따뜻하고 골드빛이 도는 밝은 피부톤",
-        "texture": "매끄럽고 빛나는"
-      },
-      "face": {
-        "eyes": {
-          "color": "옅은 파란색/녹색",
-          "makeup": "은은한 아이라이너, 마스카라"
-        },
-        "brows": {
-          "color": "짙은 금발",
-          "shape": "뚜렷한 아치형"
-        },
-        "nose": {
-          "shape": "가늘고 뚜렷한"
-        },
-        "lips": {
-          "color": "자연스러운 핑크색",
-          "fullness": "도톰하고 윤기 있는"
-        },
-        "cheeks": {
-          "color": "장밋빛, 은은한 하이라이트"
-        }
-      }
-    },
-    "clothing_and_accessories": {
-      "top": {
-        "type": "크롭탑",
-        "color": "white",
-        "fabric": "골지 면",
-        "details": "짧은 소매, 낮은 스쿱넥"
-      },
-      "bottoms": {
-        "type": "하이웨이스트 반바지",
-        "color": "white",
-        "fabric": "골지 면"
-      },
-      "jewelry": {
-        "necklace": "작은 흰색 진주 목걸이",
-        "bracelet": "왼쪽 손목에 금색 체인과 큰 은색 시계"
-      }
-    },
-    "pose_and_expression": {
-      "pose": "흰색 카운터에 손을 얹고 몸을 비스듬히 돌린 채 앞으로 몸을 기울여 카메라를 직접 응시하며 어깨 너머로 바라보는 자세",
-      "expression": "매혹적인 시선, 살짝 벌린 입술"
-    },
-    "setting_and_background": {
-      "location": "현대적인 욕실",
-      "counter": "화이트 쿼츠/대리석",
-      "shower": "금색 설비가 있는 유리 칸막이, 타일 벽",
-      "towel_rack": {
-        "material": "나무 바닥 스탠드",
-        "contents": [
-          {
-            "type": "가운",
-            "color": "흰색 테리 천",
-            "details": "뒷면에 자수 스크립트"
-          },
-          {
-            "type": "수건",
-            "color": "red"
-          },
-          {
-            "type": "수건",
-            "color": "white"
-          }
-        ]
-      },
-      "door": "검은색 프레임, 흰색 패널"
-    },
-    "technical_details": {
-      "lighting": "밝고 자연스러운 낮 조명",
-      "shot_type": "미디엄 클로즈업",
-      "focus": "피사체에 선명하게 초점, 배경은 약간 흐리게"
-    }
-  },
-  "aspect_ratio": "4:5"
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149378052_okkgag_G_Pv8-TaIAA7hlp.jpg" width="600" alt="프로필 / 아바타 - Nano Banana Pro를 위한 상세 이미지 생성 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [sammy](https://x.com/sumiturkude007)
-- **출처:** [Twitter Post](https://x.com/sumiturkude007/status/2014217296445837380)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7207)**
-
----
-
-### No. 9: 프로필 / 아바타 - 비키니와 양갈래 머리를 한 네 가지 포즈의 거울 셀카 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-파란색 꽃무늬 비키니를 입은 금발 여성의 여러 패널로 구성된 거울 셀카를 생성하기 위한 프롬프트. 네 가지 독특한 포즈, 액세서리(땋은 양갈래 머리, 골드 후프 귀걸이, 셔터 셰이드), 미니멀리스트 침실 환경을 상세히 묘사하여 자신감 있고 장난기 넘치며 캐주얼한 미학을 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-성인 금발 여성 거울 셀카, 양갈래 땋은 머리, 파란색 꽃무늬 비키니 노란색 테두리, 금색 후프 귀걸이, 머리에 선글라스, 노란색 플립플롭, 네 가지 포즈 나란히: 쪼그리고 앉아 휴대폰 들고 있는 모습, 앉아서 땋은 머리 잡고 있는 모습, 한쪽 다리 구부리고 서 있는 모습, 앞으로 숙여 허벅지에 손 얹고 있는 모습, 장난기 넘치는 뾰로통한 표정, 미니멀리스트 침실, 밝은 베이지색 카펫, 흰색 루버 옷장 문, 크림색 벽, 금색 프레임 전신 거울, 자연광, 부드럽고 균일한 조명, 스마트폰 눈높이 반사, 전신 다양한 자세, 선명한 질감, 사실적인 피부 톤, 자신감 있고 장난기 넘치는 캐주얼, 파란색 노란색 베이지색 흰색 금색 팔레트 --ar 16:9
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063187349_uzlamq_G_NLw8PaIAM6vIC.jpg" width="600" alt="프로필 / 아바타 - 비키니와 양갈래 머리를 한 네 가지 포즈의 거울 셀카 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Feyber | AI & WEB3](https://x.com/woleswoosh)
-- **출처:** [Twitter Post](https://x.com/woleswoosh/status/2014097170786373696)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7072)**
-
----
-
-### No. 10: 프로필 / 아바타 - 실사 체육관 거울 셀카 (구조화된 JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-사진처럼 사실적인 헬스장 거울 셀카를 생성하기 위한 매우 상세하고 구조화된 JSON 프롬프트입니다. 구성(후면 쿼터백 뷰), 피사체의 특징(운동으로 다져진 몸매, 검은 머리, 노란색 크롭탑과 녹색 반바지 같은 특정 의류), 그리고 현대적인 헬스장 환경을 명시합니다. 이 프롬프트는 높은 기술적 품질, 선명한 초점, 그리고 캐주얼하고 자신감 넘치는 운동 후 분위기를 목표로 합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt_type": "사실적인 체육관 거울 셀카",
-  "main_composition": "현대적인 체육관의 녹색 잔디 구역에 자신감 있게 서 있는 한 젊은 여성의 후면 4분의 3 등 거울 셀카. 오른손에 iPhone을 들고 사진을 찍고 있으며, 거울에는 그녀의 정면과 미묘하고 중립적인 표정이 비친다. 살짝 엉덩이를 기울이고 한쪽 다리에 체중을 실어 운동으로 다져진 곡선을 강조하는 편안하고 캐주얼한 포즈. 밝은 실내 조명과 배경에 유산소 운동 기구 및 큰 창문이 보인다.",
-  "subject": {
-    "description": "20대 초반의 아름다운 젊은 여성. 연한 자연스러운 화장(또렷한 아이라이너, 긴 속눈썹, 미묘한 컨투어링, 글로시한 입술)을 한 매력적인 여성스러운 얼굴. 거울에 비친 크고 표현력 있는 눈. 건강한 윤기와 운동으로 다져진 탄탄한 모래시계형 몸매를 가진 밝게 그을린 매끄러운 피부.",
-    "clothing": "엄지손가락 구멍과 미묘한 질감이 있는 몸에 꼭 맞는 노란색 긴팔 크롭탑. 뒷면에 주름진 스크런치 디테일과 허리 밴드에 작은 흰색 브랜딩이 있는 하이웨이스트 심리스 라임색 운동 반바지. 종아리 중간까지 올라오는 흰색 크루 양말. 깨끗한 흰색 로우탑 운동화.",
-    "details": "자연스러운 볼륨과 얼굴을 감싸는 느슨한 가닥이 있는 높이 묶은 길고 느슨한 웨이브 검은색 머리. 거울에 비친 휴대폰을 바라보는 미묘하고 자신감 있는 중립적인 표정. 다채로운 패턴의 케이스(검은색 물방울 또는 추상적인 디자인이 있는 흰색)를 씌운 휴대폰을 들고 있는 손톱은 깔끔하게 정리된 중립적인 색상. 자연스러운 몸매 자신감이 느껴지는 편안한 자세.",
-  },
-  "environment": {
-    "foreground": "발밑의 녹색 인조 잔디 체육관 매트 구역",
-    "midground": "전체 정면 모습과 휴대폰 디테일을 반사하는 큰 체육관 거울",
-    "background": "검은색 유산소 운동 기구(디지털 화면이 있는 일립티컬)가 줄지어 있는 현대적이고 넓은 체육관. 그중 하나에는 손잡이에 흰색 수건이 걸려 있다. 야간 조명을 허용하는 큰 창문과 흐릿한 야외 풍경. 깨끗하고 전문적인 피트니스 센터 분위기."
-  },
-  "lighting_and_atmosphere": "큰 창문에서 들어오는 자연스러운 야간 조명과 함께 밝고 균일한 실내 체육관 조명이 피부, 머리카락, 청록색 직물, 광택 있는 휴대폰 케이스에 부드럽고 따뜻한 빛을 만든다. 레깅스와 운동화 디테일에는 미묘한 광택이 돈다. 다채로운 의상과 어두운 장비 사이의 높은 대비가 있는 캐주얼하고 자신감 있는 운동 후 분위기. 사실적인 디테일.",
-  "technical_quality": "매우 상세하고, 사실적인 직물 질감(긴팔 크롭 스트레치, 심리스 반바지 광택), 머리카락 움직임, 피부 윤기, 휴대폰 케이스 패턴, 거울 반사 정확도에 초점을 맞춘 선명한 초점. 8k 해상도. 멀리 있는 기계와 창문을 부드럽게 흐리게 하는 자연스러운 피사계 심도를 가진 전문적인 거울 셀카 촬영 스타일.",
-  "negative_prompt_suggestions": "흐릿함, 변형됨, 추가 팔다리, 휴대폰 화면 보임, 거울 왜곡 또는 정렬 불량, 과다 노출된 창문, 노출 부족 의상 디테일, 저품질, 만화, 애니메이션, 텍스트 워터마크, 추가 사람"
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162837_jpq584_G_N9IGRWcAAqVmZ.jpg" width="600" alt="프로필 / 아바타 - 실사 체육관 거울 셀카 (구조화된 JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162722_dv7qqq_G_N9ICjXIAAQmN8.jpg" width="600" alt="프로필 / 아바타 - 실사 체육관 거울 셀카 (구조화된 JSON) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162573_utftys_G_N9IL4WEAAX3l8.jpg" width="600" alt="프로필 / 아바타 - 실사 체육관 거울 셀카 (구조화된 JSON) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063164262_idbkts_G_N9IRPXUAAtuc8.jpg" width="600" alt="프로필 / 아바타 - 실사 체육관 거울 셀카 (구조화된 JSON) - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [KeorUnreal](https://x.com/KeorUnreal)
-- **출처:** [Twitter Post](https://x.com/KeorUnreal/status/2014091052764758102)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7031)**
-
----
-
-### No. 11: 프로필 / 아바타 - 실사 타투 셀카 인물 사진 (구조화된 JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-광범위한 문신을 한 젊은 여성의 사실적인 클로즈업 셀카 인물 사진을 생성하기 위한 상세하고 구조화된 JSON 프롬프트입니다. 한쪽 어깨끈이 흘러내려 가슴과 팔의 큰 문신을 드러내는 흰색 데님 오버롤 드레스를 포함하여 피사체의 대안적인 스타일을 명시합니다. 배경은 아늑하고 식물이 가득한 실내 거실이며, 따뜻한 주변 조명 아래 문신의 선과 색상에 선명하게 초점을 맞춥니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt_type": "사실적인 셀카 인물 사진",
-  "main_composition": "한 젊은 여성이 팔을 뻗어 휴대폰을 들고 카메라를 직접 응시하며 미묘하게 자신감 있는 표정을 짓고 있는 클로즈업 셀카 뷰. 멜빵바지 한쪽 끈이 풀려 어깨 아래로 흘러내려 가슴과 팔의 광범위한 문신이 드러나 있고, 식물로 가득 찬 아늑한 실내 거실 공간에서 편안하고 캐주얼한 포즈를 취하고 있다. 풍성한 녹색 식물과 가구가 부드럽게 흐려진 배경에 따뜻한 주변 조명이 비춘다.",
-  "subject": {
-    "description": "20대 초반의 아름다운 젊은 여성, 대담한 얼터너티브 메이크업(날카로운 다크 윙 아이라이너, 긴 속눈썹, 컨투어링된 볼, 글로시 누드 또는 핑크 립)을 한 매력적인 여성스러운 얼굴, 크고 표현력 있는 눈, 건강한 윤기가 흐르는 깨끗하고 매끄러운 피부, 자연스러운 볼륨과 약간의 흐트러짐으로 어깨 위로 떨어지는 길고 느슨한 웨이브진 짙은 갈색 또는 검은색 머리",
-    "clothing": "전체적으로 섬세한 작은 꽃무늬가 있는 화이트 데님 멜빵 미니 드레스, 금속 버클이 달린 얇은 끈—한쪽 끈은 의도적으로 풀려 어깨에서 흘러내려 상체를 노출하고 있으며, 안에 보이는 상의는 없음",
-    "details": "가슴에 큰 꽃 단검/장미 디자인을 포함한 광범위하고 화려한 문신, 양쪽 팔과 손에 상세한 전통 스타일의 꽃과 패턴, 작은 목 문신, 실버 셉텀 코 피어싱, 휴대폰을 들고 있는 어두운 색으로 칠한 손톱의 매니큐어 손, 직접적인 눈맞춤과 함께 자신감 있는 미묘한 삐죽거림 또는 미소, 얼굴을 부드럽게 감싸는 자연스러운 웨이브 머리카락"
-  },
-  "environment": {
-    "foreground": "여성의 팔과 휴대폰이 선명하게 초점 맞춰져 있고, 문신 디테일이 잘 보인다",
-    "midground": "여성이 프레임 중앙에 위치",
-    "background": "몬스테라, 덩굴 식물, 화분 식물 등 풍성한 녹색 실내 식물로 가득 찬 아늑하고 현대적인 실내 거실 또는 선룸, 왼쪽에 노란색 베개가 놓인 어두운 소파, 편안한 가정 분위기를 암시하는 나무 요소와 따뜻한 주변 조명, 초점 내에 어수선함 없음"
-  },
-  "lighting_and_atmosphere": "따뜻하고 부드러운 실내 주변 조명(프레임 밖 창문이나 램프에서 나오는 것으로 추정)이 피부, 머리카락, 화이트 데님 원단, 문신 색상에 부드러운 황금빛 광채를 만들어내고, 미묘한 그림자가 얼굴 윤곽과 몸의 곡선을 강조하며, 밝은 피사체와 어두운 아늑한 배경 사이의 높은 대비로 친밀하고 캐주얼하며 자신감 있는 분위기, 편안하고 얼터너티브한 아름다움을 불러일으키는 사실적인 디테일",
-  "technical_quality": "매우 상세하며, 문신 잉크 색상과 선 작업, 꽃무늬가 있는 데님 원단 질감, 머리카락 가닥, 피부 광채, 코 피어싱 반사, 휴대폰 케이스 디테일에 선명하게 초점 맞춰져 있음, 8k 해상도, 데님의 사실적인 재료 광택과 미묘한 메이크업 디테일, 배경 식물과 가구를 부드럽게 흐리게 하는 자연스러운 피사계 심도를 가진 전문적인 셀카 사진 스타일",
-  "negative_prompt_suggestions": "흐릿함, 변형됨, 추가 사지, 거친 플래시 조명, 과다 노출된 피부, 과소 노출된 문신, 저품질, 만화, 애니메이션, 텍스트 워터마크"
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168050_j02hz2_G_NUON7XkAAT8aB.jpg" width="600" alt="프로필 / 아바타 - 실사 타투 셀카 인물 사진 (구조화된 JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168042_p4ck39_G_NUOJ5WsAAJWD8.jpg" width="600" alt="프로필 / 아바타 - 실사 타투 셀카 인물 사진 (구조화된 JSON) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168085_zrd8u5_G_NUODYX0AAeYaP.jpg" width="600" alt="프로필 / 아바타 - 실사 타투 셀카 인물 사진 (구조화된 JSON) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063168787_b192jg_G_NUOMJXQAAsweA.jpg" width="600" alt="프로필 / 아바타 - 실사 타투 셀카 인물 사진 (구조화된 JSON) - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [KeorUnreal](https://x.com/KeorUnreal)
-- **출처:** [Twitter Post](https://x.com/KeorUnreal/status/2014046077612085611)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7045)**
-
----
-
-### No. 12: 프로필 / 아바타 - 고양이 귀와 핑크 브로케이드 코르셋을 착용한 장난기 넘치는 거울 셀카
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-매우 독특하고 스타일리시한 의상(핑크색 브로케이드 코르셋, 깅엄 미니 스커트, 허벅지까지 오는 양말, 흰색 푹신한 고양이 귀 머리띠)을 입은 젊은 여성이 장난기 넘치는 거울 셀카를 찍는 모습을 생성하기 위한 구조화된 JSON 프롬프트입니다. 장면은 자연광을 강조하는 큰 창문이 있는 밝은 현대식 아파트이며, 재미있고 표현력이 풍부한 포즈(혀를 내밀고 위를 올려다보는)를 취하고 있습니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "여성",
-        "age_group": "젊은 성인",
-        "skin_tone": "하얀 피부"
-      },
-      "hair": {
-        "color": "금발",
-        "length": "긴 머리",
-        "style": "직모/웨이브",
-        "accessory": "하얀 솜털 고양이 귀 머리띠"
-      },
-      "face": {
-        "expression": {
-          "mood": "장난기 넘치는",
-          "mouth": "혀를 내밀고 살짝 미소 짓는",
-          "gaze": "위쪽 왼쪽을 바라보는 시선"
-        },
-        "makeup": {
-          "eyes": "날개형 아이라인을 포함한 가벼운 메이크업",
-          "lips": "핑크색",
-          "cheeks": "장밋빛",
-          "features": "뚜렷한 코"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "코르셋",
-          "material": "브로케이드",
-          "color": "핑크색",
-          "details": ["앞면 끈 조임", "트림"]
-        },
-        "lower_body": {
-          "item": "미니 스커트",
-          "pattern": "깅엄 체크",
-          "color": "핑크색",
-          "details": ["프릴 레이어", "하얀 레이스 트림"]
-        },
-        "leg_wear": {
-          "item": "허벅지까지 오는 양말",
-          "color": "하얀색",
-          "details": "상단에 핑크색 줄무늬"
-        },
-        "accessories": {
-          "neck": "작은 은색 종이 달린 핑크색 칼라 초커",
-          "ears": "작은 스터드 귀걸이",
-          "wrist": "섬세한 금색 팔찌"
-        }
-      },
-      "pose": {
-        "action": "거울 셀카를 찍는 중",
-        "hand_position": "오른손에 휴대폰을 들고 있는",
-        "posture": "서 있는"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "현대적인 아파트 내부",
-        "flooring": "회색 나무 판자",
-        "walls": "회색 타일 섹션"
-      },
-      "lighting": {
-        "source": "자연 채광",
-        "direction": "천장부터 바닥까지 오는 창문에서 들어오는",
-        "quality": "밝은"
-      },
-      "background_elements": {
-        "windows": "크고 천장부터 바닥까지 오는 창문, 밝은 낮의 도시 풍경과 하늘이 보이는",
-        "furniture": {
-          "left": "벽에 기대어 있는 큰 갈색 테디베어",
-          "right": [
-            "하얀색 덮개를 씌운 안락의자",
-            "나무 협탁",
-            "선반 위에 놓인 투명 유리 화병"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "매달려 있는 초록색 인조 담쟁이 식물",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "하얀색",
-          "position": "의자 근처 배경 위에 겹쳐진"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "사진",
-      "sub_genre": "거울 셀카",
-      "device_prop": "하얀색 iPhone",
-      "composition": "피사체와 방의 맥락을 보여주는 반사",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167910_ctazh4_G_NLz5sXgAA0Osl.jpg" width="600" alt="프로필 / 아바타 - 고양이 귀와 핑크 브로케이드 코르셋을 착용한 장난기 넘치는 거울 셀카 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Crystal](https://x.com/Cicily_aura)
-- **출처:** [Twitter Post](https://x.com/Cicily_aura/status/2014036824105074724)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7040)**
-
----
-
-### No. 13: 프로필 / 아바타 - 픽사 스타일 3D 아바타 생성 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-업로드된 이미지를 기반으로 고품질 3D 아바타를 생성하는 프롬프트입니다. 따뜻한 미소와 부드러운 이목구비를 가진 명랑하고 표정이 풍부한 얼굴을 묘사하며, 부드러운 질감, 과장된 비율, 부드럽고 균일한 스튜디오 조명을 사용하여 픽사 스타일 미학으로 렌더링됩니다.
-
-#### 📝 프롬프트
-
-```
-업로드된 이미지 속 인물을 명랑하고 표정이 풍부한 얼굴을 가진 고품질 3D 아바타로 만들어 주세요. 캐릭터는 따뜻한 미소, 반짝이는 눈, 친근하고 다가가기 쉬운 부드러운 얼굴 특징을 가져야 합니다. 부드러운 질감, 은은한 피부 톤, 귀엽고 애니메이션 같은 느낌을 위한 약간 과장된 비율로 픽사 스타일 미학으로 렌더링해 주세요. 조명은 부드럽고 균일하게 하여 깊이감을 위한 은은한 그림자와 함께 깔끔한 스튜디오 느낌을 연출해야 합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="프로필 / 아바타 - 픽사 스타일 3D 아바타 생성 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Harboriis](https://x.com/harboriis)
-- **출처:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7061)**
-
----
-
-### No. 14: 프로필 / 아바타 - 백반증 기능이 있는 극사실적인 거울 셀카
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-이것은 백반증을 가진 여성의 극사실적인 라이프스타일 거울 셀카를 생성하기 위해 JSON 형식으로 구성된 바이럴 스타일 프롬프트입니다. 백반증 패치가 자연스럽게 강조되어 피부에 아름다운 대비 패턴을 만들 수 있도록 피사체의 외모(플래티넘 블론드 헤어, 탄탄한 몸매, 핑크 비키니), 아늑한 침실 환경, 조명 조건(따뜻한 골든 아워)을 세심하게 설명합니다. 결과물은 4분할 세로 콜라주로 지정됩니다.
-
-#### 📝 프롬프트
-
-```
-{
-"type": "image_prompt",
-"style": "사실적인 라이프스타일 거울 셀카",
-"scene": {
-"location": "아늑한 침실",
-"flooring": "따뜻한 나무 바닥 또는 부드러운 러그",
-"background": [
-"정돈되지 않은 침대와 질감 있는 침구 및 베개",
-"따뜻한 베이지색 또는 부드러운 회색 벽",
-"스트링 라이트 또는 따뜻한 주변 조명",
-"책이나 양초가 놓인 협탁",
-"식물 또는 아늑한 장식 요소 (선택 사항)",
-"벽에 기대어 있거나 걸려 있는 전신 거울"
-],
-"lighting": "아늑한 주변 조명과 어우러진 따뜻한 자연광, 부드러운 골든 아워 느낌, 강한 그림자 없음, 백반증 피부 패턴을 자연스럽게 강조"
-},
-"subject": {
-"description": "거울 셀카를 찍는 성인 여성",
-"hair": {
-"color": "플래티넘 블론드",
-"style": "두 갈래 땋은 머리"
-},
-"skin": {
-"condition": "특징적인 탈색 반점이 있는 백반증",
-"distribution": "팔, 손, 다리, 허벅지, 복부, 몸통, 어깨에 자연스럽게 분포된 눈에 띄는 반점",
-"base_tone": "따뜻한 언더톤을 가진 중간에서 태닝된 피부톤",
-"texture": "자연스러운 피부 질감, 백반증 반점이 보이는 피부 전체에 아름다운 대비 패턴을 만듦",
-"lighting_interaction": "따뜻하고 아늑한 조명이 독특한 피부 패턴을 아름답게 강조하며, 반점들이 빛을 받아 깊이감과 입체감을 형성"
-},
-"face": {
-"features": "예쁜 얼굴 - 크고 순진한 사슴 눈, 작은 코, 도톰한 입술, 얼굴/목 부위에 미세한 백반증 반점 보일 수 있음",
-"makeup": "최소한의 자연스러운 메이크업, 립글로스, 노 메이크업 메이크업"
-},
-"body": {
-"type": "탄탄하고 글래머러스한 체형",
-"waist": "가는 허리",
-"thighs": "두껍고 부드러운 허벅지",
-"overall": "운동선수 같으면서도 여성스러운 체격"
-},
-"outfit": {
-"top": "핑크 비키니 상의",
-"bottom": "깔맞춤 핑크 비키니 하의",
-"note": "비키니는 복부, 옆구리, 등, 팔, 다리, 허벅지에 광범위한 백반증 패턴을 드러냄",
-"accessories": [
-"골드 링 귀걸이",
-"머리에 얹은 선글라스"
-]
-},
-"pose_variations": [
-"폰을 들고 웅크린 자세 - 팔, 손, 다리, 허벅지에 백반증 보임",
-"바닥에 앉아 머리 땋은 부분을 잡는 자세 - 몸통, 다리, 팔에 백반증 패턴 보임",
-"한쪽 다리를 구부린 채 서 있는 자세 - 전신 백반증 패턴 보임",
-"손을 허벅지에 얹고 앞으로 숙인 자세 - 팔, 손, 다리의 백반증이 두드러짐"
-],
-"expression": "장난기 어린 삐죽거리는 표정, 순진한 사슴 눈, 자신만의 독특한 아름다움에 대한 자신감",
-"camera": {
-"device": "스마트폰 (iPhone)",
-"angle": "눈높이 거울 반사",
-"framing": "전신 및 상반신 변형",
-"quality": "사실적인 iPhone 셀카 품질, 피부 질감을 사실적으로 포착"
-}
-},
-"composition": {
-"layout": "네 개의 세로 거울 사진이 나란히 배치",
-"focus": "거울 중앙에 피사체, 백반증 패턴이 선명하게 보임",
-"depth_of_field": "선명한 전경, 약간 부드러운 아늑한 배경"
-},
-"color_palette": [
-"핑크",
-"따뜻한 베이지",
-"부드러운 회색",
-"따뜻한 나무 톤",
-"골드",
-"더 밝은 백반증 반점으로 자연스러운 대비를 이루는 따뜻한 피부 톤"
-],
-"mood": "자신감 있고, 아늑하며, 진정성 있고, 자연스럽고, 부드러우며, 아름답고, 포용적이며, 따뜻하고, 매력적임"
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063160146_hhuyzd_G_MURrNWMAAmWRi.jpg" width="600" alt="프로필 / 아바타 - 백반증 기능이 있는 극사실적인 거울 셀카 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [KEVIN](https://x.com/aimodelabuser)
-- **출처:** [Twitter Post](https://x.com/aimodelabuser/status/2013975771681841303)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7027)**
-
----
-
-### No. 15: 프로필 / 아바타 - 실사 거울 셀카 인물 사진 프롬프트 (체조 레오타드)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-로얄 블루 체조 레오타드를 입은 젊고 운동 신경이 뛰어난 여성 피사체의 극사실적인 거울 셀카 인물 사진을 생성하기 위한 Nano Banana Pro용 상세 JSON 프롬프트. 자연스러운 피부 질감, 특정 포즈 디테일(휴대폰 들기, 손을 머리 뒤로 하기), 4:5 화면 비율에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "image_type": "사실적인 거울 셀카 인물 사진",
-  "subject_age": 19,
-  "gender": "여성",
-  "ethnicity": "밝은 피부의 백인 외모",
-  "aspect_ratio": "4:5",
-  "resolution": "초고해상도, 선명한 초점, 자연스러운 피부 질감",
-
-  "camera": {
-    "device_type": "스마트폰 후면 카메라",
-    "angle": "약간 높은 눈높이",
-    "shot_type": "미디엄 전신 거울 셀카",
-    "lens": "광각 스마트폰 렌즈"
-  },
-
-  "lighting": {
-    "type": "부드러운 실내 주변 조명",
-    "shadows": "부드러운 자연 그림자"
-  },
-
-  "subject": {
-    "face": {
-      "shape": "타원형",
-      "skin_tone": "핑크빛이 도는 밝고 따뜻한 베이지색",
-      "texture": "매끄러운 젊은 피부",
-      "expression": "부드러운 입 다문 미소",
-      "eyes": "아몬드 모양의 짙은 갈색 눈, 가벼운 메이크업"
-    },
-
-    "hair": {
-      "color": "{argument name=\"hair color\" default=\"light blonde\"}" + " 더 어두운 뿌리",
-      "style": "땋은 부분이 있는 높은 포니테일",
-      "accessory": "보라색 리본 머리끈"
-    },
-
-    "body": {
-      "build": "운동선수 같은, 탄탄한",
-      "pose": "엉덩이를 약간 옆으로 민 자세",
-      "arms": {
-        "left": "휴대폰을 들고 있음",
-        "right": "머리 뒤에 손"
-      }
-    },
-
-    "outfit": {
-      "type": "체조 레오타드",
-      "color": "{argument name=\"leotard color\" default=\"deep royal blue\"}" + " 메탈릭 광택",
-      "design": "민소매 하이넥",
-      "details": "텍스트, 로고, 기호가 없는 평범한 레오타드"
-    }
-  },
-
-  "background": {
-    "location": "실내 복도 또는 호텔 복도",
-    "elements": ["전신 거울", "무채색 벽"],
-    "depth": "약간 흐릿한 배경"
-  },
-
-  "mood": "자신감 있는, 젊은, 운동선수 같은",
-  "style": "극사실주의 라이프스타일 인물 사진",
-
-  "negative_prompt": [
-    "텍스트",
-    "로고",
-    "글자",
-    "기호",
-    "워터마크",
-    "거울에 비친 텍스트",
-    "반전된 텍스트",
-    "만화",
-    "애니메이션",
-    "왜곡된 해부학",
-    "추가 팔다리",
-    "흐림"
-  ]
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063240217_9yk5dh_G_LwK6ybYAAF9Yg.jpg" width="600" alt="프로필 / 아바타 - 실사 거울 셀카 인물 사진 프롬프트 (체조 레오타드) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [sammy](https://x.com/sumiturkude007)
-- **출처:** [Twitter Post](https://x.com/sumiturkude007/status/2013936062541042006)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7160)**
-
----
-
-### No. 16: 프로필 / 아바타 - 아이덴티티 잠금 프롬프트가 적용된 극사실주의 카페 라이프스타일 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-업로드된 이미지의 실제 피부 질감을 100% 얼굴 정확도로 유지하면서 현대적인 카페에서 초현실적인 라이프스타일 인물 사진을 생성하기 위한 매우 제한적인 프롬프트입니다. LED 조명이 있는 원형 나무 프레임 안에 피사체의 포즈를 지정하여 순수한 사실감과 따뜻하고 깨끗한 미학을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-차분하고 우아하며 현대적인 카페 환경에서 성인 한 명을 대상으로 한 초현실적이고 고급스러운 라이프스타일 인물 사진을 만드세요. 피사체는 따뜻한 LED 림 조명이 내장된 원형 나무 프레임 안에 편안하게 앉아 있으며, 무성한 녹색 식물과 부드러운 꽃 장식으로 둘러싸여 있습니다. 포즈는 편안하고 자연스럽습니다. 한쪽 다리를 다른 쪽 다리 위에 꼬고, 몸은 약간 비스듬하며, 어깨는 편안하게 늘어뜨리고, 손은 작은 생화 꽃다발을 들고 자연스럽게 놓여 있습니다. 전반적인 분위기는 따뜻하고 깔끔하며 우아하고 젊고 친근합니다. 순수한 사실주의만 표현합니다. 양식화, 판타지, 영화적 과장은 없습니다.
-
-업로드된 얼굴 이미지를 유일한 얼굴 식별 참조로 사용하세요.
-
-100% 얼굴 정확도를 유지하세요. 정확한 뼈 구조, 눈 모양, 눈꺼풀 주름, 눈썹 모양, 콧대와 코끝, 입술 모양, 턱선, 턱, 뺨 볼륨, 헤어라인, 얼굴 비율을 유지하세요.
-
-정면, 3/4, 측면, 앉은 자세, 약간 기울어진 머리 등 모든 각도에서 신원이 완벽하게 일관되어야 합니다.
-
-얼굴 혼합, 미화, 대칭 보정은 없습니다.
-
-AI 얼굴 드리프트는 없습니다.
-
-모공, 잔주름, 자연스러운 결점 등 실제 피부 질감을 보존하세요.
-
-표정: 부드럽고 자연스러운 미소, 편안하고 진실된 표정
-
-부드러운 파스텔 톤의 긴팔 니트 상의 (더스티 핑크 / 차분한 로즈 톤)
-
-하이웨이스트, 스트레이트 핏 베이지 또는 크림색 바지
-
-깔끔한 흰색 청키 스니커즈
-
-최소한의 액세서리만 착용 (심플한 귀걸이, 스마트워치 또는 최소한의 손목 액세서리)
-
-머리는 깔끔하게 스타일링하고 자연스럽게 뒤로 묶거나 부드럽게 묶습니다.
-
-자연스러운 메이크업: 사실적인 피부 톤, 과도한 리터칭 없음
-
-현대적인 카페 또는 라이프스타일 스튜디오 인테리어
-
-따뜻한 LED 조명 링이 내장된 원형 나무 구조물
-
-프레임에 통합된 녹색 식물과 꽃 장식
-
-따뜻한 주변 조명이 있는 부드러운 보케 배경
-
-깊이감과 사실감이 있는 깔끔하고 정돈된 설정
-
-전신 또는 3/4 바디 세로 인물 사진
-
-눈높이 카메라 앵글
-
-50mm–85mm 렌즈 느낌
-
-자연스러운 원근감, 왜곡 없음
-
-원형 프레임 중앙에 피사체 배치
-
-얕은 피사계 심도, 배경은 부드럽게 흐리게 처리
-
-부드럽고 따뜻하며 확산된 조명
-
-원형 프레임을 부드럽게 윤곽을 그리는 LED 림 조명
-
-자연스러운 그림자 감소와 균일한 얼굴 조명
-
-강한 하이라이트, 날아간 흰색 없음
-
-사실적인 피부 반사 및 깊이감
-
-부정적인 프롬프트:
-
-양식화 없음
-
-영화적 색 보정 없음
-
-뷰티 필터 없음
-
-매끄럽거나 플라스틱 같은 피부 없음
-
-과장된 비율 없음
-
-회화적이거나 삽화 같은 느낌 없음
-
-인공적인 빛 없음
-
-얼굴 변형 또는 신원 변화 없음
-
-초고화질 사진
-
-편집 라이프스타일 사진 품질
-
-자연스러운 색상, 실제와 같은 피부 톤
-
-모든 각도에서 신원이 변경되지 않고 정확하게 유지됨
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063184530_y5bs4o_G_LiM0JakAAUQ2O.jpg" width="600" alt="프로필 / 아바타 - 아이덴티티 잠금 프롬프트가 적용된 극사실주의 카페 라이프스타일 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2013920696460816540)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7068)**
-
----
-
-### No. 17: 프로필 / 아바타 - 올드 머니 스타일의 극사실적인 플래시 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-플래시 사진과 시네마틱 그레인을 사용하여 초현실적인 하이패션 에디토리얼 인물 사진을 생성하기 위한 상세한 프롬프트입니다. 극적인 배경(빨간색 가죽 벽, 어두운 주변), 피사체의 의상(빨간색 자수가 있는 베이지색 스트랩리스 코르셋), 메이크업 디테일(강렬한 하이라이터, 글로시 립)을 지정합니다. 이 프롬프트는 '올드 머니' 헤어스타일과 잡지 표지에 적합한 높은 대비와 드라마를 연출하기 위한 플래시 사용을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-"그레인 효과가 추가된 시네마틱 효과. 세로줄 무늬의 붉은색 가죽 질감 벽에 기대어 서 있는 여성의 초현실적인 초상화. 그녀는 붉은색 자수가 놓인 베이지색 스트랩리스 코르셋을 입고 있다. 그녀의 피부는 하이라이트되어 있다. 그녀는 밝은 메이크업, 인조 속눈썹을 하고 있으며, 입술은 투명한 립글로스로 덮여 있다. 그녀의 머리카락은 올드 머니 스타일의 밝은 암적색 머리로, 곧고 윤기 나며 길다. 그녀의 뺨에는 강렬한 하이라이터가 있다. 한 손으로 머리카락을 부드럽게 만지고 있다. 그녀는 카메라를 똑바로 응시하고 있다. 자신감 있고 장난기 넘치는 시선, 입은 살짝 벌어져 있다. 그녀 뒤편 프레임 가장자리에는 거울이 부분적으로 보인다. 플래시를 사용하여 촬영한 사진. 주변 환경은 어둡다."
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063167025_5pi880_G_KucySaoAAheay.jpg" width="600" alt="프로필 / 아바타 - 올드 머니 스타일의 극사실적인 플래시 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
-- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2013863796604113351)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7038)**
-
----
-
-### No. 18: 프로필 / 아바타 - 장난기 가득한 거울 셀카 프롬프트 (고양이 귀 머리띠)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-장난기 가득한 표정(혀를 내밀고 있음)을 한 젊은 여성이 노란색 브로케이드 코르셋, 깅엄 미니스커트, 흰색 푹신한 고양이 귀 머리띠를 착용하고 있는 모습을 담은 사실적인 거울 셀카를 생성하기 위한 Nano Banana Pro용 상세 JSON 프롬프트. 배경과 조명에 대한 구체적인 세부 정보가 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "image_generation_prompt": {
-    "subject": {
-      "demographics": {
-        "gender": "여성",
-        "age_group": "젊은 성인",
-        "skin_tone": "하얀 피부"
-      },
-      "hair": {
-        "color": "{argument name=\"hair color\" default=\"금발\"}",
-        "length": "긴",
-        "style": "직모/웨이브",
-        "accessory": "하얀 털 고양이 귀 머리띠"
-      },
-      "face": {
-        "expression": {
-          "mood": "장난기 넘치는",
-          "mouth": "혀를 내밀고 살짝 미소 짓는",
-          "gaze": "위쪽 왼쪽을 바라보는"
-        },
-        "makeup": {
-          "eyes": "날개형 아이라인을 포함한 가벼운 메이크업",
-          "lips": "핑크색"
-        }
-      },
-      "wardrobe": {
-        "upper_body": {
-          "item": "코르셋",
-          "material": "브로케이드",
-          "color": "{argument name=\"corset color\" default=\"노란색\"}",
-          "details": ["앞면 끈 조임", "트림"]
-        },
-        "lower_body": {
-          "item": "미니 스커트",
-          "pattern": "깅엄 체크",
-          "color": "노란색",
-          "details": ["러플 레이어", "하얀 레이스 트림"]
-        },
-        "leg_wear": {
-          "item": "허벅지 위까지 오는 양말",
-          "color": "하얀색",
-          "details": "상단에 노란색 줄무늬"
-        },
-        "accessories": {
-          "neck": "작은 은색 종이 달린 노란색 칼라 초커",
-          "ears": "작은 스터드 귀걸이",
-          "wrist": "섬세한 금색 팔찌"
-        }
-      },
-      "pose": {
-        "action": "거울 셀카를 찍는",
-        "hand_position": "오른손에 휴대폰을 들고 있는",
-        "posture": "서 있는"
-      }
-    },
-    "scene": {
-      "environment": {
-        "location": "현대적인 아파트 내부",
-        "flooring": "회색 나무 판자",
-        "walls": "회색 타일 부분"
-      },
-      "lighting": {
-        "source": "자연 채광",
-        "direction": "천장부터 바닥까지 오는 창문에서",
-        "quality": "밝은"
-      },
-      "background_elements": {
-        "windows": "크고 천장부터 바닥까지 오는 창문, 밝은 낮의 도시 풍경과 하늘이 보이는",
-        "furniture": {
-          "left": "벽에 기대어 있는 큰 갈색 테디베어",
-          "right": [
-            "하얀색 덮개를 씌운 안락의자",
-            "나무 협탁",
-            "선반 위의 투명 유리 꽃병"
-          ]
-        }
-      },
-      "foreground_elements": {
-        "props": "매달려 있는 녹색 인조 담쟁이 식물",
-        "overlays": {
-          "text_content": "HIII",
-          "text_color": "하얀색",
-          "position": "의자 근처 배경 위에 겹쳐진"
-        }
-      }
-    },
-    "technical_specifications": {
-      "medium": "사진",
-      "sub_genre": "거울 셀카",
-      "device_prop": "하얀색 iPhone",
-      "composition": "피사체와 방의 맥락을 보여주는 반사",
-      "aspect_ratio": "2:3"
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063241284_bgweit_G_Jc-TGawAAsTzX.jpg" width="600" alt="프로필 / 아바타 - 장난기 가득한 거울 셀카 프롬프트 (고양이 귀 머리띠) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **출처:** [Twitter Post](https://x.com/Adam38363368936/status/2013774223526019132)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7164)**
-
----
-
-### No. 19: 프로필 / 아바타 - 매혹적인 럭셔리 호텔 거울 셀카 (상세 JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-고급 호텔을 배경으로 매혹적인 하이패션 부두아 거울 셀카를 생성하기 위한 매우 상세하고 구조화된 프롬프트입니다. 피사체의 외모(어두운 머리카락, 올리브 피부, 드라마틱한 메이크업), 의상(블랙 새틴 플런지 미니 드레스, 스트랩 힐), 포즈(앉아서 뒤로 기대기), 그리고 친밀한 야간 조명을 명시하며, 사실적인 품질, 새틴 질감, 그리고 휴대폰 플래시의 날것 그대로의 모습을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "main_prompt": "매혹적인 럭셔리 호텔 침실 거울 셀카, 20대 초중반의 눈부신 젊은 여성, 길고 비단 같은 짙은 갈색 머리카락이 어깨 위로 흘러내림, 햇볕에 그을린 올리브 피부에 빛나는 윤기, 드라마틱한 메이크업: 날카로운 검은색 윙 아이라이너, 길고 풍성한 속눈썹, 컨투어링된 볼, 부드럽게 삐죽 내민 도톰한 누드 핑크색 입술, 살짝 뒤로 젖힌 채 반사된 거울을 통해 카메라를 바라보는 요염하고 자신감 넘치는 표정, 얇은 스트랩이 달린 타이트한 검은색 새틴 딥 플런지 브이넥 미니 드레스 착용, 탄탄한 허벅지와 엉덩이를 드러내는 하이컷 옆면, 곡선을 강조하며 살짝 올라간 드레스, 오픈 토와 발목 스트랩이 있는 검은색 스트랩 하이힐 샌들, 섬세한 금색 목걸이 보임, 타일 바닥에 앉아 한 손으로 뒤로 기대어 포즈, 다리는 뻗고 발목을 교차하여 하단 프레임을 채움, 럭셔리한 현대식 호텔 스위트 인테리어: 따뜻한 베이지색 대리석 벽과 바닥, 배경에 어두운 나무 옷장과 캐비닛, 그녀를 완벽하게 비추는 대형 전신 거울, 부드럽고 따뜻한 천장 및 벽 스콘스 조명이 머리카락, 어깨, 다리에 황금빛 림 라이트 생성, 미묘한 휴대폰 플래시 필 라이트가 얼굴과 드레스에 시원한 하이라이트 추가, 밤 시간의 친밀한 분위기, 따뜻한 피부 톤과 깊은 그림자가 있는 영화 같은 색상 보정, 사실적, 초고화질 새틴 원단 광택 및 질감, 사실적인 피부 모공과 미묘한 광택, 약간의 왜곡이 있는 정확한 거울 반사, iPhone 14 Pro 플래시 인물 모드로 촬영, 피사체에 초점을 맞춘 얕은 피사계 심도와 배경의 부드러운 보케, 하이 패션 부도어 글래머 분위기, 가공되지 않은 필터 없는 럭셔리 셀카 에너지 --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "흐릿함, 저해상도, 기형적인 손, 손가락 추가, 손가락 붙음, 나쁜 해부학, 서투르게 그려진 얼굴, 나쁜 비율, 추가 사지, 돌연변이 손, 못생김, 기형, 타일링, 프레임 밖, jpeg 아티팩트, 서명, 워터마크, 텍스트, 오류, 잘못 잘림, 최악의 품질, 낮은 품질, 만화, 3D 렌더링, 플라스틱 피부, 인형 같은, 에어브러시 처리된 피부, 과다 노출된 플래시, 거친 그림자, 창백한 피부, 노메이크업, 과도한 필터, 인스타그램 얼굴, 오리 입술, 웃는 행복한, 노인, 어린이, 남성, 단체 사진, 밝은 낮, 저렴한 호텔 방, 현대적인 미니멀리스트 장식, 얼굴을 가리는 보이는 전체 휴대폰, 기형적인 반사, 어수선한 전경, 차가운 지배적인 조명, 채도 낮은 색상, 무광택 직물, 새틴에 광택 없음, 합성적인 느낌, 보이는 솔기 부자연스러움, 짧은 머리, 금발 머리",
-  "style_tags": [
-    "사실적",
-    "럭셔리 호텔 거울 셀카",
-    "검은색 새틴 플런지 미니 드레스",
-    "하이힐 스트랩 샌들",
-    "밤 시간의 친밀한 조명",
-    "깊은 클리비지와 허벅지 강조",
-    "영화 같은 부도어 글래머",
-    "가공되지 않은 휴대폰 플래시 분위기",
-    "관능적이고 자신감 넘치는 포즈",
-    "하이엔드 패션 화보",
-    "우울하고 따뜻한-차가운 대비"
-  ],
-  "technical": {
-    "aspect_ratio": "3:4 또는 9:16 (수직 휴대폰 거울 셀카 스타일)",
-    "lighting": "따뜻한 주변 호텔 스콘스/천장 조명 (~3200K) + 시원한 휴대폰 플래시 필 라이트, 강한 림"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063165502_oqr9dh_G_JUrIrWcAAkUB7.jpg" width="600" alt="프로필 / 아바타 - 매혹적인 럭셔리 호텔 거울 셀카 (상세 JSON) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Lex](https://x.com/katmanai)
-- **출처:** [Twitter Post](https://x.com/katmanai/status/2013765086859391127)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7034)**
 
 ---
 
@@ -2154,7 +1828,689 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿
+### No. 21: 소셜 미디어 게시물 - 초현실적인 웻 룩 풀장 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+수영장 속 여성의 초고화질 인물 사진을 위한 매우 상세한 이미지 생성 프롬프트로, '젖은 모습(wet look)' 미학을 강조합니다. 이 프롬프트는 운동으로 다져진 모래시계형 몸매, 물방울이 맺혀 반짝이는 젖은 피부, 그리고 네이비 블루 미니멀리스트 비키니를 명시합니다. 기술적 세부 사항으로는 높은 대비를 위한 강렬한 한낮의 햇빛, 보케 효과를 위한 f/2.8의 85mm 렌즈, 역동적인 물 튀김을 포착하기 위한 빠른 셔터 속도(1/4000초)가 포함되며, 보그(Vogue) 편집 스타일을 목표로 합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt_structure": {
+    "subject": {
+      "appearance": "매우 아름답고 섹시한 젊은 여성으로, 탄탄하고 운동으로 다져진 모래시계형 몸매, 사실적인 피부 질감과 모공이 돋보이는 올리브색 피부 톤, 얼굴에서 뒤로 깔끔하게 넘긴 '웻 룩' 스타일의 짙은 갈색 머리.",
+      "facial_features": "좌우 대칭적인 얼굴, 카메라를 정면으로 응시하는 인상적인 {argument name=\"eye color\" default=\"hazel-green\"} 눈, 자연스러운 눈썹, 부드러운 분홍색 입술, 평온하고 자신감 있는 표정.",
+      "skin_details": "반짝이는 젖은 피부, 어깨와 가슴에 맺힌 선명한 물방울, 햇빛 아래 피부에 나타나는 서브서피스 스캐터링 효과."
+    },
+    "apparel": {
+      "item": "투피스 미니멀리스트 비키니.",
+      "color": "{argument name=\"bikini color\" default=\"navy blue\"}.",
+      "fit": "몸에 꼭 맞는 핏, 얇은 스파게티 스트랩, 스쿱 넥라인 상의, 하이컷 하의.",
+      "texture": "몸에 달라붙는 젖은 천 질감."
+    },
+    "pose_and_action": {
+      "posture": "허리까지 물에 잠긴 채 서서, 팔로 체중을 지탱하며 살짝 앞으로 기울어진 자세. 유혹적인 표정.",
+      "hands": "수영장 가장자리의 거친 질감의 돌 난간에 단단히 놓인 손, 좌우 대칭적인 배치.",
+      "framing": "수면 바로 위에서 촬영된 중간 대각선 샷."
+    },
+    "environment": {
+      "location": "고급스러운 야외 수영장.",
+      "background": "무성한 녹색 야자수 잎과 나뭇잎이 있는 부드럽게 흐릿한 열대 정원 (보케 효과), 멀리 보이는 돌기둥.",
+      "elements": "피사체 주변 공중에 멈춰 있는 역동적인 물보라, 반짝이는 청록색 수영장 물, 베이지색 트래버틴 석재 수영장 가장자리."
+    },
+    "lighting": {
+      "source": "밝고 강렬한 자연광 (한낮의 태양).",
+      "characteristics": "높은 대비, 젖은 피부와 물방울에 나타나는 스페큘러 하이라이트, 근육의 윤곽을 뚜렷하게 보여주는 그림자, 물보라에 나타나는 림 라이팅."
+    },
+    "camera_settings": {
+      "type": "DSLR 또는 미러리스 전문가용 카메라.",
+      "lens": "85mm 인물용 렌즈.",
+      "aperture": "f/2.8 (부드러운 배경 분리를 위해).",
+      "shutter_speed": "1/4000s (물방울을 선명하게 고정하기 위한 빠른 셔터 속도).",
+      "focus": "눈과 얼굴에 선명한 초점."
+    },
+    "quality_modifiers": [
+      "울트라 포토리얼리스틱",
+      "8k 해상도",
+      "RAW 사진",
+      "시네마틱 조명",
+      "하이퍼 디테일",
+      "명작",
+      "물리 기반 렌더링 (PBR)",
+      "보그 에디토리얼 스타일"
+    ]
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052260_sigakz_G_ZdpA5aoAAQd2z.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 웻 룩 풀장 인물 사진 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236052265_o0hr61_G_W8-scXMAAlVBA.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 웻 룩 풀장 인물 사진 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [AIARTGALLARY](https://x.com/AIARTGALLARY)
+- **출처:** [Twitter Post](https://x.com/AIARTGALLARY/status/2014900856064537011)
+- **게시일:** 2026년 1월 24일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7379)**
+
+---
+
+### No. 22: 소셜 미디어 게시물 - 극사실주의 브라질 서퍼 걸 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+나노 바나나 프로(Nano Banana Pro)를 위한 상세한 JSON 프롬프트로, 젊은 브라질 물라타 서퍼 소녀의 극사실적인 초상화를 묘사합니다. 이 프롬프트는 얼굴 대칭, 햇볕에 그을린 피부, 자연스러운 웨이브 헤어, 그리고 엉덩이 근육이 강조된 과장된 모래시계 실루엣에 초점을 맞춰 극도의 해부학적 세부 사항을 명시합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "subject": {
+    "description": "해변에서 막 나온 듯 흐트러지고 햇볕에 그을려 소금기 있는 자연스러운 웨이브 머리를 한 젊은 브라질 물라타 여성. 스포티한 선글라스를 머리 위로 올려 쓰고 있으며, 미묘한 선탠 라인이 보이는 구릿빛으로 햇볕에 그을린 피부 톤을 가지고 있습니다.",
+    "face": {
+      "beauty_priority": "극도로 사실적인 서퍼 걸의 특징을 가진 최고의 얼굴 미모",
+      "structure": "조화로운 비율을 가진 완벽하게 대칭적인 얼굴; 높고 뚜렷한 광대뼈; 매끄럽고 탄탄한 턱선; 건강하고 스포티한 활력이 넘치는 섬세하고 여성스러운 골격.",
+      "skin": "따뜻한 골드 언더톤을 가진 빛나고 햇볕에 그을린 피부; 바다와 햇볕 노출로 인한 자연스러운 건강한 윤기; 코와 뺨에 미묘한 주근깨; 사실감을 보여주는 미세한 피부결이 보이지만 잡티는 전혀 없음; 광대뼈와 콧등에 촉촉한 마무리감; 자연스러운 구릿빛 선탠.",
+      "eyes": "크고 표현력이 풍부한 아몬드 모양의 눈에 밝고 깨끗한 흰자; 바다와 하늘을 반사하는 자연스러운 깊이와 캐치라이트가 있는 풍부하고 따뜻한 헤이즐 또는 밝은 갈색 홍채; 길고 두꺼운 자연스러운 햇볕에 탈색된 속눈썹; 부드러운 아치를 가진 완벽하게 정돈된 자연스러운 눈썹; 눈의 윤곽을 위한 뚜렷한 림벌 링; 활기차고 모험적인 시선.",
+      "nose": "매끄러운 콧등을 가진 우아하고 균형 잡힌 코; 세련된 코끝; 대칭적인 콧구멍; 콧등에 부드러운 하이라이트; 미묘하게 햇볕에 그을린 주근깨.",
+      "lips": "자연스러운 큐피드 활 모양을 가진 도톰하고 뚜렷한 입술; 미묘한 자연스러운 광택이 있는 매끄러운 질감; 햇볕과 소금 노출로 인한 건강한 코랄 핑크 톤; 완벽한 대칭.",
+      "smile": "아름답게 정돈된 하얀 치아를 드러내는 따뜻하고 진정한 근심 없는 서퍼 미소; 매력을 더하는 자연스러운 미소 라인; 표정에서 뿜어져 나오는 햇볕에 그을린 행복감.",
+      "overall": "꾸밈없는 해변 소녀의 매력을 가진 놀랍도록 아름다운 얼굴; 활력과 바다의 에너지를 발산하는 탄탄하고 건강한 아름다움."
+    },
+    "hair": {
+      "style": "풍성하고 자연스러운 웨이브 해변 머리, 느슨한 컬과 바람에 날린 듯한 질감; 전체적으로 햇볕에 탈색된 하이라이트; 방금 물에서 나온 듯 약간 축축한 모습.",
+      "color": "풍부한 다크 브라운 베이스에 자연스러운 골든 블론드 햇볕 줄무늬와 하이라이트; 소금과 햇볕에 의한 질감.",
+      "volume": "크고 풍성하며 흐트러진 해변 웨이브, 자연스러운 움직임과 볼륨감."
+    },
+    "body": {
+      "physique": "극단적인 허리-엉덩이 비율을 가진 매우 뚜렷한 모래시계 실루엣; 탄탄한 팔과 어깨를 가진 운동선수 같은 서퍼 체형.",
+      "anatomy": "사실적인 무게감과 부드러운 피부 질감을 가진 매우 크고 풍성한 둔근(대둔근); 가늘고 잘록한 탄탄한 허리; 뚜렷한 근육 정의가 보이는 강하고 탄탄한 허벅지; 잘 정의된 요추 곡선(허리 아치); 탄탄한 어깨와 팔. 사실적인 발바닥 질감과 발가락 정렬을 보여주는 다리와 발의 높은 수준의 해부학적 정확성.",
+      "details": "보이는 피부 모공, 허리의 자연스러운 피부 주름, 미묘한 선탠 라인이 있는 햇볕에 그을린 피부 톤, 사실적인"
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236060988_ut98mx_G_Y9ghMXgAAzdZC.jpg" width="600" alt="소셜 미디어 게시물 - 극사실주의 브라질 서퍼 걸 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Sotoshi Nikomito](https://x.com/SotoshiNikomito)
+- **출처:** [Twitter Post](https://x.com/SotoshiNikomito/status/2014865550971638014)
+- **게시일:** 2026년 1월 24일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7394)**
+
+---
+
+### No. 23: 소셜 미디어 게시물 - 시네마틱 실내 인물 사진 (Identity Reference 포함)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+녹색 눈과 어두운 머리카락을 가진 젊은 여성의 영화 같은 실내 초상화를 생성하기 위한 상세한 프롬프트로, 조각적인 회색 하이넥 의상을 입고 있습니다. 이 프롬프트에는 일반적인 생성 결함을 피하기 위한 부정적인 프롬프트가 포함되어 있으며, 눈 색깔, 머리 볼륨, 의상 디자인 및 표정과 같은 특정 세부 사항에 대해 업로드된 참조 이미지를 명시적으로 사용하도록 요구합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "main_prompt": "어깨 위로 풍성하게 흘러내리는 길고 짙은 갈색 머리를 가진 젊은 여성의 영화 같은 실내 인물 사진. 매혹적이고 강렬한 시선으로 카메라를 직접 응시하는 날카로운 녹색 눈, 부드러운 무광택 마감의 자연스러운 피부 질감, 세련된 회색의 구조적인 하이넥 민소매 랩 스타일 의상, 크로스오버 넥 디자인의 현대적인 조각적인 패션 보디스를 착용. 미니멀하고 깔끔한 미학, 측면에서 들어오는 부드러운 자연광이 은은한 그림자를 드리움, 뉴트럴 톤의 실내 배경, 85mm 인물 렌즈, 사실적인, 매우 섬세한 홍채 디테일과 직물 짜임 --ar 3:4 --stylize 300 --v 6 --q 2",
+  "negative_prompt": "흐릿한, 기형적인, 나쁜 해부학적 구조, 못생긴, 과다 노출된, 강한 그림자, 진한 화장, 웃는, 밝은 대낮, 인공적인 느낌, 만화, 그림, 지저분한 방, 낮은 품질, 생생한 색상, 플라스틱 피부",
+  "style_tags": ["모던 미니멀리스트 패션", "하이엔드 에디토리얼", "날카로운 시선", "조각적인 의류", "뉴트럴 팔레트"],
+  "technical": {
+    "aspect_ratio": "3:4",
+    "lighting": "부드러운 자연 측면 조명",
+    "camera": "85mm f/1.8 전문가용 렌즈"
+  },
+  "extra_parameters": {
+    "recommended_model": "Flux.1 [dev]",
+    "guidance_scale": "7.0",
+    "steps": "40",
+    "image_reference": "업로드된 레퍼런스를 사용하여 특정 녹색 눈동자 색상, 길고 풍성한 갈색 머리 볼륨, 독특한 회색 랩넥 의상 디자인, 강렬한 표정을 표현"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235954914_0mh76v_G_Yt0vmWIAAcXMJ.jpg" width="600" alt="소셜 미디어 게시물 - 시네마틱 실내 인물 사진 (Identity Reference 포함) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Stark](https://x.com/katmanai)
+- **출처:** [Twitter Post](https://x.com/katmanai/status/2014848270548226189)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7246)**
+
+---
+
+### No. 24: 소셜 미디어 게시물 - Pixar/Disney 3D 만화 캐릭터와 니트 이름
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+픽사 또는 디즈니 스타일로 렌더링된 전신 3D 카툰 소녀 캐릭터를 만들기 위한 포괄적인 이미지 생성 프롬프트입니다. 이 프롬프트는 'NOOR'라는 이름이 직조된 오버사이즈 니트 스웨터를 포함한 특정 의류 디테일에 중점을 두며, 실의 니트 질감의 사실감과 단색 노란색 배경에 대비되는 따뜻한 색상 팔레트를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+픽사/디즈니 스타일로 렌더링된 전신 3D 카툰 소녀 캐릭터가 단색의 밝은 {argument name="background color" default="yellow"} 배경을 등지고 자신감 있게 서 있습니다. 크고 표현력이 풍부한 갈색 눈, 귀여운 미소를 띤 얼굴, 지저분하게 높이 묶은 밝은 갈색 곱슬머리, 머리 위에는 흰색 둥근 고글을 쓰고 있습니다. 크림색과 머스타드 옐로우 줄무늬의 오버사이즈 니트 스웨터를 입고 있으며, 가슴 부분에는 "{argument name="name on sweater" default="NOOR"}"라는 이름이 직물에 선명하게 뜨개질되어 있습니다(인쇄가 아닌 직조된 실 질감). 옆주머니가 있는 헐렁한 니트 베이지 카고 팬츠와 미묘한 노란색 악센트가 있는 흰색 청키 스니커즈를 착용하고 있습니다. 부드러운 스튜디오 조명, 매끄러운 질감, 고도로 섬세한 실 니트의 사실감, 따뜻한 색상 팔레트, 팔을 살짝 벌린 장난기 넘치는 포즈, 초고품질, 4K, 선명한 초점, 깔끔한 배경, 중앙에 배치된 캐릭터.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047994_6hve1z_G_YpkkWW0AAhN1Y.jpg" width="600" alt="소셜 미디어 게시물 - Pixar/Disney 3D 만화 캐릭터와 니트 이름 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014843601067643131)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7372)**
+
+---
+
+### No. 25: 소셜 미디어 게시물 - 등대와 돛단배의 추상화 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+등대, 돛단배, 해안가에 정박된 보트들이 있는 강 풍경의 추상화를 생성하기 위한 프롬프트입니다. 커다란 흰색 태양과 따뜻한 디지털 아트 스타일의 미학을 지정합니다.
+
+#### 📝 프롬프트
+
+```
+강 위에 등대와 돛단배가 추상적으로 그려져 있고, 전경에는 나무가, 강변에는 배들이 정박해 있으며, 사람들이 둑을 따라 걷고 있습니다. 수평선 위에는 크고 하얀 태양이 빛나며 따뜻한 디지털 아트 스타일의 장면을 연출합니다. 화면 비율 6:9
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057253_yxv7r1_G_Yo1p0XQAAH9dH.jpg" width="600" alt="소셜 미디어 게시물 - 등대와 돛단배의 추상화 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014842801008341184)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7388)**
+
+---
+
+### No. 26: 소셜 미디어 게시물 - 세련된 남성 애티튜드 포즈 프롬프트 (이미지 참고)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 이미지 레퍼런스가 필요한 초현실적이고 고해상도 프롬프트로, 런웨이에서 지배적인 태도를 취하는 스타일리시한 젊은 남자를 포착합니다. 파스텔 그린 푸퍼 재킷, 흰색 민소매 조끼, 루즈핏 바지, 미니멀리스트 스튜디오 배경을 지정합니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 이미지에서 영감을 받은 초현실적인 고해상도 이미지. 대담한 태도로 포즈를 취한 스타일리시한 젊은 남성: 중앙에 위치, 몸은 살짝 비스듬히, 한 손은 바지 주머니에, 다른 손은 패딩 칼라를 잡고, 턱은 치켜들고, 압도적인 런웨이 표정. 의상: 파스텔 그린 패딩 푸퍼 (오픈), 흰색 민소매 조끼, 루즈핏 흰색 바지, 풍성하고 질감 있는 헤어스타일. 깔끔하고 미니멀한 실내 스튜디오, 뒤편에는 은은한 수직 패널 벽 (오른쪽으로 치우침), 부드러운 대각선 조명.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055364_dy9r37_G_YoUJzWEAAbdet.jpg" width="600" alt="소셜 미디어 게시물 - 세련된 남성 애티튜드 포즈 프롬프트 (이미지 참고) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014842219040047311)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7387)**
+
+---
+
+### No. 27: 소셜 미디어 게시물 - 사물 인포그래픽 프롬프트 템플릿
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+나노 바나나 프로(Nano Banana Pro)용 재사용 가능한 프롬프트 템플릿으로, 일반적인 개체의 인포그래픽 이미지를 생성하도록 설계되었습니다. 이 프롬프트는 AI에게 개체의 사실적인 렌더링과 기술적인 주석 오버레이를 결합하도록 지시합니다. 이때 순백색 배경에 검은색 잉크 선 드로잉, 라벨, 측정값 및 개략도를 사용하여 교육적인 공학 매뉴얼 미학을 목표로 합니다. 이는 이전 프롬프트의 일반화된 버전입니다.
+
+#### 📝 프롬프트
+
+```
+"[{argument name="object" default="OBJECT"}]의 인포그래픽 이미지를 만드세요. 객체의 사실적인 사진 또는 포토리얼 렌더링과 그 위에 직접 배치된 기술 주석 오버레이를 결합합니다.
+
+순백색 스튜디오 배경에 검은색 잉크 스타일의 선 그림과 텍스트(기술 펜/건축 스케치 느낌)를 사용하고 다음을 포함합니다.
+• 주요 구성 요소 레이블
+• 내부 단면 또는 분해 조립도 윤곽선
+• 측정, 치수 및 스케일 마커
+• 재료 설명 및 수량
+• 기능, 힘 또는 흐름(공기, 소리, 전력, 압력)을 나타내는 화살표
+• 관련성이 있는 경우 간단한 개략도 또는 단면도
+
+제목 [OBJECT]를 한쪽 모서리에 있는 손으로 그린 기술 주석 상자 안에 배치합니다.
+
+스타일 및 레이아웃 규칙:
+• 주석 아래에 실제 객체가 명확하게 보이도록 합니다.
+• 주석은 스케치된 듯한, 기술적이고 건축적인 느낌을 줍니다.
+• 균형 잡힌 여백으로 깔끔한 구성을 이룹니다.
+• 교육적이고 박물관 전시/엔지니어링 매뉴얼 분위기를 줍니다.
+
+시각적 스타일:
+최소한의 기술 일러스트레이션 미학, 사실적인 이미지 위에 검은색 선 작업, 정밀하지만 약간 손으로 그린 듯한 느낌.
+
+색상 팔레트:
+흰색 배경, 검은색 주석 선과 텍스트만 사용. 색상 없음.
+
+출력:
+1080×1080, 초고화질, 소셜 피드 최적화, 워터마크 없음."
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050335_96kh9m_G_Yj8SGX0AAa9YM.jpg" width="600" alt="소셜 미디어 게시물 - 사물 인포그래픽 프롬프트 템플릿 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014837408374706372)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7376)**
+
+---
+
+### No. 28: 소셜 미디어 게시물 - 헤어스타일 사진 콜라주 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+동일 인물의 얼굴 특징과 표정이 여러 프레임에 걸쳐 일관되게 유지되고, 각 프레임마다 다른 헤어스타일(예: 픽시 컷, 브레이드 크라운, 메시 번)을 보여주는 고품질 포토 콜라주를 생성하기 위한 프롬프트입니다. 4x3 그리드 레이아웃과 에디토리얼 뷰티 룩을 지정합니다.
+
+#### 📝 프롬프트
+
+```
+동일한 얼굴 특징과 표정을 가진 한 사람이 다양한 헤어스타일로 여러 프레임에 나타나는 고품질 사진 콜라주. 각 패널은 {argument name="hairstyle 1" default="긴 생머리"}, {argument name="hairstyle 2" default="하이 포니테일"}, {argument name="hairstyle 3" default="내추럴 번"}, 픽시 컷, 브레이드 크라운, 소프트 웨이브, 앞머리 있는 짧은 단발, 로우 번, 옆으로 땋은 머리, 루즈 컬과 같은 독특한 헤어스타일을 보여준다. 모든 이미지에서 일관된 중립적인 의상과 메이크업, 부드러운 스튜디오 조명, 따뜻하고 흐릿한 배경, 사실적인 피부 질감, 대칭적인 얼굴 일관성, 초고화질, 에디토리얼 뷰티 룩, 4x3 그리드 레이아웃, 전문 인물 사진.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057568_mwc36t_G_YjnB2W0AA8KiL.jpg" width="600" alt="소셜 미디어 게시물 - 헤어스타일 사진 콜라주 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014837052383363498)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7390)**
+
+---
+
+### No. 29: 소셜 미디어 게시물 - 젊은 남자의 디지털 페이퍼크래프트 초상화
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+이 프롬프트는 기하학적인 로우 폴리 종이 조각 스타일을 사용하여 젊은 남성의 매우 상세한 디지털 페이퍼크래프트 초상화를 생성하기 위한 것입니다. 사실적인 종이 질감, 날카로운 모서리, 피부와 머리카락에 따뜻한 갈색 톤을 사용하여 전문적인 스튜디오 조명으로 현대 미술 조각 미학을 연출하는 데 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+젊은 남자의 초고화질 디지털 페이퍼크래프트 초상화, 기하학적 로우 폴리 페이퍼 조각 스타일, 얼굴과 머리카락을 형성하는 겹겹이 접힌 종이 모양, 피부와 머리카락은 따뜻한 {argument name="paper color" default="brown"} 종이 톤, 은은한 수염과 콧수염, 얇은 둥근 안경, 부드럽고 자신감 있는 미소, 매우 사실적인 종이 질감, 날카로운 모서리와 깔끔한 접힘, 스튜디오 조명, 부드러운 그림자, 중앙 배치, {argument name="background style" default="white minimal background"}, 현대 미술 조각 느낌, 초고선명 초점, 4K 해상도, 고대비, 전문적인 아트 렌더
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236048305_6anbbp_G_YjdHiWEAA_dIK.jpg" width="600" alt="소셜 미디어 게시물 - 젊은 남자의 디지털 페이퍼크래프트 초상화 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836886536110579)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7373)**
+
+---
+
+### No. 30: 소셜 미디어 게시물 - 아이 레벨 벨기에 와플 음식 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+황금빛 벨기에 와플에 신선한 라즈베리와 블루베리가 토핑된 아이 레벨 이미지 생성을 위한 음식 사진 프롬프트입니다. 메이플 시럽이 흘러내리는 모습, 부드러운 자연광, 얕은 심도를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+눈높이에서 찍은 음식 이미지, 통통한 흰색 접시 위에 황금색 벨기에 와플 두 개, 신선한 라즈베리와 블루베리가 토핑되어 있고, 메이플 시럽이 접시 위로 뚝뚝 떨어지고 있으며, 주변에는 더 많은 라즈베리가 놓여 있고, 부드러운 자연광과 얕은 피사계 심도.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053833_yjclhv_G_YjLiiXcAEVMpy.jpg" width="600" alt="소셜 미디어 게시물 - 아이 레벨 벨기에 와플 음식 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836577084588445)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7383)**
+
+---
+
+### No. 31: 소셜 미디어 게시물 - 매크로 비프 버거 음식 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+녹아내리는 체다 치즈가 흘러내리고, 윤기 나는 기름기와 양상추에 맺힌 신선한 물방울이 돋보이는 육즙 가득한 소고기 버거에 초점을 맞춘 매크로 음식 사진 프롬프트. 구운 브리오슈 번, 김, 나무 테이블 배경, 창문 조명을 명시합니다.
+
+#### 📝 프롬프트
+
+```
+녹은 체다 치즈가 옆으로 흘러내리는 육즙 가득한 소고기 버거, 윤기 나는 기름기, 토스트한 브리오슈 번, 상추에 맺힌 신선한 물방울을 매크로 푸드 사진으로 담았습니다. 김이 살짝 피어오르고 있습니다. 나무 테이블 배경, 창문 조명. 화면 비율 6:9
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055214_1nzjlw_G_YjDX1XcAEsxAa.jpg" width="600" alt="소셜 미디어 게시물 - 매크로 비프 버거 음식 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836442158268541)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7385)**
+
+---
+
+### No. 32: 소셜 미디어 게시물 - 헤드스카프와 보석을 착용한 클로즈업 인물 사진 프롬프트 (이미지 참조)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 이미지를 초현실적인 클로즈업 인물 사진으로 변환하는 프롬프트입니다. 특정 메이크업, 금화로 장식된 흑백 패턴의 헤드 스카프, 큼직한 금색 장신구를 상세히 묘사하면서 원본 얼굴 특징을 보존합니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 이미지를 클로즈업 인물 사진 포즈를 취하고 있는 매혹적인 여성으로 변환합니다. 그녀는 웨이브진 갈색 머리카락 한 가닥을 입술 앞에 들고 있습니다. 그녀는 매혹적인 회색-파란색 눈, 피치 아이섀도우, 긴 속눈썹, 볼드한 아이라이너, 장밋빛 블러셔, 피치-핑크 매트 립으로 부드러운 글램 메이크업을 하고 있습니다. 그녀는 늘어진 금화와 체인으로 장식된 흑백 패턴의 헤드 스카프를 착용하고 있습니다. 긴 금색 체인 귀걸이가 그녀의 얼굴을 감싸고 있습니다. 그녀는 손을 얼굴 가까이 들어 올리고 있어 두툼한 금색 반지가 손가락에 선명하게 보입니다. 배경은 중성적이고 부드럽게 흐릿한 베이지 톤입니다. 초현실적, 8K 디테일, 눈에 선명한 초점, 부드러운 피부 질감, 영화 같은 조명. 얼굴 특징은 동일하게 유지됩니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236057389_fwh6e0_G_Yi786XMAA9CiG.jpg" width="600" alt="소셜 미디어 게시물 - 헤드스카프와 보석을 착용한 클로즈업 인물 사진 프롬프트 (이미지 참조) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836311484727440)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7389)**
+
+---
+
+### No. 33: 소셜 미디어 게시물 - 복셀 Minecraft 도플갱어를 이용한 실사 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+이것은 눈 덮인 산악 지형에 서 있는 두꺼운 패딩 재킷을 입은 사람의 매우 사실적인 사진을 생성하도록 설계된 이미지 생성 프롬프트입니다. 독특한 요소는 실제 사람 옆에 서 있는, 실제 사람의 의상과 완벽하게 일치하는 실물 크기의 3D Minecraft 스타일 복셀 캐릭터가 포함되어 있다는 것입니다. 이 프롬프트는 시네마틱 조명, 8K 품질, 그리고 사실적인 사진과 깔끔한 복셀 아트 스타일 간의 대비를 강조합니다. 또한, 인물의 신원을 보존하기 위해 참조 이미지를 명시적으로 요구합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 참조 이미지를 사용하여 동일 인물의 사실적인 사진을 만드세요. 신원은 완벽하게 보존하고 얼굴 변화는 없어야 합니다.
+그 사람은 눈 덮인 산 풍경에 서 있으며, 선글라스를 착용하지 않고 {argument name="jacket color" default="random color"} 색상의 두꺼운 패딩 재킷을 입고 있습니다.
+그 옆에는 동일 인물의 실물 크기 3D 마인크래프트 스타일 캐릭터 버전이 서 있습니다. 이 캐릭터는 완전히 블록(복셀 스타일)으로 만들어졌으며, 동일한 {argument name="jacket color 2" default="random color"} 색상의 패딩 재킷을 입고 있어 실제 의상과 완벽하게 일치합니다.
+조명은 영화 같고 자연스러우며, 사실적인 그림자와 하이라이트가 있습니다.
+고해상도, 8K 품질.
+실제 인물은 사실적인 스타일로, 마인크래프트 캐릭터는 깔끔한 복셀 아트로 대비를 이룹니다.
+선명한 초점, 전문적인 색상 보정.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236046609_yambru_G_YixvHWEAEGdC1.jpg" width="600" alt="소셜 미디어 게시물 - 복셀 Minecraft 도플갱어를 이용한 실사 사진 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014836135130788042)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7370)**
+
+---
+
+### No. 34: 소셜 미디어 게시물 - 틸 가죽 재킷 스튜디오 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+선명한 청록색 가죽 레이서 재킷과 같은 색상의 청록색 틴트 선글라스를 착용한 세련된 남성의 고화질 전문 스튜디오 인물 사진 프롬프트. 날카로운 하이라이트가 있는 시네마틱 조명과 단색의 깔끔한 청록색 배경을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+깔끔하게 손질된 머리카락과 옅은 수염을 가진 스타일리시한 남자의 고화질 전문 스튜디오 인물 사진. 그는 생생한 {argument name="jacket color" default="teal"} 가죽 레이서 재킷과 {argument name="lens color" default="teal"} 색조의 반사 렌즈가 달린 고급스러운 에비에이터 선글라스를 착용하고 있다. 조명은 얼굴과 재킷 질감에 날카로운 하이라이트가 있는 영화 같은 분위기이다. 배경은 재킷과 어울리는 단색의 깨끗한 {argument name="background color" default="teal"} 색상이다. 초현실적, 8k 해상도, 선명한 초점, 패션 사진 스타일, 텍스트 없음.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236055304_xphtwn_G_Yio-dXMAA-w63.jpg" width="600" alt="소셜 미디어 게시물 - 틸 가죽 재킷 스튜디오 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014835994646790366)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7386)**
+
+---
+
+### No. 35: 인포그래픽 / 교육용 시각 자료 - 신체 부위 인포그래픽 프롬프트 템플릿
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+특정 신체 부위(기본값: '눈')의 인포그래픽 이미지를 생성하도록 설계된 Nano Banana Pro용 재사용 가능한 프롬프트 템플릿입니다. 이 프롬프트는 교육용 엔지니어링 매뉴얼 미학을 목표로, 순백색 배경에 검은색 잉크 선 드로잉, 라벨, 측정값 및 개략도를 사용하여 개체의 사실적인 렌더링과 기술 주석 오버레이를 결합하도록 AI에 지시합니다.
+
+#### 📝 프롬프트
+
+```
+[{argument name="body part" default="Eye"}]의 인포그래픽 이미지를 만드세요. 실제 사진 또는 사실적인 렌더링 이미지 위에 기술적인 주석 오버레이를 직접 배치하여 결합합니다.
+
+순백색 스튜디오 배경에 검은색 잉크 스타일의 선 그림과 텍스트(기술 펜/건축 스케치 느낌)를 사용하여 다음을 포함합니다.
+• 주요 구성 요소 레이블
+• 내부 단면도 또는 분해도의 윤곽선
+• 측정, 치수 및 스케일 마커
+• 재료 설명 및 수량
+• 기능, 힘 또는 흐름(공기, 소리, 전력, 압력)을 나타내는 화살표
+• 관련성이 있는 경우 간단한 개략도 또는 단면도
+
+제목 [BODY PART]를 한쪽 모서리에 있는 손으로 그린 기술 주석 상자 안에 배치합니다.
+
+스타일 및 레이아웃 규칙:
+• 실제 개체는 주석 아래에 명확하게 보여야 합니다.
+• 주석은 스케치된 듯한, 기술적이고 건축적인 느낌을 줍니다.
+• 균형 잡힌 여백으로 깔끔한 구성
+• 교육적이고, 박물관 전시/엔지니어링 매뉴얼 분위기
+
+시각적 스타일:
+최소한의 기술 일러스트레이션 미학, 사실적인 이미지 위에 검은색 선 작업, 정밀하지만 약간 손으로 그린 듯한 느낌.
+
+색상 팔레트:
+흰색 배경, 검은색 주석 선과 텍스트만 사용. 색상 없음.
+
+출력:
+1080×1080, 매우 선명함, 소셜 피드에 최적화됨, 워터마크 없음.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236050189_5px1mr_G_YaM8_W0AAX6Ox.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 신체 부위 인포그래픽 프롬프트 템플릿 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014826718733664702)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7374)**
+
+---
+
+### No. 36: 인포그래픽 / 교육용 시각 자료 - AI 인식 시각화 (Nano Banana Pro)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+사용자의 지시 스타일을 시간에 따라 시각적으로 인식하도록 Nano Banana Pro에 요청하는 프롬프트로, 이미지 또는 다이어그램을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+제가 지금까지 지시를 내린 방식에 대해 어떻게 느끼셨는지 보여주는 이미지나 다이어그램을 만들어 주세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034469_y371dm_G_U5mezbsAA1060.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - AI 인식 시각화 (Nano Banana Pro) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [ベルベット（velvet404）](https://x.com/velvet404mv)
+- **출처:** [Twitter Post](https://x.com/velvet404mv/status/2014580055549345848)
+- **게시일:** 2026년 1월 23일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7356)**
+
+---
+
+### No. 37: 인포그래픽 / 교육용 시각 자료 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2194,19 +2550,19 @@ Nano Banana Pro를 위해 설계된 포괄적인 시스템 프롬프트로, AI�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365945_udfdac_G_UwGembAAMhvYC.jpg" width="600" alt="소셜 미디어 게시물 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236038509_lzpvtc_G_UwDe5bAAMnnjC.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365953_0bio7a_G_UwDe5bAAMnnjC.jpg" width="600" alt="소셜 미디어 게시물 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236038496_j3vdbq_G_UwD2VXMAISyxA.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149365955_gl1mud_G_UwD2VXMAISyxA.jpg" width="600" alt="소셜 미디어 게시물 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1769236038555_oqzsrn_G_UwGembAAMhvYC.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 음식 사진 인포그래픽을 위한 AI 프롬프트 엔지니어 템플릿 - Image 3">
 </div>
 
 #### 📌 상세 정보
@@ -2220,943 +2576,7 @@ Nano Banana Pro를 위해 설계된 포괄적인 시스템 프롬프트로, AI�
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - Ana de Armas 패션 인물 사진 프롬프트 (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-메탈릭 골드 이브닝 가운을 입은 Ana de Armas가 우아한 야외 안뜰에서 웅크리고 있는 모습을 담은 사실적인 패션 인물 사진 생성을 위한 상세 JSON 프롬프트. 얕은 피사계 심도와 높은 디테일을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-돌 아치와 넓은 계단이 있는 우아한 야외 안뜰에서 포즈를 취하고 있는 여성. 그녀는 웅크리고 앉아 자신감 있고 장난기 넘치는 표정으로 어깨 너머로 카메라를 돌아보고 있다. 등 부분이 트여 있고 얇은 스트랩과 바닥까지 늘어지는 높은 옆트임이 있는 반짝이는 금속성 골드 이브닝 가운을 입고 있으며, 이에 어울리는 하이힐을 신었다. 물결 모양의 머리는 한쪽에 장식적인 골드 헤어 액세서리를 달고 느슨하게 스타일링했다. 부드럽고 얕은 피사계 심도, 높은 디테일. 비율 3:4
-
-JSON = Prompt
-
-{
-  "prompt_type": "photorealistic_fashion_portrait",
-  "subject": {
-    "identity": {
-      "entity_type": "human",
-      "gender": "female",
-      "public_figure": true,
-      "name": "Ana de Armas"
-    },
-    "pose": {
-      "body_position": "squat",
-      "height_level": "low",
-      "torso_orientation": "forward",
-      "head_orientation": "turned_back_over_shoulder"
-    },
-    "expression": {
-      "primary": "confident",
-      "secondary": "playful"
-    },
-    "eye_direction": "toward_camera"
-  },
-  "environment": {
-    "scene_type": "outdoor",
-    "location_style": "elegant_courtyard",
-    "architectural_features": {
-      "arches": {
-        "material": "stone",
-        "style": "classical"
-      },
-      "stairs": {
-        "type": "wide_steps",
-        "material": "stone"
-      }
-    }
-  },
-  "wardrobe": {
-    "primary_outfit": {
-      "category": "evening_gown",
-      "color": "gold",
-      "finish": "metallic_shimmer",
-      "structure": {
-        "back": "open",
-        "straps": "thin",
-        "length": "floor_length",
-        "side_slits": "high"
-      }
-    },
-    "footwear": {
-      "type": "high_heels",
-      "color": "gold",
-      "match_with_outfit": true
-    }
-  },
-  "styling": {
-    "hair": {
-      "texture": "wavy",
-      "arrangement": "loose",
-      "accessories": {
-        "type": "hair_accessory",
-        "material": "gold",
-        "placement": "one_side"
-      }
-    }
-  },
-  "camera": {
-    "shot_type": "portrait",
-    "angle": "eye_level",
-    "framing": "medium_full_body",
-    "focus": {
-      "depth_of_field": "shallow",
-      "subject_focus": "sharp",
-      "background_blur": "soft"
-    }
-  },
-  "lighting": {
-    "quality": "soft",
-    "style": "natural",
-    "contrast": "moderate"
-  },
-  "rendering": {
-    "detail_level": "high",
-    "realism": "photorealistic",
-    "texture_emphasis": [
-      "fabric",
-      "skin",
-      "stone"
-    ]
-  },
-  "composition": {
-    "aspect_ratio": {
-      "width": 3,
-      "height": 4
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149392243_qdfrpe_G_Uz8z1XwAApHV3.jpg" width="600" alt="소셜 미디어 게시물 - Ana de Armas 패션 인물 사진 프롬프트 (JSON) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393225_g36s7b_G_Uz8z7XEAAYY0D.jpg" width="600" alt="소셜 미디어 게시물 - Ana de Armas 패션 인물 사진 프롬프트 (JSON) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393227_ftetgx_G_Uz8z1XsAA9wak.jpg" width="600" alt="소셜 미디어 게시물 - Ana de Armas 패션 인물 사진 프롬프트 (JSON) - Image 3">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Yaseen Khan Gul](https://x.com/YaseenK7212)
-- **출처:** [Twitter Post](https://x.com/YaseenK7212/status/2014573715837587486)
-- **게시일:** 2026년 1월 23일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7237)**
-
----
-
-### No. 23: 소셜 미디어 게시물 - Nano Pro를 위한 우아하고 고급스러운 인물 사진 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Pro를 위한 상세하고 사실적인 프롬프트로, 젊은 여성의 우아하고 고급스러운 초상화를 생성하도록 설계되었습니다. 이 프롬프트는 참조 이미지에 대한 얼굴 충실도 유지, 상세한 스타일링(길고 물결치는 갈색 머리, 세련된 메이크업), 특정 의상(와인색 하이넥 드레스, 넓은 검은색 벨트), 그리고 부드럽고 극적인 조명과 함께 현대적인 고급 호텔 객실 내의 영화 같은 배경을 지정하여 자신감 있는 셀프 포트레이트 포즈를 포착합니다.
-
-#### 📝 프롬프트
-
-```
-사진처럼 사실적인 8K 고화질 패션 인물 사진. 얼굴 특징이 레퍼런스 이미지와 완벽하게 일치하는 젊은 여성.
-
-그녀는 {argument name="hair style" default="길고 웨이브진 갈색 머리"}를 하고 있으며, 눈에 띄는 아이라이너와 글로시한 립 컬러가 돋보이는 흠잡을 데 없는 섬세한 메이크업을 했다.
-
-그녀는 주름진 스커트가 있는 {argument name="attire" default="우아한 와인색 하이넥 긴팔 미디 드레스"}를 입고 있으며, 금색 버클이 달린 넓은 검은색 벨트와 섬세한 은색 목걸이 및 팔찌를 착용했다.
-
-현대적인 고급 호텔 객실을 배경으로, 거울 반사가 미묘하게 이미지에 통합되어 있다.
-
-조명은 부드럽고 극적이며, 피사체의 자세는 자신감에 차 있고, 셀카를 찍는 듯 휴대폰을 들고 있다. 시네마틱 색 보정, 초고화질 디테일, 선명한 이미지 품질.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149363626_9y0n7c_G_UnwmSWsAAMOXo.jpg" width="600" alt="소셜 미디어 게시물 - Nano Pro를 위한 우아하고 고급스러운 인물 사진 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149364337_0yal0e_G_UnwmSWcAAbkVC.jpg" width="600" alt="소셜 미디어 게시물 - Nano Pro를 위한 우아하고 고급스러운 인물 사진 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [行者AI视频](https://x.com/joshesye)
-- **출처:** [Twitter Post](https://x.com/joshesye/status/2014560230773031355)
-- **게시일:** 2026년 1월 23일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7190)**
-
----
-
-### No. 24: 소셜 미디어 게시물 - 인디 그런지 시크 에디토리얼 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-거칠고 우울한 미학에 초점을 맞춘 매우 구체적인 편집 패션 인물 사진 프롬프트입니다. 덥수룩한 울프컷 헤어스타일과 자연스러운 주근깨, 신비로운 눈빛을 가진 젊은 여성이 얇은 핑크색 천 위에 낡은 어두운 가죽 재킷을 입고 있는 모습을 묘사합니다. 이 프롬프트는 부드러운 자연 실내 조명과 극도로 섬세한 질감(가죽의 결, 머리카락 가닥)을 강조하며, 특정 세부 사항을 위해 업로드된 참조 이미지를 사용하라는 메모를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "main_prompt": "지저분하고 덥수룩한 {argument name=\"hair style\" default=\"울프컷\"} 갈색 헤어스타일과 짧고 층진 마이크로 뱅을 한 매혹적인 젊은 여성의 편집 패션 인물 사진, 코와 뺨에 자연스러운 주근깨가 있는 흰 피부, 깊고 우울하며 신비로운 시선을 가진 연한 파란색 눈, 윤기 나는 차분한 붉은 입술, 목에 부드러운 얇은 파스텔 핑크색 천을 두르고 지퍼 디테일이 보이는 짙은 갈색의 해진 {argument name=\"jacket material\" default=\"가죽\"} 재킷을 입고 있음, 우아한 은색 열쇠 모양 펜던트 목걸이, 오픈 칼라 패션 스타일링, 부드러운 자연 실내 조명과 은은한 그림자, 거친 미학, 85mm 렌즈, 사실적인, 극도로 섬세한 가죽 질감과 머리카락 가닥 --ar 9:16 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "흐릿한, 기형의, 팔다리가 많은, 나쁜 해부학, 못생긴, 과도하게 노출된, 거친 조명, 웃는, 밝은 대낮, 채도 높은 색상, 인위적인 모습, 만화, 스케치, 과도한 화장, 깨끗한 피부",
-  "style_tags": ["인디 그런지 시크", "울프컷 미학", "해진 가죽 질감", "우울한 편집", "자연스러운 주근깨"],
-  "technical": {
-    "aspect_ratio": "9:16",
-    "lighting": "부드러운 자연 실내 조명",
-    "camera": "85mm 인물 사진 렌즈"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "6.5",
-    "steps": "40",
-    "image_reference": "정확한 울프컷 헤어스타일, 열쇠 목걸이, 주근깨 패턴, 핑크색 천 위에 특정 어두운 가죽 재킷 구성을 위해 업로드된 참조 사용"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149396475_f1g28p_G_UQ27FX0AAMHOP.jpg" width="600" alt="소셜 미디어 게시물 - 인디 그런지 시크 에디토리얼 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Stark](https://x.com/katmanai)
-- **출처:** [Twitter Post](https://x.com/katmanai/status/2014534947445313895)
-- **게시일:** 2026년 1월 23일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7241)**
-
----
-
-### No. 25: 소셜 미디어 게시물 - 네온 누아르 시네마틱 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-백금색 은발을 가진 젊은 여성의 영화 같은 고대비 인물 사진을 만들기 위한 상세한 이미지 생성 프롬프트입니다. 배경은 반사되는 표면과 왜곡된 거울이 있는 어두운 타일 인테리어입니다. '광택 있는 웻 룩', 따뜻한 텅스텐과 혼합된 네온 림 조명, 강한 빈티지 필름 그레인을 지정하며, 품질과 스타일 준수를 보장하기 위한 부정적인 프롬프트도 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "main_prompt": "어두운 타일 인테리어의 넓은 각도 시네마틱 인물 사진. 반사되는 표면, 왜곡된 거울을 들여다보는 모습, 20대 초반의 매혹적인 젊은 여성, {argument name=\"hair color\" default=\"platinum silver\"} 웨이브 헤어, 날카로운 다크 아이라이너와 글로시 립의 고대비 드라마틱 메이크업, 강렬하고 수수께끼 같은 반쯤 감은 시선, 몸에 꼭 맞는 어두운 패션 상의 착용, 팔에 보이는 예술적인 가는 선 문신, 습기를 암시하는 피부와 머리카락의 분위기 있는 광택, 따뜻한 텅스텐 하이라이트와 섞인 희미한 청록색 네온 림 라이팅, 강한 빈티지 필름 그레인과 비네트, 사실적인, 극도로 섬세한 피부 질감과 머리카락 가닥 --ar 3:4 --stylize 250 --v 6 --q 2",
-  "negative_prompt": "흐릿한, 기형적인, 추가 팔다리, 잘못된 해부학, 못생긴, 과다 노출, 거친 플래시, 창백하고 건조한 피부, 웃는, 밝은 낮, 지저분한 배경, 합성 같은 느낌, 만화, 스케치, 흡연, 담배",
-  "style_tags": ["시네마틱 인물 사진", "플래티넘 실버 헤어", "글로시 웻 룩", "네온 느와르", "빈티지 필름 그레인", "광각 왜곡"],
-  "technical": {
-    "aspect_ratio": "3:4",
-    "lighting": "따뜻한 텅스텐 + 차가운 네온 혼합",
-    "camera": "왜곡이 있는 광각 렌즈"
-  },
-  "extra_parameters": {
-    "recommended_model": "Flux.1 [dev]",
-    "guidance_scale": "7.0",
-    "steps": "40"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395836_hg97uy_G_UN8_rXYAABUzC.jpg" width="600" alt="소셜 미디어 게시물 - 네온 누아르 시네마틱 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Stark](https://x.com/katmanai)
-- **출처:** [Twitter Post](https://x.com/katmanai/status/2014531753646395630)
-- **게시일:** 2026년 1월 23일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7240)**
-
----
-
-### No. 26: 소셜 미디어 게시물 - 거북이 토크쇼 이미지 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana에게 디즈니의 터틀 토크 위드 크러쉬(Turtle Talk with Crush) 어트랙션을 연상시키는 이미지를 생성하도록 지시하는 상세한 프롬프트. 바다거북이 양쪽 지느러미를 들고 "You guys are the best!"라고 말하는 모습이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-디즈니랜드의 터틀 토크를 연상시키는 이미지로, 바다거북이 양쪽 지느러미를 들고 "{argument name="line" default="You guys are the best!"}"라고 말하고 있습니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149377984_er8wom_G_TdU3kbAAALuZ2.jpg" width="600" alt="소셜 미디어 게시물 - 거북이 토크쇼 이미지 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Kanyamaさま](https://x.com/KarmanasaK)
-- **출처:** [Twitter Post](https://x.com/KarmanasaK/status/2014478301096734988)
-- **게시일:** 2026년 1월 22일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7206)**
-
----
-
-### No. 27: 소셜 미디어 게시물 - Flash Patch Realism Portrait Prompt (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-늦은 밤 불법적인 고급스러운 배경에서 람보르기니에 기대어 있는 여성을 특징으로 하며, 의상, 포즈, 강렬한 플래시 조명 효과를 상세하게 묘사하는 '플래시 패치 리얼리즘' 미학의 인물 사진 생성을 위한 매우 구체적인 JSON 프롬프트.
-
-#### 📝 프롬프트
-
-```
-{
-  "style": "매끈하고 곧게 뻗은 웻 룩 피니시",
-  "details": "귀 뒤로 넘겨 어깨 위로 늘어뜨린, 플래시 아래에서 매우 반사되는"
-},
-
-"face": {
-  "structure": "뚜렷한 광대뼈, 강한 턱선",
-  "expression": "무표정한, 카메라를 내려다보는 약간 거만한 찡그림",
-  "eyes": "짙은 갈색, 강렬한 시선, 플래시로 인한 약간의 적목 현상",
-  "mouth": "삐죽 내민, 글로시한 누드 립",
-  "makeup": "날카로운 컨투어링, 플래시 아래에서 돋보이는 강한 하이라이트, 또렷한 눈썹"
-},
-
-"pose": {
-  "overall": "짙은 회색 람보르기니 문에 무심하게 기대어 서 있음",
-
-  "lower_body": {
-    "legs": "발목을 교차함",
-    "stance": "차체에 체중을 싣고 있음"
-  },
-
-  "torso": {
-    "angle": "카메라 쪽으로 살짝 몸을 돌림",
-    "posture": "편안하지만 자신감 있는 어깨"
-  },
-
-  "arms": {
-    "one_arm": "차 지붕에 팔을 올림",
-    "other_arm": "허리 후크 근처에 손을 대고 밝은 케이스의 스마트폰을 들고 있음"
-  },
-
-  "head": {
-    "tilt": "턱을 살짝 위로 올림",
-    "gaze": "렌즈를 직접 내려다봄"
-  }
-},
-
-"outfit": {
-  "clothing": {
-    "top": {
-      "type": "구조화된 코르셋 스타일 크롭 탑",
-      "color": "블랙 새틴",
-      "fit": "타이트하고 푸쉬업",
-      "details": "플래시 아래에서 반사되는 패브릭, 뚜렷한 컵"
-    },
-    "layer": {
-      "type": "오버사이즈 빈티지 레이싱 가죽 재킷",
-      "color": "흰색과 빨간색 패치가 있는 블랙",
-      "style": "어깨에서 흘러내리듯 걸쳐 입음"
-    },
-    "bottom": {
-      "type": "로우 라이즈 배기 파라슈트 카고 팬츠",
-      "color": "다크 차콜",
-      "fit": "루즈한 다리, 엉덩이에 낮게 걸쳐짐",
-      "details": "늘어진 드로스트링, 살짝 반짝이는 패브릭"
-    },
-    "shoes": {
-      "type": "청키한 디자이너 스니커즈",
-      "details": "빛을 반사하는 디테일"
-    }
-  },
-  "accessories": {
-    "items": ["두꺼운 실버 체인 목걸이", "큰 후프 귀걸이"],
-    "details": "플래시 아래에서 번쩍이는 금속 주얼리"
-  }
-},
-
-"camera_perspective": {
-  "pov": "친구가 빠르게 스냅샷을 찍는 시점",
-  "angle": "약간 낮은 각도에서 위로 향함",
-  "distance": "미디엄 샷 (무릎 위)",
-  "framing": "피사체 중앙 배치, 자동차 디테일과 콘크리트가 프레임을 채움",
-  "composition": "꾸밈없는, 자연스러운 느낌, 가장자리에 약간의 모션 블러"
-},
-
-"vibe": {
-  "mood": "불법적인 럭셔리, 거만함, 늦은 밤",
-  "energy": "무심한 시크함, 값비싼 비밀스러움",
-  "aesthetic": "플래시 패치 리얼리즘, 언더그라운드 부잣집 아이들"
-},
-
-"rules": [
-  "강렬한 플래시를 사용한 iPhone 촬영처럼 보여야 함",
-  "땀/유분기 있는 피부의 광택을 강조",
-  "노골적인 노출 없음",
-  "거칠고 거친 질감 유지",
-  "플래시로 인한 사실적인 그림자"
-]
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149391875_5gfykq_G_TPtOeW8AAZaVo.jpg" width="600" alt="소셜 미디어 게시물 - Flash Patch Realism Portrait Prompt (JSON) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Duru💝](https://x.com/Durusss13)
-- **출처:** [Twitter Post](https://x.com/Durusss13/status/2014464532115292632)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7236)**
-
----
-
-### No. 28: 소셜 미디어 게시물 - 얼굴 잠금 기능이 있는 파리지앵 카페 에디토리얼 인물 사진 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-파리의 카페에 앉아 빨간색 오프숄더 드레스를 입고 와인잔을 들고 있는 여성의 초고화질 편집 초상화를 생성하기 위한 고도로 구조화된 Nano Banana Pro 프롬프트입니다. 이 프롬프트는 피사체의 얼굴 정체성을 고정하고 특정 얼굴 특징을 보존하여 높은 진정성과 사실감을 보장하기 위해 참조 이미지를 명시적으로 요구하는 것이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_cafe_editorial_portrait",
-      "version": "v1.0_PARIS_CAFE_RED_DRESS_WINE_NO_TEXT_EN",
-      "priority": "highest",
-      "language": "en"
-    },
-    "references": {
-      "reference_image_face": {
-        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
-        "purpose": "FACE_IDENTITY_LOCK",
-        "strict_lock": true,
-        "face_similarity_priority": "MAX",
-        "no_identity_blending": true,
-        "no_beautify": true,
-        "no_age_shift": true,
-        "preserve_skin_texture": true,
-        "preserve_facial_proportions": true,
-        "preserve_moles_freckles_scars": true,
-        "preserve_eye_shape": true,
-        "preserve_nose_shape": true,
-        "preserve_lip_shape": true,
-        "preserve_jawline": true
-      },
-      "reference_image_style": {
-        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
-        "purpose": "STYLE_COMPOSITION_ANCHOR",
-        "strict_lock": false,
-        "preserve_lighting": true,
-        "preserve_palette": true,
-        "preserve_vibe": true,
-        "preserve_composition": true
-      }
-    },
-    "global_constraints": {
-      "rating": "PG-13",
-      "no_explicit_sexual_content": true,
-      "no_nudity": true,
-      "no_text": true,
-      "no_logos": true,
-      "no_watermark": true
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_luxury_editorial_candid",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "warm_golden_afternoon",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "50mm street-fashion candid portrait, shallow depth of field, natural perspective, focus on face and hands",
-      "lighting_language": "late afternoon café sunlight through window, soft highlights, gentle shadows, no harsh flash",
-      "authenticity_markers": "realistic skin texture, accurate hands and fingers, realistic fabric folds, no AI glow, no HDR, identity must match reference exactly"
-    },
-    "creative_prompt": {
-      "scene_summary": "성인 여성(얼굴은 레퍼런스와 정확히 일치해야 함)이 클래식한 파리 카페 테이블에 앉아 있는 포토리얼 에디토리얼 스냅샷 초상화. 그녀는 앞면에 리본 디테일이 있고 부드러운 구조의 스커트(레퍼런스 사진과 동일한 실루엣)가 있는 우아한 {argument name=\"dress color\" default=\"red\"} 오프숄더 미니 드레스를 입고 있다. 그녀는 레드 와인이 담긴 와인잔을 들고 마치 한 모금 마시려는 듯 입술 가까이 가져가고 있다. 빨간색-녹색 패턴이 짜여진 세련된 카페 의자, 작은 둥근 대리석 테이블, 창문에 비치는 따뜻한 반사, 유리 뒤로 희미하게 보이는 군중. 어떤 텍스트도 없어야 한다.",
-      "wardrobe_and_style": {
-        "outfit": "앞면에 리본이 달린 빨간색 오프숄더 미니 드레스, 몸에 꼭 맞는 상의, 짧은 스커트, ta"
-      }
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381649_nqck24_G_THrxsXIAEY4QB.jpg" width="600" alt="소셜 미디어 게시물 - 얼굴 잠금 기능이 있는 파리지앵 카페 에디토리얼 인물 사진 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Özge Döner](https://x.com/astronomerozge1)
-- **출처:** [Twitter Post](https://x.com/astronomerozge1/status/2014454515249119357)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7212)**
-
----
-
-### No. 29: 소셜 미디어 게시물 - 풍성한 곱슬머리의 분위기 있는 저조도 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-풍성한 짙은 갈색 곱슬머리와 올리브색 피부를 가진 젊은 여성의 친밀하고 분위기 있는 저조도 인물 사진을 생성하기 위한 매우 상세하고 사실적인 프롬프트. 이 프롬프트는 복잡한 조명(따뜻한 텅스텐 림 라이트 + 차가운 달빛 필 라이트), 의상(깊게 파인 홀터넥 드레스), 그리고 날것의 관능적인 하이패션 화보 분위기를 위한 필름 미학적 세부 사항을 명시합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "main_prompt": "20대 초중반의 매혹적인 젊은 여성의 친밀하고 분위기 있는 저조도 인물 사진. 따뜻한 올리브색에서 중간 태닝 피부, 자연스러운 이슬 맺힌 광채, 길고 풍성한 짙은 갈색 곱슬머리가 어깨와 가슴 위로 거칠게 흘러내리는 촘촘하고 또렷한 링컬, 약간 흐트러지고 풍성한 자연스러운 컬, 또렷한 아치형 눈썹, 짙은 날개형 아이라이너, 길고 두꺼운 속눈썹, 부드럽고 유혹적인 표정의 윤기 나는 짙은 누드 핑크 입술, 카메라를 직접 응시하는 반쯤 감긴 눈의 몽환적이고 섹시한 표정, 머리는 약간 아래로 기울어져 옆으로 향함, 깊게 파인 네크라인과 탄탄한 허리와 엉덩이를 드러내는 컷아웃 옆면이 있는 타이트한 검은색 홀터넥 미니 드레스 착용, 섬세한 금색 체인 목걸이와 팔찌가 보임, 밤에 어둑한 침실 또는 호텔 방에서 포즈를 취함, 측면에서 오는 따뜻한 텅스텐 램프 조명(~2800K)이 머리 컬, 광대뼈, 쇄골, 어깨에 강한 황금색 림 라이트를 만듦, 뒤에서 오는 시원한 달빛 또는 창문 채광이 부드러운 파란색-보라색 그림자를 더함, 눈의 캐치라이트를 위한 미묘한 휴대폰 플래시 채광, 모서리에 빛샘이 있는 빈티지 필름 카메라 미학, 약간의 주황색 색조, 비네트 가장자리, 가벼운 필름 그레인 및 부드러운 보케, 사실적인, 사실적인 모공, 주근깨 및 자연스러운 결점이 있는 초고화질 피부 질감, 따뜻하고 시원한 빛을 포착하는 개별 곱슬머리 가닥과 서브서피스 스캐터링, 따뜻한 황금빛 피부 톤, 깊은 그림자 및 부드러운 대비가 있는 시네마틱 컬러 그레이딩, 플래시가 있는 야간 모드 인물 사진으로 iPhone 또는 빈티지 35mm 필름으로 촬영, 어두운 배경에 크리미한 보케가 있는 얼굴과 머리에 얕은 피사계 심도 초점, 몽환적이고 친밀한 심야 침실 에너지, 가공되지 않은 관능적인 분위기, 하이패션 화보와 솔직한 셀카 미학의 만남 --ar 3:4 --stylize 350 --v 6 --q 2",
-  "negative_prompt": "흐릿함, 저해상도, 기형적인 손, 손가락 추가, 손가락 붙음, 나쁜 해부학, 서투르게 그려진 얼굴, 나쁜 비율, 추가 사지, 돌연변이 손, 못생김, 기형, 타일링, 프레임 밖, jpeg 아티팩트, 서명, 워터마크, 텍스트, 오류, 잘못 잘림, 최악의 품질, 낮은 품질, 만화, 3D 렌더링, 플라스틱 피부, 인형 같은, 에어브러시 처리된 피부, 과다 노출된 플래시, 거친 그림자, 창백한 피부, 과도한 메이크업, 인스타그램 얼굴, 오리 입술, 웃는 행복한 표정, 노인, 어린이, 남성, 단체 사진, 밝은 낮, 깨끗한 미니멀리스트 방, 컬 없음, 직모, 채도 낮은 색상, 차가운 파란색 지배적인 톤, 합성적인 모습, 완벽하게 대칭적인 얼굴, 그레인 없음, 현대적인 고해상도 필터, 프레임에 보이는 휴대폰, 지저분한 전경, 홀터넥 드레스 아님",
-  "style_tags": [
-    "사실적인",
-    "분위기 있는 저조도 친밀한 인물 사진",
-    "풍성한 짙은 곱슬머리 초점",
-    "따뜻한 텅스텐 + 시원한 달빛 혼합",
-    "가공되지 않은 관능적인 밤의 분위기",
-    "시네마틱 따뜻한 그레이딩",
-    "필름 그레인 및 빛샘",
-    "몽환적이고 섹시한 표정",
-    "하이패션 화보와 솔직함의 만남",
-    "깊게 파인 홀터 드레스",
-    "컬에 황금색 림 라이트"
-  ],
-  "technical": {
-    "aspe": "3:4"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149389860_9szkid_G_S2wQMXAAAyrNu.jpg" width="600" alt="소셜 미디어 게시물 - 풍성한 곱슬머리의 분위기 있는 저조도 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Stark](https://x.com/katmanai)
-- **출처:** [Twitter Post](https://x.com/katmanai/status/2014435876978274635)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7231)**
-
----
-
-### No. 30: 소셜 미디어 게시물 - 초현실적인 자연스러운 로맨스 장면 프롬프트 (JSON)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-나노 바나나 프로(Nano Banana Pro) 도구를 위해 설계된 매우 상세한 JSON 프롬프트로, 골든 아워에 야외에서 웃고 있는 커플의 초현실적이고 솔직한 영화 스틸컷을 생성합니다. 자연스러운 질감과 미세한 표정의 진정성에 초점을 맞춥니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_romance_outdoors",
-      "version": "v2.4_KADIKOY_GRASS_HUG_LAUGH_ULTRA_WARM_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "true_to_life_golden_hour_warm",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "35mm 렌즈 환산, 눈높이, 핸드헬드 다큐멘터리 느낌, 친구가 찍은 듯한 완벽하지 않은 프레이밍, 얼굴이 보일 때는 눈과 웃음에 초점",
-      "lighting_language": "동기 부여된 자연광만 사용 (골든 아워 일몰 + 하늘 채광), 플래시 없음, 스튜디오 느낌 없음",
-      "authenticity_markers": "실제 피부 질감, 실제 옷 주름, 자연스러운 머리카락 잔머리, 배경에만 약간의 모션 블러, HDR 없음, AI 광채 없음"
-    },
-    "creative_prompt": {
-      "scene_summary": "{argument name=\"Scene Summary\" default=\"골든 아워의 카디쾨이 해안가 잔디밭. 커플이 잔디밭에 바싹 붙어 앉거나 누워서, 어처구니없는 일에 통제할 수 없을 정도로 웃고 있다. 지극히 친밀하지만 순수하게 무해한—마치 가장 친한 친구가 찍은 듯한 순수한 기쁨.\"}",
-      "subjects": {
-        "count": 2,
-        "description": "동일한 젊은 남녀 (20대 초반), 모델 같지 않은 평범하고 현실적인 모습; 얼굴이 선명하게 보이고 또렷함",
-        "expression": "크게 진심으로 웃는 모습, 웃음 때문에 살짝 눈물이 고인 눈, 활짝 따뜻하게 웃는 미소, 미세한 표정 유지",
-        "skin_and_face": "자연스러운 피부 질감, 뷰티 리터치 없음, 살짝 눈 밑 그림자, 실제 피부 결점"
-      },
-      "wardrobe_and_props": {
-        "female": "심플한 캐주얼 복장 (가벼운 스웨터 또는 가디건 + 청바지 또는 부드러운 스커트), 최소한의 화장, 바람에 살짝 흐트러진 긴 웨이브 머리, 로고 없음",
-        "male": "무지 티셔츠 + 청바지/치노 팬츠, 살짝 구겨진, 로고 없음",
-        "props": "잔디밭에 놓인 종이컵 두 개 (차/커피), 심플한 토트백, 시미트 부스러기 또는 냅킨이 든 작은 봉지, 브랜드 없음"
-      },
-      "micro_action": "웃으면서 서로를 꽉 안는다; 그녀는 잠시 그의 어깨에 얼굴을 파묻는다; 그는 그녀의 얼굴에서 머리카락을 쓸어 넘기기 위해 손을 든다; 그들은 서로를 바라보며 다시 웃는다",
-      "environment_details": {
-        "location": "카디쾨이 해안가 / 바닷가 잔디밭 분위기",
-        "background": "부드럽게 흐려진 바다 수평선, 멀리 보이는 페리 실루엣, 초점 밖의 멀리 있는 몇몇 사람들, 하늘의 갈매기, 읽을 수 있는 표지판 없음",
-        "ground_details": "작은 잎사귀와 약간의 고르지 않은 부분이 있는 실제 잔디 질감, 연출된 깨끗함 아님"
-      },
-      "lighting": "부드러운 하늘 채광이 있는 따뜻한 골든 아워 햇빛, 머리카락 가장자리에 부드러운 림 라이트, 햇빛 하이라이트에 미묘한 할레이션, d"
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149390460_vbt2hi_G_S2rMQWAAAMFSY.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 자연스러운 로맨스 장면 프롬프트 (JSON) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Özge Döner](https://x.com/astronomerozge1)
-- **출처:** [Twitter Post](https://x.com/astronomerozge1/status/2014435800742842721)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7233)**
-
----
-
-### No. 31: 소셜 미디어 게시물 - 초현실적인 하이패션 뷰티 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-금발 머리와 햇볕에 그을린 피부를 가진 매력적인 인플루언서 스타일의 젊은 여성을 초근접, 극사실적으로 묘사하는 프롬프트입니다. 고급스러운 실내 환경에서 하이패션 미학, 8k 해상도, 시네마틱 조명을 강조합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt": {
-    "subject": {
-      "type": "젊은 여성",
-      "age": "20대 중반",
-      "aesthetic": "매력적인 인플루언서, 하이패션 뷰티",
-      "expression": "자신감 있고, 유혹적이며, 카메라를 의식하는",
-      "features": {
-        "face": "완벽하게 대칭적이고, 세련된 비율",
-        "skin": {
-          "tone": "햇볕에 그을린 듯한 브론즈",
-          "finish": "빛나고, 흠잡을 데 없는"
-        },
-        "eyes": {
-          "color": "밝은 청록색",
-          "makeup": "은은한 아이라이너, 골드 아이섀도, 길고 풍성한 속눈썹"
-        },
-        "brows": "정돈된 짙은 눈썹",
-        "cheeks": "따뜻한 피치 블러셔",
-        "lips": {
-          "color": "누드 핑크",
-          "finish": "도톰하고, 글로시한"
-        }
-      },
-      "hair": {
-        "color": "골든 블론드",
-        "length": "매우 긴",
-        "volume": "매우 풍성한",
-        "style": "어깨를 넘어 등까지 흘러내리는 느슨한 비치 웨이브",
-        "texture": "은은한 하이라이트가 있는 윤기 있고 건강한 머리카락"
-      },
-      "accessories": {
-        "earrings": "작은 골드 후프 귀걸이",
-        "bracelet": "섬세한 골드 팔찌",
-        "nails": "매니큐어한 연한 핑크 누드 아몬드 모양 손톱"
-      },
-      "clothing": {
-        "top": "민소매 어두운 상의",
-        "details": "맨 어깨가 보이는"
-      }
-    },
-    "environment": {
-      "location": "고급스러운 현대식 실내 아파트",
-      "background": "깨끗하고 고급스러운 인테리어가 부드럽게 흐려진"
-    },
-    "lighting": {
-      "type": "부드러운 자연광과 시네마틱 조명 조합",
-      "effect": "강화된 광채, 부드러운 하이라이트, 입체적인 그림자"
-    },
-    "camera": {
-      "shot_type": "초근접 셀카 인물 사진",
-      "focus": "얼굴, 눈, 입술, 머리카락 디테일에 선명한 초점"
-    },
-    "style": {
-      "genre": "하이패션 뷰티 인물 사진",
-      "realism": "극사실적, 포토리얼리스틱",
-      "quality": "8k 해상도, 초고화질 디테일"
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386490_poopfc_G_SlLH3WEAEFxSA.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 하이패션 뷰티 인물 사진 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386737_6v47fd_G_SlLLsXAAAg9CU.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 하이패션 뷰티 인물 사진 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149386449_2gv6go_G_SlOwcW8AA9bPC.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 하이패션 뷰티 인물 사진 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149387391_ukuwu5_G_SlLICXsAEAVVo.jpg" width="600" alt="소셜 미디어 게시물 - 초현실적인 하이패션 뷰티 인물 사진 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **출처:** [Twitter Post](https://x.com/DavisonDabiri/status/2014416617132744847)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7224)**
-
----
-
-### No. 32: 소셜 미디어 게시물 - 솔직한 길거리 로맨스 프롬프트 (이스탄불 지하철)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-이스탄불 지하철 입구에서 커플이 서로를 보살피는 미세한 순간을 포착한, 극도로 사실적이고 자연스러운 거리 사진을 생성하도록 설계된 구조화된 Nano Banana Pro 프롬프트입니다. 사실적인 질감, 자연광, 다큐멘터리 느낌에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "photoreal_candid_street_romance",
-      "version": "v2.0_METRO_ENTRANCE_SCARF_FIX_EN",
-      "priority": "highest"
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution_target": "ultra_high_res",
-      "render_style": "ultra_photoreal_candid_street_film_still",
-      "sharpness": "crisp_but_natural",
-      "film_grain": "subtle_35mm",
-      "color_grade": "restrained_realism_city",
-      "dynamic_range": "natural_not_hdr",
-      "skin_rendering": "real_texture_no_retouch"
-    },
-    "global_rules": {
-      "camera_language": "35mm 렌즈 상당, 핸드헬드 자연스러운 프레이밍, 다큐멘터리 느낌",
-      "lighting_language": "동기가 부여된 도시의 낮 시간 조명 + 지하철 입구 실용 조명, 플래시 없음",
-      "authenticity_markers": "실제 군중 에너지, 약간의 배경 흐림만, AI 광채 없음"
-    },
-    "creative_prompt": {
-      "scene_summary": "{argument name=\"location\" default=\"Istanbul\"} 지하철 입구의 쌀쌀한 날. 커플이 잠시 멈춰 선다. 그가 그녀의 스카프를 부드럽게 고쳐준다. 공공장소에서의 작은 배려의 순간.",
-      "subjects": {
-        "count": 2,
-        "description": "같은 커플(20대 초반), 평범한 모습, 얼굴이 보이고 선명함",
-        "expression": "부드러운 집중과 수줍은 따뜻함, 미세한 표정만",
-        "skin_and_face": "실제 질감, 보정 없음, 약간의 눈 밑 그림자"
-      },
-      "wardrobe_and_props": {
-        "clothing": "무채색의 심플한 코트/재킷, 약간 구겨진 듯한, 로고 없음",
-        "props": "손에 든 지하철 카드, 백팩 스트랩, 브랜드 없음"
-      },
-      "micro_action": "그가 그녀의 스카프를 고쳐준다; 그녀는 잠시 올려다본다; 시선이 머물다가 자연스럽게 끊어진다",
-      "environment_details": {
-        "location": "이스탄불 지하철 입구 분위기",
-        "background": "아래로 향하는 계단, 난간, 흐릿한 통근자들, 도시 질감, 읽을 수 있는 텍스트 없음"
-      },
-      "composition": "눈높이 미디엄 샷, 완벽하지 않은 크롭, 선명한 얼굴, 자연스럽게 멀어지는 배경",
-      "mood": "조용한 배려, 꾸밈없는 사랑"
-    },
-    "negative_prompt": [
-      "스튜디오 조명",
-      "플래시",
-      "뷰티 보정",
-      "플라스틱 피부",
-      "모델 얼굴",
-      "완벽한 대칭",
-      "HDR",
-      "AI 광채",
-      "텍스트",
-      "로고",
-      "워터마크"
-    ]
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383360_7lyh3t_G_SbEd5W8AEfZSe.jpg" width="600" alt="소셜 미디어 게시물 - 솔직한 길거리 로맨스 프롬프트 (이스탄불 지하철) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Özge Döner](https://x.com/astronomerozge1)
-- **출처:** [Twitter Post](https://x.com/astronomerozge1/status/2014405479473283467)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7216)**
-
----
-
-### No. 33: 소셜 미디어 게시물 - 피트니스 스튜디오 남성 포즈 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고 있는 근육질 남성의 초현실적인 이미지를 생성하기 위한 구조화된 프롬프트로, 뚜렷한 특징, 특정 의상, 거울 반사에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-제목: 피트니스 스튜디오에서 포즈를 취하는 남자. 얼굴 특징: 뚜렷함
-피부: 흰 편
-입술: 도톰함
-눈: 카메라에 집중
-머리카락: 지저분한 웨이브
-몸: 뚜렷한 근육, 두드러진 혈관, {argument name="weight" default="80 kg"}
-의상: 상의 탈의, {argument name="clothing print" default="한자 프린트"}가 있는 검은색 조거 스웨트팬츠
-
-배경: 피트니스 스튜디오, 검은색 운동 기구, 사람 없음, 어두운 조명, 흰색 LED 천장 조명, "Your only limit is you" 사인 (흰색 LED 조명)
-
-포즈: 한 손은 배에 대고 다른 한 손은 머리 뒤에 댄 자신감 있는 포즈, 뒤에 거울
-
-사진: 8k 초현실적, 3:4 화면 비율, 인플루언서 사진, 노출 약간 낮음
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381627_4ghlwl_G_Sa76sWgAA33jA.jpg" width="600" alt="소셜 미디어 게시물 - 피트니스 스튜디오 남성 포즈 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381615_xw1nco_G_Sa72KW8AAkKkb.jpg" width="600" alt="소셜 미디어 게시물 - 피트니스 스튜디오 남성 포즈 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149381833_ov2929_G_Sa72YWMAAVfno.jpg" width="600" alt="소셜 미디어 게시물 - 피트니스 스튜디오 남성 포즈 프롬프트 - Image 3">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Busra](https://x.com/promptLab0)
-- **출처:** [Twitter Post](https://x.com/promptLab0/status/2014405309272621113)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7213)**
-
----
-
-### No. 34: 인포그래픽 / 교육용 시각 자료 - 슬라이드 문서 생성 기능
+### No. 38: 인포그래픽 / 교육용 시각 자료 - 슬라이드 문서 생성 기능
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3207,7 +2627,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 35: 인포그래픽 / 교육용 시각 자료 - 과학 분야 연구원의 문서화 보드 프롬프트
+### No. 39: 인포그래픽 / 교육용 시각 자료 - 과학 분야 연구원의 문서화 보드 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3259,7 +2679,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 36: 인포그래픽 / 교육용 시각 자료 - 교육용 상품 우주 디오라마 프롬프트
+### No. 40: 인포그래픽 / 교육용 시각 자료 - 교육용 상품 우주 디오라마 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3332,7 +2752,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 37: 인포그래픽 / 교육용 시각 자료 - 착시 현상: 착각을 유발하는 움직임
+### No. 41: 인포그래픽 / 교육용 시각 자료 - 착시 현상: 착각을 유발하는 움직임
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3371,7 +2791,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 38: 인포그래픽 / 교육용 시각 자료 - 사이버네틱 의료 시각화 프롬프트
+### No. 42: 인포그래픽 / 교육용 시각 자료 - 사이버네틱 의료 시각화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3424,7 +2844,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 39: 인포그래픽 / 교육용 시각 자료 - Soft X-Ray Luminography 스타일 템플릿
+### No. 43: 인포그래픽 / 교육용 시각 자료 - Soft X-Ray Luminography 스타일 템플릿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3472,7 +2892,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 40: 인포그래픽 / 교육용 시각 자료 - 노트북 이미지에 기술 인포그래픽 오버레이
+### No. 44: 인포그래픽 / 교육용 시각 자료 - 노트북 이미지에 기술 인포그래픽 오버레이
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3531,7 +2951,7 @@ Nano Banana Pro가 어두운 피트니스 스튜디오에서 포즈를 취하고
 
 ---
 
-### No. 41: 인포그래픽 / 교육용 시각 자료 - 스케치를 CAD 스타일 라인 아트로 변환하는 프롬프트
+### No. 45: 인포그래픽 / 교육용 시각 자료 - 스케치를 CAD 스타일 라인 아트로 변환하는 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3584,7 +3004,7 @@ Nano Banana Pro의 '사고 모드(Thinking Mode)'를 활용하여 거친 스케�
 
 ---
 
-### No. 42: 인포그래픽 / 교육용 시각 자료 - LLM 프롬프트: 마틸다 효과 및 AI 착취 분석
+### No. 46: 인포그래픽 / 교육용 시각 자료 - LLM 프롬프트: 마틸다 효과 및 AI 착취 분석
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3622,21 +3042,18 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 43: 인포그래픽 / 교육용 시각 자료 - 하드코어 엔지니어링 인포그래픽 스타일
+### No. 47: YouTube 썸네일 - Nano Banana Extension을 활용한 잡지 표지 프롬프트
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 설명
 
-기술적이고 날카로운 인포그래픽을 만들기 위한 Nano Banana Pro의 간결한 지침입니다. 이 과정은 개체를 선택하고, 사실적인 선명도를 확보한 다음, '엔지니어링 매뉴얼 + 전시 명판' 느낌을 주기 위해 검은색 손으로 그린 엔지니어링 주석(레이블, 치수, 재료, 단면, 화살표)을 오버레이하는 방식으로 진행됩니다.
+한 사용자가 Nano Banana용 Chrome 확장 프로그램을 사용하여 '잡지 표지' 프롬프트를 포함한 다양한 프롬프트에 쉽게 접근하는 것을 시연합니다. 이 사용자는 이 프롬프트를 활용하여 '주간 잡지' 스타일 이미지를 만들었으며, 이는 소셜 미디어 디자인에 유용함을 시사합니다.
 
 #### 📝 프롬프트
 
 ```
-1️⃣ {argument name="object" default="OBJECT"} 선택
-2️⃣ 사실적인 이미지를 선명하고 또렷하게 유지
-3️⃣ 검은색 손으로 그린 엔지니어링 주석(레이블, 치수, 재료, 단면, 화살표) 오버레이
+"주간 매거진" 스타일을 매거진 표지 프롬프트로 만들어 보았습니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -3644,91 +3061,21 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354692_uld7pr_G_FPIhZXoAAWNO9.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 하드코어 엔지니어링 인포그래픽 스타일 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354776_ixurg7_G_FOxEhWAAA-KpM.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 하드코어 엔지니어링 인포그래픽 스타일 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977354694_575d12_G_FPHprXoAEw3bb.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 하드코어 엔지니어링 인포그래픽 스타일 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977355873_54ki9x_G_FPbWLXEAAeA6k.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 하드코어 엔지니어링 인포그래픽 스타일 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236039813_e8v3j0_G_T9M_TagAA54Xy.jpg" width="600" alt="YouTube 썸네일 - Nano Banana Extension을 활용한 잡지 표지 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Dean](https://x.com/kuaijierun)
-- **출처:** [Twitter Post](https://x.com/kuaijierun/status/2013477972104147411)
-- **게시일:** 2026년 1월 20일
-- **언어:** zh
+- **작성자:** [るう l AI × Canva先生](https://x.com/roosanai)
+- **출처:** [Twitter Post](https://x.com/roosanai/status/2014513338823409825)
+- **게시일:** 2026년 1월 23일
+- **언어:** ja
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7006)**
-
----
-
-### No. 44: 인포그래픽 / 교육용 시각 자료 - 르네상스 시대 플라밍고 해부학 연구
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-르네상스 시대 해부학 연구 스타일로 이미지를 생성하기 위한 간결한 프롬프트입니다. 한쪽 다리로 서 있는 플라밍고를 주제로, 미세한 흑연과 잉크 해칭 기법을 사용하여 뼈와 근육 구조를 보여주는 투명한 조직 오버레이와 함께 누렇게 변색된 양피지 위에 묘사하도록 지정합니다. 주제가 한 번만 그려지고 완전하게 표현되도록 엄격한 부정 프롬프트가 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-구성: {argument name="subject" default="한쪽 다리로 서 있는 플라밍고"}
-
-아트 스타일: 르네상스 해부학 연구
-- 섬세한 흑연과 잉크 크로스 해칭으로 묘사
-- 뼈와 근육을 보여주는 투명한 티슈 오버레이 레이어
-- 누렇게 바래거나 회색빛이 도는 양피지 위에 표현
-
-피해야 할 것:
-- 대상을 두 번 그리지 마세요 - *한 번만*
-- 신체 일부를 건너뛰지 마세요 - 완전하게 표현
-- 텍스트는 일절 넣지 마세요
-
-종횡비: 3:4
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372426_bjk9g6_G_FG87xXEAAnMEK.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 르네상스 시대 플라밍고 해부학 연구 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768977372831_glcsw6_G7OgKJAaMAAUKqv.jpg" width="600" alt="인포그래픽 / 교육용 시각 자료 - 르네상스 시대 플라밍고 해부학 연구 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Brendan Graetz 🥷](https://x.com/bguiz)
-- **출처:** [Twitter Post](https://x.com/bguiz/status/2013469317548134903)
-- **게시일:** 2026년 1월 20일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7022)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7362)**
 
 ---
 
-### No. 45: YouTube 썸네일 - 비디오 스크립트에서 아이캐치 이미지 생성
+### No. 48: YouTube 썸네일 - 비디오 스크립트에서 아이캐치 이미지 생성
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3761,7 +3108,7 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 46: YouTube 썸네일 - Mahira Khan 2x2 콜라주 팟캐스트 인터뷰 프롬프트
+### No. 49: YouTube 썸네일 - Mahira Khan 2x2 콜라주 팟캐스트 인터뷰 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3794,7 +3141,7 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 47: YouTube 썸네일 - '팔로우' 버튼 프로모션을 위한 크리에이티브 합성 이미지
+### No. 50: YouTube 썸네일 - '팔로우' 버튼 프로모션을 위한 크리에이티브 합성 이미지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3901,7 +3248,7 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 48: YouTube 썸네일 - 다중 개념 AI 진화 프롬프트
+### No. 51: YouTube 썸네일 - 다중 개념 AI 진화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4043,7 +3390,7 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 49: YouTube 썸네일 - 소셜 미디어 홍보 합성 프롬프트
+### No. 52: YouTube 썸네일 - 소셜 미디어 홍보 합성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4140,7 +3487,7 @@ LLM(Lumina/Nano Banana Pro)을 위한 복잡한 텍스트 프롬프트로, 역�
 
 ---
 
-### No. 50: YouTube 썸네일 - NBA 파이널 경기장 프로모션 마스터 프롬프트
+### No. 53: YouTube 썸네일 - NBA 파이널 경기장 프로모션 마스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4180,7 +3527,7 @@ Nano Banana PRO 모델용으로 개발된 사용자 제작 '마스터 프롬프�
 
 ---
 
-### No. 51: YouTube 썸네일 - 토크쇼 스타일 유명인 인터뷰 사진
+### No. 54: YouTube 썸네일 - 토크쇼 스타일 유명인 인터뷰 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4217,7 +3564,7 @@ Nano Banana PRO 모델용으로 개발된 사용자 제작 '마스터 프롬프�
 
 ---
 
-### No. 52: YouTube 썸네일 - Ana de Armas 레드 카펫 인물 사진 프롬프트 (노란색 및 빨간색 드레스)
+### No. 55: YouTube 썸네일 - Ana de Armas 레드 카펫 인물 사진 프롬프트 (노란색 및 빨간색 드레스)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4313,7 +3660,7 @@ Nano Banana PRO 모델용으로 개발된 사용자 제작 '마스터 프롬프�
 
 ---
 
-### No. 53: YouTube 썸네일 - Dan-Style 커버 이미지 프롬프트
+### No. 56: YouTube 썸네일 - Dan-Style 커버 이미지 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4347,7 +3694,7 @@ Nano Banana PRO 모델용으로 개발된 사용자 제작 '마스터 프롬프�
 
 ---
 
-### No. 54: YouTube 썸네일 - 이미지 버서커 스타일 변환
+### No. 57: YouTube 썸네일 - 이미지 버서커 스타일 변환
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4381,7 +3728,7 @@ Nano Banana Pro에서 기존 이미지를 '버서커' 스타일로 변환하는 
 
 ---
 
-### No. 55: YouTube 썸네일 - 이미지 베리 타르트 드레스 스타일 변환
+### No. 58: YouTube 썸네일 - 이미지 베리 타르트 드레스 스타일 변환
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4415,7 +3762,7 @@ Nano Banana Pro를 사용하여 기존 이미지를 '베리 타르트' 스타일
 
 ---
 
-### No. 56: YouTube 썸네일 - Nano Banana Pro X 아티클 헤더 이미지 생성 프롬프트
+### No. 59: YouTube 썸네일 - Nano Banana Pro X 아티클 헤더 이미지 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4457,7 +3804,7 @@ X(트위터) 아티클 또는 블로그 게시물용으로 시각적으로 매�
 
 ---
 
-### No. 57: YouTube 썸네일 - 크리켓 선수 합성 초상화 및 통계 그래픽
+### No. 60: YouTube 썸네일 - 크리켓 선수 합성 초상화 및 통계 그래픽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4491,7 +3838,7 @@ X(트위터) 아티클 또는 블로그 게시물용으로 시각적으로 매�
 
 ---
 
-### No. 58: YouTube 썸네일 - 소피 터너의 라라 크로프트 초근접 촬영
+### No. 61: YouTube 썸네일 - 소피 터너의 라라 크로프트 초근접 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4527,7 +3874,7 @@ X(트위터) 아티클 또는 블로그 게시물용으로 시각적으로 매�
 
 ---
 
-### No. 59: YouTube 썸네일 - YouTube 썸네일: 트럼프 대 채텀 하우스 반응
+### No. 62: YouTube 썸네일 - YouTube 썸네일: 트럼프 대 채텀 하우스 반응
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4561,7 +3908,7 @@ X(트위터) 아티클 또는 블로그 게시물용으로 시각적으로 매�
 
 ---
 
-### No. 60: YouTube 썸네일 - VTuber를 위한 주간 스케줄 템플릿
+### No. 63: YouTube 썸네일 - VTuber를 위한 주간 스케줄 템플릿
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4611,7 +3958,7 @@ VTuber 및 스트리머를 위한 "주간 스케줄" 템플릿 이미지를 제�
 
 ---
 
-### No. 61: YouTube 썸네일 - 마스터 소품 제작자 팝업북 디오라마 생성기
+### No. 64: YouTube 썸네일 - 마스터 소품 제작자 팝업북 디오라마 생성기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4674,20 +4021,21 @@ VTuber 및 스트리머를 위한 "주간 스케줄" 템플릿 이미지를 제�
 
 ---
 
-### No. 62: YouTube 썸네일 - 인도 우주 비행사의 시네마틱 초상화
+### No. 65: 만화 / 스토리보드 - 나노 바나나 프로 장면 촬영 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-우주선 안에서 지구를 바라보는 인도 우주비행사의 초현실적인 8K 시네마틱 인물 사진을 만들어 달라는 프롬프트입니다. ISRO 우주복, 부드러운 푸른 조명, 경외심과 국가적 자부심이 강조되어야 합니다.
+Nano Banana Pro를 사용하여 장면 이미지를 생성하기 위한 프롬프트로 사용되는 네 가지 특정 카메라 앵글 또는 샷 유형 목록: 익스트림 클로즈업, 로우 앵글, 그라운드 레벨, 그리고 백 투 더 카메라 뷰.
 
 #### 📝 프롬프트
 
 ```
-인도 우주선 안에 있는 우주비행사의 초현실적인 8K 시네마틱 초상화를 만드세요. 우주비행사는 원형 창문 밖으로 아래 지구를 바라보고 있으며, 인도 아대륙이 선명하게 보입니다. 현대적인 흰색과 사프란색 ISRO 우주복을 입고 있으며, 어깨에는 인도 국기 엠블럼이 있습니다.
-
-표정은 경외심과 조용한 자부심이 섞여 있습니다. 지구에서 비추는 부드러운 푸른빛이 얼굴을 비추고, 조종석의 복잡한 버튼과 스크린은 배경에서 희미하게 빛납니다. 분위기는 애국적이고 미래 지향적이며 깊은 영감을 줍니다. 얼굴과 특징은 정확히 동일하게 유지하세요.
+1. 익스트림 클로즈업
+2. 로우 앵글
+3. 지면 시점
+4. 등 뒤에서 촬영
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4695,94 +4043,50 @@ VTuber 및 스트리머를 위한 "주간 스케줄" 템플릿 이미지를 제�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768466938551_v2x8mq_G-iodCLbAAELb4l.jpg" width="600" alt="YouTube 썸네일 - 인도 우주 비행사의 시네마틱 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236042895_azikpa_G_W2i5SXkAAtiug.jpg" width="600" alt="만화 / 스토리보드 - 나노 바나나 프로 장면 촬영 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042805_vpjoh4_G_W2i5fXwAA0_JA.jpg" width="600" alt="만화 / 스토리보드 - 나노 바나나 프로 장면 촬영 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236042904_58jiwd_G_W2i5rXgAAllWR.jpg" width="600" alt="만화 / 스토리보드 - 나노 바나나 프로 장면 촬영 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236044088_j7re22_G_W3_PkXYAABKXS.jpg" width="600" alt="만화 / 스토리보드 - 나노 바나나 프로 장면 촬영 프롬프트 - Image 4">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [simeon-sanai](https://x.com/Naiknelofar788)
-- **출처:** [Twitter Post](https://x.com/Naiknelofar788/status/2011042457748922442)
-- **게시일:** 2026년 1월 13일
+- **작성자:** [Vlad Sydor](https://x.com/vlad_sydor)
+- **출처:** [Twitter Post](https://x.com/vlad_sydor/status/2014719544510579025)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=5828)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7366)**
 
 ---
 
-### No. 63: YouTube 썸네일 - 스님 생활 조언 영상 스틸 프롬프트
+### No. 66: 만화 / 스토리보드 - 트랜스포머 로봇에서 탱크로 변신하는 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-전통적인 동아시아 사찰 안뜰에서 인생 조언을 전하는 나이 든 불교 승려의 사실적인 4K 비디오 스틸을 생성하기 위한 구조화된 프롬프트입니다. 이 프롬프트는 승려의 외모, 의복, 소품(경전, 양초), 카메라 설정(iPhone 17 Pro, 세로 9:16)을 지정하여 소셜 미디어에서 유행하는 비디오 미학을 모방합니다.
+트랜스포머 로봇이 탱크로 변신하는 과정을 6단계로 보여주는 이미지 생성 프롬프트입니다. 3x2 레이아웃을 지정하고, 윤곽선 없이 동일한 스타일을 유지해야 합니다.
 
 #### 📝 프롬프트
 
 ```
-{
-  "scene_type": "spiritual_teaching_courtyard",
-  "setting": {
-    "location": "야외 불교 사찰 안뜰",
-    "background": {
-      "architecture": "정교한 목각, 붉은 기둥, 곡선형 기와 지붕을 갖춘 전통적인 동아시아 사찰",
-      "nature": "왼쪽에 무성한 푸른 나무",
-      "ground": "회색 돌 포장",
-      "weather": "흐리거나 부드러운 자연광"
-    }
-  },
-  "subject": {
-    "type": "노승",
-    "position": "땅에 가부좌를 틀고 앉아 있음",
-    "pose": "낮은 탁자 뒤에 앉아 카메라를 직접 보고 말함",
-    "expression": "진지하고 현명하며 교훈적임",
-    "appearance": {
-      "hair": {
-        "style": "삭발/대머리",
-        "color": "없음"
-      },
-      "skin_features": "깊은 주름이 있는 나이 든 피부",
-      "eye_color": "어두운색"
-    },
-    "clothing": {
-      "top": "밝은 회색 속옷 위에 사프란 노란색 겉옷이 어깨에 걸쳐져 있음",
-      "bottom": "사프란 노란색 승복 천이 다리를 덮고 있음"
-    },
-    "accessories": []
-  },
-  "objects": [
-    {
-      "type": "furniture",
-      "name": "낮은 나무 탁자",
-      "material": "밝은 나무",
-      "position": "승려 앞에 전경에 위치"
-    },
-    {
-      "type": "book",
-      "name": "크게 펼쳐진 경전",
-      "state": "텍스트 열이 보이는 상태로 펼쳐져 있음",
-      "position": "나무 탁자 위에 있음"
-    },
-    {
-      "type": "light_source",
-      "name": "양초",
-      "color": "흰색 왁스",
-      "state": "작은 노란색 불꽃으로 켜져 있음",
-      "position": "책 옆 탁자 위에 있음"
-    }
-  ],
-  "camera": {
-    "device": "iPhone 17 Pro",
-    "angle": "눈높이",
-    "framing": "미디엄 샷",
-    "orientation": "세로 9:16",
-    "quality": "4k 비디오 스틸, 고화질, 선명한 초점"
-  },
-  "mood": "고요하고 철학적이며 교훈적임",
-  "lighting": "부드럽고 확산된 자연광",
-  "image_style": "바이럴 소셜 미디어 비디오, 사실적",
-  "activity": "승려가 인생 조언을 전달함"
-}
+이 트랜스포머 로봇이 탱크로 변신하는 과정을 6단계(3 x 2)로 나누어 보여주세요. 윤곽선 없이 동일한 스타일을 사용하세요.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -4790,21 +4094,95 @@ VTuber 및 스트리머를 위한 "주간 스케줄" 템플릿 이미지를 제�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768319143757_f02xwd_G-cqsRYaAAA-kBL.jpg" width="600" alt="YouTube 썸네일 - 스님 생활 조언 영상 스틸 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236008713_nnsqsw_G_WLHZhXAAA_Bdr.jpg" width="600" alt="만화 / 스토리보드 - 트랜스포머 로봇에서 탱크로 변신하는 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Lore](https://x.com/l_w_lorenzen)
-- **출처:** [Twitter Post](https://x.com/l_w_lorenzen/status/2010622716475482593)
-- **게시일:** 2026년 1월 12일
+- **작성자:** [Michael Rabone](https://x.com/michaelrabone)
+- **출처:** [Twitter Post](https://x.com/michaelrabone/status/2014669511236919698)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=5680)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7316)**
 
 ---
 
-### No. 64: 만화 / 스토리보드 - 2000년대 OVA 스타일의 여고생 몬스터 헌트
+### No. 67: 만화 / 스토리보드 - Wizardry x Genba Neko 콜라보레이션 이미지
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+한 사용자가 Nano Banana를 이용해 'Wizardry x 현장 고양이(Genba Neko)' 컬래버레이션 이미지를 생성하면서, 특히 '고양이 인간 캐릭터'를 요청했습니다. 결과 이미지에는 캐릭터가 'OK' 사인을 보내는 모습이 담겼는데, 이는 다섯 손가락과 발바닥을 필요로 하는 것으로, 특정 AI 출력 특성을 잘 보여줍니다.
+
+#### 📝 프롬프트
+
+```
+Wizardry와 현장 고양이(Genba Neko)의 협업을 존중하여, 예정된 게시물 내용을 급히 교체했습니다!
+
+"고양이 인간 캐릭터"라고 지정했기 때문에 세 번째 패널에 다섯 손가락 + 발바닥 패드가 보이는데, 이는 AI 결과물의 전형적인 특징이지만, 고양이 발로는 OK 사인을 만들 수 없으므로 이대로 괜찮습니다!
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236037149_gv12ts_G_WHtmfWgAAK70H.jpg" width="600" alt="만화 / 스토리보드 - Wizardry x Genba Neko 콜라보레이션 이미지 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [pt2012](https://x.com/pt20121)
+- **출처:** [Twitter Post](https://x.com/pt20121/status/2014665641819832790)
+- **게시일:** 2026년 1월 23일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7360)**
+
+---
+
+### No. 68: 만화 / 스토리보드 - 시각적 스토리보드 제작을 위한 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Nano Banana Pro를 사용하여 제품 프레젠테이션을 위한 브랜드 비주얼 스토리보드를 제작하도록 설계된 프롬프트를 받으려면 요청 시 공유되는 콜 투 액션을 확인하세요.
+
+#### 📝 프롬프트
+
+```
+Nano Banana Pro로 제품을 선보이기 위한 브랜드 비주얼 스토리보드를 만드세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041775_9t1xug_G_Vo48obAAEqLl7.jpg" width="600" alt="만화 / 스토리보드 - 시각적 스토리보드 제작을 위한 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236041776_p5rv2q_G-3QbGvX0AEEEEI.jpg" width="600" alt="만화 / 스토리보드 - 시각적 스토리보드 제작을 위한 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Tushar Pandey](https://x.com/TUSHARPAND0848)
+- **출처:** [Twitter Post](https://x.com/TUSHARPAND0848/status/2014631739239629253)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7365)**
+
+---
+
+### No. 69: 만화 / 스토리보드 - 2000년대 OVA 스타일의 여고생 몬스터 헌트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4858,7 +4236,7 @@ Nano Banana Pro를 위해 디자인된 상세한 다중 파트 프롬프트로, 
 
 ---
 
-### No. 65: 만화 / 스토리보드 - 9-패널 제품 스토리보드 목업 프롬프트
+### No. 70: 만화 / 스토리보드 - 9-패널 제품 스토리보드 목업 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4929,7 +4307,7 @@ Nano Banana Pro를 위해 디자인된 상세한 다중 파트 프롬프트로, 
 
 ---
 
-### No. 66: 만화 / 스토리보드 - 브랜드 비주얼을 위한 상세 스토리보드 프롬프트
+### No. 71: 만화 / 스토리보드 - 브랜드 비주얼을 위한 상세 스토리보드 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5001,7 +4379,7 @@ Nano Banana Pro를 위해 디자인된 매우 상세하고 다중 프레임 프�
 
 ---
 
-### No. 67: 만화 / 스토리보드 - 스토리보드 그리드 생성 프롬프트
+### No. 72: 만화 / 스토리보드 - 스토리보드 그리드 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5034,7 +4412,7 @@ Nano Banana Pro를 사용하여 기존 이미지(업로드되었거나 참조된
 
 ---
 
-### No. 68: 만화 / 스토리보드 - AI 만화 테마: 시행착오
+### No. 73: 만화 / 스토리보드 - AI 만화 테마: 시행착오
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5067,7 +4445,7 @@ Nano Banana Pro를 사용하여 기존 이미지(업로드되었거나 참조된
 
 ---
 
-### No. 69: 만화 / 스토리보드 - Gemini Nano 바나나 프로 4컷 만화: 리모컨 에피소드
+### No. 74: 만화 / 스토리보드 - Gemini Nano 바나나 프로 4컷 만화: 리모컨 에피소드
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5100,7 +4478,7 @@ Gemini의 Nano Banana Pro를 이용해 제작한 일상 4컷 만화 '밤비 & SM
 
 ---
 
-### No. 70: 만화 / 스토리보드 - 고급 여행 가방 상업 광고 스토리보드 프롬프트
+### No. 75: 만화 / 스토리보드 - 고급 여행 가방 상업 광고 스토리보드 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5133,7 +4511,7 @@ Gemini의 Nano Banana Pro를 이용해 제작한 일상 4컷 만화 '밤비 & SM
 
 ---
 
-### No. 71: 만화 / 스토리보드 - Gemini (Nano Banana Pro)를 활용한 웹툰 제작용 YAML 템플릿
+### No. 76: 만화 / 스토리보드 - Gemini (Nano Banana Pro)를 활용한 웹툰 제작용 YAML 템플릿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5234,7 +4612,7 @@ Storyboard:
 
 ---
 
-### No. 72: 만화 / 스토리보드 - 10페이지 이상 만화 제작 프롬프트
+### No. 77: 만화 / 스토리보드 - 10페이지 이상 만화 제작 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5267,7 +4645,7 @@ nanobanana pro를 사용하여 10페이지 이상의 만화를 만드는 프롬�
 
 ---
 
-### No. 73: 만화 / 스토리보드 - 사진을 4가지 다이내믹한 캐릭터 스타일로 변환하세요
+### No. 78: 만화 / 스토리보드 - 사진을 4가지 다이내믹한 캐릭터 스타일로 변환하세요
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5300,7 +4678,7 @@ nanobanana pro를 사용하여 10페이지 이상의 만화를 만드는 프롬�
 
 ---
 
-### No. 74: 만화 / 스토리보드 - 미래 도시에서 만화 캐릭터로 변신하는 실제 사람들
+### No. 79: 만화 / 스토리보드 - 미래 도시에서 만화 캐릭터로 변신하는 실제 사람들
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5333,7 +4711,7 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 
 ---
 
-### No. 75: 만화 / 스토리보드 - 지하철에서의 미묘한 사이보그 변신
+### No. 80: 만화 / 스토리보드 - 지하철에서의 미묘한 사이보그 변신
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5441,7 +4819,7 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 
 ---
 
-### No. 76: 만화 / 스토리보드 - 프랭크 밀러 신 시티 그래픽 노블 스타일 트랜스퍼
+### No. 81: 만화 / 스토리보드 - 프랭크 밀러 신 시티 그래픽 노블 스타일 트랜스퍼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5474,7 +4852,7 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 
 ---
 
-### No. 77: 만화 / 스토리보드 - 셀카를 클레이메이션으로 변환
+### No. 82: 만화 / 스토리보드 - 셀카를 클레이메이션으로 변환
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5513,7 +4891,7 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 
 ---
 
-### No. 78: 만화 / 스토리보드 - 인디 영화 미학 내러티브 그리드 프롬프트
+### No. 83: 만화 / 스토리보드 - 인디 영화 미학 내러티브 그리드 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5599,21 +4977,19 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 
 ---
 
-### No. 79: 만화 / 스토리보드 - 전투 장면 생성 비교
+### No. 84: 제품 마케팅 - 겨울 스포츠 선수의 시네마틱 클로즈업 인물 사진 프롬프트
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-이 프롬프트는 GPT-image와 Nano Banana Pro 간의 출력 품질을 비교하기 위해 동일한 프롬프트와 참조 이미지를 사용하여 전투 장면을 생성하는 데 사용되었습니다.
+나노 바나나 프로(Nano Banana Pro)용 프롬프트로, 여성 동계 스포츠 선수의 극사실적인 시네마틱 클로즈업 초상화를 생성하도록 설계되었습니다. 이 프롬프트는 피사체가 스노우 고글과 헬멧을 착용하고 있으며, 서리와 얼음 결정이 보이고, 극적인 블루-틸 및 오렌지 색상 그레이딩을 사용하며, 극도의 디테일, 선명한 초점, 그리고 전문 스포츠 포스터 느낌을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-전투 장면을 그릴 때 GPT-image를 사용합니다 ( ´∀｀)
-왼쪽: GPT-image
-오른쪽: nano banana pro
-동일한 프롬프트, 동일한 참조 이미지
+여성 동계 스포츠 선수의 하이퍼리얼리스틱 시네마틱 클로즈업 초상화, 옆모습, 스노우 고글과 헬멧 착용, 강렬하고 집중된 표정. 고글과 얼굴에 서리, 얼음 결정, 눈 입자가 맺혀 있고, 입김이 보임. {argument name="color grading" default="Blue-teal and orange"} 시네마틱 컬러 그레이딩, 얕은 피사계 심도를 가진 드라마틱하고 부드러운 조명. 매우 섬세한 피부 질감, 고글에 반사된 선명한 눈 초점, 음울한 겨울 분위기, 전경에 내리는 눈, 고대비, 프로 스포츠 포스터 느낌, 8K, HDR, 포토리얼리스틱, 시네마틱 사진, 극도의 디테일, 스튜디오 품질.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -5621,154 +4997,165 @@ Gemini (Nano Banana Pro)와 DeeVid AI를 사용하여 비디오 생성을 위해
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587307_p310qo_G-1AcEUacAAylS6.jpg" width="600" alt="만화 / 스토리보드 - 전투 장면 생성 비교 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768717587316_ack784_G-1AcEfbEAE_rQP.jpg" width="600" alt="만화 / 스토리보드 - 전투 장면 생성 비교 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236052022_38kier_G_YkhU_XsAA9Q-6.jpg" width="600" alt="제품 마케팅 - 겨울 스포츠 선수의 시네마틱 클로즈업 인물 사진 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [TomoHiko｜AI art](https://x.com/TomoHiko250220)
-- **출처:** [Twitter Post](https://x.com/TomoHiko250220/status/2012335464406299026)
-- **게시일:** 2026년 1월 17일
-- **언어:** ja
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014838051332100142)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6490)**
-
----
-
-### No. 80: 만화 / 스토리보드 - NanoBanana Pro에서 만화 생성을 위한 부정 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언어 및 형식을 보장하도록 특별히 제작된 '금지 항목'(부정 프롬프트) 템플릿입니다.
-
-#### 📝 프롬프트
-
-```
-[금지된 항목]
-- 좌우 읽기, 하단에서 상단으로 읽는 구성은 금지됩니다.
-- 영어 대화는 금지됩니다.
-- 대화의 가로 쓰기는 금지됩니다.
-- 단색, 흑백, 라인 아트는 금지됩니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631214624_w9za9y_G-yIakbbwAA4iDd.jpg" width="600" alt="만화 / 스토리보드 - NanoBanana Pro에서 만화 생성을 위한 부정 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [健太｜AI活用で個人ビジネスを仕組み化｜無在庫1000人超指導](https://x.com/kenta_business)
-- **출처:** [Twitter Post](https://x.com/kenta_business/status/2012133143843922078)
-- **게시일:** 2026년 1월 16일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6367)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7378)**
 
 ---
 
-### No. 81: 만화 / 스토리보드 - '더 넌' 공포 영화 세트의 레고 미니어처 디오라마
+### No. 85: 제품 마케팅 - 세련된 남성 스튜디오 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 설명
 
-공포 영화 '더 넌(The Nun)'의 촬영장을 묘사하는 레고 미니어처 디오라마 장면을 생성하기 위한 창의적인 JSON 프롬프트입니다. 고딕 양식의 석조 인테리어, 레고 수녀 캐릭터, 그리고 영화 장비와 상호 작용하는 다양한 레고 미니피겨 스태프(카메라 오퍼레이터, 붐 마이크, 감독)에 대한 상세한 설명이 포함되어 있으며, 이 모든 것이 드라마틱하고 고대비의 영화적 조명으로 렌더링됩니다.
+맞춤 제작된 네이비 블루 수트를 입은 세련되고 자신감 넘치는 남성의 초현실적이고 영화 같은 스튜디오 인물 사진을 생성하기 위한 프롬프트입니다. 고급스러운 금색 손목시계와 어두운 아비에이터 선글라스 같은 액세서리를 상세하게 묘사하며, 부드럽고 따뜻한 조명과 패션 화보 스타일을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+맞춤 제작된 네이비 블루 수트를 입고 흰색 드레스 셔츠 단추를 살짝 푼 채 커프스를 조정하는 스타일리시하고 자신감 넘치는 남성. 깔끔하게 정돈된 짙은 머리카락, 잘 다듬어진 풍성한 수염, 어두운 에비에이터 선글라스를 착용하고 있다. 왼쪽 손목에는 고급스러운 금색 손목시계가 보인다. 부드럽고 따뜻한 조명, 매끄러운 갈색 그라데이션 배경, 얕은 피사계 심도, 선명한 초점, 높은 디테일, 시네마틱하고 우아한 분위기, 패션 화보 스타일, 초현실적, 4K 화질의 스튜디오 인물 사진.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236053974_dzpxjs_G_YZ4W6X0AAAsdM.jpg" width="600" alt="제품 마케팅 - 세련된 남성 스튜디오 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014826355708272922)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7384)**
+
+---
+
+### No. 86: 제품 마케팅 - 전기 파란색 피부를 가진 사이버펑크 패션 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+다음은 초고도로 양식화되고 고대비의 미래 지향적인 패션 인물 사진을 만들기 위한 상세한 이미지 생성 프롬프트입니다. 피사체는 일렉트릭 블루 피부를 가진 여성으로, 대담한 노란색 선글라스와 질감 있는 주황색 비니를 착용하고 있습니다. 이 프롬프트는 네온 사이버펑크 미학, 스튜디오 조명, 극사실적인 디테일을 명시하며, 깨끗하고 고품질의 편집적인 모습을 보장하기 위한 부정적인 프롬프트(negative prompts)를 명시적으로 나열합니다.
+
+#### 📝 프롬프트
+
+```
+여성의 매우 양식화된 미래 지향적인 패션 초상화, 일렉트릭 블루 피부 톤, 대담하고 오버사이즈의 {argument name="sunglasses color" default="yellow"} 선글라스와 {argument name="lens color" default="orange reflective"} 렌즈, 생기 넘치는 오렌지색 아이섀도와 길고 드라마틱한 속눈썹, 매트 블루 립, 미니멀한 표정, 살짝 위로 기울어진 머리, 질감 있는 오렌지색 비니 착용. 고대비 색상 팔레트(블루 & 오렌지), 네온 사이버펑크 미학, 스튜디오 조명, 부드러운 피부 질감, 하이퍼리얼리즘, 초고선명 초점, 8K 해상도, 에디토리얼 패션 사진, 현대 미술 스타일, 깔끔한 배경, 시네마틱 조명, 럭셔리 패션 분위기.
+흐림, 저해상도, 노이즈, 왜곡, 비대칭 얼굴, 추가 사지, 워터마크, 텍스트, 로고, 과도한 선명화.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236047762_4nv109_G_YZtE6WoAA3lhI.jpg" width="600" alt="제품 마케팅 - 전기 파란색 피부를 가진 사이버펑크 패션 인물 사진 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Mohamed IDBRAHIM](https://x.com/brightcoding)
+- **출처:** [Twitter Post](https://x.com/brightcoding/status/2014826156831473981)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7371)**
+
+---
+
+### No. 87: 제품 마케팅 - 디자이너 수준의 브랜드 무드보드 생성 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+정교하고 디자이너급의 브랜드 무드보드를 생성하도록 설계된 Nano Banana Pro를 위한 간단하고 수준 높은 프롬프트입니다. 그리드 레이아웃, 촉각적 질감, 에디토리얼 사진, 차분한 프리미엄 색상 팔레트와 같은 추상적인 개념에 중점을 두어 전문적인 내부 자료의 미학을 목표로 합니다.
+
+#### 📝 프롬프트
+
+```
+모던 테크 브랜드를 위한 큐레이션된 브랜드 무드보드.
+균형 잡힌 그리드 레이아웃, 촉각적인 질감,
+에디토리얼 사진 레퍼런스,
+차분한 프리미엄 컬러 팔레트,
+타이포그래피 중심의 구성,
+시니어 브랜드 디자이너의 내부 자료처럼 정교하게 제작.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235982712_ekqbiv_G_I8ofcXYAAwpny.jpg" width="600" alt="제품 마케팅 - 디자이너 수준의 브랜드 무드보드 생성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [SRKDAN](https://x.com/SRKDAN)
+- **출처:** [Twitter Post](https://x.com/SRKDAN/status/2014825721517244464)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7283)**
+
+---
+
+### No. 88: 제품 마케팅 - 로마 목욕탕에서 촬영한 극사실주의 패션 화보 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+고대 로마의 온천에서 금색의 몸에 달라붙는 젖은 드레스를 입고 뱀 문신을 한 피사체를 담은 초고급 패션 화보 이미지를 생성하기 위한 매우 상세한 프롬프트. 차갑고 지배적인 표정과 물리적으로 정확한 조명을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
 {
-  "scene_overview": {
-    "setting": "교회나 성당 세트와 유사한 고딕 양식의 석조 인테리어",
-    "environment_style": "레고 미니어처 디오라마",
-    "location_type": "영화 세트 / 영화 제작 비하인드 씬",
-    "time_of_day": "실내, 통제된 조명 (영화 같은 밤 분위기)",
-    "atmosphere": "영화 같은, 으스스한, 연극적인, 통제된",
-    "mood": "블랙 유머, 으스스한, 장난기 넘치는, 창의적인",
-    "genre_influence": ["공포", "영화 제작 비하인드 씬", "판타지"]
+  "prompt": "고대 로마 온천탕의 아나 데 아르마스(Ana de Armas)를 담은 극사실주의 패션 화보, 얕은 물, 위압적이고 지배적인 존재감, 차갑고 범접할 수 없는 표정, 금색 딥 브이넥 젖은 밀착 드레스, 왼쪽 다리에 뱀 문신, 85mm 렌즈, 얕은 피사계 심도, 3:4",
+  "style": "초고급 극사실주의 패션 사진, 시네마틱 편집 리얼리즘, 자연스러운 광학, 물리적으로 정확한 조명, 제로 스타일링, 순수한 사진",
+  "aspect_ratio": "3:4",
+  "resolution": "8k",
+  "lighting": "밝고 통제된 부드러운 일광, 자연스러운 하이라이트, 부드러운 그림자, 은은한 물 반사, 깨끗한 노출",
+  "camera_angle": "가슴 높이보다 약간 아래, 미디엄 클로즈업에서 미드 바디, 85mm 렌즈, 얕은 피사계 심도",
+  "subject": {
+    "name": "{argument name=\"subject name\" default=\"Ana de Armas\"}",
+    "face": "차갑고 지배적인 대칭적 이목구비, 은은한 온기가 도는 도자기 피부",
+    "expression": "포식자 같은 침착함, 직접적이고 고정된 시선, 미소 없음, 다물고 편안한 입술, 범접할 수 없는 권위",
+    "makeup": "최소한으로 조각된, 눈과 골격 강조",
+    "hair": "길고 곧은 머리, 어두운 뿌리에서 밝은 끝으로, 살짝 축축한, 깔끔한 가르마",
+    "physique": "우아하고 강력한 여성미, 강하고 자신감 있는 자세",
+    "skin": "밝고 빛나는 피부, 하체에 사실적인 젖은 광택, 왼쪽 다리에 디테일한 풀랩 뱀 문신",
+    "outfit": "얇은 금색 딥 브이넥 드레이프 수영복-드레스 하이브리드, 젖어서 몸에 달라붙는 하체, 깊게 파인 네크라인",
+    "jewelry": "다이아몬드 드롭 귀걸이, 여러 겹의 가는 금 목걸이, 금색 팔찌",
+    "pose": "얕은 물에 팔꿈치를 대고 누워 있음, 한쪽 다리는 구부리고 다른 한쪽은 앞으로 뻗음, 몸통은 살짝 뒤로, 엉덩이는 바닥에 닿아 있음, 공간을 지배하는 듯한 모습"
   },
-  "primary_subject": {
-    "type": "레고 미니피겨 캐릭터",
-    "role": "수녀 / 공포 캐릭터",
-    "appearance": {
-      "outfit": "흰색 칼라가 있는 검은색 수녀복",
-      "face": "창백한 흰색 얼굴, 어둡고 움푹 들어간 눈, 으스스한 표정",
-      "accessories": "십자가 목걸이",
-      "pose": "정면을 향해 가만히 서 있음"
-    },
-    "positioning": {
-      "location": "커다란 석조 아치형 문 중앙",
-      "background": "빛나는 푸른빛이 도는 벽감 또는 방"
-    }
+  "environment": {
+    "location": "고대 로마 온천탕, 옅은 색 돌로 된 고전적인 기둥과 건축물",
+    "atmosphere": "밝고 부드럽게 확산된 일광, 웅장하지만 피사체에 비해 부차적인",
+    "background": "부드럽게 흐려진 고전적인 석조 건축물"
   },
-  "supporting_characters": {
-    "crew_members": [
-      {
-        "role": "카메라 오퍼레이터",
-        "object_interaction": "커다란 레고 필름 카메라 조작",
-        "position": "왼쪽 앞, 카메라 돌리 위에 앉아 있음"
-      },
-      {
-        "role": "붐 마이크 오퍼레이터",
-        "object_interaction": "피사체를 향해 붐 마이크를 길게 들고 있음",
-        "position": "왼쪽 상단 전경"
-      },
-      {
-        "role": "조명 기술자",
-        "object_interaction": "직사각형 조명 반사판을 들고 있음",
-        "position": "오른쪽, 스탠드 위에 높이 서 있음"
-      },
-      {
-        "role": "슬레이트 오퍼레이터",
-        "object_interaction": "슬레이트를 들고 있음",
-        "position": "중앙 오른쪽 앞"
-      },
-      {
-        "role": "감독 / 스크립트 슈퍼바이저",
-        "object_interaction": "클립보드와 서류를 들고 있음",
-        "position": "오른쪽 하단 전경"
-      }
-    ],
-    "style": "모든 캐릭터는 노란색 피부 톤과 다양한 헤어피스를 가진 레고 미니피겨"
-  },
-  "props_and_equipment": {
-    "film_equipment": [
-      "레고 시네마 카메라",
-      "레일 위의 카메라 돌리",
-      "털 복슬복슬한 윈드스크린이 있는 붐 마이크",
-      "조명 반사판",
-      "슬레이트",
-      "수녀 캐릭터를 보여주는 모니터 화면",
-      "바닥에 감겨 있는 케이블"
-    ],
-    "architectural_elements": [
-      "돌 벽돌 벽",
-      "커다란 아치형 문",
-      "움푹 들어간 벽감",
-      "타일 ​​석조 바닥"
-    ]
-  },
-  "lighting": {
-    "primary_light": "수녀 뒤에서 강렬한 청록색-파란색 빛",
-    "secondary_lighting": "제작진과 전경에 따뜻한 중성 스튜디오 조명",
-    "contrast": "차가운 파란색 배경과 따뜻한 전경 톤 사이의 높은 대비",
-    "style": "영화 같은, 극적인, 공포에서 영감을 받은 조명"
-  },
-  "color_palette": {
-    "dominant_colors": ["짙은 회색", "검은색", "청록색"],
-    "accent_colors": ["따뜻한 노란색 ("
+  "image_quality": {
+    "detail_level": "극사실적인 피부 미세 디테일, 자연스러운 젖은 광택, 디테일한 문신",
+    "overall_vibe": "공격적인 우아함, 침착하고 위험한 우월함, 순수한 권위와 성적 자신감"
   }
 }
 ```
@@ -5778,111 +5165,46 @@ NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768631179842_bt4bpk_G-wvqjobQAIEqnQ.jpg" width="600" alt="만화 / 스토리보드 - '더 넌' 공포 영화 세트의 레고 미니어처 디오라마 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Chandan Singh](https://x.com/cbsingh_oo3)
-- **출처:** [Twitter Post](https://x.com/cbsingh_oo3/status/2012035545812385829)
-- **게시일:** 2026년 1월 16일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6323)**
-
----
-
-### No. 82: 만화 / 스토리보드 - 히로인 표정 차이 그리드 시도
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-참조 이미지를 기반으로 Nano Banana Pro를 사용하여 히로인의 다양한 표정(표정 차이)을 보여주는 16개 패널 그리드를 생성하려는 일본어 프롬프트입니다. 이 프롬프트는 왼쪽 상단 패널이 원본 이미지여야 하며, 나머지 15개 패널은 이전 모델의 유사 참조 기능과 유사하게 아트 스타일을 유지하면서 변형을 보여주어야 한다고 명시하고 있습니다.
-
-#### 📝 프롬프트
-
-```
-여주인공의 다양한 표정을 만드세요. 16개 패널 화면에 표시합니다. 왼쪽 상단 패널은 원본 이미지를 그대로 사용합니다. 나머지 15개 패널에는 다양한 표정의 변형을 표시합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877373_9olwvv_G-rYHaibQAEAX1W.jpg" width="600" alt="만화 / 스토리보드 - 히로인 표정 차이 그리드 시도 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236022995_yfpu5p_G_YNWuFXIAAuKiq.jpg" width="600" alt="제품 마케팅 - 로마 목욕탕에서 촬영한 극사실주의 패션 화보 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877331_a78rtk_G-rYOXja4AA4LhO.jpg" width="600" alt="만화 / 스토리보드 - 히로인 표정 차이 그리드 시도 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236022667_7xe4o1_G_YNWlUXYAA7FSE.jpg" width="600" alt="제품 마케팅 - 로마 목욕탕에서 촬영한 극사실주의 패션 화보 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236022869_c7pqle_G_YNWruWUAEyfhl.jpg" width="600" alt="제품 마케팅 - 로마 목욕탕에서 촬영한 극사실주의 패션 화보 프롬프트 - Image 3">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [SenY](https://x.com/YuuriAmemiya)
-- **출처:** [Twitter Post](https://x.com/YuuriAmemiya/status/2011658251960721685)
-- **게시일:** 2026년 1월 15일
-- **언어:** ja
+- **작성자:** [KeorUnreal](https://x.com/KeorUnreal)
+- **출처:** [Twitter Post](https://x.com/KeorUnreal/status/2014812579600662753)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6228)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7337)**
 
 ---
 
-### No. 83: 제품 마케팅 - 영웅적인 드라마틱 스튜디오 인물 사진 프롬프트 (JSON)
+### No. 89: 제품 마케팅 - 뉴욕에서 파파라치 스타일로 찍힌 여성의 자연스러운 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-강렬한 오렌지-레드 조명과 높은 대비(키아로스쿠로)를 사용하여 영웅적이고 극적인 스튜디오 인물 사진을 생성하기 위한 고도로 구조화된 JSON 프롬프트로, 참조 사진의 인물 얼굴 특징과 의상을 반드시 보존해야 합니다.
+뉴욕시의 번화한 보도에서 걷고 있는 젊은 여성(안야 테일러 조이와 닮은)의 사실적이고 자연스러운 파파라치 스타일 전신 사진을 생성하기 위한 상세한 프롬프트. 그녀의 의상(텍스트가 있는 크롭탑, 가죽 미니스커트, 무릎 길이 부츠)과 거친 도시 배경 요소를 명시합니다.
 
 #### 📝 프롬프트
 
 ```
 {
-  "meta": {
-    "title": "영웅적인 드라마틱 스튜디오 인물 사진",
-    "role": "편집 인물 사진 전문 세계적인 사진작가",
-    "aesthetic": "영웅적인 느낌의 드라마틱하고 채도 높은 스튜디오 조명"
-  },
-  "constraints": {
-    "identity_anchor": {
-      "source": "첨부된 참고 사진",
-      "strictness": "필수",
-      "instruction": "정확한 얼굴 특징, 피부 톤, 헤어스타일, 자연스러운 모습을 변경 없이 완벽하게 유지해야 합니다."
-    },
-    "clothing_anchor": {
-      "source": "참고 사진과 정확히 동일하게",
-      "strictness": "필수",
-      "instruction": "스타일, 색상, 소재, 핏이 원본과 완전히 일치해야 하며, 스타일링을 추가해서는 안 됩니다."
-    }
-  },
-  "subject_details": {
-    "expression": "진지하고 긴장하며 집중한 표정",
-    "gaze": "카메라를 벗어나 위쪽 공간을 응시",
-    "universality": "성별에 관계없이 적용 가능한 조명 및 앵글"
-  },
-  "composition": {
-    "background": "채도 높은 단색 {argument name=\"Background Color\" default=\"orange-red\"} 배경, 부드럽고 강렬한 그라데이션, 패턴 없음, '뜨거운' 분위기",
-    "camera_angle": "지배적인 느낌을 주기 위한 로우 앵글 (아래에서 위로 촬영)",
-    "framing": "미디엄 클로즈업, 얼굴과 어깨 강조"
-  },
-  "lighting": {
-    "palette": "밝은 오렌지와 짙은 빨간색 계열이 지배적",
-    "key_light": "강력한 지향성 광원, 깊고 드라마틱한 그림자 (키아로스쿠로), 얼굴 구조 강조",
-    "backlight": "피사체를 배경에서 분리하는 강력하고 표현적인 림 라이트 또는 컬러 헤일로",
-    "mood": "신비롭고 긴장되며 고대비"
-  },
-  "technical_specs": {
-    "style": "포토리얼리즘, 고해상도",
-    "focus": "얼굴에 선명한 초점 vs 부드러운 그라데이션 배경",
-    "texture_quality": "자연스러운 모공과 피부 질감 유지"
-  },
-  "combined_prompt_text": "세계적인 편집 인물 사진, 드라마틱한 스튜디오 조명, 영웅적인 느낌. [참고 사진 인물 보존]: 정확한 얼굴 특징, 피부 톤, 헤어스타일. [의상 정확히 일치]: 핏이나 소재 변경 없음. 표정: 진지하고 긴장하며 집중한 표정, 위쪽을 응시. 배경: 채도 높은 단색 오렌지-레드, 부드럽고 강렬한 그라데이션, 뜨거운 분위기. 카메라 앵글: 지배적인 느낌을 위한 로우 앵글. 프레이밍: 미디엄 클로즈업. 조명: 밝은 오렌지와 짙은 빨간색 팔레트, 강력한 지향성 키아로스쿠로 키 라이트, 피사체를 배경에서 분리하는 강력한 림 라이트. 기술: 포토리얼리즘, 고해상도, 얼굴에 선명한 초점, 자연스러운 피부 질감과 모공."
+  "prompt": "분주한 뉴욕시 보도를 걷고 있는 길고 곧은 백금발 머리의 젊은 여성의 파파라치 스타일 전신 사진. 그녀는 분홍색 반짝이 글씨로 '{argument name=\"shirt text\" default=\"I <3 COWBOYS\"}'라고 쓰인 흰색 베이비 티 크롭탑, 짧은 검은색 가죽 미니 스커트, 검은색 무릎 길이 부츠를 착용하고 있다. 그녀는 어두운 캣아이 선글라스를 쓰고 검은색 지갑과 휴대폰을 움켜쥐고 있다. 배경에는 공사 비계, 흰색 배달 트럭, 쓰레기통, 흐릿한 보행자 등 전형적인 도시 풍경이 자연광과 고해상도 질감으로 촬영되어 있다."
 }
 ```
 
@@ -5891,172 +5213,114 @@ NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393910_5tmt5z_G_U227dWAAAtzmu.jpg" width="600" alt="제품 마케팅 - 영웅적인 드라마틱 스튜디오 인물 사진 프롬프트 (JSON) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236015549_68ope1_G_YLLHOXMAAawSQ.jpg" width="600" alt="제품 마케팅 - 뉴욕에서 파파라치 스타일로 찍힌 여성의 자연스러운 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149394137_4f0bt5_G_U227hW4AAt5g0.jpg" width="600" alt="제품 마케팅 - 영웅적인 드라마틱 스튜디오 인물 사진 프롬프트 (JSON) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1769236015432_u98lsv_G_YLLHQXUAAtZRD.jpg" width="600" alt="제품 마케팅 - 뉴욕에서 파파라치 스타일로 찍힌 여성의 자연스러운 사진 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149395002_se9oog_G_U227eWMAE4UIl.jpg" width="600" alt="제품 마케팅 - 영웅적인 드라마틱 스튜디오 인물 사진 프롬프트 (JSON) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149393956_fx7yl0_G_U227gXYAAWGwr.jpg" width="600" alt="제품 마케팅 - 영웅적인 드라마틱 스튜디오 인물 사진 프롬프트 (JSON) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236015528_wxq254_G_YM5CVW0AE3iWV.jpg" width="600" alt="제품 마케팅 - 뉴욕에서 파파라치 스타일로 찍힌 여성의 자연스러운 사진 - Image 3">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Lex](https://x.com/lexx_aura)
-- **출처:** [Twitter Post](https://x.com/lexx_aura/status/2014576740492869761)
+- **작성자:** [jennieee:3](https://x.com/jenniebae_ai)
+- **출처:** [Twitter Post](https://x.com/jenniebae_ai/status/2014812283508011295)
 - **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7238)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7327)**
 
 ---
 
-### No. 84: 제품 마케팅 - 건축 컨셉 렌더링: 스케치에서 포토리얼리즘까지
+### No. 90: 제품 마케팅 - 모던 소파 위 패션 에디토리얼 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-현대적인 카페 상점의 건축 컨셉 렌더링을 생성하기 위한 매우 상세한 프롬프트입니다. 핵심 컨셉은 깔끔한 기술 스케치 미학(연필선, 해칭, 주석)과 고급 포토리얼리즘을 혼합하는 것입니다. 구성(대칭형 파사드, 검은색 프레임 창문), 내부 디테일(따뜻한 조명, 식물, 카운터), 외부 요소(램프, 샌드위치 보드)를 명시하며, 단색 스케치 선과 선택적 색상 악센트 간의 대비를 강조합니다.
-
-#### 📝 프롬프트
-
-```
-"현대적인 카페 정면의 건축 콘셉트 렌더링, 초고화질, 깔끔한 기술 스케치와 하이엔드 포토리얼리즘의 조화. 완벽하게 대칭적인 {argument name="window frame color" default="black"} 프레임 유리창과 문이 미묘한 질감이 있는 깨끗한 흰색 미니멀리스트 파사드에 자리 잡고 있다. 중앙 창문을 통해 따뜻하게 조명된 매력적인 카페 내부가 보이며, 부드러운 펜던트 조명, 무성한 녹색 식물, 작은 나무 카운터, 몇 개의 의자, 그리고 생활감이 느껴지도록 배경에 흐릿하게 처리된 사람들의 모습이 비친다. 창문 주변에는 섬세한 연필 스케치 선, 치수 표시, 해칭, 건축 그리드, 작은 손글씨 건축 주석이 벽과 지면에 오버레이되어 제도 미학과 완성된 현실이 매끄럽게 합쳐진다. 아치 또는 상인방 중앙 위에 작은 검은색 금속 램프, 희미한 분필 글씨가 있는 보도 위의 깔끔하게 디자인된 샌드위치 보드 간판, 그리고 입구 양쪽에 놓인 단순하고 현대적인 화분에 담긴 두 개의 세련된 화분과 같은 사실적인 외부 디테일을 추가한다. 선명한 흑백 스케치 윤곽선과 선별적이고 세련된 색상 악센트(내부의 따뜻한 노란색 주변 조명, 창문의 단일 대담한 노란색 포스터, 자연스러운 녹색 잎, 포장도로의 부드럽고 방향성 있는 그림자) 사이의 균형 잡힌 대비를 강조한다. 전체적인 분위기는 우아하고 창의적이며 개념적이며, 가장자리에서는 청사진 선에서 시작하여 중앙에서는 완전히 구현된 사진적 사실주의로 점차 전환되는 듯한 하이엔드 건축 시각화를 연상시킨다."
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398050_z57bix_G_TVR_IX0AAxOw1.jpg" width="600" alt="제품 마케팅 - 건축 컨셉 렌더링: 스케치에서 포토리얼리즘까지 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [FutureToolsAI](https://x.com/FutureToolsAI)
-- **출처:** [Twitter Post](https://x.com/FutureToolsAI/status/2014473439164104858)
-- **게시일:** 2026년 1월 22일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7242)**
-
----
-
-### No. 85: 제품 마케팅 - Ana de Armas Urban Squat Portrait with Identity Lock
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-도시 주차장 안에서 웅크린 자세를 취하고 있는 아나 데 아르마스의 초현실적이고 영화 같은 인물 사진을 생성하기 위한 매우 구체적인 JSON 프롬프트입니다. 특히 이 프롬프트는 '아이덴티티 잠금' 및 '포즈 잠금' 규칙을 사용하여 AI가 얼굴, 머리카락, 포즈, 장면 및 조명에 대한 외부 참조 이미지를 엄격하게 준수하면서 현대적인 스트리트 패션 의상을 적용하도록 요구합니다.
+초고해상도, 사실적인 패션 화보 인물 사진 생성을 위한 상세 JSON 프롬프트입니다. 이 프롬프트는 밝은 회색의 모던한 소파에 앉아 빨간색 타탄 미니 드레스, 검은색 블레이저, 시스루 검은색 타이츠를 입은 세련된 여성을 특징으로 합니다. 높은 각도에서 전신을 촬영하고 부드러운 스튜디오 조명을 사용하여 높은 디테일과 선명한 초점을 강조하며, 참조 이미지로부터 엄격한 얼굴 동일성 유지를 요구합니다.
 
 #### 📝 프롬프트
 
 ```
 {
-  "scene_description": {
-    "environment": "실내 주차장, 콘크리트 바닥, 산업용 천장 파이프, 기둥, 도시 기반 시설 건축물",
-    "background": "넓고 텅 빈 주차 공간, 원근감 있는 깊이, 산업적인 분위기",
-    "floor": "아스팔트/콘크리트 바닥, 자연스러운 질감, 약간의 반사",
-    "mood": "도시적인, 영화 같은, 미니멀한, 현대적인"
+  "description": "현대적인 거실의 밝은 회색 모던 소파에 앉아 있는 세련된 성인 여성. {argument name=\"dress pattern\" default=\"red tartan\"} 미니 드레스, 검은색 블레이저, 시스루 검은색 스타킹, 검은색 하이힐 스틸레토를 착용하고 있다. 다리를 뻗어 꼬고, 한 팔은 소파 등받이에, 다른 손은 허벅지에 얹은 편안하고 우아한 자세. 회색 커튼, 베이지색 카펫, 빨간색 레트로 탁상시계, 황동 탁상 램프가 배경에 있는 미니멀리즘 환경. 부드러운 자연 스튜디오 조명, 에디토리얼 패션 사진 스타일, 높은 디테일, 선명한 초점.",
+  
+  "face_reference": "얼굴에만 업로드된 참조 이미지를 사용하고, 얼굴 구조나 신원을 수정하지 마십시오.",
+  
+  "camera": {
+    "angle": "살짝 기울어진 하이 앵글",
+    "framing": "전신 인물 사진",
+    "lens": "35mm-50mm 상당",
+    "depth_of_field": "얕음-중간, 배경 살짝 흐림"
   },
-
-  "subject": {
-    "gender": "여성",
-    "identity_source": "reference_1",
-    "identity_lock": {
-      "face": true,
-      "hair_color": true,
-      "hair_texture": true,
-      "hair_style": true,
-      "hair_density": true,
-      "hairline": true
+  
+  "lighting": {
+    "type": "부드러운 스튜디오 조명",
+    "mood": "자연광, 낮은 대비",
+    "shadows": "부드러운 그림자, 강한 조명 없음"
+  },
+  
+  "clothing": {
+    "dress": {
+      "color": "빨간색",
+      "pattern": "검은색과 흰색 선이 있는 타탄 체크",
+      "length": "미니",
+      "fit": "슬림핏, 몸에 밀착"
     },
-    "pose": {
-      "body_position": "웅크린 자세 (스쿼트 자세)의 여성, 발뒤꿈치는 땅에 닿고 무릎은 구부러짐",
-      "posture": "균형 잡힌, 미학적인 스쿼트 자세",
-      "head_pose": "머리는 옆으로 살짝 기울어짐",
-      "gaze": "카메라와 직접적인 눈 맞춤",
-      "expression": "차분하고 시크하며 약간 신비로운 표정"
+    "blazer": {
+      "color": "검은색",
+      "style": "슬림핏, 싱글 버튼"
     },
-    "hands": {
-      "hand_position": "한 손은 턱에 얹고 다른 한 손은 편안한 자세"
+    "tights": {
+      "color": "검은색",
+      "type": "시스루"
+    },
+    "shoes": {
+      "type": "스틸레토 힐",
+      "color": "검은색",
+      "toe": "뾰족한",
+      "detail": "살짝 투명한 토 패널"
     }
   },
-
-  "outfit": {
-    "top": "오버사이즈의 밝은 색 스웨트셔츠",
-    "bottom": "짧은 스커트 / 미니 스커트 ({argument name=\"skirt color\" default=\"khaki tone\"})",
-    "bag": "{argument name=\"bag color\" default=\"Red\"} 숄더백, 크로스바디 스트랩, 모던한 디자인",
-    "shoes": "{argument name=\"shoe color\" default=\"Red\"} 하이힐 샌들",
-    "style": "어반 시크, 모던 스트리트 패션",
-    "fabric_detail": "자연스러운 직물 질감, 무광 표면"
-  },
-
-  "composition": {
-    "framing": "수직 프레이밍",
-    "camera_angle": "약간 낮은 앵글의 시점",
-    "lens": "50mm 자연스러운 원근감",
-    "depth_of_field": "중간 범위의 선명도, 약간 흐릿한 배경",
-    "focus": "여성을 주요 초점으로, 영화 같은 배경 깊이"
-  },
-
-  "lighting": {
-    "main_light": "부드러운 전면 조명",
-    "ambient_light": "주차장 내부의 자연스러운 인공 조명",
-    "shadow": "부드러운 그림자",
-    "mood": "영화 같은 도시 조명"
-  },
-
-  "style": {
-    "realism": "극사실주의",
-    "texture": "고화질 질감",
-    "color_grading": "영화 같은 색 보정",
-    "contrast": "중간에서 높은 대비",
-    "vibe": "도시적인, 미학적인, 현대적인, 편집적인"
-  },
-
-  "rules": {
-    "identity": "얼굴과 머리카락은 reference_1에서 정확히 가져와야 함",
-    "pose_lock": "자세는 reference_2와 정확히 동일해야 함",
-    "scene_lock": "위치, 앵글, 조명, 구도는 reference_2와 정확히 동일하게 유지되어야 함",
-    "no_changes": [
-      "머리 색깔은 변경 불가",
-      "머리 모양은 변경 불가",
-      "머리 질감은 변경 불가",
-      "자세는 변경 불가",
-      "카메라 앵글은 변경 불가",
-      "조명 설정은 변경 불가",
-      "위치는 변경 불가",
-      "구도는 변경 불가"
+  
+  "environment": {
+    "location": "모던 거실",
+    "sofa": "밝은 회색 패브릭 소파",
+    "curtains": "회색",
+    "floor": "베이지색 카펫",
+    "props": [
+      "빨간색 레트로 탁상시계",
+      "흰색 갓이 있는 황동 탁상 램프"
     ]
   },
-
-  "quality": {
-    "resolution": "8K",
-    "detail_level": "초고화질 디테일",
-    "photorealism": true
+  "style": {
+    "genre": "패션 에디토리얼 사진",
+    "quality": "초고해상도, 8k 디테일",
+    "realism": "사진처럼 사실적",
+    "noise": "낮음",
+    "sharpness": "높음"
   },
-
+  
   "negative_prompt": [
-    "잘못된 머리 색깔",
-    "잘못된 머리 스타일"
+    "얼굴 변형",
+    "흐릿함",
+    "저해상도",
+    "과도하게 선명함",
+    "추가 사지",
+    "왜곡된 몸",
+    "만화",
+    "애니메이션",
+    "과다 노출",
+    "강한 그림자"
   ]
 }
 ```
@@ -6066,134 +5330,129 @@ NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398255_zaad9r_G_R9EG7WoAEsXlh.jpg" width="600" alt="제품 마케팅 - Ana de Armas Urban Squat Portrait with Identity Lock - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236002476_w185di_G_YM9gGXwAA1fqM.jpg" width="600" alt="제품 마케팅 - 모던 소파 위 패션 에디토리얼 인물 사진 프롬프트 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398465_pj0kgx_G_R9EJoXcAAGmdI.jpg" width="600" alt="제품 마케팅 - Ana de Armas Urban Squat Portrait with Identity Lock - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149399500_a9rcaj_G_R9EQsXoAAlUnU.jpg" width="600" alt="제품 마케팅 - Ana de Armas Urban Squat Portrait with Identity Lock - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149398328_1ksw6p_G_SUxK9WYAAOLD_.jpg" width="600" alt="제품 마케팅 - Ana de Armas Urban Squat Portrait with Identity Lock - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769236002488_4nyhhl_G_YNCGMXwAAJJjE.jpg" width="600" alt="제품 마케팅 - 모던 소파 위 패션 에디토리얼 인물 사진 프롬프트 - Image 2">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [manolya](https://x.com/manolyaai)
-- **출처:** [Twitter Post](https://x.com/manolyaai/status/2014399224809439301)
-- **게시일:** 2026년 1월 22일
+- **작성자:** [Emma](https://x.com/emmagpt0)
+- **출처:** [Twitter Post](https://x.com/emmagpt0/status/2014812242244513978)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7243)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7308)**
 
 ---
 
-### No. 86: 제품 마케팅 - 이탈리아 팔라초의 르네상스 회화 스타일 초상화
+### No. 91: 제품 마케팅 - 하이퍼리얼리스틱 스튜디오 인물 사진, 플로팅 링 소품 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-이 프롬프트는 이탈리아 팔라초 갤러리를 배경으로 한 르네상스 회화처럼 연출된, 핑크색 데이지 미니 드레스를 입은 여성의 사실적인 초상화를 만들기 위해 고안된 매우 상세한 이미지 생성 프롬프트입니다. 카메라 앵글, 조명, 포즈, 신체적 세부 사항을 지정하여 하이패션 에디토리얼 룩을 연출합니다.
+Nano Banana Pro용 템플릿 프롬프트로, 떠다니는 대각선으로 기울어진 링에 둘러싸인 캐릭터를 특징으로 하는 극사실적인 전신 스튜디오 인물 사진을 생성합니다. 이 프롬프트는 캐릭터, 의상, 링 재료 및 스튜디오 배경 그라데이션을 사용자 지정할 수 있으며, 시네마틱 조명과 피사체 및 링에 대한 선명한 초점을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{argument name="character" default="[CHARACTER]"}가 {argument name="outfit description" default="[OUTFIT DESCRIPTION]"}을(를) 입고 [POSE]를 취하고 있는 극사실주의 스튜디오 전신 인물 사진. 머리부터 발끝까지 전신이 완전히 보이며, [FLOOR TYPE] 반사 스튜디오 바닥에 서 있고, 두 발이 프레임 안에 선명하게 보인다. 카메라는 전신 높이에 정면으로 배치되어 깔끔한 구도와 강한 대칭을 보장한다.
+
+피사체 주변에는 [RING TYPE]이 허리 중앙 부분에 정확하게 배치되어 있다. [RING CONTENT] (텍스트 기반인 경우 끊김 없이 반복). 링은 대각선으로 기울어져 있으며, 옷/피부에 닿지 않고 명확한 간격을 두고 몸 주위에 자연스럽게 떠 있다. 링 렌더링: {argument name="ring material" default="[MATERIAL/STYLE: metallic / chrome / dot-matrix LED / anime ink]"}에 [EXTRUSION or GLOW], 깊은 그림자, 그리고 광택 있는 하이라이트.
+
+배경: [COLOR 1]에서 [COLOR 2]로 이어지는 깔끔한 스튜디오 그라데이션으로, 균일하게 조명되어 있으며 미니멀하다. 조명: 부드러운 시네마틱 스튜디오 조명, [KEY LIGHT direction/quality]이(가) [materials] 전체에 부드럽고 극적인 그림자를 만든다. 은은한 백라이트/림 라이트가 배경과의 깊이감과 분리감을 높여주며, 부드러운 스페큘러 하이라이트가 윤곽, 질감, 그리고 프리미엄 리얼리즘을 강조한다. 분위기: [FINAL MOOD LINE] [STYLE INTERPRETATION]. 초고화질, 시네마틱 구도, 선명한 초점
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235990133_6gfcfy_G_YNBm7XMAAffYp.jpg" width="600" alt="제품 마케팅 - 하이퍼리얼리스틱 스튜디오 인물 사진, 플로팅 링 소품 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [ΛRMIN | AI](https://x.com/Arminn_Ai)
+- **출처:** [Twitter Post](https://x.com/Arminn_Ai/status/2014812228307058857)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7294)**
+
+---
+
+### No. 92: 제품 마케팅 - 오피스 레이디 유니폼 에디토리얼 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+현대적인 기업 인테리어와 도시 스카이라인 배경을 뒤로 한 채, 사무실 책상에 앉아 있는 매혹적인 오피스 레이디 유니폼(타이트한 흰색 셔츠, 마이크로 미니스커트, 허벅지까지 오는 스타킹)을 입은 젊은 아시아 여성의 사실적인 이미지를 생성하기 위한 구조화된 JSON 프롬프트.
 
 #### 📝 프롬프트
 
 ```
 {
-  "scene_type": "이탈리아 팔라초 갤러리, {argument name=\"dress color\" default=\"pink\"} 데이지 미니 드레스, 플래티넘 하프업 헤어, 토스카나 벽화 및 대리석 조각상",
-
-  "camera_perspective": {
-    "pov": "사진작가가 그녀의 옆/앞에 서서 촬영",
-    "angle": "눈높이, 그녀의 옆모습에서 3/4 뷰까지 포착",
-    "distance": "미디엄 샷 - 허벅지 위부터 머리 위까지",
-    "framing": "4:5 수직, 그녀는 중앙 왼쪽에 위치, 팔라초 내부가 뒤로 확장됨",
-    "lens": "표준 인물 사진 렌즈, 자연스러운 원근감"
-  },
-
-  "subject": {
-    "action": "팔라초 갤러리에 서서 옆으로 돌아서 왼쪽 어깨 너머로 카메라를 돌아봄",
-    
-    "pose": {
-      "overall_position": "서 있는 자세, 옆모습에서 3/4 뷰, 카메라를 돌아봄",
-      
-      "body_angle": {
-        "orientation": "몸은 오른쪽을 향하고, 카메라에서 약 70-80도 정도 돌아 있음",
-        "twist": "머리는 왼쪽으로 돌려 어깨 너머로 카메라를 돌아봄",
-        "posture": "우아하고 자연스러운 서 있는 자세"
-      },
-      
-      "upper_body": {
-        "shoulders": "얇은 끈과 리본을 제외하고는 노출됨",
-        "chest": "옆모습에서 보임, 몸에 맞는 드레스 상체",
-        "posture": "곧고 우아함"
-      },
-      
-      "lower_body": {
-        "hips": "옆모습에서 곡선이 보임",
-        "dress": "모양이 드러나는 플레어 미니 스커트",
-        "stockings": "밑단 아래로 살짝 보이는 흰색 레이스 허벅지 위 스타킹"
-      },
-      
-      "arms": {
-        "position": "옆구리에 편안하게 내려져 있음",
-        "hands": "한 손은 허벅지/드레스 밑단 근처에 있음",
-        "effect": "자연스럽고 우아함"
-      },
-      
-      "head_and_neck": {
-        "turn": "왼쪽 어깨 너머로 카메라를 돌아봄",
-        "rotation": "머리가 카메라 쪽으로 상당히 돌아 있음",
-        "chin": "중립적이고 부드러운 각도",
-        "direction": "카메라와 직접적인 눈맞춤"
-      },
-      
-      "overall": "웅장한 배경에서 어깨 너머로 힐끗 보는 우아한 옆모습"
+  "prompt_data": {
+    "subject": {
+      "basics": "1girl, solo",
+      "demographics": "20대 아시아 여성 아이돌 스타일, 늘씬한 패션 모델 비율",
+      "hair": "매우 긴 생머리 검은색 머리카락, 풀뱅 앞머리",
+      "eyes": "크고 둥근, 강렬한 눈빛",
+      "skin": "티 없이 맑은 창백한 피부",
+      "expression": "귀여우면서도 유혹적인 표정으로 시청자를 바라봄"
     },
-    
-    "expression": {
-      "eyes": {
-        "color": "파란색 - 밝은 파란색, 인상적이고 맑음",
-        "direction": "카메라를 직접 응시",
-        "state": "부드럽고 차분하며 약간 강렬하고 몰입함",
-        "energy": "자신감 있지만 온화하고 아는 듯한 느낌"
+    "attire": {
+      "main_outfit": {
+        "item": "매혹적인 오피스 레이디 유니폼",
+        "details": [
+          "몸에 꼭 맞는 흰색 버튼업 셔츠",
+          "검은색 마이크로 미니스커트",
+          "매우 짧게 재단된 스커트 밑단",
+          "전문적이면서도 매혹적인 실루엣"
+        ],
+        "branding": "없음"
       },
-      "mouth": {
-        "lips": "도톰하고 자연스러운 분홍색, 부드러움",
-        "expression": "편안하고 중립적이며 부드러운 자연스러운 입술 내밈",
-        "state": "닫혀 있고 온화함"
-      },
-      "skin": {
-        "face": "하얗고 자연스러우며 맑고 촉촉함",
-        "makeup": "최소한/자연스러움 - 생기 있는 얼굴, 아마도 연한 립 메이크업"
-      },
-      "overall": "부드러운 자신감, 자연스러운 아름다움, 편집적인 차분함"
+      "legwear": [
+        "시스루 다크 블루 허벅지 위 스타킹",
+        "스타킹에 섬세한 꽃무늬 레이스 패턴",
+        "서스펜더가 달린 다크 블루 레이스 가터벨트"
+      ]
     },
-
-    "physical": {
-      "age": "20대 초반",
-      
-      "face": {
-        "structure": "모델 같은 이목구비, 뚜렷한 광대뼈, 부드러운 턱선",
-        "shape": "타원형, 균형 잡힘",
-        "skin": "하얗고 도자기 같으며 자연스럽고 건강함",
-        "makeup": "최소한 - 자연스럽고 신선하며 촉촉함"
-      },
-      
-      "body": {
-        "type": "날씬하고 여성스러우며 모델 비율",
-        "profile": "옆모습에서 보이는 우아한 곡선",
-        "w"
+    "accessories": {
+      "style": "고급스러운 골드 액세서리",
+      "items": [
+        "슬림한 골드 시계",
+        "루비 펜던트가 달린 섬세한 골드 체인 목걸이",
+        "긴 골드 체인 귀걸이"
+      ]
+    },
+    "pose_and_action": {
+      "posture": "사무실 책상 가장자리에 우아하게 앉아 있음",
+      "interaction": "다리를 우아하게 꼬고 있음"
+    },
+    "environment": {
+      "setting": "현대적인 고급 기업 사무실 내부",
+      "background_elements": "천장부터 바닥까지 이어지는 유리창 너머로 흐릿하게 보이는 도시 스카이라인, 세련된 사무용 가구"
+    },
+    "style_and_technical": [
+      "은은한 그림자",
+      "시네마틱 소프트 라이팅",
+      "매우 섬세한 얼굴과 눈",
+      "사실적인 재질",
+      "포토리얼리스틱",
+      "선명한 초점",
+      "8k",
+      "3:4"
+    ]
+  }
 }
 ```
 
@@ -6202,43 +5461,241 @@ NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149400727_h1s4c5_G_SSua9W4AAkYDj.jpg" width="600" alt="제품 마케팅 - 이탈리아 팔라초의 르네상스 회화 스타일 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236023824_aqdj6j_G_XXhabbAAE9SaU.jpg" width="600" alt="제품 마케팅 - 오피스 레이디 유니폼 에디토리얼 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Nilisty](https://x.com/nilisty)
-- **출처:** [Twitter Post](https://x.com/nilisty/status/2014396478815449327)
-- **게시일:** 2026년 1월 22일
+- **작성자:** [BeautyVerse](https://x.com/BeautyVerse_Lab)
+- **출처:** [Twitter Post](https://x.com/BeautyVerse_Lab/status/2014753385518661906)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7245)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7339)**
 
 ---
 
-### No. 87: 제품 마케팅 - Lovart 브랜드의 다단계 디자인 생성 프롬프트
+### No. 93: 제품 마케팅 - 초현실적인 럭셔리 바 에디토리얼 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+초고현실적인 럭셔리 바 에디토리얼 인물 사진 생성을 위한 고도로 구조화된 JSON 프롬프트입니다. 참조 이미지를 사용하여 엄격한 얼굴 동일성 잠금을 의무화하며, 고급 빈티지 칵테일 바의 바 스툴에 앉아 에메랄드 그린 새틴 이브닝 드레스를 입은 여성의 장면을 상세히 묘사합니다. 이 프롬프트는 따뜻한 앰버/텅스텐 조명, 4:5 화면 비율을 지정하고, 실제 피부 질감과 자연스러운 다이내믹 레인지를 강조하며, AI 광채 또는 리터칭을 명시적으로 금지합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "photoreal_bar_editorial_portrait",
+      "version": "v1.0_LUXURY_BAR_GREEN_SATIN_DRESS_NO_TEXT_EN",
+      "priority": "highest",
+      "language": "en"
+    },
+    "references": {
+      "reference_image_face": {
+        "source": "UPLOAD_REFERENCE_IMAGE (REQUIRED)",
+        "purpose": "FACE_IDENTITY_LOCK",
+        "strict_lock": true,
+        "face_similarity_priority": "MAX",
+        "no_identity_blending": true,
+        "no_beautify": true,
+        "no_age_shift": true,
+        "preserve_skin_texture": true,
+        "preserve_facial_proportions": true
+      },
+      "reference_image_style": {
+        "source": "UPLOAD_REFERENCE_IMAGE (OPTIONAL)",
+        "purpose": "STYLE_COMPOSITION_ANCHOR",
+        "strict_lock": false,
+        "preserve_lighting": true,
+        "preserve_palette": true,
+        "preserve_vibe": true
+      }
+    },
+    "global_constraints": {
+      "rating": "PG-13",
+      "no_explicit_sexual_content": true,
+      "no_nudity": true,
+      "no_text": true,
+      "no_logos": true,
+      "no_watermark": true
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution_target": "ultra_high_res",
+      "render_style": "ultra_photoreal_luxury_editorial",
+      "sharpness": "crisp_but_natural",
+      "film_grain": "very_subtle",
+      "color_grade": "warm_amber_bar_lighting",
+      "dynamic_range": "natural_not_hdr",
+      "skin_rendering": "real_texture_no_retouch"
+    },
+    "global_rules": {
+      "camera_language": "35-50mm editorial bar portrait, full-body seated, shallow DOF, face + satin texture priority",
+      "lighting_language": "warm amber/tungsten bar light, soft fill, satin highlights, no harsh flash",
+      "authenticity_markers": "no AI glow/HDR, real skin texture, correct hands, clean anatomy, ID must match"
+    },
+    "creative_prompt": {
+      "scene_summary": "동일한 성인 여성(얼굴 완벽 일치)의 포토리얼리즘 럭셔리 바 에디토리얼 인물 사진. 고급 빈티지 칵테일 바의 바 스툴에 앉아 있는 모습. 유리 선반 위에는 역광을 받는 병들(읽을 수 있는 라벨 없음), 따뜻한 나무와 대리석 바. 그녀는 {argument name=\"dress color\" default=\"emerald\"}/올리브 그린 새틴 이브닝 드레스를 입고 있으며, 세련된 네크라인과 높은 슬릿(과도한 노출 없음)이 있다. 다리를 꼬고 앉은 자세, 시크한 힐, 최소한의 장신구. 자신감 있고 매혹적인 시선. 텍스트 없음.",
+      "wardrobe_and_style": {
+        "outfit": "에메랄드/올리브 그린 새틴 이브닝 드레스, 몸에 맞는 보디스, 높은 슬릿, 우아한 드레이프",
+        "shoes": "뉴트럴 힐",
+        "accessories": "최소한의 반지, 섬세한 귀걸이",
+        "makeup": "글램 나이트 메이크업, 부드러운 스모키 아이, 누드 로즈 립",
+        "hair": "매끄러운 어두운 머리, 부드러운 앞머리"
+      },
+      "composition": {
+        "framing": "전신 착석 4:5, 얼굴 선명, 새틴 주름 보임, 배경 부드럽게 흐림",
+        "background": "럭셔리 바 선반, 병/유리잔, 간판 없음"
+      }
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769235992196_x3isgl_G_XWeAGWMAEanwo.jpg" width="600" alt="제품 마케팅 - 초현실적인 럭셔리 바 에디토리얼 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Özge Döner](https://x.com/astronomerozge1)
+- **출처:** [Twitter Post](https://x.com/astronomerozge1/status/2014752227303330027)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7296)**
+
+---
+
+### No. 94: 전자상거래 메인 이미지 - 버블티 캔 스튜디오 제품 사진 프롬프트 (복제)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+BOBAco Popping Bubble Tea 캔 음료의 프리미엄 상업 스튜디오 제품 사진 생성을 위해 설계된 상세 JSON 프롬프트입니다. 이 프롬프트는 파스텔 핑크 배경, 부드러운 확산 조명, 얕은 피사계 심도를 특징으로 하는 깔끔하고 미니멀한 미학을 지정하며, 응결 및 신선한 라즈베리 장식과 같은 극사실적인 디테일에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "scene": {
+    "type": "스튜디오 제품 사진",
+    "background": {
+      "color": "{argument name=\"background color\" default=\"pastel pink\"}",
+      "surface": "매끄러운"
+    },
+    "lighting": {
+      "key": "부드러운 확산광",
+      "rim": "은은한"
+    },
+    "camera": {
+      "lens": "85mm",
+      "depth_of_field": "얕은"
+    }
+  },
+  "subject": {
+    "type": "음료 캔",
+    "brand": "{argument name=\"brand name\" default=\"BOBAco Popping Bubble Tea\"}",
+    "color": "흰색",
+    "position": "중앙",
+    "details": {
+      "condensation": true,
+      "focus": "라벨"
+    },
+    "garnish": {
+      "main": {
+        "type": "라즈베리",
+        "position": "캔 테두리 위"
+      },
+      "foreground": {
+        "type": "라즈베리",
+        "quantity": "여러 개",
+        "ripeness": "잘 익은"
+      }
+    }
+  },
+  "style": {
+    "aesthetic": "깔끔하고 미니멀한",
+    "photography": "프리미엄 상업용 음료",
+    "post_processing": "고급 리터칭",
+    "text": false,
+    "watermark": false
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236008629_0cmhs1_G_WHO2MaAAAIvDX.jpg" width="600" alt="전자상거래 메인 이미지 - 버블티 캔 스튜디오 제품 사진 프롬프트 (복제) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Sharon Riley](https://x.com/Just_sharon7)
+- **출처:** [Twitter Post](https://x.com/Just_sharon7/status/2014665115883471125)
+- **게시일:** 2026년 1월 23일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7315)**
+
+---
+
+### No. 95: 전자상거래 메인 이미지 - Flagship 브랜드 아이덴티티 목업 (Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-디자인 에이전트 'Lovart'(Nano Banana Pro와 통합될 가능성 있음)를 활용하여 로고부터 디자인 가이드라인, UI, 웹사이트, 전시 부스, 상품에 이르기까지 완전한 브랜드 아이덴티티를 생성하는 포괄적인 다단계 워크플로우입니다. 이는 디자인 생성에 대한 체계적인 접근 방식을 보여줍니다.
+주력 브랜드 생태계(Lovart)의 포괄적인 플랫 레이 목업을 생성하기 위한 Nano Banana Pro용으로 고도로 구조화되고 상세한 프롬프트. 여기에는 포장, 식사 필수품, 직원 유니폼 및 상품이 포함되며, 특정 일본 크리스마스/미니멀리즘 시각 테마를 사용합니다.
 
 #### 📝 프롬프트
 
 ```
-회사명 "{argument name="company name" default="Lovart"}" 로고 마크 (기본 색상 그라데이션: 생동감 있는 {argument name="color 1" default="emerald green"} 및 생동감 있는 {argument name="color 2" default="blue"})
-
-이 로고 마크를 활용한 색상 팔레트 및 폰트 디자인 가이드라인 생성
-
-이 서비스의 애플리케이션 UI 디자인 생성 (PC 버전 및 스마트폰 버전)
-
-이 서비스를 소개하는 웹사이트 디자인 (PC 버전 및 스마트폰 버전)
-
-이 서비스의 전시 부스 디자인 이미지
-
-이 서비스의 굿즈 디자인 (티셔츠, 후드티, 모자, 노트북, 스티커)
+“task_description”:
+“모든 카테고리를 지원하는 플래그십 수준의 브랜드 아이덴티티 목업 생성”
+“prompt_structure”: {
+“subject”:
+“대규모의 초고화질 브랜드 생태계 플랫 레이”
+“brand_info”: {
+“{argument name="brand name" default="Lovart"}”,
+“visual_theme”: “{argument name="visual theme" default="일본 크리스마스, 미니멀리즘, 따뜻한 톤"}”
+},
+“item_categories”: {
+“packaging”: "쇼핑백 (S/M/L), 케이크 상자, 커피 원두 파우치, 샌드위치 웨지 상자, 페이스트리 상자",
+“dining_essentials”: "슬리브 커피 컵, 종이 냅킨, 설탕 봉지, 트레이 라이너 페이퍼, 메뉴판",
+“staff_uniform”: "접힌 녹색 앞치마, 자수 야구 모자, 직원 명찰",
+“merchandise”: "캔버스 토트백, 세라믹 머그컵, 브랜드 노트, 볼펜"
+},
+“visual_style”: {
+“art_style”: “사실적인 텍스처 매핑을 사용한 깔끔한 벡터 목업”,
+“color_palette”: "포레스트 그린 (메인), 무광 화이트 (서브), 크래프트 종이 브라운 (텍스처), 베이지 (악센트)",
+“logo_style”: “미니멀한 라인 아트 사슴 로고”
+},
+“composition”: {“type”: “밀집된, 겹치지 않는 배열”,
+“background”: “단색 다크 차콜 (#1A1A1A)”,
+“perspective”: “90도 탑다운 (정사영 뷰)”}
+“negative_prompt”:“어수선한, 지저분한, 겹치는, 3D 원근 왜곡, 과도한 사실적 반사, 유광 플라스틱, 네온 색상, 사람 손, 워터마크, 저해상도”
+“generation_params”: {
+“aspect_ratio”: “3:4”,
+“detail_level”: “높음”,
+“texture_quality”: “프리미엄”}
 ```
 
 #### 🖼️ 생성된 이미지
@@ -6246,122 +5703,41 @@ NanoBanana Pro에서 만화 패널을 생성할 때 올바른 읽기 순서, 언
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149373823_avjhxj_G_QiCWtawAAkGgW.jpg" width="600" alt="제품 마케팅 - Lovart 브랜드의 다단계 디자인 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769236034649_tx34lj_G_VgYm5bEAAKtxW.jpg" width="600" alt="전자상거래 메인 이미지 - Flagship 브랜드 아이덴티티 목업 (Nano Banana Pro) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769236034854_whekav_G_Vnq6bbAAgL_Ru.jpg" width="600" alt="전자상거래 메인 이미지 - Flagship 브랜드 아이덴티티 목업 (Nano Banana Pro) - Image 2">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [KAWAI](https://x.com/kawai_design)
-- **출처:** [Twitter Post](https://x.com/kawai_design/status/2014272630833226237)
-- **게시일:** 2026년 1월 22일
+- **작성자:** [Lovart 公式 (ラブアート)](https://x.com/lovart_jp)
+- **출처:** [Twitter Post](https://x.com/lovart_jp/status/2014639253016449173)
+- **게시일:** 2026년 1월 23일
 - **언어:** ja
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7199)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7357)**
 
 ---
 
-### No. 88: 제품 마케팅 - 아이덴티티 잠금 기능이 있는 시네마틱 야간 거리 셀카 프롬프트
+### No. 96: 전자상거래 메인 이미지 - 제로-그래비티 제품 비디오 프롬프트 (스트로베리 소다)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬프트로, '패션 화보 범죄 미학'이 가미된 초현실적인 시네마틱 야간 거리 셀카를 생성하도록 설계되었습니다. 이 프롬프트는 업로드된 얼굴 레퍼런스를 사용하여 엄격한 신원 보존을 의무화하며, 고속 추격 중 자동차 창문 밖으로 몸을 내민 여성을 묘사하고 역동적인 조명(사이렌, 가로등)과 모션 블러를 강조합니다.
+딸기 소다 캔이 등장하는 초현실적인 무중력 제품 비디오를 생성하기 위한 프롬프트입니다. 부드러운 빨간색-분홍색 스튜디오 공간을 배경으로 캔, 딸기, 얼음 조각, 액체가 모두 천천히 떠다니며, 제품 촬영을 위한 무중력 우주 미학을 강조합니다.
 
 #### 📝 프롬프트
 
 ```
-{
-  "type": "image_generation_prompt",
-  "style": "초현실적인 시네마틱 야간 거리 셀카, 패션 에디토리얼 범죄 미학",
-  "identity_lock": {
-    "use_uploaded_face_only": true,
-    "strict_identity_preservation": true,
-    "notes": "얼굴 구조, 비율, 고유한 특징에 변화 없이 원래 얼굴의 정체성을 100% 보존합니다. 얼굴 잠금."
-  },
-  "subject": {
-    "gender": "여성",
-    "pose": {
-      "description": "고속 탈출 중인 차창 밖으로 몸을 내밀고 있는 모습",
-      "arm_position": "한쪽 팔을 카메라 쪽으로 완전히 뻗어 휴대폰을 들고 있음",
-      "head_position": "머리를 살짝 뒤로 젖힘",
-      "gesture": "도발적이고 장난스러운",
-      "attitude": "두려움 없고, 자신감 넘치며, 반항적인"
-    },
-    "face_and_skin": {
-      "skin_quality": "매끄럽고 빛나는",
-      "details": [
-        "모공이 보이는 사실적인 피부 질감",
-        "윤기 나는 가로등 하이라이트",
-        "부드럽게 조각된 광대뼈",
-        "살짝 벌어진 윤기 나는 입술"
-      ],
-      "eyes": "좁은 검은색 직사각형 선글라스 뒤에 부분적으로 가려진 표현력 있는 눈"
-    },
-    "hair": {
-      "style": "속도와 밤공기에 의해 바람에 날리는",
-      "movement": "역동적이고 자연스럽게 흐르는"
-    },
-    "outfit_and_accessories": {
-      "outerwear": "어깨에 고급스럽게 걸쳐진 네이비 블루 블레이저 코트",
-      "top": "흰색 티셔츠",
-      "jewelry": "최소한의 은반지",
-      "prop": "{argument name=\"prop\" default=\"Costa Coffee\"} 컵을 손에 들고 있음"
-    }
-  },
-  "environment": {
-    "setting": "비 오는 밤 도시 거리",
-    "ground": "길고 반사되는 줄무늬가 있는 젖은 아스팔트",
-    "background_action": [
-      "뒤쫓는 경찰차",
-      "번쩍이는 빨간색과 파란색 사이렌",
-      "흐릿한 헤드라이트",
-      "시네마틱 도시의 깊이감"
-    ],
-    "visual_effects": [
-      "극적인 모션 블러",
-      "황금빛 가로등 보케 원",
-      "경찰 조명 플레어",
-      "비에 젖은 도로를 가로지르는 반사"
-    ]
-  },
-  "lighting": {
-    "sources": [
-      "따뜻한 나트륨 가로등",
-      "차가운 파란색 경찰 조명",
-      "빨간색 사이렌 플래시"
-    ],
-    "style": "고대비",
-    "effects": [
-      "피부에 윤기 나는 반사",
-      "자동차 유리 및 차체에 반사",
-      "젖은 거리에 반사"
-    ]
-  },
-  "mood": {
-    "vibe": "반항적이고, 장난스럽고, 화려한 혼돈",
-    "energy": "아드레날린이 넘치는 밤문화",
-    "tone": "현대적인 럭셔리 도피"
-  },
-  "camera_and_style": {
-    "perspective": "광각 스마트폰 셀카",
-    "depth_of_field": "얕은",
-    "motion_effects": "강한 배경 모션 블러 및 빛줄기",
-    "image_quality": [
-      "초고화질",
-      "사실적인 필름 그레인",
-      "시네마틱 색상 보정"
-    ]
-  },
-  "constraints": [
-    "얼굴 정체성 변경 금지",
-    "얼굴 비율 변경 금지",
-    "AI 스타일화된 얼굴 금지",
-    "만화 또는 CGI 느낌 금지"
-  ],
-  "output_goal": "자신감 있는 여성의 초현실적인 시네마틱 야간 거리 셀카를 만듭니다."
-}
+부드러운 적분홍색 스튜디오 공간에 떠 있는 딸기 소다 캔을 담은 초현실적인 무중력 제품 영상.
+
+장면 1 — 우주 부유 인트로:
+소다 캔이 공중에 살짝 기울어진 채 떠 있으며, 중력은 보이지 않습니다. 주변에는 딸기, 얼음 조각, 흐르는 붉은 액체가 마치 우주 공간처럼 모두 천천히 떠다닙니다. 어떤 물체도 떨어지지 않고, 모든 것이 다른 방향으로 부드럽게 떠다닙니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -6369,21 +5745,21 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1769149383502_gv187y_G_PDz5saEAAoL96.jpg" width="600" alt="제품 마케팅 - 아이덴티티 잠금 기능이 있는 시네마틱 야간 거리 셀카 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235995156_76im06_G_U0e55a4AAMRZK.jpg" width="600" alt="전자상거래 메인 이미지 - 제로-그래비티 제품 비디오 프롬프트 (스트로베리 소다) - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **출처:** [Twitter Post](https://x.com/saniaspeaks_/status/2014168771741855965)
-- **게시일:** 2026년 1월 22일
+- **작성자:** [Nano banana pro🍌](https://x.com/Vishnudxe)
+- **출처:** [Twitter Post](https://x.com/Vishnudxe/status/2014574116767256988)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7217)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7299)**
 
 ---
 
-### No. 89: 전자상거래 메인 이미지 - Nano Banana Pro를 사용하여 프리미엄 비주얼을 위한 프롬프트 작성하기
+### No. 97: 전자상거래 메인 이미지 - Nano Banana Pro를 사용하여 프리미엄 비주얼을 위한 프롬프트 작성하기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6429,7 +5805,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 90: 전자상거래 메인 이미지 - 극사실주의 소다 캔 제품 광고 프롬프트
+### No. 98: 전자상거래 메인 이미지 - 극사실주의 소다 캔 제품 광고 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6483,7 +5859,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 91: 전자상거래 메인 이미지 - 이미지를 음료 목업으로 변환
+### No. 99: 전자상거래 메인 이미지 - 이미지를 음료 목업으로 변환
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6535,7 +5911,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 92: 전자상거래 메인 이미지 - 'PILLow' 수면제를 위한 초현실적인 컨셉 제품 광고
+### No. 100: 전자상거래 메인 이미지 - 'PILLow' 수면제를 위한 초현실적인 컨셉 제품 광고
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6582,7 +5958,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 93: 전자상거래 메인 이미지 - 추상적인 중국 풍경 미니어처 프롬프트
+### No. 101: 전자상거래 메인 이미지 - 추상적인 중국 풍경 미니어처 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -6633,7 +6009,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 94: 전자상거래 메인 이미지 - 초현실적인 초콜릿 바 광고 프롬프트
+### No. 102: 전자상거래 메인 이미지 - 초현실적인 초콜릿 바 광고 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6673,7 +6049,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 95: 전자상거래 메인 이미지 - 미니멀리스트 익스플로디드 뷰 상업용 음식 사진
+### No. 103: 전자상거래 메인 이미지 - 미니멀리스트 익스플로디드 뷰 상업용 음식 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6746,7 +6122,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 96: 전자상거래 메인 이미지 - 니트 얀 오브젝트 생성 프롬프트
+### No. 104: 전자상거래 메인 이미지 - 니트 얀 오브젝트 생성 프롬프트
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6800,7 +6176,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 97: 전자상거래 메인 이미지 - 체리 소다 광고 스플래시 매크로 샷
+### No. 105: 전자상거래 메인 이미지 - 체리 소다 광고 스플래시 매크로 샷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6875,7 +6251,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 98: 전자상거래 메인 이미지 - 고화질 프랄린 음식 사진
+### No. 106: 전자상거래 메인 이미지 - 고화질 프랄린 음식 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6909,158 +6285,88 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 99: 전자상거래 메인 이미지 - 스킨케어 제품 키 비주얼 생성기
+### No. 107: 게임 에셋 - 베놈 같은 심비오트가 등장하는 다크 SF 액션 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-초현실적인 프리미엄 스킨케어 제품의 키 비주얼을 생성하기 위한 맞춤형 프롬프트 템플릿입니다. 제품, 배경색, 주요 성분에 대한 플레이스홀더를 사용하며, 깨끗한 스튜디오 조명, 선명한 반사, 떠다니는 요소(식물, 젤 소용돌이, 물방울)에 중점을 두어 고급 상업적 미학을 구현합니다.
-
-#### 📝 프롬프트
-
-```
-대담한 {argument name="background color 1" default="BG_COLOR_1"}→{argument name="background color 2" default="BG_COLOR_2"} 그라데이션, 현대적인 스튜디오 조명, 선명한 반사 + 부드러운 그림자 위에 {argument name="product type" default="FACEWASH_PACKAGING"}를 중앙에 배치. 라벨 텍스트는 완벽하게 읽을 수 있어야 함: "{argument name="brand name" default="BRAND"} {argument name="product name" default="PRODUCT_NAME"}"만 표시. 균형 잡힌 링 레이아웃으로 떠다니는 KEY_INGREDIENT_1, KEY_INGREDIENT_2, BOTANICAL로 둘러싸고, 광택 있는 젤/폼 리본 소용돌이(부드러운 루프), 미세한 물방울 + 가벼운 안개를 추가. 초고선명 초점, 얕은 피사계 심도, 85mm, HDR, ISO100, 깔끔한 여백, 지저분함 없음, 워터마크 없음. 출력 {ASPECT} (1:1/4:5/9:16).
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669960_389lzs_G_A1y5CXIAANTX2.jpg" width="600" alt="전자상거래 메인 이미지 - 스킨케어 제품 키 비주얼 생성기 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890669812_67410t_G_A1zAVX0AAJa21.jpg" width="600" alt="전자상거래 메인 이미지 - 스킨케어 제품 키 비주얼 생성기 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890670260_lu04jb_G_A1y1wWgAAyNDH.jpg" width="600" alt="전자상거래 메인 이미지 - 스킨케어 제품 키 비주얼 생성기 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890671110_l4u0yi_G_A1zA8XQAAPvm1.jpg" width="600" alt="전자상거래 메인 이미지 - 스킨케어 제품 키 비주얼 생성기 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [TheAIHeadquarters](https://x.com/DavisonDabiri)
-- **출처:** [Twitter Post](https://x.com/DavisonDabiri/status/2013168193196449941)
-- **게시일:** 2026년 1월 19일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6744)**
-
----
-
-### No. 100: 전자상거래 메인 이미지 - 8K 시네마틱 제품 사진 (향수)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-향수병의 8K 시네마틱 제품 사진 생성을 위한 매우 상세하고 모듈화된 프롬프트입니다. 숲 테마 병과 물 튀김 장면을 위한 두 가지 개별 모듈이 포함되어 있으며, 조명, 재료 및 극도의 미세 디테일을 지정합니다.
+어둡고 산업적인 창고에서 초현실적인 16K 시네마틱 액션 장면을 생성하기 위한 매우 상세한 JSON 프롬프트. 이 프롬프트는 역동적인 액션 포즈를 취한 젊은 여성(신원 잠금 활성화)에 초점을 맞추며, 그녀의 등에서 폭력적이고 윤기 나는 검은색 베놈(Venom) 같은 외계 심비오트가 터져 나오는 모습을 강조하고, 높은 대비, 따뜻한 림 라이팅, 극적인 로우 앵글 프레이밍을 부각합니다.
 
 #### 📝 프롬프트
 
 ```
 {
-  "global_settings": {
-    "resolution": "8K",
-    "aspect_ratio": "3:4",
-    "style": "실사 영화 같은 제품 사진",
-    "detail_level": "극미세 디테일",
-    "sharpness": "초고선명",
-    "noise": "없음",
-    "compression_artifacts": "없음",
-    "color_depth": "풍부한 16비트 색상",
-    "render_quality": "고급 상업용 등급",
-    "ai_finish": "깔끔한 AI 향상 리얼리즘"
+  "identity_lock": {
+    "reference_image": "uploaded_reference_image",
+    "face_editing": "disabled",
+    "preserve_facial_features": true,
+    "preserve_proportions": true
   },
-
-  "module_1": {
-    "scene_identity": "숲_녹색_향수",
-    "environment": {
-      "setting": "울창한 숲 분위기",
-      "background": "깊이감이 있는 부드럽게 흐릿한 녹색 나뭇잎",
-      "foreground": "흙, 이끼, 작은 잔해물이 있는 자연스러운 숲 바닥",
-      "props": [
-        "평평한 자연석 받침대",
-        "병 뒤쪽에 약간 비스듬히 놓인 불규칙한 바위",
-        "오른쪽에 바늘이 보이는 소나무 가지"
-      ],
-      "atmosphere": "병 뒤에서 피어오르는 부드럽게 떠다니는 연기 또는 안개"
-    },
-    "product": {
-      "object_type": "향수병",
-      "material": "골이 있는 반투명 유리",
-      "color": "짙은 에메랄드 그린 액체",
-      "shape": "수직 홈이 있는 원통형",
-      "cap": {
-        "material": "금속",
-        "finish": "광택 나는 금색",
-        "shape": "매끄러운 원통형"
-      },
-      "label": "브랜딩 텍스트 없음"
-    },
-    "lighting": {
-      "key_light": "전면 왼쪽에서 오는 부드럽게 확산된 자연광",
-      "fill_light": "은은한 주변 숲 조명",
-      "highlights": "유리 골과 금색 캡에 부드러운 하이라이트",
-      "shadows": "병과 바위 아래의 부드럽고 사실적인 그림자"
-    },
-    "camera": {
-      "angle": "아이 레벨 제품 앵글",
-      "focus": "병에 선명한 초점, 얕은 피사계 심도",
-      "lens_effect": "자연스러운 보케 배경"
-    },
-    "mood": "신선함, 우디함, 평온함, 고급스러움, 자연에서 영감받음"
+  "scene": {
+    "description": "초현실적인 시네마틱 액션 장면",
+    "resolution": "16K",
+    "style": "할리우드 액션 영화 포스터",
+    "genre": "어두운 SF 액션"
   },
-
-  "module_2": {
-    "scene_identity": "파란색_물_튀김_향수",
-    "environment": {
-      "setting": "어두운 수중 스튜디오 장면",
-      "background": "짙은 남색에서 검은색으로 그라데이션",
-      "surface": "반사 하이라이트가 있는 물결치는 수면",
-      "motion_elements": [
-        "병 뒤의 큰 위쪽 물 튀김",
-        "공중에 떠 있는 물방울"
-      ],
-      "props": [
-        "레몬 슬라이스 (노란색 과육 보임)",
-        "녹색 감귤 슬라이스",
-        "작은 붉은 베리",
-        "녹색 허브 가지"
-      ]
+  "subject": {
+    "person": "참조 이미지와 동일한 젊은 여성",
+    "pose": {
+      "stance": "역동적인 액션",
+      "body_position": "약간 앞으로 웅크린 자세",
+      "legs": "한쪽 무릎을 구부린",
+      "hands": {
+        "left_hand": "땅에 짚은",
+        "right_hand": "바깥쪽으로 뻗은"
+      }
     },
-    "product": {
-      "object_type": "향수병",
-      "material": "불투명 유리",
-      "color": "짙은 미드나잇 블루",
-      "shape": "날카로운 모서리가 있는 직사각형",
-      "cap": {
-        "material": "동일한 어두운 유리",
-        "shape": "원통형"
-      },
-      "text_visible": [
-        "BLEU DE CHANEL",
-        "EAU DE PARFUM"
-      ]
-    },
+    "expression": "집중적이고 강렬한",
+    "motion": "액션 중간, 도약하거나 공격하려는 자세"
+  },
+  "symbiote": {
+    "type": "{argument name=\"symbiote type\" default=\"Venom-like alien symbiote\"}",
+    "origin": "등에서 터져 나오는",
+    "features": [
+      "크고 위협적인 촉수",
+      "어깨 위로 공격적으로 으르렁거리는 얼굴"
+    ],
+    "material": "광택 있는 검은색 유기체 질감",
+    "behavior": "격렬한 팽창과 움직임"
+  },
+  "environment": {
+    "location": "어두운 산업 창고",
+    "atmosphere": [
+      "안개 낀",
+      "연기로 가득 찬",
+      "떠다니는 먼지 입자"
+    ],
     "lighting": {
-      "key_light": "상단 전면에서 오는 강한 지향성 조명",
-      "rim_light": "물 튀김에 시원한 하이라이트",
-      "reflections": "반사 하이라이트"
+      "primary": "안개를 가르는 날카로운 시네마틱 광선",
+      "highlights": "피사체와 심비오트에 따뜻한 림 라이팅"
     }
+  },
+  "camera": {
+    "angle": "로우 앵글",
+    "tilt": "약간 기울어진",
+    "lens": "시네마틱 와이드 렌즈",
+    "depth_of_field": "얕은",
+    "motion_blur": "미묘한 방향성 블러"
+  },
+  "post_processing": {
+    "effects": [
+      "렌즈 플레어",
+      "따뜻한 하이라이트",
+      "시네마틱 색 보정",
+      "미묘한 필름 그레인"
+    ],
+    "contrast": "높음",
+    "sharpness": "초고화질"
+  },
+  "mood": {
+    "energy": "고강도",
+    "tone": "어둡고, 강력하며, 공격적인",
+    "cinematic_feel": "웅장하고 극적인"
   }
 }
 ```
@@ -7070,293 +6376,21 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638679_0rbo6y_G_Auiz5WgAEqfUY.jpg" width="600" alt="전자상거래 메인 이미지 - 8K 시네마틱 제품 사진 (향수) - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890639096_qd2s06_G_AuizDWQAA9keU.jpg" width="600" alt="전자상거래 메인 이미지 - 8K 시네마틱 제품 사진 (향수) - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890638950_22nc5e_G_Aui3fXEAENHXC.jpg" width="600" alt="전자상거래 메인 이미지 - 8K 시네마틱 제품 사진 (향수) - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890640110_sd69rb_G_Aui9WWwAANyRn.jpg" width="600" alt="전자상거래 메인 이미지 - 8K 시네마틱 제품 사진 (향수) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235965535_jrzyig_G_XKm0ZbIAAcxlL.jpg" width="600" alt="게임 에셋 - 베놈 같은 심비오트가 등장하는 다크 SF 액션 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **출처:** [Twitter Post](https://x.com/meng_dagg695/status/2013160227835933059)
-- **게시일:** 2026년 1월 19일
+- **작성자:** [Sharon Riley](https://x.com/Just_sharon7)
+- **출처:** [Twitter Post](https://x.com/Just_sharon7/status/2014739187241800019)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6696)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7260)**
 
 ---
 
-### No. 101: 전자상거래 메인 이미지 - 스마트 초인종 제품 시각화 콜라주 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-스마트 초인종을 위한 다중 프레임 상업 시각화 콜라주를 생성하도록 설계된 Nano Banana Pro용 상세 구조화 프롬프트입니다. 이 프롬프트는 제품 기능, 9가지 고유 프레임(Hero Shot, Close Up, Brand Environment, In Use, Isometric Grid, Levitating, Detail Extreme, Editorial Unexpected, Wide Use Scenario)을 지정하고 색상 팔레트 및 분위기와 같은 카메라 스타일 매개변수를 설정합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "ProductReference": "{argument name=\"Product Features\" default=\"얼굴 인식, 양방향 오디오, 야간 투시, 움직임 감지, 방수 기능, 세련된 디자인, 앱 제어 기능을 갖춘 스마트 초인종\"}",
-  "Frame1_HeroShot": {
-    "Product": "현관에 설치된 초인종, 렌즈 중앙",
-    "Background": "모던한 현관의 매끄러운 회색 배경"
-  },
-  "Frame2_CloseUp": {
-    "Focus": "카메라 렌즈 선명도, 마이크 그릴, 버튼 메커니즘, 날씨 밀봉, LED 표시등, 장착 브래킷"
-  },
-  "Frame3_BrandEnvironment": {
-    "Setting": "스마트 홈 현관 미학, 현대적인 보안",
-    "Props": {
-      "Background": "현관문 질감",
-      "Surface": "현관 영역"
-    }
-  },
-  "Frame4_InUse": {
-    "Interaction": "집주인이 휴대폰으로 알림을 받고 양방향 대화 제스처를 취함",
-    "Styling": "스마트 홈 보안 상호 작용"
-  },
-  "Frame5_IsometricGrid": {
-    "Count": "앱 인터페이스가 표시된 초인종",
-    "Arrangement": "스마트 출입 시스템 구성"
-  },
-  "Frame6_Levitating": {
-    "Concept": "보안 구역 시각화와 함께 떠 있는 초인종"
-  },
-  "Frame7_DetailExtreme": {
-    "Focus": "얼굴 인식 센서, 마이크 품질, 스피커 출력, 배터리 백업, WiFi 안테나, 움직임 센서 범위"
-  },
-  "Frame8_EditorialUnexpected": {
-    "Concept": "집 지킴이로서의 초인종, 보안 네트워크 시각화",
-    "Materials": "스마트 보안 생태계"
-  },
-  "Frame9_WideUseScenario": {
-    "Location": "보안 기능이 완비된 완벽한 스마트 홈 현관",
-    "Props": ["스마트 잠금장치", "현관 조명", "현관 매트", "화분", "문 하드웨어", "보안 카메라"]
-  },
-  "CameraStyle": {
-    "ColorPalette": "초인종 검정색, 카메라 렌즈 파란색, LED 조명, 문 색상",
-    "Mood": "스마트 보안, 현관, 현대적인 편리함"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768890714990_8c7kb2_G_ATVFcXAAAsNMj.jpg" width="600" alt="전자상거래 메인 이미지 - 스마트 초인종 제품 시각화 콜라주 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [松果先森](https://x.com/songguoxiansen)
-- **출처:** [Twitter Post](https://x.com/songguoxiansen/status/2013130384897421728)
-- **게시일:** 2026년 1월 19일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6812)**
-
----
-
-### No. 102: 전자상거래 메인 이미지 - 투명 레이어드 유리 슈퍼카 조각 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-슈퍼카의 사실적인 레이 트레이싱 이미지를 생성하기 위한 고도로 기술적인 JSON 프롬프트입니다. 이 자동차는 겹겹이 쌓인 광학 등급 아크릴 유리로 만들어진 위상학적으로 슬라이스된 조각품으로 렌더링되며, 내부 기계적 세부 사항이 보입니다. 이 프롬프트는 칠흑 같은 배경에 대비되는 조명(림 라이팅, 내부 발광, 코스틱)을 강조하여 분해된 듯한 미학을 연출합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "prompt_configuration": {
-    "parameters": {
-      "car_model": "{argument name=\"car model\" default=\"SUPERCAR MODEL\"}",
-      "material_color": "{argument name=\"material color\" default=\"warm amber and deep orange\"}"
-    },
-    "aspect_ratio": "16:9",
-    "viewpoint": "front 3/4 angle, full vehicle visibility"
-  },
-  "prompt_payload": {
-    "subject_definition": {
-      "core_subject": "{car_model}",
-      "representation_style": "위상학적 슬라이스 조각, 평행하게 쌓인 반투명 재료 시트로 구성"
-    },
-    "material_physics": {
-      "medium": "적층된 광학 등급 아크릴 유리",
-      "texture": "레이저 컷 엣지, 체적 투명도, 서브서피스 스캐터링",
-      "color_palette": "반투명 {material_color} 그라데이션, 빛나는 내부 굴절"
-    },
-    "technical_details": {
-      "structure": "리브형 층상 구조, 단면 평면, 레이어를 통해 보이는 내부 기계적 세부 사항 (엔진 블록, 서스펜션, 변속기)",
-      "fidelity": "초고화질, CAD 같은 정밀도, 분해된 듯한 미학이지만 조립된 상태"
-    },
-    "lighting_and_atmosphere": {
-      "environment": "칠흑 같은 공허한 배경, 무한한 어두운 스튜디오",
-      "lighting_setup": "유리 엣지를 포착하는 림 라이팅, 내부 체적 발광, 코스틱, 영화 같은 고대비"
-    },
-    "rendering_engine": {
-      "style": "Octane Render, 레이트레이싱, 8k 해상도, 사실적인 재료 특성, 매크로 사진 심도"
-    }
-  },
-  "negative_prompt": [
-    "단단한 금속 몸체",
-    "불투명한 페인트",
-    "만화",
-    "일러스트레이션",
-    "왜곡된 바퀴",
-    "잘린 프레임",
-    "햇빛",
-    "사진작가의 반사"
-  ]
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263037_da8uj6_G--zMlXXYAEyetJ.jpg" width="600" alt="전자상거래 메인 이미지 - 투명 레이어드 유리 슈퍼카 조각 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263002_8omzrs_G--zMqUWEAADVF1.jpg" width="600" alt="전자상거래 메인 이미지 - 투명 레이어드 유리 슈퍼카 조각 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804263805_3sf4w4_G--zMlfXMAAav79.jpg" width="600" alt="전자상거래 메인 이미지 - 투명 레이어드 유리 슈퍼카 조각 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804264278_z57ws5_G--zMiCW8AAx8Ze.jpg" width="600" alt="전자상거래 메인 이미지 - 투명 레이어드 유리 슈퍼카 조각 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Lloyd Creates](https://x.com/lloydcreates)
-- **출처:** [Twitter Post](https://x.com/lloydcreates/status/2013024593246568485)
-- **게시일:** 2026년 1월 18일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6587)**
-
----
-
-### No. 103: 전자상거래 메인 이미지 - 고급 제품 히어로 샷 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-고급 제품 히어로 샷을 만들어 보세요. 제품 상세 정보를 제공해 주시면 됩니다.
-
-#### 📝 프롬프트
-
-```
-이 프롬프트를 사용해 럭셔리 제품 히어로 샷을 만들어 보세요 👇
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205123_px1nxv_G-9TgfNbgAA8ntT.jpg" width="600" alt="전자상거래 메인 이미지 - 고급 제품 히어로 샷 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Amira Zairi](https://x.com/azed_ai)
-- **출처:** [Twitter Post](https://x.com/azed_ai/status/2012919379575570766)
-- **게시일:** 2026년 1월 18일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6508)**
-
----
-
-### No. 104: 전자상거래 메인 이미지 - 코지 니트 산업 디자인 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-이 프롬프트는 스칸디나비아의 휘게 미학과 산업 디자인을 접목하여, 어떤 특정 사물이든 마치 굵은 양모 실로 손뜨개한 것처럼 묘사하도록 설계되었습니다. 눈에 띄는 스티치, 케이블 니트 패턴, 따뜻한 조명, 그리고 실의 부드러운 질감을 강조하는 초고해상도에 중점을 둡니다.
-
-#### 📝 프롬프트
-
-```
-두툼한 울 실로 완전히 손뜨개한 것처럼 보이는 {argument name="object" default="[OBJECT]"}는 부드러운 공예품임에도 불구하고 믿을 수 없을 정도로 기능적으로 보입니다. 눈에 띄는 스티치, 그립 부분의 케이블 니트 패턴, 유연성이 필요한 부분의 골지, 깔끔하게 정리된 실 끝이 특징입니다. 아늑한 라이프스타일 배경 또는 깨끗한 울 질감 스튜디오에 배치되어 있습니다. 스칸디나비아의 휘게(hygge)와 산업 디자인이 만났습니다. 따뜻하고 부드러운 조명이 실의 질감, 수공예 품질, 기계의 터무니없는 아늑함을 강조합니다. 스티치 디테일에 대한 선명한 초점, 따뜻하고 채도 높은 섬유 색상, 라이프스타일 제품 미학, 초고해상도, 단단함을 부드럽게 표현했습니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224845_ln7rbo_G-7ORciXsAAtAR7.jpg" width="600" alt="전자상거래 메인 이미지 - 코지 니트 산업 디자인 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224837_cp3qvl_G-7OWw3XUAAzd1l.jpg" width="600" alt="전자상거래 메인 이미지 - 코지 니트 산업 디자인 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804224863_8ssifo_G-7Ogj5XgAAlFtT.jpg" width="600" alt="전자상거래 메인 이미지 - 코지 니트 산업 디자인 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804226001_g1x8cv_G-7OpVTWwAAYDCQ.jpg" width="600" alt="전자상거래 메인 이미지 - 코지 니트 산업 디자인 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Alexandra Aisling](https://x.com/AllaAisling)
-- **출처:** [Twitter Post](https://x.com/AllaAisling/status/2012909092210381048)
-- **게시일:** 2026년 1월 18일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6537)**
-
----
-
-### No. 105: 게임 에셋 - 초고화질 3D 스타일 캐릭터 디자인 프롬프트
+### No. 108: 게임 에셋 - 초고화질 3D 스타일 캐릭터 디자인 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7393,7 +6427,40 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 106: 게임 에셋 - 금속 피부를 가진 영화 같은 판타지 실루엣 아트 프롬프트
+### No. 109: 게임 에셋 - 픽사 스타일 3D 아바타 생성 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 이미지를 기반으로 고품질 3D 아바타를 생성하는 프롬프트입니다. 따뜻한 미소와 부드러운 이목구비를 가진 명랑하고 표정이 풍부한 얼굴을 묘사하며, 부드러운 질감, 과장된 비율, 부드럽고 균일한 스튜디오 조명을 사용하여 픽사 스타일 미학으로 렌더링됩니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 이미지 속 인물을 명랑하고 표정이 풍부한 얼굴을 가진 고품질 3D 아바타로 만들어 주세요. 캐릭터는 따뜻한 미소, 반짝이는 눈, 친근하고 다가가기 쉬운 부드러운 얼굴 특징을 가져야 합니다. 부드러운 질감, 은은한 피부 톤, 귀엽고 애니메이션 같은 느낌을 위한 약간 과장된 비율로 픽사 스타일 미학으로 렌더링해 주세요. 조명은 부드럽고 균일하게 하여 깊이감을 위한 은은한 그림자와 함께 깔끔한 스튜디오 느낌을 연출해야 합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1769063180886_u3xh2g_G_M4AVcbQAEqSai.jpg" width="600" alt="게임 에셋 - 픽사 스타일 3D 아바타 생성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Harboriis](https://x.com/harboriis)
+- **출처:** [Twitter Post](https://x.com/harboriis/status/2014015040991695027)
+- **게시일:** 2026년 1월 21일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7061)**
+
+---
+
+### No. 110: 게임 에셋 - 금속 피부를 가진 영화 같은 판타지 실루엣 아트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7494,7 +6561,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 107: 게임 에셋 - Nano Banana Pro 프롬프트 (Cross Dimensions 스타일)
+### No. 111: 게임 에셋 - Nano Banana Pro 프롬프트 (Cross Dimensions 스타일)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7528,7 +6595,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 108: 게임 에셋 - LINE 스티커 생성 프롬프트 (3D 클레이 스타일)
+### No. 112: 게임 에셋 - LINE 스티커 생성 프롬프트 (3D 클레이 스타일)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7568,7 +6635,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 109: 게임 에셋 - 시네마틱 귀부인과 용 프롬프트
+### No. 113: 게임 에셋 - 시네마틱 귀부인과 용 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7606,7 +6673,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 110: 게임 에셋 - 의인화된 꿀벌의 8K 3D 일러스트레이션 (운동 및 휴식)
+### No. 114: 게임 에셋 - 의인화된 꿀벌의 8K 3D 일러스트레이션 (운동 및 휴식)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7738,7 +6805,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 111: 게임 에셋 - 스타일 트랜스퍼 및 스토리보드 생성 워크플로
+### No. 115: 게임 에셋 - 스타일 트랜스퍼 및 스토리보드 생성 워크플로
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7783,7 +6850,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 112: 게임 에셋 - 픽사 스타일 3D 아바타 생성
+### No. 116: 게임 에셋 - 픽사 스타일 3D 아바타 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7816,7 +6883,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 113: 게임 에셋 - 2000년대 초반 비디오 게임 렌더 스타일 전이
+### No. 117: 게임 에셋 - 2000년대 초반 비디오 게임 렌더 스타일 전이
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7858,7 +6925,7 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 114: 게임 에셋 - 캐릭터 턴어라운드 시트 생성
+### No. 118: 게임 에셋 - 캐릭터 턴어라운드 시트 생성
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7891,58 +6958,98 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 
 ---
 
-### No. 115: 게임 에셋 - 극적인 캐릭터 변신 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-원본 사진을 네 가지의 사실적이고 매우 섬세한 캐릭터 스타일로 변환하도록 설계된 Nano Banana Pro 프롬프트로, 미드 클로즈업 광각 샷과 극적인 다이내믹 카메라 앵글을 사용합니다.
-
-#### 📝 프롬프트
-
-```
-원본 사진을 드라마틱하고 사실적이며 매우 섬세한 4가지 스타일의 캐릭터 세트로 변환합니다. 각 캐릭터는 극단적이고 역동적인 카메라 앵글로 렌즈 바로 옆에 배치되어 거대하게 보이는 미드 클로즈업 와이드 앵글 샷입니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342437_nu8lid_G-67I_KW0AA-y2h.jpg" width="600" alt="게임 에셋 - 극적인 캐릭터 변신 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804342494_29ks18_G-62zL4WAAEtkio.jpg" width="600" alt="게임 에셋 - 극적인 캐릭터 변신 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **출처:** [Twitter Post](https://x.com/Ankit_patel211/status/2012751932407107585)
-- **게시일:** 2026년 1월 18일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6688)**
-
----
-
-### No. 116: 게임 에셋 - 가정용품을 건축물로 표현한 3D 아이소메트릭 디오라마
+### No. 119: 포스터 / 전단지 - 럭셔리 영화관 로비에서 시네마틱 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-지정된 가정용품이 작은 건축 구조물로 변형되는 깨끗하고 미니멀한 3D 등각 투영 디오라마를 생성하기 위한 프롬프트입니다. 사실적인 재료, 부드러운 스튜디오 조명, 미니어처 건축 모델 스타일을 강조합니다.
+럭셔리 영화관 로비에서 스타일리시한 젊은 남성의 전신 시네마틱 초상화를 생성하기 위한 상세한 JSON 프롬프트입니다. 이 프롬프트는 인물 잠금(얼굴은 참조 사진과 100% 동일해야 함)을 강조합니다. 장면에는 의상, 배경 환경(대리석 바닥, 따뜻한 조명), 그리고 피사체 옆에 선명하게 보이는 '{argument name="movie title" default="BORDER 2"}' 영화 포스터에 대한 구체적인 세부 정보가 포함됩니다.
 
 #### 📝 프롬프트
 
 ```
-깔끔하고 미니멀한 3D 등각 투영 디오라마로, {argument name="household object" default="HOUSEHOLD OBJECT"}를 작은 건축 구조물로 변형합니다. 기능적 요소들은 문, 창문, 볼륨으로 추상화되었으며, 사실적인 재료, 부드러운 스튜디오 조명, 둥근 모서리, 미니어처 건축 모형 스타일, 중립적인 배경을 특징으로 합니다.
+{
+  "aspect_ratio": "3:4",
+  "main_subject": {
+    "description": "현대적인 영화관 로비 안에 자신감 있게 서 있는 세련된 젊은 남성, 참고 이미지와 동일한 포즈.",
+    "pose": {
+      "hand": "한 손은 청바지 주머니에 무심하게 넣고 있음",
+      "body": "몸은 살짝 기울어져 있음",
+      "head": "자신감 있는 표정으로 고개를 옆으로 돌리고 있음",
+      "face": "얼굴은 참고 사진과 100% 동일해야 함",
+      "additional": "영화 포스터 프레임 옆에 무심하게 서서 Border 2 영화 티켓을 양손으로 들고 있음"
+    },
+    "appearance": {
+      "sunglasses": "직사각형 검은색 선글라스",
+      "jawline": "날카로운 턱선",
+      "beard": "잘 정돈된 수염",
+      "hairstyle": "풍성한 헤어스타일"
+    },
+    "outfit": {
+      "shirt": "화이트 반팔 캐주얼 셔츠, 루즈핏",
+      "jeans": "다크 그레이 와이드 레그 진",
+      "shoes": "검은색 줄무늬가 있는 화이트 아디다스 스타일 스니커즈",
+      "accessories": "손에 실버 팔찌와 반지, 검은색 애플 스마트 워치, 추가 액세서리 없음"
+    }
+  },
+  "background_environment": {
+    "location": "럭셔리 영화관 로비",
+    "flooring": "따뜻한 반사가 있는 대리석 바닥",
+    "lighting": "부드러운 노란색 실내 조명",
+    "details": "배경에 보이는 푸드 카운터, 피사체 옆에 명확하게 보이는 영화 포스터 프레임"
+  },
+  "poster_details": {
+    "title": "{argument name=\"movie title\" default=\"BORDER 2\"}",
+    "release_date": "2026년 1월 23일",
+    "actors_visible": [
+      "Sunny Deol",
+      "Varun Dhawan",
+      "Ahan Shetty",
+      "Diljit Dosanjh"
+    ],
+    "style": "시네마틱, 공식적, 고화질",
+    "lighting": "포스터 조명은 실내 분위기와 일치"
+  },
+  "camera_composition": {
+    "shot": "전신 샷",
+    "quality": "DSLR 품질",
+    "focus": "선명한 초점",
+    "placement": "피사체는 중앙에서 약간 벗어나 배치",
+    "poster": "그 옆에 포스터가 명확하게 읽을 수 있어야 함"
+  },
+  "image_quality": {
+    "resolution": "Ultra HD",
+    "sharpness": "극도로 선명함",
+    "skin_texture": "자연스러운 피부 질감",
+    "motion": "블러 없음, 모션 블러 없음",
+    "look": "깔끔하고 사실적인 모습"
+  },
+  "color_grading": {
+    "tones": "자연스러운 시네마틱 톤",
+    "highlights": "따뜻한 하이라이트",
+    "contrast": "균형 잡힌 대비",
+    "aesthetic": "럭셔리 몰 미학"
+  },
+  "style_mood": {
+    "vibe": "자신감 있고 세련된, 영화 시사회 분위기",
+    "moment": "영화 문화와 함께하는 팬의 순간"
+  },
+  "negative_prompt": [
+    "블러",
+    "저품질",
+    "만화",
+    "애니메이션",
+    "과도하게 부드러운 피부",
+    "손가락 추가",
+    "왜곡된 얼굴",
+    "워터마크",
+    "로고",
+    "노이즈",
+    "시네마틱 블러"
+  ]
+}
 ```
 
 #### 🖼️ 생성된 이미지
@@ -7950,107 +7057,39 @@ Higgsfield의 Nano Banana Pro를 위한 매우 상세하고 구조화된 프롬�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300421_dnjx48_G-6zqv-XgAAiRfz.jpg" width="600" alt="게임 에셋 - 가정용품을 건축물로 표현한 3D 아이소메트릭 디오라마 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1769235959066_fpcede_G_WpBdnXwAAyOc9.jpg" width="600" alt="포스터 / 전단지 - 럭셔리 영화관 로비에서 시네마틱 인물 사진 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300228_vgyh8m_G-6zn0XaUAAJDSL.jpg" width="600" alt="게임 에셋 - 가정용품을 건축물로 표현한 3D 아이소메트릭 디오라마 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804300310_bxodc0_G-6zoUpWwAA3YBF.jpg" width="600" alt="게임 에셋 - 가정용품을 건축물로 표현한 3D 아이소메트릭 디오라마 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804301814_rfw4oq_G-6zsnAXwAAyVnh.jpg" width="600" alt="게임 에셋 - 가정용품을 건축물로 표현한 3D 아이소메트릭 디오라마 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1769235958910_ta0ons_G_WpBdAbQAAdScU.jpg" width="600" alt="포스터 / 전단지 - 럭셔리 영화관 로비에서 시네마틱 인물 사진 - Image 2">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Aleena Amir](https://x.com/aleenaamiir)
-- **출처:** [Twitter Post](https://x.com/aleenaamiir/status/2012743833902370831)
-- **게시일:** 2026년 1월 18일
+- **작성자:** [Abhishek Singh](https://x.com/2abhisheknaks)
+- **출처:** [Twitter Post](https://x.com/2abhisheknaks/status/2014702316553961931)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6636)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7252)**
 
 ---
 
-### No. 117: 게임 에셋 - 캐릭터 콘셉트를 기반으로 한 아이소메트릭 룸 일러스트레이션 생성
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-Nano Banana Pro를 사용하여 특정 캐릭터의 성격을 반영하는 방의 등각 투영 일러스트레이션을 생성하는 데 사용된 프롬프트로, 이미지에서 해당 캐릭터는 명시적으로 제외됩니다.
-
-#### 📝 프롬프트
-
-```
-이 캐릭터의 방을 상상 속 아이소메트릭 일러스트레이션으로 묘사해 주세요.
-인물 묘사는 요청하지 않습니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg" width="600" alt="게임 에셋 - 캐릭터 콘셉트를 기반으로 한 아이소메트릭 룸 일러스트레이션 생성 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg" width="600" alt="게임 에셋 - 캐릭터 콘셉트를 기반으로 한 아이소메트릭 룸 일러스트레이션 생성 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [十三不塔](https://x.com/shiisanpuutaa13)
-- **출처:** [Twitter Post](https://x.com/shiisanpuutaa13/status/2012729009126416430)
-- **게시일:** 2026년 1월 18일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6680)**
-
----
-
-### No. 118: 게임 에셋 - 360도 전방위 파노라마 프롬프트
+### No. 120: 포스터 / 전단지 - 네온 악센트가 있는 거친 모노크롬 음악 포스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-완벽한 360도 등방형 파노라마 이미지를 생성하도록 설계된 고도로 기술적인 프롬프트로, 전체 구형 뷰에서 일관된 조명과 구성을 위해 최적화되었습니다. 이 프롬프트는 역사적인 장면을 지정하고 이음새나 방향성 그림자와 같은 시각적 아티팩트를 방지하는 규칙을 포함하여 가상 현실 환경에 이상적입니다.
+라이브 공연 중인 여성 가수를 담은 대담하고 수직적인 음악 포스터를 Nano Banana Pro로 제작하라는 프롬프트입니다. 이미지는 거친 모노톤과 미묘한 그레인으로 처리하되, 이미지 위에 생생한 네온 그린 악센트를 칠하고, 질감 있는 틸 그린 배경에 'ROCK STAR'라고 쓰인 오버사이즈 노란색 타이포그래피를 배치해야 합니다.
 
 #### 📝 프롬프트
 
 ```
-[SCENE] = {argument name="scene description" default="기원전 12세기경 아나톨리아의 트로이. 트로이 목마가 성벽 안으로 들어온 직후의 순간."}
-
-21:9 화면 비율의 360도 등거리 직사각형 파노라마를 만드세요.
-정확한 등거리 직사각형 투영법으로 완전한 구형 파노라마로 장면을 렌더링하세요.
-전체 환경을 [SCENE]에 엄격하게 기반하여 설정하세요.
-카메라를 고정된 시점으로 장면의 정확한 중앙에 배치하세요.
-왼쪽 또는 오른쪽 가장자리가 없는 연속적인 원형 세계로 환경을 디자인하세요.
-첫 번째와 마지막 수평 가장자리가 완벽하게 정렬되도록 하세요.
-건축물, 사람, 사물을 360도 전체 시야에 고르게 분포시키세요.
-사실적인 실제 조명, 재료 및 물리적 동작을 사용하세요.
-전체 파노라마에 걸쳐 선명한 초점을 유지하세요.
-지배적인 광원 방향 없이 균일한 자연광을 사용하세요.
-360도 파노라마 전체에 걸쳐 조명 강도와 색상이 일관되게 유지되도록 하세요.
-단일 태양 광원 대신 고르게 확산된 스카이 돔에 의해 조명되는 환경으로 다루세요.
-어떤 수평 방향도 선호하지 않는 부드러운 전역 그림자를 적용하세요.
-이음새 조명 불일치를 유발할 수 있는 방향성 햇빛 그라데이션을 피하세요.
-현대적인 요소, UI 오버레이, 테두리, 프레임, 잘린 보기, 판타지 스타일링 또는 깨진 파노라마 이음새를 피하세요.
+젊은 여성 가수가 라이브 공연을 펼치는 모습을 담은 대담하고 활기 넘치는 세로형 음악 포스터를 만드세요. 그녀는 공연 도중 마이크를 입 가까이 대고 자신감 있고 카리스마 넘치는 미소를 짓고 있습니다. 머리는 느슨한 잔머리가 있는 지저분한 스페이스 번 스타일이며, 오버사이즈 블랙 티셔츠에 청키한 체인 목걸이를 여러 개 레이어드하여 반항적이고 자연스러운 무대 존재감을 연출합니다. 인물 사진은 거친 모노크롬으로 처리되어 미묘한 그레인과 질감을 더했으며, 네온 그린 악센트가 이미지 곳곳에 칠해져 있습니다. 특히 그녀의 셔츠 하단에서 불꽃처럼 솟아오르는 그래픽 모양은 강렬함과 시각적 효과를 더합니다. 배경은 눈에 띄는 노이즈와 포스터 그레인이 있는 평평하고 질감 있는 청록색 표면입니다. 피사체 뒤의 구도를 지배하는 것은 "{argument name="text" default="ROCK STAR"}"라고 쓰인 크고 둥글고 대담한 노란색 타이포그래피로, 여러 줄로 쌓여 있습니다. 글자는 두껍고 장난스러우며 약간 복고풍으로, 프레임의 대부분을 채우고 공연자에 의해 부분적으로 가려져 깊이감을 만듭니다. 그녀의 이름은 인물 뒤에 배치합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -8058,127 +7097,17 @@ Nano Banana Pro를 사용하여 특정 캐릭터의 성격을 반영하는 방�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204059_0knjxw_G-6FROjXwAAhlGv.jpg" width="600" alt="게임 에셋 - 360도 전방위 파노라마 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204223_htd648_G-6FhchXQAAg2v9.jpg" width="600" alt="게임 에셋 - 360도 전방위 파노라마 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804204700_mp84c0_G-6FROdXEAA5Ebi.jpg" width="600" alt="게임 에셋 - 360도 전방위 파노라마 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205830_ybuinq_G-3jkdbWIAA-73-.jpg" width="600" alt="게임 에셋 - 360도 전방위 파노라마 프롬프트 - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1768804205613_2j0lcg_G-3iiIrWsAEbmso.jpg" width="600" alt="게임 에셋 - 360도 전방위 파노라마 프롬프트 - Image 5">
+<img src="https://cms-assets.youmind.com/media/1769235980326_xgs51u_G_U02kNbAAowYZR.jpg" width="600" alt="포스터 / 전단지 - 네온 악센트가 있는 거친 모노크롬 음악 포스터 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [Aimi Kōda](https://x.com/aimikoda)
-- **출처:** [Twitter Post](https://x.com/aimikoda/status/2012694679628677523)
-- **게시일:** 2026년 1월 18일
+- **작성자:** [CaptchaPassed](https://x.com/captchapassed)
+- **출처:** [Twitter Post](https://x.com/captchapassed/status/2014676995683316031)
+- **게시일:** 2026년 1월 23일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=6509)**
-
----
-
-### No. 119: 포스터 / 전단지 - 초현실적인 시네마틱 디지털 일러스트레이션 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-업로드된 이미지를 동유럽 남성의 강렬하고 초현실적인 디지털 일러스트레이션으로 변환하기 위한 복잡한 프롬프트입니다. 100% 얼굴 일치, 도시 풍경을 반사하는 대담한 주황색 반사 선글라스, 그리고 네온 그린과 일렉트릭 블루의 추상적인 페인트 스트로크와 대비되는 차분한 회색조 톤을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-업로드된 이미지를 엄격한 얼굴 참조 자료로 사용하여 인상적인 디지털 일러스트레이션으로 변환합니다. 얼굴 일치(엄격): 얼굴 일치는 100% 정확하게 유지되어야 합니다. 즉, 동일한 얼굴 구조, 비율, 턱선, 광대뼈, 코 모양, 입술, 수염 밀도(참조 이미지에 있는 경우) 및 다듬기, 피부 질감, 헤어라인, 헤어스타일, 그리고 전반적인 정체성을 유지해야 합니다. 얼굴 특징을 미화하거나, 양식화하거나, 변경하지 마십시오. 피사체 및 포즈: 젊은 동유럽 남성이 깔끔한 옆모습(극단적인 옆모습 아님)으로 프레임의 오른쪽을 향하고 있습니다. 그의 머리는 약간 들려 있고 턱은 부드럽게 올라가 있어 자신감, 야망, 그리고 미래 지향적인 비전을 전달합니다. 표정은 차분하고 자신감에 차 있습니다. 의상 및 스타일링: 피사체는 격식 있고 현대적인 의상, 즉 깔끔한 셔츠 위에 맞춤형 어두운 블레이저를 입고 있으며, 최소한의 우아함으로 전문적이고 야심 찬 인물을 강조합니다. 시선을 분산시키는 액세서리는 없습니다. 핵심 시각 요소: 그는 대담한 주황색 반사 선글라스를 착용하고 있으며, 이것이 초점입니다. 렌즈는 고층 빌딩, 도시 도로, 푸른 나무가 있는 상세한 현대 도시 풍경을 반사하며, 비전, 야망, 그리고 미래 목표를 상징합니다. 색상 및 일러스트레이션 스타일: 얼굴과 의상은 차분한 회색조로 렌더링되며, 사실적인 질감이 세련된 디지털 일러스트레이션 스타일로 표현됩니다. 피사체 주변에는 네온 그린과 일렉트릭 블루 색상의 표현적인 추상 페인트 스트로크와 스플래시가 있어 얼굴 디테일을 가리지 않으면서 에너지와 대비를 더합니다. 배경 및 조명: 배경은 어둡고 극적이며, 깊은 회색 톤, 미묘한 질감, 그리고 회화적인 움직임이 겹쳐져 있습니다. 시네마틱 조명은 강한 피사체 분리, 깔끔한 하이라이트, 그리고 제어된 그림자를 만듭니다. 전반적인 미학: 현대적이고 영화 같으며 초현실적인 디지털 일러스트레이션으로, 2/3는 포토리얼 일러스트레이션 균형, 1/3은 추상적 표현, 포스터 품질, 높은 대비, 프리미엄 룩을 특징으로 합니다. 화면 비율: 4:5
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063225543_rpqzbo_G_MyA0yXAAEARMl.jpg" width="600" alt="포스터 / 전단지 - 초현실적인 시네마틱 디지털 일러스트레이션 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [K](https://x.com/ChillaiKalan__)
-- **출처:** [Twitter Post](https://x.com/ChillaiKalan__/status/2014008462632796586)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7137)**
-
----
-
-### No. 120: 포스터 / 전단지 - 초현실주의 미니멀리스트 Ferrari 인쇄 광고
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-초현실적인 미니멀리즘 스타일을 사용하여 고급 자동차 인쇄 광고를 재현하도록 설계된 프롬프트. 영웅 이미지는 가속 중 늘어나는 시간을 암시하듯, 액체 크롬의 길게 늘어진 줄무늬로 돌출된 Ferrari의 전면부를 특징으로 합니다. 무광택 흰색 갤러리 배경, 거대한 네거티브 공간, 스튜디오 조명, 초고화질 8K 해상도를 강조하며, 로고 배치 및 두 단어 슬로건에 대한 구체적인 지침을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-FERRARI
-초현실적인 미니멀리스트 포토리얼리즘 인쇄 광고. 히어로: 가속 중인 차량이 시간을 늘린 듯 액체 크롬 금속의 길쭉한 줄무늬로 돌출된 Ferrari 전면부. 악센트는 최대 하나. 거대한 여백이 있는 무광택 흰색 갤러리 배경. 스튜디오 조명, 미세한 반사, 8K 초고화질. 공식 Ferrari 쉴드 로고는 왼쪽 상단에 (벡터, 정확한 비율, 미묘한 잉크 질감). 두 단어 슬로건은 오른쪽 하단에: "{argument name="slogan" default="Distort Speed"}". 불필요한 요소, 워터마크, 추가 텍스트 없음.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162956_nf4wh0_G_MKA0QXgAEMuJP.jpg" width="600" alt="포스터 / 전단지 - 초현실주의 미니멀리스트 Ferrari 인쇄 광고 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162967_wdgacf_G_MKIfSWgAACmvA.jpg" width="600" alt="포스터 / 전단지 - 초현실주의 미니멀리스트 Ferrari 인쇄 광고 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063162985_j43d95_G_MKIfRWMAAvjKd.jpg" width="600" alt="포스터 / 전단지 - 초현실주의 미니멀리스트 Ferrari 인쇄 광고 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1769063163886_r34gzv_G_MKIfWW8AEJX6T.jpg" width="600" alt="포스터 / 전단지 - 초현실주의 미니멀리스트 Ferrari 인쇄 광고 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Guillermo Castellanos](https://x.com/guicastellanos1)
-- **출처:** [Twitter Post](https://x.com/guicastellanos1/status/2013965905877672139)
-- **게시일:** 2026년 1월 21일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7030)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=7281)**
 
 ---
 
@@ -8188,7 +7117,7 @@ FERRARI
 
 <div align="center">
 
-### 🎯 6298 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 6448 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -8251,6 +7180,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-01-24T04:27:16.718Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-01-24T08:14:40.681Z</sub>
 
 </div>
